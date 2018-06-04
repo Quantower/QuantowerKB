@@ -37,7 +37,7 @@
 * [Portfolio panels](portfolio-panels/README.md)
   * [Positions](portfolio-panels/positions.md)
   * [Working Orders](portfolio-panels/working-orders.md)
-  * Trades
+  * [Trades](portfolio-panels/trades.md)
   * Orders History
   * Synthetic Instruments
 * Informational panels

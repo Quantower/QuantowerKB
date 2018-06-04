@@ -2,7 +2,7 @@
 
 Trades panel displays your trading history. Trades panel is related to Portfolio group of Control Center sidebar. 
 
-![The common look of Trades panel](../.gitbook/assets/positions.png)
+![The common look of Trades panel](../.gitbook/assets/trades.png)
 
 ## Available columns
 
@@ -30,7 +30,7 @@ Trades panel displays your trading history. Trades panel is related to Portfolio
 
 By right-clicking on each row of Trades panel, you will get a context menu with the following functions:
 
-![Context functions](../.gitbook/assets/positions_context.png)
+![Context functions](../.gitbook/assets/tradesContextMenu.png)
 
 ### Common actions
 

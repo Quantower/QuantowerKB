@@ -19,6 +19,7 @@
       * Heiken Ashi
     * Technical indicators
       * Oscillators
+        * [MACD](analytics-panels/chart/technical-indicators/oscillators/macd.md)
         * Aroon
         * Momentum
         * Rate of Change

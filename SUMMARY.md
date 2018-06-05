@@ -4,7 +4,7 @@
 * [Getting started](getting-started/README.md)
   * [Installation](getting-started/installation.md)
   * [First start](getting-started/first-start.md)
-  * [Control center](getting-started/control-center.md)
+  * Control center
   * Connections
   * Workspaces, Binds, Groups
   * Instruments Lookup

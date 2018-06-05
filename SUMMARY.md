@@ -20,9 +20,6 @@
     * Technical indicators
       * Oscillators
         * [MACD](analytics-panels/chart/technical-indicators/oscillators/macd.md)
-        * Aroon
-        * Momentum
-        * Rate of Change
       * Moving averages
         * Exponential Moving Average
   * Watchlist

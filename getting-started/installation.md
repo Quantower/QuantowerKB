@@ -16,7 +16,7 @@ This approach allows you to store \(and launch\) the Quantower on removable driv
 
 ![Quantower installer screen](../.gitbook/assets/quantower_setup.png)
 
-1. [Download the app installer](https://updates.quantower.com/Quantower/x64/latest/stable/Quantower.exe) and launch the _**Quantower.exe**_ file
+1. [Download the app installer](https://quantower.com) and launch the _**Quantower.exe**_ file
 2. Select the folder to extract application files
 3. Once an extraction process being finished the platform will start automatically with Emulator connection enabled and the default workspace
 

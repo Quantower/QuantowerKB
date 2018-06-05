@@ -1,10 +1,3 @@
----
-description: >-
-  Quantower is a modern and full-featured trading platform that combines
-  real-time global market data, news, charting, analytics in an innovative
-  interface that is easy to use.
----
-
 # Welcome to Quantower Help
 
 ![Quantower Trading Platform](.gitbook/assets/quantower_platform.png)

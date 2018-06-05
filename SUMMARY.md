@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Welcome to Quantower Help](README.md)
-* [Getting started](control-center-and-interface/README.md)
-  * [Installation](control-center-and-interface/installation.md)
-  * First start
-  * [Control center](control-center-and-interface/positions-panel.md)
+* [Getting started](getting-started/README.md)
+  * [Installation](getting-started/installation.md)
+  * [First start](getting-started/first-start.md)
+  * [Control center](getting-started/control-center.md)
   * Connections
   * Workspaces/Bind/Groups
   * Instruments Lookup
@@ -47,7 +47,7 @@
   * Event Log
   * RSS
   * Reports
-* [Miscellaneous panels](misc/README.md)
+* [Miscellaneous panels](miscellaneous-panels/README.md)
   * History Exporter
   * Live Support
   * Market heat map

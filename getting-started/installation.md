@@ -26,7 +26,7 @@ Please note, that you may need to allow an in-going and outgoing connection for 
 
 From this moment you can start trading and analysis as well as workspace modification
 
-![The fist launch of Quantower terminal](../.gitbook/assets/quantower_first_launch.png)
+![The fist launch of Quantower terminal](../.gitbook/assets/quantower_first_launch%20%281%29.png)
 
 ## Uninstall
 

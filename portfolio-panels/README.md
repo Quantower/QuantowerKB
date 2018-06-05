@@ -1,10 +1,3 @@
----
-description: >-
-  Quantower provides the list of panels for Orders, Positions and Portfolio
-  Management which allow you to monitor the status of your positions and make
-  the necessary trading decisions in one click.
----
-
 # Portfolio panels
 
 {% page-ref page="positions.md" %}

@@ -6,7 +6,7 @@
   * [First start](getting-started/first-start.md)
   * [Control center](getting-started/control-center.md)
   * Connections
-  * Workspaces/Bind/Groups
+  * Workspaces, Binds, Groups
   * Instruments Lookup
   * Updates and rollbacks
   * General settings

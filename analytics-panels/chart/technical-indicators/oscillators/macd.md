@@ -6,9 +6,6 @@ Moving average convergence/divergence\(MACD\) indicator graphically describes th
 
 ![](../../../../.gitbook/assets/screenshot_4.png)
 
-  
-
-
 ## Formula
 
 Fast EMA - Slow EMA

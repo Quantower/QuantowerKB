@@ -20,6 +20,7 @@
     * [Technical indicators](analytics-panels/chart/technical-indicators/README.md)
       * [Oscillators](analytics-panels/chart/technical-indicators/oscillators/README.md)
         * [Moving Average Convergence/Divergence](analytics-panels/chart/technical-indicators/oscillators/macd.md)
+        * [Average True Range](analytics-panels/chart/technical-indicators/oscillators/average-true-range.md)
       * [Moving averages](analytics-panels/chart/technical-indicators/moving-averages/README.md)
         * [Exponential Moving Average](analytics-panels/chart/technical-indicators/moving-averages/exponential-moving-average.md)
   * [Watchlist](analytics-panels/watchlist.md)

@@ -23,6 +23,7 @@
         * [Awesome Oscillator](analytics-panels/chart/technical-indicators/oscillators/awesome-oscillator.md)
       * [Moving averages](analytics-panels/chart/technical-indicators/moving-averages/README.md)
         * [Exponential Moving Average](analytics-panels/chart/technical-indicators/moving-averages/exponential-moving-average.md)
+        * [Simple moving average](analytics-panels/chart/technical-indicators/moving-averages/simple-moving-average.md)
       * [Volatility](analytics-panels/chart/technical-indicators/volatility/README.md)
         * [Average True Range](analytics-panels/chart/technical-indicators/volatility/average-true-range.md)
   * [Watchlist](analytics-panels/watchlist.md)

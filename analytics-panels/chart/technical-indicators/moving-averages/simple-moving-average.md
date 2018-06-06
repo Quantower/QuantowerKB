@@ -12,7 +12,7 @@ A Simple moving average is a trend following indicator that calculates as a math
 
 ## Most useful cases
 
-* **Trend following** - group of SMA allows you to determing a new wave of trend or correction. Also it gives you information about the streight of current trend wave, to do you trader needs to look ****at the distance between every SMA ****
+* **Trend following** - group of SMA allows you to determing a new wave of trend or correction. Also it gives you information about the strenght of current trend wave, to do it trader needs to look at the distance between every SMA ****
 
 ![](../../../../.gitbook/assets/image%20%287%29.png)
 

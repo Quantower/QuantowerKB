@@ -1,4 +1,4 @@
-# MACD
+# Moving Average Convergence/Divergence
 
 ## Description
 

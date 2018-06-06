@@ -1,0 +1,2 @@
+# Heiken Ashi
+

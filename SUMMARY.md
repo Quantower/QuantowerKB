@@ -4,53 +4,53 @@
 * [Getting started](getting-started/README.md)
   * [Installation](getting-started/installation.md)
   * [First start](getting-started/first-start.md)
-  * Control center
-  * Connections
-  * Workspaces, Binds, Groups
-  * Instruments Lookup
-  * Updates and rollbacks
-  * General settings
-  * Table management
-* Analytics panels
-  * Chart
-    * Chart types
-      * Time aggregation
-      * Renko
-      * Heiken Ashi
-    * Technical indicators
-      * Oscillators
-        * [MACD](analytics-panels/chart/technical-indicators/oscillators/macd.md)
-      * Moving averages
-        * Exponential Moving Average
-  * Watchlist
-  * Time & Sales
-  * Order flow surface
-* Trading panels
-  * Order Entry
-  * DOM Trader
-  * Market depth
-  * Trading simulator
-  * History Player
-  * FX Cell
+  * [Control center](getting-started/control-center.md)
+  * [Connections](getting-started/connections.md)
+  * [Workspaces, Binds, Groups](getting-started/workspaces-bind-groups.md)
+  * [Instruments Lookup](getting-started/instruments-lookup.md)
+  * [Updates and rollbacks](getting-started/updates-and-rollbacks.md)
+  * [General settings](getting-started/general-settings.md)
+  * [Table management](getting-started/table-management.md)
+* [Analytics panels](analytics-panels/README.md)
+  * [Chart](analytics-panels/chart/README.md)
+    * [Chart types](analytics-panels/chart/chart-types/README.md)
+      * [Time aggregation](analytics-panels/chart/chart-types/time-aggregation.md)
+      * [Renko](analytics-panels/chart/chart-types/renko.md)
+      * [Heiken Ashi](analytics-panels/chart/chart-types/heiken-ashi.md)
+    * [Technical indicators](analytics-panels/chart/technical-indicators/README.md)
+      * [Oscillators](analytics-panels/chart/technical-indicators/oscillators/README.md)
+        * [Moving Average Convergence/Divergence](analytics-panels/chart/technical-indicators/oscillators/macd.md)
+      * [Moving averages](analytics-panels/chart/technical-indicators/moving-averages/README.md)
+        * [Exponential Moving Average](analytics-panels/chart/technical-indicators/moving-averages/exponential-moving-average.md)
+  * [Watchlist](analytics-panels/watchlist.md)
+  * [Time & Sales](analytics-panels/time-and-sales.md)
+  * [Order flow surface](analytics-panels/order-flow-surface.md)
+* [Trading panels](trading-panels/README.md)
+  * [Order Entry](trading-panels/order-entry.md)
+  * [DOM Trader](trading-panels/dom-trader.md)
+  * [Market depth](trading-panels/market-depth.md)
+  * [Trading simulator](trading-panels/trading-simulator.md)
+  * [History Player](trading-panels/history-player.md)
+  * [FX Cell](trading-panels/fx-cell.md)
 * [Portfolio panels](portfolio-panels/README.md)
   * [Positions](portfolio-panels/positions.md)
   * [Working Orders](portfolio-panels/working-orders.md)
   * [Trades](portfolio-panels/trades.md)
-  * Orders History
-  * Synthetic Instruments
-* Informational panels
-  * Account info
-  * Symbol Info
-  * Currencies exposure
-  * Event Log
-  * RSS
-  * Reports
+  * [Orders History](portfolio-panels/orders-history.md)
+  * [Synthetic Instruments](portfolio-panels/synthetic-instruments.md)
+* [Informational panels](informational-panels/README.md)
+  * [Account info](informational-panels/account-info.md)
+  * [Symbol Info](informational-panels/symbol-info.md)
+  * [Currencies exposure](informational-panels/currencies-exposure.md)
+  * [Event Log](informational-panels/event-log.md)
+  * [RSS](informational-panels/rss.md)
+  * [Reports](informational-panels/reports.md)
 * [Miscellaneous panels](miscellaneous-panels/README.md)
-  * History Exporter
-  * Live Support
-  * Market heat map
-  * Stat matrix
-  * Exchange times
-  * Quote Board
-  * Browser
+  * [History Exporter](miscellaneous-panels/history-exporter.md)
+  * [Live Support](miscellaneous-panels/live-support.md)
+  * [Market heat map](miscellaneous-panels/market-heat-map.md)
+  * [Stat matrix](miscellaneous-panels/stat-matrix.md)
+  * [Exchange times](miscellaneous-panels/exchange-times.md)
+  * [Quote Board](miscellaneous-panels/quote-board.md)
+  * [Browser](miscellaneous-panels/browser.md)
 

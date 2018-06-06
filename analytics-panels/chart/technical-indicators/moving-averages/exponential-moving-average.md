@@ -1,0 +1,2 @@
+# Exponential Moving Average
+

@@ -1,0 +1,2 @@
+# Currencies exposure
+

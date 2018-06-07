@@ -5,7 +5,7 @@
   * [Installation](getting-started/installation.md)
   * [First start](getting-started/first-start.md)
   * [Control center](getting-started/control-center.md)
-  * [Connections](getting-started/connections.md)
+  * [Connections manager](getting-started/connections.md)
   * [Workspaces, Binds, Groups](getting-started/workspaces-binds-groups.md)
   * [Instruments Lookup](getting-started/instruments-lookup.md)
   * [Updates and rollbacks](getting-started/updates-and-rollbacks.md)

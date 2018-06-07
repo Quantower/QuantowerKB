@@ -1,6 +1,6 @@
 # Orders History
 
-Order History panel show you information about your opening and closing orders. Order History panel is related to Portfolio group of Control Center sidebar.
+Order History panel shows you information about your opening and closing orders. Order History panel is related to Portfolio group of Control Center sidebar.
 
 ![The common look of Order History panel](../.gitbook/assets/trades.png)
 
@@ -15,12 +15,12 @@ Order History panel show you information about your opening and closing orders. 
 | **Strike price** | Price of option contract performance |
 | **Side** | Type of trade \(BUY or SELL\) |
 | **Order type** |  |
-| **Quantity** | Amount of a trade, either in lots or in units, depending on what is selected in the Settings dialog box |
-| **Price** | Price at which a trade was filled |
+| **Quantity** | Amount of a order, either in lots or in units, depending on what is selected in the Settings dialog box |
+| **Price** | Price at which the order was executed. |
 | **Trigger Price** | |
-| **TIF** ||
-| **Status** ||
-| **Date/Time** | Date and time when a trade was made |
+| **TIF** | The order's time in force |
+| **Status** | Order status |
+| **Date/Time** | Date and time when a order was placed |
 | **Order ID** | A unique number that the trading system assigns to each order |
 | **Order group ID** |  |
 | **Connection name** |  |

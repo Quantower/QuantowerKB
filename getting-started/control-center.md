@@ -134,7 +134,7 @@ The “_**Gear**_” icon opens a general settings screen, where you can setup t
 
 ## Time & Time zones
 
-The Time bar is also displayed on the Control center toolbar showing you time in selected timezone. By default, your local timezone is used. You can change the timezone by clicking the Gear icon and then set the required one. You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
+The Time bar is also displayed on the Control center toolbar showing you time in selected timezone. By default, your local timezone is used. You can change the timezone by clicking the "_**Gear**_" icon and then set the required one. You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
 
 ![Time &amp; favorite timezones](../.gitbook/assets/cctime.png)
 

@@ -2,7 +2,7 @@
 
 Order History panel shows you information about your opening and closing orders. Order History panel is related to Portfolio group of Control Center sidebar.
 
-![The common look of Order History panel](../.gitbook/assets/trades.png)
+![The common look of Order History panel](../.gitbook/assets/orderhistory.png)
 
 ## Available columns
 
@@ -17,7 +17,7 @@ Order History panel shows you information about your opening and closing orders.
 | **Order type** |  |
 | **Quantity** | Amount of a order, either in lots or in units, depending on what is selected in the Settings dialog box |
 | **Price** | Price at which the order was executed. |
-| **Trigger Price** | |
+| **Trigger Price** |  |
 | **TIF** | The order's time in force |
 | **Status** | Order status |
 | **Date/Time** | Date and time when a order was placed |
@@ -29,7 +29,7 @@ Order History panel shows you information about your opening and closing orders.
 
 By right-clicking on each row of Order History panel, you will get a context menu with the following functions:
 
-![Context functions](../.gitbook/assets/tradescontextmenu.png)
+![Context functions](../.gitbook/assets/orderhistorycontextmenu.png)
 
 ### Common actions
 

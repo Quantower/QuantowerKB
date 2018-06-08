@@ -21,6 +21,7 @@
       * [Oscillators](analytics-panels/chart/technical-indicators/oscillators/README.md)
         * [Moving Average Convergence/Divergence](analytics-panels/chart/technical-indicators/oscillators/moving-average-convergence-divergence.md)
         * [Awesome Oscillator](analytics-panels/chart/technical-indicators/oscillators/awesome-oscillator.md)
+        * [Accelerator Oscillator](analytics-panels/chart/technical-indicators/oscillators/accelerator-oscillator.md)
       * [Moving averages](analytics-panels/chart/technical-indicators/moving-averages/README.md)
         * [Exponential Moving Average](analytics-panels/chart/technical-indicators/moving-averages/exponential-moving-average.md)
         * [Simple moving average](analytics-panels/chart/technical-indicators/moving-averages/simple-moving-average.md)

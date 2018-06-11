@@ -8,23 +8,23 @@ Average True Range is a volatility based indicator which describes the range of 
 
 ## Formula
 
-![](../../../../.gitbook/assets/image%20%2821%29.png)
+![](../../../../.gitbook/assets/image%20%2824%29.png)
 
 ![](../../../../.gitbook/assets/image%20%282%29.png)
 
  The first ATR value is calculated using the arithmetic mean formula:
 
-![](../../../../.gitbook/assets/image%20%2819%29.png)
+![](../../../../.gitbook/assets/image%20%2821%29.png)
 
 ## Most useful cases
 
 * **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high\(low\) of the price not confirmed with a new high of  ATR. This is a very good approach to find a weakness of existing trend
 
-![](../../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../../.gitbook/assets/image%20%2816%29.png)
 
 * **Confirmation of existing tendency -** if price and ATR rise together it can be interpreted as a confirmation of a strength of the trend
 
-![](../../../../.gitbook/assets/image%20%2817%29.png)
+![](../../../../.gitbook/assets/image%20%2819%29.png)
 
 
 

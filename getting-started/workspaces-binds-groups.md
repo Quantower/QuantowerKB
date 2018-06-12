@@ -32,7 +32,7 @@ This menu usually consists of following functions:
 
 * **Link**. Allows linking several panels by common symbol using the Color definition. Just select one link color in two panels and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
 * **Create bind**. Combining several panels in Super-panel. More in corresponding section below.
-* **Layout**. Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “Set Layout as Default” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type. Made a mistake or just want to reset the settings? Press Reset to Default option and start from scratch.
+* **Layout**. Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set Layout as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type. Made a mistake or just want to reset the settings? Press "_**Reset to Default**_" option and start from scratch.
 * **Duplicate panel**. Just creates one more totally similar panel.
 * **Settings**. Personal settings per each panel. Opens a Settings screen where you can tune your panel as you like and then, in case of need, save these settings as Defaults.
 
@@ -44,7 +44,7 @@ To group two panels just click and drag one Panel’s header over another. To un
 
 ![Panels grouping](../.gitbook/assets/groupping.gif)
 
-Panels can also be reordered within group tabs as well as closed being grouped. Each newly created group has a default name “Group” that can be easily changed via panel’s context menu.
+Panels can also be reordered within group tabs as well as closed being grouped. Each newly created group has a default name “**Group**” that can be easily changed via panel’s context menu.
 
 {% hint style="success" %}
 Grouping is very useful for saving space and putting together several common panels.
@@ -58,9 +58,9 @@ Creation of Binds is an easy process:
 
 1. place several panels on your workspace close to each other;
 2. focus on one of the panels;
-3. press “Ctrl + ~” hotkey or select “Create bind” from panel’s context menu \(this turns the Bind mode on\);
+3. press “_**Ctrl + ~**_” hotkey or select “_**Create bind**_” from panel’s context menu \(this turns the Bind mode on\);
 4. click on the panels, that you want to bind together or just hold the left mouse button and drag \("draw"\) over that panels to make them selected in one area;
-5. press “CREATE BIND” button in the right-bottom corner of the Bind area \(or hit “Enter” button on your keyboard\); 
+5. press “_**CREATE BIND**_” button in the right-bottom corner of the Bind area \(or hit “Enter” button on your keyboard\); 
 6. that is all — now you have your own Super-panel.
 
 ![Binding panels &#x2014; is an easy process](../.gitbook/assets/binding.gif)

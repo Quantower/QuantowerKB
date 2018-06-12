@@ -1,6 +1,6 @@
 # Welcome to Quantower Help
 
-![Quantower Trading Platform](.gitbook/assets/quantower_platform.png)
+![](.gitbook/assets/quantower_bander.png)
 
 Here in **Help**, you’ll find all the detailed documentation for [Quantower features](https://www.quantower.com/features), learn how to create and customize your Workspace, understand all settings, get to know advanced features, and more.
 

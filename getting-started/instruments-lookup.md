@@ -1,4 +1,4 @@
-# Instruments Lookup
+# Symbols lookup
 
 
 

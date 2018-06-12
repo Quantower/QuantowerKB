@@ -21,7 +21,7 @@ By right-clicking on each row of Event Log panel, you will get a context menu wi
 
 ### Common actions
 
-| **Group by** | Groups all rows by the selected column |
+| **Clear table** | Remove all rows from Event Log panel. |
 | --- | --- |
 | **Columns visibility** | Allows to toggle the columns visibility |
 

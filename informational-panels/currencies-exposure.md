@@ -2,7 +2,7 @@
 
 
 
-Currencies Exposure panel shows a summary currency information for all opened position. Currencies Exposure panel is related to Informational group of Control Center sidebar.
+Currencies Exposure panel shows a summary currency information for all positions, opened on Forex instruments. Currencies Exposure panel is related to Informational group of Control Center sidebar.
 
 ![The common look of Event Log panel](../.gitbook/assets/currenciexposure.png)
 
@@ -11,7 +11,7 @@ Currencies Exposure panel shows a summary currency information for all opened po
 | **Currency** | Name of the currency |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Currency value** | Summary total amount of currency for all opened positions |
-| **Gross P/L** |  |
+| **Gross P/L** | Current profit or loss for all opened positions |
 
 ## Context menu actions
 

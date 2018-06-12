@@ -49,7 +49,7 @@
 * [Informational panels](informational-panels/README.md)
   * [Account info](informational-panels/account-info.md)
   * [Symbol Info](informational-panels/symbol-info.md)
-  * [Currencies exposure](informational-panels/currencies-exposure.md)
+  * [Currencies Exposure](informational-panels/currencies-exposure.md)
   * [Event Log](informational-panels/event-log.md)
   * [RSS](informational-panels/rss.md)
   * [Reports](informational-panels/reports.md)

@@ -11,6 +11,8 @@ We have divided the Workspaces organisation hierarchy into four basic layers \(i
 * Binds
 * Workspaces
 
+![General scheme of organisation layers](../.gitbook/assets/group_bind_workspace.png)
+
 Each layer plays its role in process of Workspace contents organization and we sure that once you get used to our process, you will find it convenient, flexible and able to accomplish any of your ideas.
 
 ## Panels

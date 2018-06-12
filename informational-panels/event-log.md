@@ -2,7 +2,7 @@
 
 Event Log panel displays detail information about all events that occured during working with trading platform. Event Log panel is related to Informational group of Control Center sidebar.
 
-![The common look of Trades panel](../.gitbook/assets/trades.png)
+![The common look of Event Log panel](../.gitbook/assets/eventlog.png)
 
 ## Available columns
 
@@ -17,7 +17,7 @@ Event Log panel displays detail information about all events that occured during
 
 By right-clicking on each row of Event Log panel, you will get a context menu with the following functions:
 
-![Context functions](../.gitbook/assets/tradescontextmenu.png)
+![Context functions](../.gitbook/assets/eventlogcontextmenu.png)
 
 ### Common actions
 

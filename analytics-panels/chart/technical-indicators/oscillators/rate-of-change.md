@@ -6,7 +6,7 @@
 
 Rate of change can be used in variety of different ways. In addition to being used as a general trend or trend strength indicator, the ROC is also commonly used to find a divergence of a price that is a signal of a possible upcoming trend change.
 
-![](../../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../../.gitbook/assets/image%20%2813%29.png)
 
 ## Formula {#formula}
 
@@ -20,11 +20,11 @@ Where:
 
 **Trend indicating -** crossing a zero line could be used as an indicator of a new trend wave.
 
-![](../../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../../.gitbook/assets/image%20%2824%29.png)
 
  **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high\(low\) of the price not confirmed with a new high/low of ROC. Such price and indicator’s behavior can be interpreted as the weakness of current existing trend.
 
-![](../../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../../.gitbook/assets/image%20%2819%29.png)
 
 
 

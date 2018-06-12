@@ -25,6 +25,7 @@
         * [%R Larry Williams](analytics-panels/chart/technical-indicators/oscillators/r-larry-williams.md)
         * [Momentum](analytics-panels/chart/technical-indicators/oscillators/momentum.md)
         * [Rate of Change](analytics-panels/chart/technical-indicators/oscillators/rate-of-change.md)
+        * [Commodity Channel Index](analytics-panels/chart/technical-indicators/oscillators/commodity-channel-index.md)
       * [Moving averages](analytics-panels/chart/technical-indicators/moving-averages/README.md)
         * [Exponential Moving Average](analytics-panels/chart/technical-indicators/moving-averages/exponential-moving-average.md)
         * [Simple moving average](analytics-panels/chart/technical-indicators/moving-averages/simple-moving-average.md)

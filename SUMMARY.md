@@ -31,6 +31,7 @@
         * [Simple moving average](analytics-panels/chart/technical-indicators/moving-averages/simple-moving-average.md)
       * [Volatility](analytics-panels/chart/technical-indicators/volatility/README.md)
         * [Average True Range](analytics-panels/chart/technical-indicators/volatility/average-true-range.md)
+      * [Trend](analytics-panels/chart/technical-indicators/trend.md)
   * [Watchlist](analytics-panels/watchlist.md)
   * [Time & Sales](analytics-panels/time-and-sales.md)
   * [Order flow surface](analytics-panels/order-flow-surface.md)

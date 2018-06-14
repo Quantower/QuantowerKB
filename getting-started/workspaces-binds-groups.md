@@ -76,7 +76,7 @@ Each Bind acts as a single panel so when you resize it, it proportionally resize
 In order to edit the contents of the Bind, you should unbind it using its context menu option “Unbind”.
 
 {% hint style="info" %}
-Please notice that not all elements of Quantower can be binded. This feature doesn’t allow to combine screens \(like Connections manager, settings\) and some non-standard panels: Order entry, FXCell.
+Please notice that not all elements of Quantower can be binded. This feature doesn’t allow to combine screens \(like Connections manager, settings\) and some non-standard panels: Order entry, FXCell. This restriction was made because of impossibility to resize the Screens while binds should contain only the resizable items.
 {% endhint %}
 
 ## Workspaces

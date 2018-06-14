@@ -31,6 +31,7 @@
         * [Simple moving average](analytics-panels/chart/technical-indicators/moving-averages/simple-moving-average.md)
       * [Volatility](analytics-panels/chart/technical-indicators/volatility/README.md)
         * [Average True Range](analytics-panels/chart/technical-indicators/volatility/average-true-range.md)
+        * [Standard deviation](analytics-panels/chart/technical-indicators/volatility/standard-deviation.md)
       * [Trend](analytics-panels/chart/technical-indicators/trend/README.md)
         * [ZigZag](analytics-panels/chart/technical-indicators/trend/zigzag.md)
   * [Watchlist](analytics-panels/watchlist.md)

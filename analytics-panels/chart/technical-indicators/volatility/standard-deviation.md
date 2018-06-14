@@ -20,7 +20,7 @@ Where:
 
 ## Most useful cases {#most-useful-cases}
 
-* **Volatility measurement** - the most usefull case of STD usage is to determing a statistical volatility, understanding of this value is very usefull to find best positions of potential stop loss and take profit levels. It protects existing positions of small price fluctuation and random breakout of levels. 
+* **Volatility measurement** - the most usefull case of STD usage is to determing a statistical volatility, understanding of this value is very usefull to find best positions of potential stop loss and take profit levels. It protects existing positions of small price fluctuations and random breakout of levels. 
 * **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high\(low\) of the price not confirmed with a new high of STD. This is a very good approach to find a weakness of existing trend.
 
 ![](../../../../.gitbook/assets/image%20%2812%29.png)

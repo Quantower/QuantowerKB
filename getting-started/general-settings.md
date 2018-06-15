@@ -1,4 +1,2 @@
 # General settings
 
-
-

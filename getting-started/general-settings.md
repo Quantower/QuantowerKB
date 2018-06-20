@@ -58,7 +58,7 @@ The group of actions in Quantower, when the sound should be played consists of t
 
 ### Time zones
 
-![Favorite time zones select](../.gitbook/assets/timezone.png)
+![Favorite time zones management](../.gitbook/assets/timezone.png)
 
 In case you are trading in various markets that are in different time zones, you will find it useful to switch the time indicator in [**Control center**](control-center.md) to one of your favorite market times.
 

@@ -21,10 +21,10 @@ General settings are backed up automatically each 5 minutes by default and you c
 
 ![General settings group](../.gitbook/assets/general.png)
 
-| Autosave settings \(every 5 minutes\) | true | Quantower will save your application settings in Settings folder and overwrite them each 5 minutes while the application is active. It also saves on application close |
+| **Autosave settings \(every 5 minutes\)** | true | Quantower will save your application settings in Settings folder and overwrite them each 5 minutes while the application is active. It also saves on application close |
 | --- | --- | --- |
-| Display quantity in lots | true |  |
-| Abbreviate volume & ticks | true |  |
+| **Display quantity in lots** | true |  |
+| **Abbreviate volume & ticks** | true |  |
 
 ### Sounds
 
@@ -32,7 +32,7 @@ General settings are backed up automatically each 5 minutes by default and you c
 
 Sounds are the good way of additional interaction with user allowing to inform about some activities even you don’t currently in front of your PC. Sounds can be enabled or disabled per certain action.
 
-| Enable sounds | true | Enables or disables all of the application sounds globally |
+| **Enable sounds** | true | Enables or disables all of the application sounds globally |
 | --- |
 
 
@@ -47,14 +47,14 @@ The group of actions in Quantower, when the sound should be played consists of t
 
 ![Confirmations management](../.gitbook/assets/confirmations.png)
 
-| Confirm order placement | true | Ask before placing order |
+| **Confirm order placement** | true | Ask before placing order |
 | --- | --- | --- | --- | --- | --- | --- |
-| Confirm order cancellation | true | Ask before cancelling order |
-| Confirm order/position modification | true | Ask before order of position modifications apply |
-| Confirm position reversing | true | Ask before reversing the position |
-| Confirm application close | true | Ask before closing the Quantower terminal |
-| Confirm bind close | true | Ask before closing the binds |
-| Show deal tickets | true | Show the pop-up screens with the trading notification |
+| **Confirm order cancellation** | true | Ask before cancelling order |
+| **Confirm order/position modification** | true | Ask before order of position modifications apply |
+| **Confirm position reversing** | true | Ask before reversing the position |
+| **Confirm application close** | true | Ask before closing the Quantower terminal |
+| **Confirm bind close** | true | Ask before closing the binds |
+| **Show deal tickets** | true | Show the pop-up screens with the trading notification |
 
 ### Time zones
 

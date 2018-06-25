@@ -8,7 +8,7 @@
   * [Connections manager](getting-started/connections-manager.md)
   * [Workspaces, Binds, Groups](getting-started/workspaces-binds-groups.md)
   * [Symbols lookup](getting-started/instruments-lookup.md)
-  * [Updates and rollbacks](getting-started/updates-and-rollbacks.md)
+  * [Application updates](getting-started/application-updates.md)
   * [General settings](getting-started/general-settings.md)
   * [Table management](getting-started/table-management.md)
 * [Analytics panels](analytics-panels/README.md)

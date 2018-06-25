@@ -11,6 +11,7 @@
   * [Application updates](getting-started/application-updates.md)
   * [General settings](getting-started/general-settings.md)
   * [Table management](getting-started/table-management.md)
+  * [Backup & restore manager](getting-started/backup-and-restore-manager.md)
 * [Analytics panels](analytics-panels/README.md)
   * [Chart](analytics-panels/chart/README.md)
     * [Chart types](analytics-panels/chart/chart-types/README.md)

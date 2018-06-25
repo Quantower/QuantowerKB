@@ -2,7 +2,7 @@
 
 Event Log panel displays detail information about all events that occured during working with trading platform. Event Log panel is related to Informational group of Control Center sidebar.
 
-![The common look of Event Log panel](../.gitbook/assets/eventlog.png)
+![The common look of Event Log panel](../.gitbook/assets/eventlog%20%281%29.png)
 
 ## Available columns
 

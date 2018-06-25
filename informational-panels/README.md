@@ -1,4 +1,4 @@
-# Informational panels
+# Information panels
 
 
 

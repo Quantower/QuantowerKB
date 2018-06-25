@@ -51,7 +51,7 @@
   * [Trades](portfolio-panels/trades.md)
   * [Orders History](portfolio-panels/orders-history.md)
   * [Synthetic Instruments](portfolio-panels/synthetic-instruments.md)
-* [Informational panels](informational-panels/README.md)
+* [Information panels](informational-panels/README.md)
   * [Account info](informational-panels/account-info.md)
   * [Symbol Info](informational-panels/symbol-info.md)
   * [Currencies Exposure](informational-panels/currencies-exposure.md)

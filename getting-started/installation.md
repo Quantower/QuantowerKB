@@ -32,5 +32,7 @@ From this moment you can start trading and analysis as well as workspace modific
 
 If you need to uninstall the application, just delete the folder with all application files. You may also keep your personal settings \(connection information & workspaces\) by copying the Settings folder \(can be found right in Quantower folder\) before application delete. These Settings folder can be pasted to any other Quantower folder later.
 
+You may also refer to [Backup & Restore manager](backup-and-restore-manager.md) to backup your settings in one file and restore them later.
+
 
 

@@ -6,7 +6,7 @@ Order entry panel allows to create trading orders with different conditions, suc
 
 ![General view of Order Entry panel](../../.gitbook/assets/order-entry-panel-in-quantower-platfrom.png)
 
-The selection of a trading instrument can be performed manually through Symbol Lookup or via linking the panel to other panels, for example, to the chart. Just select one link color in two panels and they will have a synchronized symbol parameter.
+The selection of a trading instrument can be performed manually through [Symbol Lookup](https://help.quantower.com/getting-started/instruments-lookup) or via linking the panel to other panels, for example, to the chart. Just select one link color in two panels and they will have a synchronized symbol parameter.
 
 ### **Order types and restrictions**
 
@@ -32,5 +32,17 @@ Order Entry automatically lists all exchange-supported order types available for
 The TIF list can be different depends on connection, order type or instrument type!
 {% endhint %}
 
+### Order Confirmation
 
+Once you have set all the necessary parameters of the order and clicked the _Place Order_ button, the order confirmation screen will appear.  
+This window contains summary information about your order, which will allow you to verify the correctness of the entered data - order type, trade instrument, price, quantity, prices of take profit and stop loss.
+
+![Confirmation of the order placement](../../.gitbook/assets/order-confirmation.png)
+
+![Confirmation of the order cancellation](../../.gitbook/assets/confirmation-of-order-cancel.png)
+
+{% hint style="info" %}
+If you activate the "**Do not show again**" checkbox, the confirmations will not be displayed and the orders will be immediately sent to the order book.   
+In order to return these notifications it is necessary to activate the Confirm order placement checkbox in the [General settings](https://help.quantower.com/getting-started/general-settings#confirmations) of the application
+{% endhint %}
 

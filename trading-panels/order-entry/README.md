@@ -34,7 +34,7 @@ The TIF list can be different depends on connection, order type or instrument ty
 
 ### Order Confirmation
 
-Once you have set all the necessary parameters of the order and clicked the _Place Order_ button, the order confirmation screen will appear.  
+Once you have set all the necessary parameters of the order and clicked the _**Place Order**_ button, the order confirmation screen will appear.  
 This window contains summary information about your order, which will allow you to verify the correctness of the entered data - order type, trade instrument, price, quantity, prices of take profit and stop loss.
 
 ![Confirmation of the order placement](../../.gitbook/assets/order-confirmation.png)
@@ -42,7 +42,7 @@ This window contains summary information about your order, which will allow you 
 ![Confirmation of the order cancellation](../../.gitbook/assets/confirmation-of-order-cancel.png)
 
 {% hint style="info" %}
-If you activate the "**Do not show again**" checkbox, the confirmations will not be displayed and the orders will be immediately sent to the order book.   
-In order to return these notifications it is necessary to activate the Confirm order placement checkbox in the [General settings](https://help.quantower.com/getting-started/general-settings#confirmations) of the application
+If you activate the "_**Do not show again**_" checkbox, the confirmations will not be displayed and the orders will be immediately sent to the order book.   
+In order to return these notifications it is necessary to activate the "_**Confirm order placement**_" checkbox in the [General settings](https://help.quantower.com/getting-started/general-settings#confirmations) of the application
 {% endhint %}
 

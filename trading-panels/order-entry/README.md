@@ -79,7 +79,7 @@ This window contains summary information about your order, which will allow you 
 ![Confirmation of the order cancellation](../../.gitbook/assets/confirmation-of-order-cancel.png)
 
 {% hint style="info" %}
-If you activate the "_**Do not show again**_" checkbox, the confirmations will not be displayed and the orders will be immediately sent to the order book. In order to return these notifications, it is necessary to activate the "_**Confirm order placement**_" checkbox in the [General settings](https://help.quantower.com/getting-started/general-settings#confirmations) of the application
+If you activate the "_**Do not show again**_" checkbox, the confirmation will not be displayed and the order will be immediately sent to the order book. In order to return these notifications, it is necessary to activate the "_**Confirm order placement**_" checkbox in the [General settings](https://help.quantower.com/getting-started/general-settings#confirmations) of the application
 {% endhint %}
 
 

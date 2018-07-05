@@ -6,7 +6,20 @@ Order entry panel allows to create trading orders with different conditions, suc
 
 ![General view of Order Entry panel](../../.gitbook/assets/order-entry-panel-in-quantower-platfrom.png)
 
-The selection of a trading instrument can be performed manually through [Symbol Lookup](https://help.quantower.com/getting-started/instruments-lookup) or via linking the panel to other panels, for example, to the chart. Just select one link color in two panels and they will have a synchronized symbol parameter.
+The entire panel is conventionally divided into several zones:
+
+* choice of trading instrument and trading account;
+* setting the required order quantity and the order side \(Buy or Sell\);
+* choice of order type, its price and TIF condition;
+* setting of stop loss and take profit prices;
+* information on current Ask and Bid prices, spread size, VWAP prices, as well as an order placement button.
+
+### Symbol and account selection
+
+The selection of a trading instrument can be performed manually through [Symbol Lookup](https://help.quantower.com/getting-started/instruments-lookup) or via linking the panel to other panels, for example, to the chart. Just select one link color in two panels and they will have a synchronized symbol parameter.  
+If there are several trading accounts available within your connection, you can select the required account by clicking the **Select Account** button.
+
+![Select the required trading account ](../../.gitbook/assets/select-trading-account.png)
 
 ### **Order types and restrictions**
 
@@ -32,9 +45,31 @@ Order Entry automatically lists all exchange-supported order types available for
 The TIF list can be different depends on connection, order type or instrument type!
 {% endhint %}
 
+### Order Protection
+
+To protect the position from a significant loss, you can use the **Stop Loss** orders. To do this, activate the Stop Loss checkbox and specify the price at which the order will be closed.
+
+Once the position becomes profitable, you can change the Stop Loss price to a break-even level. To automate this process, Trailing Stop was created. This tool is especially useful when price changes strongly in the same direction or when it is impossible to watch the market continuously for some reason.
+
+![Activation of Trailing stop](../../.gitbook/assets/trailing-stop-order.png)
+
+To gain profit, you can use the **Take Profit** order, which will automatically close the position at the specified price. To do this, activate the Take Profit checkbox and specify the price at which the order will be closed.
+
+{% hint style="warning" %}
+Stop Loss order can be set:
+
+* for Long positions below the current price
+* for Short positions above the current price
+
+Take Profit order can be set:
+
+* for Long positions above the current price
+* for Short positions below the current price
+{% endhint %}
+
 ### Order Confirmation
 
-Once you have set all the necessary parameters of the order and clicked the _**Place Order**_ button, the order confirmation screen will appear.  
+Once you have set all the necessary parameters of the order and clicked the **Place Order** button, the order confirmation screen will appear.  
 This window contains summary information about your order, which will allow you to verify the correctness of the entered data - order type, trade instrument, price, quantity, prices of take profit and stop loss.
 
 ![Confirmation of the order placement](../../.gitbook/assets/order-confirmation.png)
@@ -45,4 +80,6 @@ This window contains summary information about your order, which will allow you 
 If you activate the "_**Do not show again**_" checkbox, the confirmations will not be displayed and the orders will be immediately sent to the order book.   
 In order to return these notifications it is necessary to activate the "_**Confirm order placement**_" checkbox in the [General settings](https://help.quantower.com/getting-started/general-settings#confirmations) of the application
 {% endhint %}
+
+
 

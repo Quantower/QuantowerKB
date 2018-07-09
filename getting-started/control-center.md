@@ -1,3 +1,7 @@
+---
+description: Control center is a starting panel of all terminal
+---
+
 # Control center
 
 ## General

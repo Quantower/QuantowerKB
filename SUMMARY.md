@@ -7,6 +7,7 @@
   * [Control center](getting-started/control-center.md)
   * [Connections manager](getting-started/connections-manager.md)
   * [Workspaces, Binds, Groups](getting-started/workspaces-binds-groups.md)
+  * [Templates](getting-started/templates.md)
   * [Symbols lookup](getting-started/instruments-lookup.md)
   * [Application updates](getting-started/application-updates.md)
   * [General settings](getting-started/general-settings.md)

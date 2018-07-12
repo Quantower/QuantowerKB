@@ -60,6 +60,7 @@
   * [Event Log](informational-panels/event-log.md)
   * [RSS](informational-panels/rss.md)
   * [Reports](informational-panels/reports.md)
+  * [Crypto balances](informational-panels/crypto-balances.md)
 * [Miscellaneous panels](miscellaneous-panels/README.md)
   * [History Exporter](miscellaneous-panels/history-exporter.md)
   * [Live Support](miscellaneous-panels/live-support.md)

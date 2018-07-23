@@ -1,3 +1,9 @@
+---
+description: >-
+  It is a professional trading panel that provides single-click order entry for
+  an instrument while displaying market depth.
+---
+
 # Market depth
 
 ### General info

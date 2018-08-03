@@ -10,5 +10,5 @@
 
 {% page-ref page="synthetic-instruments.md" %}
 
-
+{% page-ref page="historical-symbols.md" %}
 

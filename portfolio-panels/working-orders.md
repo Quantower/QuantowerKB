@@ -7,7 +7,7 @@ Working orders panel displays all currently placed orders. Once you places a new
 ## Available columns
 
 | **Account** | Login name of an account that placed order |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Symbol** | A traded symbol |
 | **Description** | Comments for symbol |
 | **Symbol type** | A symbol's market category \(CFD, spot, stocks, etc.\) |
@@ -39,7 +39,7 @@ By right-clicking on each row of Working orders panel, you will get a context me
 ### Selected order\(s\) actions
 
 | **Modify order** | Invokes the modification screen, allowing to modify orders parameters |
-| --- | --- | --- | --- |
+| :--- | :--- |
 | **Quick SL/TP** | Allows quick adding SL/TP orders to selected orders |
 | **Change to Market** | Change order type to Market for selected orders |
 | **Cancel order** | Allows canceling all selected orders, all orders by selected symbol, all orders by selected account, all orders |
@@ -47,7 +47,7 @@ By right-clicking on each row of Working orders panel, you will get a context me
 ### Common actions
 
 | **Group by** |  Groups all rows by the selected column |
-| --- | --- |
+| :--- | :--- |
 | **Columns visibility** |  Allows to toggle the columns visibility |
 
 ## Hot buttons toolbar
@@ -61,7 +61,7 @@ Depending on the panel settings, hot buttons can proceed without confirmation sc
 ###  Hot buttons list
 
 | **Cancel all** | Cancel all orders |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Cancel buy** | Cancel all buy orders |
 | **Cancel sell** | Cancel all sell orders |
 | **Cancel limits** | Cancel all limit orders |

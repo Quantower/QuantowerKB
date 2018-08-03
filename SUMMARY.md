@@ -53,6 +53,7 @@
   * [Trades](portfolio-panels/trades.md)
   * [Orders History](portfolio-panels/orders-history.md)
   * [Synthetic Instruments](portfolio-panels/synthetic-instruments.md)
+  * [Historical Symbols](portfolio-panels/historical-symbols.md)
 * [Information panels](informational-panels/README.md)
   * [Account info](informational-panels/account-info.md)
   * [Crypto balances](informational-panels/crypto-balances.md)

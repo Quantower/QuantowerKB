@@ -97,7 +97,7 @@ Conditions setup for Table Actions is similar to [Filtering conditions, mentione
 Once some condition is met, action will execute the corresponding tasks. Each task will be executed as many times, as the condition was met.
 
 | **Show message** | Displays a popup box with the user-specified message |
-| --- | --- | --- | --- |
+| :--- | :--- |
 | **Play sound** | Plays some user selected sound file |
 | **Color row** | Changes the styling of the whole row, where the condition was met. Allows changing the background and/or text colors. |
 | **Color cell** | Changes the styling of the specified cell\(s\) of the row, where the condition was met. Allows changing the background and/or text colors. |

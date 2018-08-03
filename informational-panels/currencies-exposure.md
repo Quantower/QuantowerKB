@@ -7,7 +7,7 @@ Currencies Exposure panel shows a summary currency information for all positions
 ## Available columns
 
 | **Currency** | Name of the currency |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Currency value** | Summary total amount of currency for all opened positions |
 | **Gross P/L** | Current profit or loss for all opened positions |
 

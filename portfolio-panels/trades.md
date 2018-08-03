@@ -7,7 +7,7 @@ Trades panel displays your trading history. Trades panel is related to Portfolio
 ## Available columns
 
 | **Account** | login name of an account that made a trade |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Date/Time** | Date and time when a trade was made |
 | **Symbol** | A traded symbol |
 | **Description** | Comments for symbol |
@@ -35,6 +35,6 @@ By right-clicking on each row of Trades panel, you will get a context menu with 
 ### Common actions
 
 | **Group by** | Groups all rows by the selected column |
-| --- | --- |
+| :--- | :--- |
 | **Columns visibility** | Allows to toggle the columns visibility |
 

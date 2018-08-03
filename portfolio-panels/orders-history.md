@@ -7,7 +7,7 @@ Order History panel shows you information about your opening and closing orders.
 ## Available columns
 
 | **Account** | login name of an account that made a trade |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Symbol** | A traded symbol |
 | **Description** | Comments for symbol |
 | **Symbol type** | A symbol's market category \(CFD, spot, stocks, etc.\) |
@@ -34,6 +34,6 @@ By right-clicking on each row of Order History panel, you will get a context men
 ### Common actions
 
 | **Group by** | Groups all rows by the selected column |
-| --- | --- |
+| :--- | :--- |
 | **Columns visibility** | Allows to toggle the columns visibility |
 

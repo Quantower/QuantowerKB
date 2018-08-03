@@ -7,7 +7,7 @@ Event Log panel displays detail information about all events that occurred durin
 ## Available columns
 
 | **Date/Time** | Date and time when a event was occured |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Type** | Type of event. Can be: Trading, System or Exception |
 | **Event** | Short name of event |
 | **Message** | Full details of event |
@@ -22,7 +22,7 @@ By right-clicking on each row of Event Log panel, you will get a context menu wi
 ### Common actions
 
 | **Clear table** | Remove all rows from Event Log panel. |
-| --- | --- |
+| :--- | :--- |
 | **Columns visibility** | Allows to toggle the columns visibility |
 
 {% hint style="info" %}

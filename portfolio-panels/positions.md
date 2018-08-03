@@ -7,7 +7,7 @@ Positions panel displays all currently opened positions. Once you open a new pos
 ## Available columns
 
 | **Account** | login name of an account that opened a position |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Symbol**  | a traded symbol |
 | **Description** | comments for symbol |
 | **Symbol type** | a symbol's market category \(CFD, spot, stocks, etc.\) |
@@ -40,7 +40,7 @@ By right-clicking on each row of Positions panel, you will get a context menu wi
 ### Selected position\(s\) actions
 
 | **Modify position** | Invokes the modification screen, allowing to add SL/TP orders to selected position manually |
-| --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Modify SL to breakeven** |  |
 | **Quick SL/TP** | allows quick adding SL/TP orders to selected position |
 | **Close position** | Options: close all selected positions, all positions by selected symbol, all positions for selected account, all positions |
@@ -49,7 +49,7 @@ By right-clicking on each row of Positions panel, you will get a context menu wi
 ### Common actions
 
 | **Group by** | Groups all rows by the selected column |
-| --- | --- |
+| :--- | :--- |
 | **Columns visibility** | Allows to toggle the columns visibility |
 
 ## Hot buttons toolbar
@@ -63,7 +63,7 @@ Depending on the panel settings, hot buttons can proceed without confirmation sc
 ### Hot buttons list
 
 | **Breakeven** |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | **Close all** | closes all opened positions |
 | **CLX all** | closes all opened positions and cancels all orders |
 | **Reverse all** | reverses all positions |

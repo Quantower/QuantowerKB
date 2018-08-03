@@ -16,14 +16,17 @@ Let's take a brief look at how it works.
 ### How to add a new historical symbol?
 
 * First, you need to [configure parameters](https://help.quantower.com/portfolio-panels/historical-symbols#symbol-settings) of the symbol that you want to load. If you want to perform backtesting, it is important to correctly set all the parameters - asset class, tick size, etc. You can borrow parameters from an existing symbol.
+
+
+
 * Import historical quotes from a .csv file or from an existing symbol. For example, download the trading history of Crude Oil from Quandl.
 
-![Import trading history from file](../.gitbook/assets/historical-symbol-import-data.gif)
+![Import trading history from file](../.gitbook/assets/historical-symbol-settings-import-from-file.gif)
 
 * Press “Import History” button, select “Import from file” and specify the path to the required file.
 * After you have imported the file, you need to parse it. In the settings, carefully select the Separator, Date / Time format, specify all the necessary columns \(OHLC, Volume\).
 
-![Main settings for parsing a file](../.gitbook/assets/settings-for-imported-file.png)
+![Main settings for parsing a file](../.gitbook/assets/settings-for-imported-file%20%281%29.png)
 
 {% hint style="success" %}
 You can modify **Date/Time** format manually according to format in the file.

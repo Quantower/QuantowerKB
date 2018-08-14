@@ -9,13 +9,13 @@ Quantower offers a variety of chart types to help you display chart data in diff
 Quantower provides 8 chart types:
 
 * Tick chart
-* Time chart
-* Heiken-Ashi
-* Range Bars
-* Renko
-* Line Break
-* Kagi
-* Points & Figures
+* [Time chart](https://help.quantower.com/analytics-panels/chart/chart-types/time-aggregation)
+* [Heiken-Ashi](https://help.quantower.com/analytics-panels/chart/chart-types/heiken-ashi)
+* [Range Bars](https://help.quantower.com/analytics-panels/chart/chart-types/range-bars)
+* [Renko](https://help.quantower.com/analytics-panels/chart/chart-types/renko)
+* [Line Break](https://help.quantower.com/analytics-panels/chart/chart-types/line-break)
+* [Kagi](https://help.quantower.com/analytics-panels/chart/chart-types/kagi)
+* [Points & Figures](https://help.quantower.com/analytics-panels/chart/chart-types/points-and-figures)
 
 ![Chart types in Quantower](../../../.gitbook/assets/chart-types-all.png)
 

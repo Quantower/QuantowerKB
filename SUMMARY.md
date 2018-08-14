@@ -20,7 +20,7 @@
       * [Renko](analytics-panels/chart/chart-types/renko.md)
       * [Heiken Ashi](analytics-panels/chart/chart-types/heiken-ashi.md)
       * [Kagi](analytics-panels/chart/chart-types/kagi.md)
-      * [Point & Figure](analytics-panels/chart/chart-types/point-and-figure.md)
+      * [Points & Figures](analytics-panels/chart/chart-types/points-and-figures.md)
       * [Range bars](analytics-panels/chart/chart-types/range-bars.md)
       * [Line break](analytics-panels/chart/chart-types/line-break.md)
     * [Technical indicators](analytics-panels/chart/technical-indicators/README.md)

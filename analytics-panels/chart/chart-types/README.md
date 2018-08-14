@@ -15,7 +15,7 @@ Quantower provides 8 chart types:
 * Renko
 * Line Break
 * Kagi
-* Point & Figure
+* Points & Figures
 
 ![Chart types in Quantower](../../../.gitbook/assets/chart-types-all.png)
 

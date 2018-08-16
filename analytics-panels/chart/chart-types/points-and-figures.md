@@ -29,6 +29,8 @@ To build a chart, you can use two styles:
 * **Classic**, which uses only the closing price \(last price\) to plot the chart. 
 * **High / Low** is based on High and Low prices.
 
+The difference between these calculation styles you can see on the screenshots below.
+
 ![P &amp; F chart based on close prices \(Classic style\)](../../../.gitbook/assets/point-and-figure-classic-style.png)
 
 ![P &amp; F chart based on high or low prices \(High/Low style\)](../../../.gitbook/assets/point-and-figure-high_low-style.png)

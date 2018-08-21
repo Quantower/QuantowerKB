@@ -10,7 +10,7 @@ It is important to note that the bars on this chart are usually called "lines". 
 
 ### Line Break calculation
 
-The most common number of Line Break setting is 3. It means that the closing price of the current line is compared to the closing price of the line of 3 bars \(lines\) ago. 
+The most common number of Line Break setting is 3. It means that the closing price of the current line is compared to the closing price of the third line ago. 
 
 ![Chart settings for Line Break](../../../.gitbook/assets/line-break-settings.png)
 

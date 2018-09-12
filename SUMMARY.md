@@ -82,3 +82,5 @@
   * [Quote Board](miscellaneous-panels/quote-board.md)
   * [Browser](miscellaneous-panels/browser.md)
 
+## Quantower Algo
+

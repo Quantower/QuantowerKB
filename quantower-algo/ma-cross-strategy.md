@@ -1,0 +1,2 @@
+# MA Cross Strategy
+

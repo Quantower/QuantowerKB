@@ -1,0 +1,2 @@
+# Multi symbol indicator
+

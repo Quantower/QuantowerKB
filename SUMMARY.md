@@ -81,6 +81,9 @@
   * [Exchange times](miscellaneous-panels/exchange-times.md)
   * [Quote Board](miscellaneous-panels/quote-board.md)
   * [Browser](miscellaneous-panels/browser.md)
-
-## Quantower Algo
+* [Quantower Algo](quantower-algo/README.md)
+  * [Indroduction](quantower-algo/indroduction.md)
+  * [Installing Visual Studio](quantower-algo/installing-visual-studio.md)
+  * [Simple Indicator](quantower-algo/simple-indicator.md)
+  * [Simple Strategy](quantower-algo/simple-strategy.md)
 

@@ -18,7 +18,11 @@ A minimum required source code will be generated automatically and contains the 
 
 ![Default source code for blank indicator](../.gitbook/assets/default-code.png)
 
-It is time to go deep into the code. In a **constructor** method you can specify name of the indicator, short name for displaying on the charts and whether you indicator require separate window on the chart. The most important here is specifying the amount of lines and their default style: Solid/Dot/Histogram, color and width. In our example we need only one line, but you can add any amount you need:
+## Indicator code structure
+
+### Common settings
+
+It is time to go deep into the code. In a **constructor** method, you can specify name of the indicator, short name for displaying on the charts and whether you indicator require a separate window on the chart. The most important here is specifying the amount of lines and their default style: Solid/Dot/Histogram, color, and width. In our example, we need only one line, but you can add any amount:
 
 ```csharp
 /// <summary>
@@ -39,7 +43,9 @@ public SimpleIndicator()
 }
 ```
 
-**OnUpdate** method will be called each time on history changing - here we need to add our calculations. Most of indicators are using prices or volumes in their algorithms. Quantower API provides you a few ways to retrieve this data - you can access Open, High, Low, Close and others data from current bar or from previous bars if it required. 
+### Getting data
+
+The **"OnUpdate"** method will be called each time on history changing - here we need to add our calculations. Most of the indicators are using prices or volumes in their algorithms. Quantower API provides you a few ways to retrieve this data - you can access Open, High, Low, Close and others data from a current bar or from previous bars if it required. 
 
 Common method [**GetPrice**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetPrice_TradingPlatform_BusinessLayer_PriceType_System_Int32_) allows to retrieve all type of the data:
 
@@ -61,9 +67,11 @@ double high = High();
 double open = Open(5);   
 ```
 
-You can find more information about **Indicator** class in our [API documentation](http://api.quantower.com).
+You can find more information about "**Indicator"** class in our [API documentation](http://api.quantower.com).
 
-Now we know how to get prices, but as we told before, we need also to put results into indicator buffer. We can use [**SetValue**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_SetValue_System_Double_System_Int32_System_Int32_) method for this:
+### Setting data
+
+Now we know how to get prices, but as we told before, we need also to put results into indicator buffer. We can use "[**SetValue**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_SetValue_System_Double_System_Int32_System_Int32_)**"** method for this:
 
 ```csharp
 // Put value into current bar for first line of indicator
@@ -74,7 +82,7 @@ SetValue(1.43, 1);
 SetValue(1.43, 1, 5);
 ```
 
-All this is enough to finish our first indicator. Let's add calculations into **OnUpdate** method using standard C\# possibilities. This is our total code:
+All this is enough to finish our first indicator. Let's add calculations into "**OnUpdate"** method using standard C\# possibilities. This is our total code:
 
 ```csharp
 /// <summary>
@@ -85,7 +93,7 @@ protected override void OnUpdate(UpdateArgs args)
     int Period = 10;
 
     // Checking, if current amount of bars
-    // more, than period of moving average. If it is
+    // more, than period of moving average. If it is true
     // then the calculation is possible
     if (Count <= Period)
         return;
@@ -100,9 +108,11 @@ protected override void OnUpdate(UpdateArgs args)
 }
 ```
 
-As you can see, we use only Close prices for calculations and hard code Period value.  In real case you will  allow user to specify this values. In our [next topic](https://help.quantower.com/quantower-algo/input-parameters) we will show how to use Input Parameter for your scripts.
+As you can see, we use only Close prices for calculations and hard code Period value. In the real case, you will allow a user to specify this values. In our next topic, we will show how to use the Input Parameter for your scripts.
 
-Indicator is ready to use in trading platform. We need to compile it - use "Build-&gt;Build Solution" in the main menu or hot key F6. Quantower Algo extension will automatically copy your indicator to assigned Quantower trading platform and you will see it in the "Indicators" lookup on the chart:
+### Build
+
+Indicator is ready to use in trading platform. We need to compile it - use "_**Build -&gt; Build Solution**_" in the main menu or hot key **F6**. Quantower Algo extension will automatically copy your indicator to assigned Quantower trading platform and you will see it in the "Indicators" lookup on the chart:
 
 ![You can see your indicator in Indicator Lookup](../.gitbook/assets/indicator-in-lookup.png)
 
@@ -110,5 +120,5 @@ If you decide to make some corrections in your calculations, you can rebuild you
 
 ![You will see all your changes right after rebuild](../.gitbook/assets/indicator-after-changes.png)
 
-As you can see it did not take a lot of time to get first results. Using this basic example you can easily create your own indicator -  all power of C\# language are available for you. In the next topic we will show you how to add possibility of customizing of your indicator via [Input Parameters](https://help.quantower.com/quantower-algo/input-parameters).
+As you can see it did not take a lot of time to get the first results. Using this basic example you can easily create your own indicator — all power of C\# language is available for you. In the next topic we will show you how to add possibility of [customizing of your indicator via Input Parameters](input-parameters.md).
 

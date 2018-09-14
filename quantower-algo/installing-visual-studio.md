@@ -1,6 +1,16 @@
+---
+description: >-
+  In this topic, we will show how to install Visual Studio and Quantower Algo
+  extension, which allows you to create your own indicators and strategies.
+---
+
 # Installing Visual Studio
 
-In this topic, we will show how to install Visual Studio and Quantower Algo extension, which allows you to create your own indicators and strategies. Visual Studio - is an integrated development environment \(IDE\) from Microsoft, which includes a code editor with IntelliSense, debugger, supporting for source control systems and many other professional features. The currently supported Visual Studio version is 2017. We recommend you to use the most basic version of Visual Studio, the Community edition, which is available free of charge.
+**Visual Studio** - is an integrated development environment \(IDE\) from Microsoft, which includes a code editor with IntelliSense, debugger, supporting for source control systems and many other professional features. The currently supported Visual Studio version is 2017. 
+
+{% hint style="success" %}
+We recommend you to use the most basic version of **Visual Studio — the Community edition**, which is available free of charge.
+{% endhint %}
 
 You can [download Visual Studio from official web site](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15). It requires about 10 minutes to install and 2.5 Gb of free space on your hard drive.
 
@@ -12,15 +22,15 @@ Continue installation and in a few minutes, after downloading and applying requi
 
 ![Default view of Visual Studio 2017](../.gitbook/assets/default-view-of-visual-studio.png)
 
-Now we need to install Quantower Algo extension from Visual Studio Marketplace. Use "Tools -&gt; Extension and Updates..." main menu item to open Extensions Manager. Type Quantower into the search box in Online tab and will find required extension:
+Now we need to install Quantower Algo extension from Visual Studio Marketplace. Use "_**Tools -&gt; Extension and Updates...**_" main menu item to open Extensions Manager. Type "_**Quantower**_" into the search box of **Online tab** and you will find a required extension:
 
 ![Extensions and Updates window](../.gitbook/assets/extensions-manager.png)
 
-Click for downloading. Visual Studio will ask you for restarting to finish the extension installation process.
+Click "**Download**". Visual Studio will ask you for restarting to finish the extension installation process.
 
-To check whether Quantower Algo is installed successfully click "File-&gt;New-&gt;Project" menu item and you will see special project types: Indicator and Strategy:
+To check whether Quantower Algo is installed successfully click "_**File -&gt; New -&gt; Project**_" menu item and you will see special project types: Indicator and Strategy:
 
 ![](../.gitbook/assets/new-project%20%281%29.png)
 
-Now everything is ready to create your first indicator.
+Now everything is ready to [create your first indicator](simple-indicator.md).
 

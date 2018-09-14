@@ -4,8 +4,6 @@ In this topic we will show you how simple is writing indicators in Quantower. We
 
 ## So, what is indicator in general?
 
-Indicator is mathematical calculations based on a symbol's price and/or volume. The result is used for displaying on the chart and to help trader make a correct decision. From technical point view Indicator in Quantower is set of lines with buffers. Each element of buffer is assigned to historical bar or tick on the chart. All you need  is to make required calculation for each bar and put the result into this buffer. 
-
 An indicator is mathematical calculations based on a symbol's price and/or volume. The result is used for displaying on the chart and to help trader make a correct decision. From technical point view Indicator in Quantower is a set of lines with buffers. Each element of the buffer is assigned to a historical bar or tick on the chart. All you need is to make a required calculation for each bar and put the result into this buffer.
 
 Sounds not very difficult, doesn't it? Let's start! As for example we will write a code that will implement algorithm of Simple Moving Average indicator.
@@ -40,8 +38,6 @@ public SimpleIndicator()
     SeparateWindow = false;
 }
 ```
-
-In a constructor method, you can specify a name of indicator, short name for displaying on the charts and whether you indicator requires a separate window on the chart. The most important here is specifying the number of lines and their default style: Line/Dot/Histogram, color, width. In our example, we need only one line, but you can add any amount you need.
 
 **OnUpdate** method will be called each time on history changing - here we need to add our calculations. Most of indicators are using prices or volumes in their algorithms. Quantower API provides you a few ways to retrieve this data - you can access Open, High, Low, Close and others data from current bar or for previous bars if it required. 
 
@@ -78,5 +74,41 @@ SetValue(1.43, 1);
 SetValue(1.43, 1, 5);
 ```
 
-Now we know everything required to finish our first indicator. It is ready to use in trading platform. We need to compile it - Press Build button on the toolbar. Quantower Algo will automatically copy your indicator to assigned Quantower you can add this indicator on the chart.
+All this is enough to finish our first indicator. Let's add calculations into **OnUpdate** method. This is our total code:
+
+```csharp
+/// <summary>
+/// Calculation entry point. This function is called when a price data updates. 
+/// </summary>
+protected override void OnUpdate(UpdateArgs args)
+{
+    int Period = 10;
+
+    // Checking, if current amount of bars
+    // more, than period of moving average. If it is
+    // then the calculation is possible
+    if (Count <= Period)
+        return;
+
+    double sum = 0.0; // Sum of prices
+    for (int i = 0; i < Period; i++)
+        // Adding bar's price to the sum
+        sum += GetPrice(PriceType.Close, i);
+
+    // Set value to the "SMA" line buffer.
+    SetValue(sum / Period);
+}
+```
+
+As you can see, we use only Close prices for calculations and hard code Period value.  In real case you will  allow user to specify this values. In our next topic we will show how to use Input Parameter for your scripts.
+
+Indicator is ready to use in trading platform. We need to compile it - use "Build-&gt;Build Solution" in the main menu or hot key F6. Quantower Algo extension will automatically copy your indicator to assigned Quantower trading platform and you will see it in Indicators Lookup on the chart:
+
+![You can see your indicator in Indicator Lookup](../.gitbook/assets/indicator-in-lookup.png)
+
+If you decide to make some corrections in your calculations, you can rebuild your indicator and you even don't need to re-add it again - it will be updated automatically and you will see results immediately:
+
+![You will see all your changes right after rebuild](../.gitbook/assets/indicator-after-changes.png)
+
+As you can see it did not take a lot of time to get first results. Using this basic example you can create your own indicator. All power of C\# language are available for you. In the next topic we will show you how to add possibility of customizing of your indicator via Input Parameters.
 

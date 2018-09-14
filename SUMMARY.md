@@ -85,7 +85,7 @@
   * [Introduction](quantower-algo/introduction.md)
   * [Installing Visual Studio](quantower-algo/installing-visual-studio.md)
   * [Simple Indicator](quantower-algo/simple-indicator.md)
-  * [Moving Average Indicator](quantower-algo/moving-average-indicator.md)
+  * [Input Parameters](quantower-algo/input-parameters.md)
   * [Multi symbol indicator](quantower-algo/multi-symbol-indicator.md)
   * [Indicator with custom painting \(GDI\)](quantower-algo/indicator-with-custom-painting-gdi.md)
   * [Simple Strategy](quantower-algo/simple-strategy.md)

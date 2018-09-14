@@ -1,2 +1,0 @@
-# Moving Average Indicator
-

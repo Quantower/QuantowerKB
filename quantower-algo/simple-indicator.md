@@ -1,6 +1,6 @@
 # Simple Indicator
 
-In this topic we will show you how simple is writing indicators in Quantower. We will use Quantower Algo extension for Visual Studio, but main principles are valid for all development environments. If you don't have Visual Studio or Quantower Algo extension installed you can [read our topic](https://help.quantower.com/quantower-algo/installing-visual-studio) which help you with this.
+In this topic we will show you how simple is writing indicators in Quantower. We will use Quantower Algo extension for Visual Studio, but main principles are valid for all development environments. If you don't have Visual Studio or Quantower Algo extension installed you can read [How to install Quantower Algo](installing-visual-studio.md) manual.
 
 ## So, what is indicator in general?
 

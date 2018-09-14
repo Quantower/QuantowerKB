@@ -83,7 +83,7 @@
   * [Browser](miscellaneous-panels/browser.md)
 * [Quantower Algo](quantower-algo/README.md)
   * [Introduction](quantower-algo/introduction.md)
-  * [Installing Visual Studio](quantower-algo/installing-visual-studio.md)
+  * [Install for Visual Studio](quantower-algo/installing-visual-studio.md)
   * [Simple Indicator](quantower-algo/simple-indicator.md)
   * [Input Parameters](quantower-algo/input-parameters.md)
   * [Multi symbol indicator](quantower-algo/multi-symbol-indicator.md)

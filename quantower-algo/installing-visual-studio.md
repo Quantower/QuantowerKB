@@ -20,7 +20,7 @@ Click for downloading. Visual Studio will ask you for restarting to finish exten
 
 To check whether Quantower Algo is installed successfully click "File-&gt;New-&gt;Project" menu item and you will see special project types: Indicator and Strategy:
 
-![](../.gitbook/assets/new-project.png)
+![](../.gitbook/assets/new-project%20%281%29.png)
 
 Now everything is ready to create your first indicator.
 

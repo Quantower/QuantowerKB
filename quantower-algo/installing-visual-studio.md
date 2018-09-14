@@ -1,10 +1,10 @@
 # Installing Visual Studio
 
-In this topic we will show how to install Visual Studio and Quantower Algo extension, which allows you to create your own indicators and strategies. Visual Studio - is an integrated development environment \(IDE\) from Microsoft, which includes a code editor with IntelliSense, debugger, supporting for source control systems and many other professional features. The currently supported Visual Studio version is 2017. We recommend you to use most basic version of Visual Studio, the Community edition, which is available free of charge.
+In this topic, we will show how to install Visual Studio and Quantower Algo extension, which allows you to create your own indicators and strategies. Visual Studio - is an integrated development environment \(IDE\) from Microsoft, which includes a code editor with IntelliSense, debugger, supporting for source control systems and many other professional features. The currently supported Visual Studio version is 2017. We recommend you to use the most basic version of Visual Studio, the Community edition, which is available free of charge.
 
-You can download Visual Studio from [official web site](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15). It requires about 10 minutes to install and 2.5 Gb of free space on your hard drive.
+You can [download Visual Studio from official web site](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=15). It requires about 10 minutes to install and 2.5 Gb of free space on your hard drive.
 
-Download web installer and run it. After initialization you will be prompted to select required components. For using with Quantower Algo extension we need only "NET desktop developement" workload. You can uncheck optional components also, to reduce installation size:
+Download web installer and run it. After initialization, you will be prompted to select the required components. For using with Quantower Algo extension we need only "NET desktop development" workload. You can uncheck optional components also, to reduce installation size:
 
 ![Minimal required installation](../.gitbook/assets/select_components.png)
 
@@ -12,11 +12,11 @@ Continue installation and in a few minutes, after downloading and applying requi
 
 ![Default view of Visual Studio 2017](../.gitbook/assets/default-view-of-visual-studio.png)
 
-Now we need to install Quantower Algo extension from Visual Studio Marketplace. Use "Tools -&gt; Extension  and Updates..." main menu item to open Extensions Manager. Type Quantower into search box in Online tab and will find required extension:
+Now we need to install Quantower Algo extension from Visual Studio Marketplace. Use "Tools -&gt; Extension and Updates..." main menu item to open Extensions Manager. Type Quantower into the search box in Online tab and will find required extension:
 
 ![Extensions and Updates window](../.gitbook/assets/extensions-manager.png)
 
-Click for downloading. Visual Studio will ask you for restarting to finish extension installation process.
+Click for downloading. Visual Studio will ask you for restarting to finish the extension installation process.
 
 To check whether Quantower Algo is installed successfully click "File-&gt;New-&gt;Project" menu item and you will see special project types: Indicator and Strategy:
 

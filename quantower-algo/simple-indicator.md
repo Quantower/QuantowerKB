@@ -100,7 +100,7 @@ protected override void OnUpdate(UpdateArgs args)
 }
 ```
 
-As you can see, we use only Close prices for calculations and hard code Period value.  In real case you will  allow user to specify this values. In our next topic we will show how to use Input Parameter for your scripts.
+As you can see, we use only Close prices for calculations and hard code Period value.  In real case you will  allow user to specify this values. In our [next topic](https://help.quantower.com/quantower-algo/input-parameters) we will show how to use Input Parameter for your scripts.
 
 Indicator is ready to use in trading platform. We need to compile it - use "Build-&gt;Build Solution" in the main menu or hot key F6. Quantower Algo extension will automatically copy your indicator to assigned Quantower trading platform and you will see it in the "Indicators" lookup on the chart:
 
@@ -110,5 +110,5 @@ If you decide to make some corrections in your calculations, you can rebuild you
 
 ![You will see all your changes right after rebuild](../.gitbook/assets/indicator-after-changes.png)
 
-As you can see it did not take a lot of time to get first results. Using this basic example you can easily create your own indicator -  all power of C\# language are available for you. In the next topic we will show you how to add possibility of customizing of your indicator via Input Parameters.
+As you can see it did not take a lot of time to get first results. Using this basic example you can easily create your own indicator -  all power of C\# language are available for you. In the next topic we will show you how to add possibility of customizing of your indicator via [Input Parameters](https://help.quantower.com/quantower-algo/input-parameters).
 

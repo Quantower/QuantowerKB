@@ -22,6 +22,10 @@ History Player allows you to test on any trading instruments with any vendor or 
 If you click on the "**Stop"** button, all test progress will be canceled.
 {% endhint %}
 
+ When the testing is started you can open all the necessary panels for testing by clicking on the button “Open panel”.
+
+![Open necessary panels to create a workspace for backtesting](../.gitbook/assets/available-panels-in-history-player.png)
+
 In our blog, we shown in detail the process of [manual backtesting of trading strategies using the History Player](https://www.quantower.com/blog/software-for-manual-backtesting-a-brief-review-of-history-player-plugin).
 
 ### General and instruments settings

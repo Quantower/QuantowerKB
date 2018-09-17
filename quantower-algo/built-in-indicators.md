@@ -1,6 +1,6 @@
 # Built-In indicators
 
-During development of your own indicators or strategy you may require using some standard indicators, for example Moving Averages. You don't need to write any code for this, as Quantower provide you wide set of standard indicators. At the moment there are about 50 built in indicators, among them: 
+During development of your own indicators or strategy you may require using some standard indicators, for example Moving Averages. You don't need to write any code for this, as Quantower trading platform provides you a wide set of predefined indicators. At the moment there are about 50 built-in indicators, among them: 
 
 * EMA
 * ADX
@@ -11,7 +11,7 @@ During development of your own indicators or strategy you may require using some
 * AROON
 * and many others
 
-You can access built in indicators using **Core.Indicators.BuiltIn** class. A good place to initiate such indicators is in **OnInit** method of your script:
+You can access built-in indicators using [**Core.Indicators.BuiltIn**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.BuiltInIndicators.html) class. A good place to initiate such indicators is in **OnInit** method of your script:
 
 ```csharp
 Indicator AC;
@@ -37,7 +37,7 @@ protected override void OnInit()
 }
 ```
 
-If it needed you can create a few copies of one indicator, or a few different indicators:
+If it needed you can create a few copies of one indicator or a few different indicators:
 
 ```csharp
 Indicator fastEMA;
@@ -51,7 +51,7 @@ protected override void OnInit()
 }
 ```
 
-Now we need to assign created indicator to our current script - which means it will use instrument and quotes from its parent. You can do this via **AddIndicator** method:
+Now we need to assign created indicator to our current script - which means it will use symbol and quotes from its parent. You can do this via [**AddIndicator** ](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_AddIndicator_TradingPlatform_BusinessLayer_Indicator_)method:
 
 ```csharp
 Indicator EMA;
@@ -66,7 +66,7 @@ protected override void OnInit()
 }
 ```
 
-Everything is ready to use this indicator in our calculations. After receiving a new quotes - it will be calculated automatically. You can access its value via **GetValue** method:
+Everything is ready to use this indicator in our calculations. After receiving a new quotes - it will be calculated automatically. You can access its value via [**GetValue** ](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_)method:
 
 ```csharp
 /// <summary>
@@ -82,7 +82,7 @@ protected override void OnUpdate(UpdateArgs args)
 }
 ```
 
-In case you need to access value for previous bars or value from other indicators line you can use **offset** and **lineIndex** parameter of **GetValue** method:
+In case you need to access value for previous bars or value from other indicators line you can use **offset** and **lineIndex** parameter of [**GetValue** ](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_)method:
 
 ```csharp
 /// <summary>
@@ -98,7 +98,7 @@ protected override void OnUpdate(UpdateArgs args)
 }
 ```
 
-This is a total code of our example. We use two EMA indicators with different period and display their difference on the chart:
+This is a total source code of our example. We use two EMA indicators with different period and display their difference on the chart:
 
 ```csharp
 using System.Drawing;

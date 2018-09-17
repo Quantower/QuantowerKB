@@ -8,7 +8,7 @@ Therefore Quantower provides the **History Player panel** for simple manual back
 
 ![General view of History Player panel ](../.gitbook/assets/history-player-general.png)
 
-History Player allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders \(quotation date feeds like IQFeed, or crypto exchange\).
+History Player allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders \(quotation date feeds like IQFeed or crypto exchange\).
 
 ### First launch of the History Player
 
@@ -16,23 +16,23 @@ History Player allows you to test on any trading instruments with any vendor or 
 * Add a trading instrument for testing
 * Set the data type  — Tick, 1 minute, 1 day
 * Set the execution type  — Last or Bid/Ask/Last
-* Clisck on the "Start" button to start testing
+* Click on the "Start" button to start testing
 
 {% hint style="warning" %}
 If you click on the "**Stop"** button, all test progress will be canceled.
 {% endhint %}
 
- When the testing is started you can open all the necessary panels for testing by clicking on the button “Open panel”.
+ When the testing is started you can open all the necessary panels for testing by clicking on the “Open panel” button.
 
 ![Open necessary panels to create a workspace for backtesting](../.gitbook/assets/available-panels-in-history-player.png)
 
-In our blog, we shown in detail the process of [manual backtesting of trading strategies using the History Player](https://www.quantower.com/blog/software-for-manual-backtesting-a-brief-review-of-history-player-plugin).
+In our blog, we showed in detail the process of [manual backtesting of trading strategies using the History Player](https://www.quantower.com/blog/software-for-manual-backtesting-a-brief-review-of-history-player-plugin).
 
 ### General and instruments settings
 
-Before you start testing the strategy, you need to set up an initial trading balance, a simulation \(or modelling\) scheme for downloaded data, a commission size for a trading instrument, and the netting type.
+Before you start testing the strategy, you need to set up an initial trading balance, a simulation \(or modeling\) scheme for downloaded data, a commission size for a trading instrument, and the netting type.
 
-![Set up the initial trading balance and modelling scheme](../.gitbook/assets/screenshot_18.png)
+![Set up the initial trading balance and modeling scheme](../.gitbook/assets/screenshot_18.png)
 
 Strategy testing can be performed by one of three schemes to choose from:
 
@@ -54,11 +54,11 @@ In the **Netting type** section, you can choose the method by which to summarize
 
 ![Positions are overlapped by the netting type called &quot;One Position&quot;](../.gitbook/assets/orders-matching-mode-one-position.gif)
 
-*  **Multiple per Side** - this mode allows you to open many different positions in one direction.  For example, opening several positions in the sequence, they will be opened separately. Opposite trades \(for sale\) will close them.
+* **Multiple per Side** - this mode allows you to open many different positions in one direction.  For example, opening several positions in the sequence, they will be opened separately. Opposite trades \(for sale\) will close them.
 
 ![Positions are overlapped by the netting type called &quot;Multiple Per Side&quot;](../.gitbook/assets/orders-matching-mode-multiple-per-side.gif)
 
-*  **Multiple Positions** - each new trade will be opened as a separate item, including the opposite trades.
+* **Multiple Positions** - each new trade will be opened as a separate item, including the opposite trades.
 
 ![Positions are overlapped by the netting type called &quot;Multiple Position&quot;](../.gitbook/assets/orders-matching-mode-multiple-positions.gif)
 

@@ -88,9 +88,4 @@
   * [Input Parameters](quantower-algo/input-parameters.md)
   * [Built-In indicators](quantower-algo/built-in-indicators.md)
   * [Indicator with custom painting \(GDI\)](quantower-algo/indicator-with-custom-painting-gdi.md)
-  * [Simple Strategy](quantower-algo/simple-strategy.md)
-  * [MA Cross Strategy](quantower-algo/ma-cross-strategy.md)
-  * [Multi Symbol Strategy](quantower-algo/multi-symbol-strategy.md)
-  * [Debugging](quantower-algo/debugging.md)
-  * [Runtime editing](quantower-algo/runtime-editing.md)
 

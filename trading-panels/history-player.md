@@ -16,6 +16,11 @@ History Player allows you to test on any trading instruments with any vendor or 
 * Add a trading instrument for testing
 * Set the data type  — Tick, 1 minute, 1 day
 * Set the execution type  — Last or Bid/Ask/Last
+* Clisck on the "Start" button to start testing
+
+{% hint style="warning" %}
+If you click on the "**Stop"** button, all test progress will be canceled.
+{% endhint %}
 
 In our blog, we shown in detail the process of [manual backtesting of trading strategies using the History Player](https://www.quantower.com/blog/software-for-manual-backtesting-a-brief-review-of-history-player-plugin).
 
@@ -35,7 +40,21 @@ Strategy testing can be performed by one of three schemes to choose from:
 "Open" and “Close” modes have the fastest testing time, but they are not suitable for all of the trading strategies. Select the desired test mode based on the characteristics of the trading system.
 {% endhint %}
 
-![](../.gitbook/assets/screenshot_20.png)
+Now let's look at the main settings of the selected trading instrument
 
+![Basic settings for trading instrument - Netting type and additional fees](../.gitbook/assets/screenshot_20.png)
 
+In the **Netting type** section, you can choose the method by which to summarize existing and new positions:
+
+* **One position** - it is possible to open one position for one instrument in one direction in this mode. If you previously opened a position to buy 1 lot, adding a position to sell 1 lot will close the previous position. New trades for buy will be summed by volume, and the entry price will be averaged.
+
+![Positions are overlapped by the netting type called &quot;One Position&quot;](../.gitbook/assets/orders-matching-mode-one-position.gif)
+
+*  **Multiple per Side** - this mode allows you to open many different positions in one direction.  For example, opening several positions in the sequence, they will be opened separately. Opposite trades \(for sale\) will close them.
+
+![Positions are overlapped by the netting type called &quot;Multiple Per Side&quot;](../.gitbook/assets/orders-matching-mode-multiple-per-side.gif)
+
+*  **Multiple Positions** - each new trade will be opened as a separate item, including the opposite trades.
+
+![Positions are overlapped by the netting type called &quot;Multiple Position&quot;](../.gitbook/assets/orders-matching-mode-multiple-positions.gif)
 

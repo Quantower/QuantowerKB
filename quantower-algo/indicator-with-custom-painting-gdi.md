@@ -1,6 +1,6 @@
 # Indicator with custom painting \(GDI\)
 
-In this topic we will show you how to use a really great possibility of scripts in Quantower - a custom painting on the Chart. You can draw anything you need via GDI+ - a graphical subsystem of Windows. In C\# all features from GDI+ are encapsulated in class Graphics. It is a set of functions allows to create graphical primitives, splines, using Brushes and Pens, Images, etc. More information you can find on Microsoft documentation site.
+In this topic we will show you how to use a really great possibility of scripts in Quantower - a custom painting on the Chart. You can draw anything you need via GDI+ - a graphical subsystem of Windows. In C\# all features from GDI+ are encapsulated in class Graphics. It is a set of functions allow to create graphical primitives, splines, using brushes and pens, Images, etc. More information you can find on [Microsoft documentation site](https://docs.microsoft.com/ru-ru/dotnet/api/system.drawing.graphics?redirectedfrom=MSDN&view=netframework-4.7.2).
 
 Let's start. To get access to Graphics object of the chart you need to override OnPaint method and use Hdc value from its parameters:
 
@@ -14,7 +14,7 @@ public override void OnPaintChart(PaintChartEventArgs args)
 }
 ```
 
-That's all - now you have full access to canvas and can draw anything you need. For drawings in C\# you need to call special methods and provide parameters for them, coordinates, color, width:
+That's all - now you have full access to chart's canvas and can draw anything you want. For drawing in C\# you need to call special methods with graphical parameters: coordinates, color, width, etc.:
 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
@@ -36,11 +36,10 @@ public override void OnPaintChart(PaintChartEventArgs args)
 }
 ```
 
-If we build this indicator - we can see results on the chart window:
+If we build this indicator - we can see result on the chart window:
 
 ![Drawing directly on the chart](../.gitbook/assets/primitives.png)
 
-  
 Lets try to draw a text - it is very similar, we need to specify text, font and coordinates:
 
 ```csharp
@@ -57,7 +56,7 @@ Build this and check your chart:
 
 ![Drawing a text](../.gitbook/assets/text.png)
 
-Ok, it is interesting, but quite useless. Let's do something more serious - for example, display top 5 levels of market depth on the the chart. This is source code:
+Ok, it is interesting, but quite useless. Let's do something more serious - for example, display all levels of market depth on the the chart. This is source code:
 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)

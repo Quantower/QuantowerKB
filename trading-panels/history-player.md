@@ -25,3 +25,17 @@ Before you start testing the strategy, you need to set up an initial trading bal
 
 ![Set up the initial trading balance and modelling scheme](../.gitbook/assets/screenshot_18.png)
 
+Strategy testing can be performed by one of three schemes to choose from:
+
+* **OHLC** - in this mode the sequence is constructed only by the OHLC prices of the minute bars, the number of the generated control points is significantly reduced - hence, so is the testing time.
+* **Open** - in this mode, all trades are opened at the opening price of the next bar. This mode is well suited for testing strategies, which process deals only at the opening of the bar and do not use pending orders, as well as StopLoss and TakeProfit orders.
+* **Close** - in this mode, all trades are opened at the closing price of the current bar.
+
+{% hint style="info" %}
+"Open" and “Close” modes have the fastest testing time, but they are not suitable for all of the trading strategies. Select the desired test mode based on the characteristics of the trading system.
+{% endhint %}
+
+![](../.gitbook/assets/screenshot_20.png)
+
+
+

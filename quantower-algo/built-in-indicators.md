@@ -162,5 +162,9 @@ namespace IndicatorWithBuiltIn
 
 ```
 
-Quantower team is constantly working on adding new built-in indicators. If you have any ideas and proposals, what we should add - feel free to contact us.
+And a result of this indicator on the chart:
+
+![In the additional window of the chart we can see result of our calculations](../.gitbook/assets/result.png)
+
+As you can see it was not really difficult to create this indicator. Before starting writing you own code, check maybe required calculations are already available in built-in set. Quantower team is constantly working on adding new built-in indicators. If you have any ideas and proposals, what we should add - feel free to contact us.
 

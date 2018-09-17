@@ -59,6 +59,12 @@ Build this and check your chart:
 Ok, it is interesting, but quite useless. Let's do something more serious - for example, display all levels of market depth on the the chart. This is source code:
 
 ```csharp
+protected override void OnInit()
+{
+    // Subscribe for level 2 quotes            
+    this.Symbol.Subscribe(SubscribeQuoteType.Level2);
+}
+        
 public override void OnPaintChart(PaintChartEventArgs args)
 {
     Graphics gr = Graphics.FromHdc(args.Hdc);

@@ -86,6 +86,6 @@
   * [Install for Visual Studio](quantower-algo/installing-visual-studio.md)
   * [Simple Indicator](quantower-algo/simple-indicator.md)
   * [Input Parameters](quantower-algo/input-parameters.md)
-  * [Built-In indicators](quantower-algo/built-in-indicators.md)
+  * [Built-In indicators access](quantower-algo/built-in-indicators.md)
   * [Indicator with custom painting \(GDI\)](quantower-algo/indicator-with-custom-painting-gdi.md)
 

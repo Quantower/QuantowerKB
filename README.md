@@ -18,5 +18,7 @@ For ease of navigation, the Help system is divided into several categories that 
 
 {% page-ref page="miscellaneous-panels/" %}
 
+{% page-ref page="quantower-algo/" %}
+
 
 

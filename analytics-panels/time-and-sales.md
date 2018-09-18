@@ -23,5 +23,17 @@ But some settings are unique for this panel:
 
   If you selected **“By Tick Direction”**, then the lines will be colored according to the change in the last price.
 
+### Export Data
 
+Time & Sales panel allows exporting executed trades to _CSV_ or _HTML_ files for further analysis. Soon we will add the ability to auto-update the data directly in the external file via DDE and RTD functions.
+
+![T &amp; S panel allows exporting data into external files](../.gitbook/assets/export-in-t-and-s.png)
+
+* Select the "**Export Data**" in the panel's menu
+* Select the necessary data that you want to export and click on the **\[Export File\]** button
+* Specify the type of files and the path to save it
+
+### Setup Actions - Filters & Actions
+
+We wrote about this functionality in the Advanced table filters and actions section, which explains in details the process of adding filters and creating different notifications. But if you have additional questions or proposals about this functional, feel free to contact us. We are here to help you!
 

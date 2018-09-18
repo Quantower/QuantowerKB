@@ -1,15 +1,15 @@
 # Using markers with indicators
 
-During writing indicators, you may need to mark some specific point or set of points of indicator's line. For example you want to mark the place where two lines are crossing or place where your algorithm find a some bar pattern. Yes, you can use GDI+ drawing for this, we've shown an example in [our previous topic](https://help.quantower.com/quantower-algo/indicator-with-custom-painting-gdi), but Quantower API provides more simple and elegant way.
+During indicators development, you may need to mark some specific point or set of points on indicator's line. For example you want to mark the place, where two lines are crossing or place, where your algorithm find a some bar pattern. Yes, you can use GDI+ drawings and **OnPaintChart** method, as we've shown in our previous topic, but Quantower API provides more simple way to accomplish this.
 
-Each indicator line contain method **SetMarker**, which allow you to assign some special style for particular element in your indicator's line buffer. The most simple way is marking it via specified color. This is an example:
+Each indicator line contains method **SetMarker**, which allows you to assign some special style for particular element in your indicator's line buffer. The most simple way is marking it via specified color. This is an example of usage:
 
 ```csharp
-// Mark current bar with Yellow color
+// Mark the current bar of first indicator line with Yellow color
 LinesSeries[0].SetMarker(0, Color.Yellow)
 ```
 
-Just for example we color in yellow each tenth bar:
+We colored in yellow each tenth bar:
 
 ![An example of color marker](../.gitbook/assets/each10.png)
 
@@ -20,11 +20,11 @@ Another way of marking is using icons. You can specify type of icon, it's positi
 LinesSeries[0].SetMarker(0, new IndicatorLineMarker(Color.Yellow, IndicatorLineMarkerIconType.Flag));
 ```
 
-And a results on the chart:
+And a result of this displayed on the chart:
 
 ![An example of marker with icon](../.gitbook/assets/each10-flag.png)
 
-You can specify color, upper icon and bottom icon. Lets create a little more practical indicator. For example - we will mark with green up arrow places where we have more then 5 growing candles and red bottom arrow if 5 down. This is source code:
+Lets create a little more usefull indicator. For example - we will mark with green up arrow, places where we have more then 5 growing candles in a row and mark with red bottom arrow, in case of 5 falling bars. This is source code implementing this logic:
 
 ```csharp
 /// <summary>
@@ -69,5 +69,5 @@ And its visualization:
 
 ![An indicator that use markers for trends](../.gitbook/assets/full-code.png)
 
-Using **SetMarker** functions you can simply mark important moments on your indicator. We are going to extend markers possibilities: add more new icons, add text and custom painting. And you can always propose us your own ideas.
+Using **SetMarker** functions you can simply mark important moments on your indicator. We are going to extend markers possibilities: add more new icons, add text and custom painting. And remember - you can always propose us your own ideas.
 

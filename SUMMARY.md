@@ -88,4 +88,5 @@
   * [Input Parameters](quantower-algo/input-parameters.md)
   * [Built-In indicators access](quantower-algo/built-in-indicators.md)
   * [Indicator with custom painting \(GDI\)](quantower-algo/indicator-with-custom-painting-gdi.md)
+  * [Using markers with indicators](quantower-algo/using-markers-with-indicators.md)
 

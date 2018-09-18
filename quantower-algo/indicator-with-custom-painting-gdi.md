@@ -1,8 +1,12 @@
 # Indicator with custom painting \(GDI\)
 
-In this topic we will show you how to use a really great possibility of scripts in Quantower - a custom painting on the Chart. You can draw anything you need via GDI+ - a graphical subsystem of Windows. In C\# all features from GDI+ are encapsulated in class Graphics. It is a set of functions allow to create graphical primitives, splines, using brushes and pens, Images, etc. More information you can find on [Microsoft documentation site](https://docs.microsoft.com/ru-ru/dotnet/api/system.drawing.graphics?redirectedfrom=MSDN&view=netframework-4.7.2).
+## Introduction
 
-Let's start. To get access to Graphics object of the chart you need to override OnPaint method and use Hdc value from its parameters:
+In this topic, we will show you how to use a really great possibility of scripts in Quantower — a custom painting on the Chart. You can draw anything you need via GDI+ — a graphical subsystem of Windows. In C\# all features from GDI+ are encapsulated in class Graphics. It is a set of functions allowing to create graphical primitives and splines using brushes and pens, Images, etc. More information you can find on the [Microsoft documentation site](https://docs.microsoft.com/ru-ru/dotnet/api/system.drawing.graphics?redirectedfrom=MSDN&view=netframework-4.7.2).
+
+## Access Graphics object
+
+Let's start. To get access to Graphics object of the chart you need to override **OnPaint** method and use **Hdc** value from its parameters:
 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
@@ -36,11 +40,13 @@ public override void OnPaintChart(PaintChartEventArgs args)
 }
 ```
 
-If we build this indicator - we can see result on the chart window:
+If we build this indicator - we can see the result on the chart window:
 
 ![Drawing directly on the chart](../.gitbook/assets/primitives.png)
 
-Lets try to draw a text - it is very similar, we need to specify text, font and coordinates:
+## Drawing a simple text
+
+Let's try to draw a text — it is very similar. We need to specify text, font, and coordinates:
 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
@@ -56,7 +62,9 @@ Build this and check your chart:
 
 ![Drawing a text](../.gitbook/assets/text.png)
 
-Ok, it is interesting, but quite useless. Let's do something more serious - for example, display all levels of market depth on the the chart. This is source code:
+## Market depth levels on chart
+
+Ok, it is interesting but quite useless. Let's do something more serious — for example, display all levels of market depth on the chart. This is source code:
 
 ```csharp
 protected override void OnInit()
@@ -88,10 +96,10 @@ public override void OnPaintChart(PaintChartEventArgs args)
 }
 ```
 
-And this how our chart looks now. You can compare results with Quantower Market Depth panel:
+And this is how our chart looks now. You can compare results with Market Depth panel in Quantower:
 
 ![Display bids and asks on the chart](../.gitbook/assets/level2.png)
 
-It is a great possibility of chart features extending, isn't it? You can add your own Info Window, Track Cursor or even Volume Analysis visualization. There are no limitations from our API, only your fantasy.  
+It is a great possibility of chart features extending, isn't it? You can add your own Info Window, Track Cursor or even Volume Analysis visualization. There are no limitations in our API, only your fantasy.  
 
 

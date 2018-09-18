@@ -35,5 +35,5 @@ Time & Sales panel allows exporting executed trades to _CSV_ or _HTML_ files for
 
 ### Setup Actions - Filters & Actions
 
-We wrote about this functionality in the Advanced table filters and actions section, which explains in details the process of adding filters and creating different notifications. But if you have additional questions or proposals about this functional, feel free to contact us. We are here to help you!
+We wrote about this functionality in the [Advanced table filters and actions](https://help.quantower.com/getting-started/table-management#advanced-table-filter) section, which explains in details the process of adding filters and creating different notifications. But if you have additional questions or proposals about this functional, feel free to contact us. We are here to help you!
 

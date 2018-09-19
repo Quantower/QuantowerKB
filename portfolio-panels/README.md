@@ -8,7 +8,7 @@
 
 {% page-ref page="orders-history.md" %}
 
-{% page-ref page="synthetic-instruments.md" %}
+{% page-ref page="synthetic-symbols.md" %}
 
 {% page-ref page="historical-symbols.md" %}
 

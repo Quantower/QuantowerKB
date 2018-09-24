@@ -90,4 +90,5 @@
   * [Indicator with custom painting \(GDI\)](quantower-algo/indicator-with-custom-painting-gdi.md)
   * [Using markers with indicators](quantower-algo/using-markers-with-indicators.md)
   * [Downloading history](quantower-algo/downloading-history.md)
+  * [Simple strategie](quantower-algo/simple-strategie.md)
 

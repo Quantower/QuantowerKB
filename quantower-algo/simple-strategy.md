@@ -1,2 +1,2 @@
-# Simple Strategy
+# Simple strategy
 

@@ -16,9 +16,6 @@ Let's take a brief look at how it works.
 ### How to add a new historical symbol?
 
 * First, you need to [configure parameters](https://help.quantower.com/portfolio-panels/historical-symbols#symbol-settings) of the symbol that you want to load. If you want to perform backtesting, it is important to correctly set all the parameters - asset class, tick size, etc. You can borrow parameters from an existing symbol.
-
-
-
 * Import historical quotes from a .csv file or from an existing symbol. For example, download the trading history of Crude Oil from Quandl.
 
 ![Import trading history from file](../.gitbook/assets/historical-symbol-settings-import-from-file.gif)

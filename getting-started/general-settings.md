@@ -19,7 +19,7 @@ General settings are backed up automatically each 5 minutes by default and you c
 
 ### General
 
-![General settings group](../.gitbook/assets/general.png)
+![General settings group](../.gitbook/assets/general%20%281%29.png)
 
 | **Autosave settings \(every 5 minutes\)** | true | Quantower will save your application settings in Settings folder and overwrite them each 5 minutes while the application is active. It also saves on application close |
 | :--- | :--- | :--- |

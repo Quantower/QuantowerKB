@@ -17,5 +17,7 @@ Volume analysis tools include proprietary and well-known analytics, which we’l
 * [Time Histogram](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-histogram)
 * [Historical Time & Sales](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/historical-time-and-sales)
 
+ The screenshot below shows how you can activate the toolbar of volume analysis tools:
+
 ![](../../../.gitbook/assets/volume-analysis-tools-general.png)
 

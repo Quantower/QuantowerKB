@@ -1,22 +1,22 @@
 # Downloading history
 
-Most of the indicators for their calculation require history only from the main symbol or symbol from the chart where they were added. But sometimes it may needs history data from another time frame or another symbol. For example if you need to calculate correlation between symbols, or if you want to compare results of Moving Average calculations on different time frames. In this topic we will show you how to do it using Quantower API and its possibilities.
+Most of the indicators for their calculation require history only from the main symbol or symbol from the chart where they were added. But sometimes it may need history data from another time frame or another symbol. For example, if you need to calculate a correlation between symbols, or if you want to compare the results of Moving Average calculations on different time frames. In this topic, we will show you how to do it using Quantower API and its possibilities. 
 
-Start point for receiving history is symbol object and method **GetHistory**. The most simple way is to specify required Period, history type and date range:
+The start point for receiving history is symbol object and method **GetHistory**. The most simple way is to specify the required Period, history type and date range:
 
 ```csharp
 // Download 15 min bars for august 2018
 IHistoricalData historicalData = Symbol.GetHistory(Period.MIN15, HistoryType.Bid, new DateTime(2018, 8, 1, 0, 0, 0, DateTimeKind.Utc), new DateTime(2018, 8, 31, 0, 0, 0, DateTimeKind.Utc));
 ```
 
-If you specify exactly left and right border - you will receive required history for this range. But if you want download history from some time in the past till now and receive real time data, you can skip right border parameter definition:
+If you specify exactly left and right border — you will receive the required history for this range. But if you want download history from some time in the past till now and receive real-time data, you can skip right border parameter definition:
 
 ```csharp
 // Download 15 min bars for last day with real time data
 IHistoricalData historicalData = Symbol.GetHistory(Period.MIN15, HistoryType.Bid, DateTime.UtcNow.AddDays(-1));
 ```
 
-The main object that represent history is **IHistoricalData** interface. It contains collection of bars or ticks and main information about downloaded history: symbol, history type, total count of items, period, etc. You can access particular item from the collection and receive **IHistoryItem** object, which provide you information about bar or tick: prices, time, volume and other. We use different classes for bars, ticks and lasts history presentation, so to get access to full data you need to convert your object to appropriate class:
+The main object that represents history is **IHistoricalData** interface. It contains a collection of bars or ticks and main information about downloaded history: symbol, history type, a total count of items, period, etc. You can access particular item from the collection and receive **IHistoryItem** object, which provides you information about bar or tick: prices, time, volume and other. We use different classes for bars, ticks and lasts history presentation, so to get access to full data you need to convert your object to appropriate class:
 
 ```csharp
 // Downloading bars history
@@ -40,11 +40,11 @@ double bidPrice = ((HistoryItemTick)historicalData[0]).Bid;
 double askPrice = ((HistoryItemTick)historicalData[0]).Ask;
 ```
 
-If you need to download history from current symbol of indicator, you can use its property Symbol. If you need history from another symbol, that should be specified in settings - you can use **InputParameter** attribute and our article describing this.
+If you need to download history from a current symbol of indicator, you can use its property Symbol. If you need history from another symbol, that should be specified in settings - you can use **InputParameter** attribute and our article describing this. 
 
-It is a time to create some practical example using knowledge's from current topic. Lets assume we need indicator that downloads 5min,15 min and 30 min history for main symbol and for additional one, that can be specified by user. Then calculates simple moving average on this history and displays results on the chart.
+It is a time to create some practical example using knowledge from the current topic. Let's assume we need an indicator that downloads 5min,15 min and 30 min history for the main symbol and for an additional one, that can be specified by the user. Then calculates simple moving average on this history and displays results on the chart. 
 
-At first we need to specify variables for required indicators and Symbol variable and mark it with **InputParameter**:
+At first, we need to specify variables for required indicators and Symbol variable and mark it with **InputParameter**:
 
 ```csharp
 /// <summary>
@@ -128,5 +128,5 @@ And the results on the chart:
 
 ![Result of SMA indicators calculations for 2 symbol and different time frames](../.gitbook/assets/results.png)
 
-In this topic we showed you the trivial example of downloading and using history. But if needed, you can use it any ways: as a source for indicators, for comparison, for displaying on the chart as overlays, for exporting data.
+In this topic, we showed you the trivial example of downloading and using history. But if needed, you can use it any ways: as a source for indicators, for comparison, for displaying on the chart as overlays, for exporting data.
 

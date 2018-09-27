@@ -1,12 +1,12 @@
 # Simple strategy
 
-In our previous articles we showed you how to use Quantower Algo extension and write your own indicators. Now we show you how to create you first strategy and run it the Quantower trading platform.
+In our previous articles, we showed you how to use Quantower Algo extension and write your own indicators. Now we show you how to create you first strategy and run it the Quantower trading platform.
 
-### What is strategy?
+## What is a Strategy?
 
-We use name "Strategy" for code, that can implement absolutely any logic and can be executed in Quantower. You can use strategies for realization of trading algorithms, specific logic of controlling closing orders \(for example Trailing stop\), for arbitrage between different connections, etc. We don't have any restrictions or limitations for this, moreover we provide you access to almost all functions from our trading core.
+We use the name "Strategy" for code, that can implement absolutely any logic and can be executed in Quantower. You can use strategies for the realization of trading algorithms, a specific logic of controlling closing orders \(for example Trailing stop\), for arbitrage between different connections, etc. We don't have any restrictions or limitations for this, moreover, we provide you access to almost all functions from our trading core. 
 
-Quantower Algo provides you two predefined templates of strategies. We will start from blank template, which contains only basis functions. Use "File -&gt; New project" in the main menu of Visual Studio to open "New project" window. Find "Quantower Algo" group and select Strategy" template:
+Quantower Algo provides you with two predefined templates of strategies. We will start from a blank template, which contains only basic functions. Use "_**File -&gt; New project**_" in the main menu of Visual Studio to open "**New project**" window. Find "**Quantower Algo**" group and select Strategy" template:
 
 ![New Project window and Strategy template](../.gitbook/assets/general.png)
 
@@ -14,39 +14,45 @@ You will get generated code with a few empty functions:
 
 ![Source code for Strategy template](../.gitbook/assets/empty-code.png)
 
-As you can see, this blank version is not related to any trading functionality - it is a just general code-basis. It is inherited of class Strategy, by this Quantower recognize that you code is compatible and can be executed in Quantower. Let's go deep into the code - it contains a few methods:
+As you can see, this blank version is not related to any trading functionality - it is a just general code-basis. It is inherited of class Strategy, by this Quantower recognize that your code is compatible and can be executed in Quantower. 
 
-**OnCreated**
+## Basic methods
 
-Will be called when user select required strategy from Strategy lookup. Use this method to implement logic, that need to be executed once on creation.
+Let's go deep into the code - it contains a few methods:
 
-**OnRun**
+### **OnCreated**
+
+Will be called when user select required strategy from Strategy lookup. Use this method to implement logic, that needs to be executed once on creation.
+
+### **OnRun**
 
 Will be called when user press Run button in Strategy Runner panel. Use this method to set initial values before running.
 
-**OnStop**
+### **OnStop**
 
 Will be called when user press Stop button in Strategy Runner panel. Use this method to clear state of your strategy \(if required\).
 
-**OnRemove**
+### **OnRemove**
 
-Will be called when user close Strategy Runner Panel or select another strategy. Use this method for final clearing used resources
+Will be called when user close Strategy Runner Panel or select another strategy. Use this method for final clearing used resources.
 
-**OnGetMetrics**
+### **OnGetMetrics**
 
-Via this method you can display required information in Strategy Panel and control your strategy. For example you can display how many quotes were processes, or how many but or sell orders were send, etc.
+Via this method, you can display the required information in the Strategy Panel and control your strategy. For example, you can display how many quotes were processes, or how many but or sell orders were sent, etc.
 
 {% hint style="info" %}
-You don't need to add logic to all this methods, the most often used is pair of **OnRun**/**OnStop** methods.
+You don't need to add logic to all these methods, the most often used is a pair of **OnRun/OnStop** methods.
 {% endhint %}
 
-The most popular case is when you use strategy to implement some trading algorytthm and you need only one instrument and one account for this. For this we have a predefined template - you can use it as a basis. Use "One symbol strategy" in "New project" window:
+The most popular case is when you use strategy to implement some trading algorithm and you need only one instrument and one account for this. For this we have a predefined template - you can use it as a basis. Use "One symbol strategy" in "New project" window:
 
 ![New Project window and One symbol strategy template](../.gitbook/assets/onesymbolstrategy.png)
 
-Now we have a little more code - strategy contains Symbol and Account input variables, which we described before. It subscribes to all type of quotes for selected symbol in OnRun\(\) method and you can receive and process them if it required by your algorythm.
+Now we have a little more code - strategy contains Symbol and Account input variables, which we described before. It subscribes to all type of quotes for selected symbol in **OnRun\(\)** method and you can receive and process them if it required by your algorithm.
 
-But let's create some trivial example and try to run it in the Quantower platform. We will talk about retrieving current trading information and trading operations in our next articles, for current moment we just add a counters for each type of quotes and strategy metrics for displaying in Strategy Runner panel. We will add examples of logs also - you should always use them, as it can help you to understand current strategy state or display error information. You can specify type of log: Info, Error or Trading.
+## Example
+
+Let's create some trivial example and try to run it in the Quantower platform. We will talk about retrieving current trading information and trading operations in our next articles, for the current moment, we just add counters for each type of quotes and strategy metrics for displaying in Strategy Runner panel. We will add examples of logs also - you should always use them, as it can help you to understand the current strategy state or display error information. You can specify a type of log: **Info, Error or Trading**.
 
 ```csharp
 /// <summary>
@@ -108,13 +114,13 @@ protected override List<StrategyMetric> OnGetMetrics()
 }
 ```
 
-Build your project, and if your Quantower Algo is properly assigned to instance of Quantower, your strategy will be automatically copied to appropriate folder and you will see it  in Strategy Lookup window:
+Build your project, and if your Quantower Algo is properly assigned to an instance of Quantower, your strategy will be automatically copied to an appropriate folder and you will see it in Strategy Lookup window:
 
 ![Now your strategy is available in the Strategies Lookup](../.gitbook/assets/strategy-in-lookup.png)
 
-You need to specify required input parameters: symbol and account and then press "Run" button. Now your strategy is running and you will see logs and metrics, that we have added:
+You need to specify the required input parameters: symbol and account and then press the "**Run**" button. Now your strategy is running and you will see logs and metrics, that we have added:
 
 ![Strategy runner panel with our running strategy](../.gitbook/assets/runnoingstrategie.png)
 
-It is a very simple example and it provides you only basic knowledge about how strategies are working in Quantower. In our further lessons we will show you how to create real algorithms using analysis of your current trading portfolio and trading operations.
+It is a very simple example and it provides you only basic knowledge about how strategies are working in Quantower. In our further lessons, we will show you how to create real algorithms using analysis of your current trading portfolio and trading operations.
 

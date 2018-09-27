@@ -1,8 +1,8 @@
 # Using markers with indicators
 
-During indicators development, you may need to mark some specific point or set of points on indicator's line. For example you want to mark the place, where two lines are crossing or place, where your algorithm find a some bar pattern. Yes, you can use GDI+ drawings and **OnPaintChart** method, as we've shown in our previous topic, but Quantower API provides more simple way to accomplish this.
+During indicators development, you may need to mark some specific point or set of points on indicator's line. For example, you want to mark the place, where two lines are crossing or place, where your algorithm find some bar pattern. Yes, you can use GDI+ drawings and **OnPaintChart** method, as we've shown in our previous topic, but Quantower API provides a more simple way to accomplish this.
 
-Each indicator line contains method **SetMarker**, which allows you to assign some special style for particular element in your indicator's line buffer. The most simple way is marking it via specified color. This is an example of usage:
+Each indicator line contains method **SetMarker**, which allows you to assign some special style for the particular element in your indicator's line buffer. The most simple way is marking it via a specified color. This is an example of usage:
 
 ```csharp
 // Mark the current bar of first indicator line with Yellow color
@@ -13,18 +13,18 @@ We colored in yellow each tenth bar:
 
 ![An example of color marker](../.gitbook/assets/each10.png)
 
-Another way of marking is using icons. You can specify type of icon, it's position and color. You can use the same overridden method **SetMarker**:
+Another way of marking is using icons. You can specify a type of icon, it's position and color. You can use the same overridden method **SetMarker**:
 
 ```csharp
 // Mark current bar with yellow color and flag icon in the top position
 LinesSeries[0].SetMarker(0, new IndicatorLineMarker(Color.Yellow, IndicatorLineMarkerIconType.Flag));
 ```
 
-And a result of this displayed on the chart:
+Result is displayed on the chart:
 
 ![An example of marker with icon](../.gitbook/assets/each10-flag.png)
 
-Lets create a little more usefull indicator. For example - we will mark with green up arrow, places where we have more then 5 growing candles in a row and mark with red bottom arrow, in case of 5 falling bars. This is source code implementing this logic:
+Let's create a little more useful indicator. For example - we will mark with a green up arrow, places where we have more than 5 growing candles in a row and mark with a red bottom arrow, in the case of 5 falling bars. This is source code implementing this logic:
 
 ```csharp
 /// <summary>

@@ -16,7 +16,7 @@ You can [download Visual Studio from official web site](https://visualstudio.mic
 
 Download web installer and run it. After initialization, you will be prompted to select the required components. For using with Quantower Algo extension we need only "NET desktop development" workload. You can uncheck optional components also, to reduce installation size:
 
-![Minimal required installation](../.gitbook/assets/select_components.png)
+![Minimal required installation](../.gitbook/assets/screenshot_1dd.png)
 
 Continue installation and in a few minutes, after downloading and applying required packages, Visual Studio will start automatically:
 

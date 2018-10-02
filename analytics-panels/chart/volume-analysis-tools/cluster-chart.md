@@ -17,5 +17,9 @@ Using this information, a trader can evaluate:
 
 ![General view of Cluster chart which shows Trades and Delta](../../../.gitbook/assets/cluster-chart-general-view.png)
 
+### How to look inside the chart?
+
+
+
 
 

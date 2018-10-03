@@ -6,6 +6,7 @@
   * [First start](getting-started/first-start.md)
   * [Control center](getting-started/control-center.md)
   * [Connections manager](getting-started/connections-manager.md)
+  * [Emulator \(DEMO mode\)](getting-started/emulator-demo-mode.md)
   * [Workspaces, Binds, Groups](getting-started/workspaces-binds-groups.md)
   * [Templates](getting-started/templates.md)
   * [Symbols lookup](getting-started/instruments-lookup.md)

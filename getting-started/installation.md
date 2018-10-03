@@ -12,6 +12,14 @@ What does it mean? The program doesn't violate the integrity of the OS, and in c
 
 This approach allows you to store \(and launch\) the Quantower on removable drive for use on any other computer as the portable application. It can be convenient when you need to move Quantower with all of its settings to another PC; just copy Quantower folder and paste where you need.
 
+### PC requirements
+
+{% hint style="info" %}
+* Windows 7, 8.1, 10
+* .NET Framework v.4.6.2
+* Available disk space — 1 GB \(depends on the volume of loaded history\)
+{% endhint %}
+
 ## Installation steps
 
 ![Quantower installer screen](../.gitbook/assets/quantower_setup.png)

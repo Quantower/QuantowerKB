@@ -21,6 +21,8 @@ Using this information, a trader can evaluate:
 
 Cluster chart has various settings allowing to display volume data from different sides. For example, you can choose different types of data for each bar, as well as configure colors, which will simplify the perception and analysis of volumes.
 
+![Select different data types for Cluster chart](../../../.gitbook/assets/cluster-data-type.gif)
+
 The main data types for cluster chart:
 
 * **Trades** - it's the number of contracts \(trades\) that executed at each price level.

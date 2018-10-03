@@ -6,6 +6,8 @@ description: >-
 
 # Cluster chart
 
+### What is Cluster chart?
+
 **Cluster chart**, known as Footprint chart in other trading platforms, is an advanced chart type that shows a comprehensive view of the candle chart. It allows to look inside the price and see all market actions. Cluster chart combines several important characteristics like time, OHLC prices, trading volume, number of buy and sell trades.
 
 Using this information, a trader can evaluate:
@@ -13,9 +15,24 @@ Using this information, a trader can evaluate:
 * trading volume, which executed for each price
 * zones of maximum volume accumulation
 * zones of high trading interest \(the maximum number of trades\)
-* the amount of buyers and sellers at each price level
+* the number of buyers and sellers at each price level
 
-![General view of Cluster chart which shows Trades and Delta](../../../.gitbook/assets/cluster-chart-general-view.png)
+![General view of Cluster chart which shows Trades and Delta at once](../../../.gitbook/assets/cluster-chart-general-view.png)
+
+### How to enable cluster chart?
+
+Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the Magnifier icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart - Cluster, Step Profile, Left Profile, Right Profile, Time Statistics, Custom Histogram.
+
+1. Click on the **Cluster** and Enable it
+2. Select the Data type \(you can select one or two different data types at once\)
+3. Customize data visualization
+4. Use advanced settings \(gear icon\) for more detailed chart customization.
+
+![Here is how you can activate Cluster chart in Quantower platform](../../../.gitbook/assets/how-to-enable-cluster-chart.gif)
+
+{% hint style="info" %}
+For more efficient analysis of cluster chart, you can display two different data types on one bar at once.
+{% endhint %}
 
 ### General settings of cluster chart
 
@@ -37,7 +54,9 @@ The main Data Types for cluster chart:
 * **Filtered volume \(value and %\)** - this parameter displays volumes that exceed the size specified in the filter. If the volume size is smaller than the one specified in the filter, then the values will be zero.
 * **Buy \(or Sell\) filtered volume** - the parameter displays Buy \(or Sell\) volumes that exceed the size specified in the filter.
 
-{% hint style="info" %}
-For more efficient analysis of cluster chart, you can display two different data types on one bar at once.
-{% endhint %}
+### How to set the filtered volume?
+
+For all volume analysis tools, there are general settings that allow you to set Filtered volume, and configure the step for aggregating volume data.
+
+
 

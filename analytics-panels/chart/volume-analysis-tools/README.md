@@ -21,3 +21,11 @@ Volume analysis tools include proprietary and well-known analytics, which we’l
 
 ![](../../../.gitbook/assets/volume-analysis-tools-general.png)
 
+{% hint style="info" %}
+Green shows enabled volume analysis tools that have entirely downloaded data.   
+Yellow shows tools that enabled but the data for their work is loaded.
+{% endhint %}
+
+  
+
+

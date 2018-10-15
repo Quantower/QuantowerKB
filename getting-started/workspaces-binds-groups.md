@@ -38,7 +38,7 @@ This menu usually consists of following functions:
 * **Duplicate panel**. Just creates one more totally similar panel.
 * **Settings**. Personal settings per each panel. Opens a Settings screen where you can tune your panel as you like and then, in case of need, save these settings as Defaults.
 
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=JwFp0COSuuA\",\"type\":\"video\",\"title\":\"How to: Panels linking\",\"description\":\"One of the most popular tools for trading symbol switching in your panels — is a Panels linking. This allows you to link several panels by Symbol parameter and then switch it in all linked panels when changing in one of them.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/JwFp0COSuuA/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/JwFp0COSuuA?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/JwFp0COSuuA?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778},\"caption\":\"Panels linking\"}" %}
+{% embed url="https://www.youtube.com/watch?v=JwFp0COSuuA" caption="Panels linking" %}
 
 ## Groups
 

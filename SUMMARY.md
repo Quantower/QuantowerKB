@@ -93,4 +93,5 @@
   * [Downloading history](quantower-algo/downloading-history.md)
   * [Simple strategy](quantower-algo/simple-strategy.md)
   * [Access to trading portfolio](quantower-algo/access-to-trading-portfolio.md)
+  * [Trading operations](quantower-algo/trading-operations.md)
 

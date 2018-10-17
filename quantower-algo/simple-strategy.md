@@ -1,3 +1,7 @@
+---
+description: How to create you first strategy and run it the Quantower trading platform
+---
+
 # Simple strategy
 
 In our previous articles, we showed you how to use Quantower Algo extension and write your own indicators. Now we show you how to create you first strategy and run it the Quantower trading platform.

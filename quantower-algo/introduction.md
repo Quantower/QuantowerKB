@@ -1,3 +1,9 @@
+---
+description: >-
+  Create indicators and strategies, as well as platform extensions: plugins,
+  Custom columns, connectors with brokers etc
+---
+
 # Introduction
 
 ## General idea

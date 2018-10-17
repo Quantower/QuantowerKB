@@ -1,7 +1,7 @@
 ---
 description: >-
-  In this topic, we will show how to install Visual Studio and Quantower Algo
-  extension, which allows you to create your own indicators and strategies.
+  How to install Visual Studio and Quantower Algo extension, and create your own
+  indicators and strategies
 ---
 
 # Install for Visual Studio

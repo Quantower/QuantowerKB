@@ -1,3 +1,9 @@
+---
+description: >-
+  Access an info about current opened positions, placed orders or history of
+  your trades
+---
+
 # Access to trading portfolio
 
 Usually, an algorithm of trading strategy requires an access to various trading information for making decisions. It can be your current opened positions, placed orders or history of your trades. Sometimes you may need also detail information about your account or symbol, you are going to trade on. Quantower API provides you full access to all this information and even more. In this topic, we will show how to retrieve it and use in your strategies or indicators

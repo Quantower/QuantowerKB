@@ -1,3 +1,7 @@
+---
+description: Modify your indicators or strategies behavior using a set of Input parameters
+---
+
 # Input Parameters
 
 ## General

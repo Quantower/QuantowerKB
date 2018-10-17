@@ -1,6 +1,10 @@
+---
+description: Using historical data for indicator or strategy calculations
+---
+
 # Downloading history
 
-Most of the indicators for their calculation require history only from the main symbol or symbol from the chart where they were added. But sometimes it may need history data from another time frame or another symbol. For example, if you need to calculate a correlation between symbols, or if you want to compare the results of Moving Average calculations on different time frames. In this topic, we will show you how to do it using Quantower API and its possibilities. 
+Most of the indicators require history for their calculation only from the main symbol or symbol from the chart where they were added. But sometimes it may need history data from another time frame or another symbol. For example, if you need to calculate a correlation between symbols, or if you want to compare the results of Moving Average calculations on different time frames. In this topic, we will show you how to do it using Quantower API and its possibilities.
 
 The start point for receiving history is symbol object and method **GetHistory**. The most simple way is to specify the required Period, history type and date range:
 

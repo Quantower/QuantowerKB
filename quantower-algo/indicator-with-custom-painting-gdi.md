@@ -1,3 +1,7 @@
+---
+description: Draw any graphical objects on the chart using the GDI+ library
+---
+
 # Indicator with custom painting \(GDI\)
 
 ## Introduction

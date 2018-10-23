@@ -68,5 +68,7 @@ Select **Filtered Volume** as the data type in clusters to display them on the c
 
 ### What is Custom step and how to set it properly?
 
+Cluster chart shows volume data at each price level for a specified period. But with a large number of levels, the cluster chart becomes difficult to read. 
 
+**Custom step** summarizes the volume data of as many price levels as specified in the setting. By default, the value of the custom step is set to 1 tick, which means the volume data are shown at each price level.
 

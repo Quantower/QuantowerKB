@@ -21,7 +21,7 @@ Using this information, a trader can evaluate:
 
 ### How to enable cluster chart?
 
-Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the Magnifier icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart - Cluster, Step Profile, Left Profile, Right Profile, Time Statistics, Custom Histogram.
+Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the "_**Magnifier**_" icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart  — Cluster, Step Profile, Left Profile, Right Profile, Time Statistics, Custom Histogram.
 
 1. Click on the **Cluster** and Enable it
 2. Select the Data type \(you can select one or two different data types at once\)
@@ -31,7 +31,7 @@ Before activating a cluster chart, you need to enable the Volume Analysis Toolba
 ![Here is how you can activate Cluster chart in Quantower platform](../../../.gitbook/assets/how-to-enable-cluster-chart.gif)
 
 {% hint style="info" %}
-For more efficient analysis of cluster chart, you can display two different data types on one bar at once.
+For more efficient analysis with cluster chart, you can display two different data types on one bar at once.
 {% endhint %}
 
 ### General settings of cluster chart
@@ -56,7 +56,17 @@ The main Data Types for cluster chart:
 
 ### How to set the filtered volume?
 
-For all volume analysis tools, there are general settings that allow you to set Filtered volume, and configure the step for aggregating volume data.
+For all volume analysis tools, there are general settings that allow you to set Filtered volume, and configure the step for aggregating volume data. On highly liquidity assets like Bitcoin or futures on the S&P500, the trading volume for a trading session is large. Set the minimum volume values that will be displayed on the chart. This will allow you to focus on significant price levels and more clearly see zones of support/resistance.
+
+{% hint style="info" %}
+Each instrument has individual settings for the filtered volume depending on liquidity.
+{% endhint %}
+
+![Filtered volume in general settings of Volume Analysis](../../../.gitbook/assets/filtered-volume.png)
+
+Select **Filtered Volume** as the data type in clusters to display them on the chart. All values that are less than the filtered volume are presented as zeros.
+
+### What is Custom step and how to set it properly?
 
 
 

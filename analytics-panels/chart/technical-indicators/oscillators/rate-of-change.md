@@ -1,6 +1,6 @@
 # Rate of Change
 
-## Description {#description}
+## Description <a id="description"></a>
 
  Rate of change is the same indicator as Momentum and also shows an acceleration of price movement. But instead of Momentum, Rate of Change is expressed  in percantage value. Simply put ROC  measures the percentage change in price between the current price and the price N-periods in the past.  
 
@@ -8,7 +8,7 @@ Rate of change can be used in variety of different ways. In addition to being us
 
 ![](../../../../.gitbook/assets/image%20%2818%29.png)
 
-## Formula {#formula}
+## Formula <a id="formula"></a>
 
  ROC = \(Close - Close\(N-periods ago\)\)/Close\(N-periods ago\) x 100
 

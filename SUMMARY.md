@@ -24,6 +24,7 @@
       * [Points & Figures](analytics-panels/chart/chart-types/points-and-figures.md)
       * [Range bars](analytics-panels/chart/chart-types/range-bars.md)
       * [Line break](analytics-panels/chart/chart-types/line-break.md)
+    * [Chart overlays](analytics-panels/chart/chart-overlays.md)
     * [Technical indicators](analytics-panels/chart/technical-indicators/README.md)
       * [Oscillators](analytics-panels/chart/technical-indicators/oscillators/README.md)
         * [Moving Average Convergence/Divergence](analytics-panels/chart/technical-indicators/oscillators/moving-average-convergence-divergence.md)

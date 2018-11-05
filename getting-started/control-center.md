@@ -78,7 +78,7 @@ This feature is useful in case you would like to only analyze the market or whil
 
 ## Workspaces manager
 
-{% embed url="https://www.youtube.com/watch?v=EoM78qCdJRM" %}
+{% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="Create and save your workspace in Quantower" %}
 
 One of the most vital parts of the Control center is the Workspaces manager. It allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
 

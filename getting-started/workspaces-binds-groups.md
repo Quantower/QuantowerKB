@@ -89,6 +89,8 @@ Because of its nature \(the global grouping tool\), Workspaces manager is situat
 
 As a top-level grouping layer, Workspaces store all their contents in special local files. These files can be found in _**Quantower -&gt; Settings -&gt; Workspaces**_ folder. Each file represents some workspace; both have the similar names. Technically, the workspace file is an XML-document containing all of the settings of all panels that are in the workspace. 
 
+{% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="How to create and save your custom workspace" %}
+
 {% hint style="success" %}
 Quantower auto-saves each workspace into its local file every 5 mins, in order to keep them safe.
 {% endhint %}

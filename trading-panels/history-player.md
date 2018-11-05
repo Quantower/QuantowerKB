@@ -10,6 +10,8 @@ Therefore Quantower provides the **History Player panel** for simple manual back
 
 History Player allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders \(quotation date feeds like IQFeed or crypto exchange\).
 
+{% embed url="https://www.youtube.com/watch?v=za-eE8ZSmV8" caption="How to backtest a trading strategy with History Player" %}
+
 ### First launch of the History Player
 
 * Start the panel from the main application menu

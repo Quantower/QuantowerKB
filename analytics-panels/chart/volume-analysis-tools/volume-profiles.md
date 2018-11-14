@@ -11,11 +11,11 @@ Quantower platform offers four types of Volume profiles:
 
 ### Step Volume Profile
 
-Step profile displays volume profiles with a certain time step. For example, set the step period to 1 hour, and you will see profiles with uniform hourly steps on the graph. By changing the data types, you will see the distribution of the trading volume, the executed trades, as well as the delta for each hour of the trading session.
+Step profile displays volume profiles with a certain time step. For example, set the step period to 1 hour, and you will see profiles with uniform hourly steps on the graph. By changing the [**data types**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools#data-types-of-volume-analysis-tools), you will see the distribution of the trading volume, the executed trades, as well as the delta for each hour of the trading session.
 
 You can enable Step Profile through the volume analysis toolbar or their settings.
 
-![](../../../.gitbook/assets/step-profile.gif)
+![Here is how you can activate Step Profile in Quantower platform](../../../.gitbook/assets/step-profile.gif)
 
 ### **General settings of step profile**
 

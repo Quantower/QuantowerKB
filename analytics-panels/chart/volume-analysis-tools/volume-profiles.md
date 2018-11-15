@@ -5,7 +5,7 @@
 Quantower platform offers four types of Volume profiles:
 
 * **Step Volume Profile**
-* **Left Volume Profile**
+* \*\*\*\*[**Left Volume Profile**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/volume-profiles#left-and-right-volume-profiles)\*\*\*\*
 * **Right Volume Profile**
 * **Custom Volume Profile**
 
@@ -20,6 +20,14 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 ### **General settings of step profile**
 
 ![Main settings of Step Volume Profile tool](../../../.gitbook/assets/step-profile-settings.png)
+
+* **Step period & Step coefficient** – determine the step to build the profile. Step period has four types –_Minute, Hour, Day, Week_.
+* **Histogram position** – places the profile on the left or right side relative to the starting point.
+* **Show totals** – this option summarizes the data based on which the profile is built.
+
+![Step profile with various data types](../../../.gitbook/assets/step-profile-data-types.gif)
+
+### Left & Right Volume Profiles
 
 
 

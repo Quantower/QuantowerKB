@@ -29,5 +29,25 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 
 ### Left & Right Volume Profiles
 
+**Left** and **Right volume profile** can be placed on the left and right side of the chart respectively. For example, you can set the delta data on one profile, and on the other the total volume for the same period of time. You can **combine several profiles** that are built on different time periods into one combo profile and put it on left or right chart position.
+
+![Quantower allows to place multiple volume profiles with different data types](../../../.gitbook/assets/left_right-profile.png)
+
+### Custom Volume Profile
+
+Custom profile allows you to create a profile for any time range.  For instance, you want to see the distribution of the delta on the flat chart or for the impulse bar.  As with other volume analysis tools, you can choose any available data types for display.
+
+![Custom volume profile can be applied to any range](../../../.gitbook/assets/custom-profile.gif)
+
+After you have placed a custom profile on the chart, a control panel with five options will appear next to it.
+
+![Control panel for custom volume profile](../../../.gitbook/assets/image%20%2814%29.png)
+
+* Dublicate profile with the same range and settings
+* Move profile to the background or foreground
+* Lock current position of the profile
+* Additional settings for selected profile
+* Delete selected profile
+
 
 

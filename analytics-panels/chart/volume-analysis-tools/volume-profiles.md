@@ -6,7 +6,7 @@ Quantower platform offers four types of Volume profiles:
 
 * **Step Volume Profile**
 * \*\*\*\*[**Left Volume Profile**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/volume-profiles#left-and-right-volume-profiles)\*\*\*\*
-* **Right Volume Profile**
+* \*\*\*\*[**Right Volume Profile**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/volume-profiles#left-and-right-volume-profiles)\*\*\*\*
 * **Custom Volume Profile**
 
 ### Step Volume Profile

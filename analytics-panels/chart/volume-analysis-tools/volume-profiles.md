@@ -17,7 +17,7 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 
 ![Here is how you can activate Step Profile in Quantower platform](../../../.gitbook/assets/step-profile.gif)
 
-### **General settings of step profile**
+#### **General settings of step profile**
 
 ![Main settings of Step Volume Profile tool](../../../.gitbook/assets/step-profile-settings.png)
 

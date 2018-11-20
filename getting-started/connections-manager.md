@@ -12,7 +12,7 @@ Each integration is developed and tested by Quantower specialists and guarantees
 
 **Connections manager** — is a screen that allows you to select from available integrations the ones you are trading with and connect to them using your accounts. While connecting to any integration, Connections manager remembers your login credentials and will use them for further auto-connects \(reconnects in case of errors\). If you don’t want to store your login credentials in manager, just click the “Lock” icon in the login form. 
 
-![Connections manager screen](../.gitbook/assets/connectionsscreen.png)
+![Connections manager screen with multiple accounts](../.gitbook/assets/multiple-accounts.gif)
 
 Connections manager screen consists of two columns: connections list & connection info. Connection info column holds an information about the active connection or Login form, in case if the current connection is not active.
 

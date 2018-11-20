@@ -27,7 +27,7 @@ The “_**Close**_” icon just closes the terminal. You may set up “_not to a
 
 Control center is the place where you can find any panel that is available under your license \(and even more\). All of the panels are placed in so-called “Sidebar” screen — the panel, popping out once you click the Logo icon on CC. 
 
-![Control center sidebar](../.gitbook/assets/ccsidebar.png)
+![Control center sidebar \(main menu\)](../.gitbook/assets/main-menu-in-control-center.png)
 
 The Sidebar consists of panels icons, grouped by the functionality. Each group can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
 
@@ -35,8 +35,7 @@ The Sidebar consists of panels icons, grouped by the functionality. Each group c
 
 The footer of Sidebar contains several functions:
 
-* “**About**” link: opens a screen with information about terminal \(core version, updates checker etc.\). If the system detects the new version of Quantower, the “NEW VERSION” button appears instead of this link;
-* “**Website**” link: opens the Quantower website;
+* “**About**” link: opens a screen with information about terminal \(version, rollback, updates checker etc.\). If the system detects the new version of Quantower, the “NEW VERSION” button appears instead of this link;
 * “**Exit**” button: closes the application.
 
 {% hint style="info" %}
@@ -104,7 +103,7 @@ You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on 
 
 In order to use our terminal, you need to have at least one active connection. The list of active connections can be seen on Control center in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](connections-manager.md) screen will be opened by clicking any of items in Favorite connections block. 
 
-![Favorite connection &amp; Connections manager screen](../.gitbook/assets/ccconnections.png)
+![Add favorite connections by clicking the &quot;Star&quot; icon](../.gitbook/assets/favorite-connections.png)
 
 In order to show some connection on this bar, you need to click a “_**Star**_” icon at the right side of connection name in Connections manager panel. Click once more, and the connection will be removed from Favorites bar.
 
@@ -142,7 +141,5 @@ The “_**Gear**_” icon opens a general settings screen, where you can setup t
 
 The Time bar is also displayed on the Control center toolbar showing you time in selected timezone. By default, your local timezone is used. You can change the time zones list by clicking the "_**Gear**_" icon and then select the required ones in [**General settings screen**](general-settings.md). You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
 
-![Time &amp; favorite timezones](../.gitbook/assets/cctime.png)
-
-
+![Switch between your favorite timezones](../.gitbook/assets/timezones.png)
 

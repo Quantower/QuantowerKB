@@ -14,6 +14,7 @@
   * [Backup & restore manager](getting-started/backup-and-restore-manager.md)
   * [General settings](getting-started/general-settings.md)
   * [Application updates](getting-started/application-updates.md)
+  * [Quantower Account](getting-started/quantower-account.md)
 * [Analytics panels](analytics-panels/README.md)
   * [Chart](analytics-panels/chart/README.md)
     * [Chart types](analytics-panels/chart/chart-types/README.md)

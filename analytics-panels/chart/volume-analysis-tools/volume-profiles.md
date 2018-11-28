@@ -1,3 +1,9 @@
+---
+description: >-
+  Volume Profile displays the trading activity over a specific time period at
+  certain price levels.
+---
+
 # Volume profiles
 
 **Volume Profile** displays the trading activity over a specific time period at certain price levels. Meaning, it shows what was bought and sold at those current levels, and displays them in a histogram on the side of your chart. Volume Profile allows you to see the zones of maximum trading interest, and as a consequence, the "true" support/resistance levels.
@@ -21,7 +27,7 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 
 ![Main settings of Step Volume Profile tool](../../../.gitbook/assets/step-profile-settings.png)
 
-* **Step period & Step coefficient** – determine the step to build the profile. Step period has four types –_Minute, Hour, Day, Week_.
+* **Step period & Step coefficient** – determines the step to build the profile. Step period has four types –_Minute, Hour, Day, Week_.
 * **Histogram position** – places the profile on the left or right side relative to the starting point.
 * **Show totals** – this option summarizes the data based on which the profile is built.
 
@@ -45,9 +51,16 @@ After you have placed a custom profile on the chart, a control panel with five o
 
 * Dublicate profile with the same range and settings
 * Move profile to the background or foreground
-* Lock current position of the profile
-* Additional settings for selected profile
+* Lock current position of the profile. Prohibits the profile movement.
+* **Additional settings** for selected profile
 * Delete selected profile
 
+### Additional settings for custom profile
+
+In addition to the settings for quick management of custom profile, there are additional settings. Let's take a closer look at what you can customize.
+
+![Additional settings for custom volume profile](../../../.gitbook/assets/additional-settings-for-custom-profile.png)
+
+  
 
 

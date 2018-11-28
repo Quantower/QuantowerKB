@@ -7,7 +7,7 @@ description: >-
 
 # Time histogram
 
-Time Histogram is similar to Time Statistics tool that shows volume data as a vertical histogram for each bar. But unlike Time statistics, it allows you to visually evaluate the data for each bar, not only by colors but also by the shape of the histogram.
+**Time Histogram** is similar to [Time Statistics](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-statistics) tool that shows volume data as a vertical histogram for each bar. But unlike Time statistics, it allows you to visually evaluate the data for each bar, not only by colors but also by the shape of the histogram.
 
 ![Time histogram on the chart &#x2014; general view](../../../.gitbook/assets/time-histogram-general-view.png)
 
@@ -23,12 +23,6 @@ Click on the **Time Histogram** and switch the button **"Enable"** to activate t
 
 ![Set the height of time histogram \(%\) that will fill the chart area](../../../.gitbook/assets/height-of-time-histogram.png)
 
-* **Data types** — various types of volume data that can be displayed on a chart. There are trades, volume, bid & ask trades and volume, filtered data, etc. The full list with descriptions of these data types you can find in our Help documentation that describes general information about Volume Analysis Tools.
+* **Data types** — various types of volume data that can be displayed on a chart. There are trades, volume, bid & ask trades and volume, filtered data, etc. The full list with descriptions of these data types you can find in our Help documentation that describes general information about [**Volume Analysis Tools**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools).
 * **Value label and Data type color** — here you set the color settings for the font and the histogram, respectively.
-
-  
-
-
-  
-
 

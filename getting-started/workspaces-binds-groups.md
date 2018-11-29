@@ -24,9 +24,9 @@ Standalone panels are the minor elements of any Workspace and they behave just l
 * can stick its size to repeat the dimensions of other panels, while resizing;
 * can be collapsed to the OS taskbar as usual windows
 
-### Panel context
+### Panel's context menu
 
-Each panel has its own context menu, situated on the left top corner, right before the Panel’s title.
+Each panel has its own context menu, situated on the left upper corner, right before the Panel’s title.
 
 ![Panel&apos;s context menu](https://lh6.googleusercontent.com/-iQVWMryKAS9A1MU-LIEvo7pZ4HB0GW04Cacbx1-1wBc_M71xzEk9weD-3rVI39NMhI6zfeOUhkoqVy1Ue_XUBc2uECxBpLAB4hOhwqaZ0JEc-ePWfS5n5Uxn7tkxfyX9Yvkgoyu)
 
@@ -34,8 +34,10 @@ This menu usually consists of following functions:
 
 * **Link**. Allows linking several panels by common symbol using the Color definition. Just select one link color in two panels and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
 * **Create bind**. Combining several panels in Super-panel. More in corresponding section below.
-* **Layout**. Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set Layout as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type. Made a mistake or just want to reset the settings? Press "_**Reset to Default**_" option and start from scratch.
 * **Duplicate panel**. Just creates one more totally similar panel.
+* Save as template. 
+* **Save as default.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type.
+* Help. 
 * **Settings**. Personal settings per each panel. Opens a Settings screen where you can tune your panel as you like and then, in case of need, save these settings as Defaults.
 
 {% embed url="https://www.youtube.com/watch?v=JwFp0COSuuA" caption="Panels linking" %}

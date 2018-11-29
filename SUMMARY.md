@@ -9,6 +9,7 @@
   * [Emulator \(DEMO mode\)](getting-started/emulator-demo-mode.md)
   * [Workspaces, Binds, Groups](getting-started/workspaces-binds-groups.md)
   * [Templates](getting-started/templates.md)
+  * [Set as Default](getting-started/set-as-default.md)
   * [Symbols lookup](getting-started/instruments-lookup.md)
   * [Table management](getting-started/table-management.md)
   * [Backup & restore manager](getting-started/backup-and-restore-manager.md)

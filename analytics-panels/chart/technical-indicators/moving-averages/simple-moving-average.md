@@ -4,17 +4,17 @@
 
 A Simple moving average is a trend following indicator that calculates as a mathematical mean of price smoothed on selected period of time. In trading practice commonly uses a combination of moving averages, combined together to the one group. This group then uses to determine a trend.
 
-![](../../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../../.gitbook/assets/image%20%2813%29.png)
 
 ## Formula
 
-![](../../../../.gitbook/assets/image%20%288%29.png)
+![](../../../../.gitbook/assets/image%20%2811%29.png)
 
 ## Most useful cases
 
 * **Trend following** - group of SMA allows you to determing a new wave of trend or correction. Also it gives you information about the strenght of current trend wave, to do it trader needs to look at the distance between every SMA ****
 
-![](../../../../.gitbook/assets/image%20%2817%29.png)
+![](../../../../.gitbook/assets/image%20%2820%29.png)
 
 
 

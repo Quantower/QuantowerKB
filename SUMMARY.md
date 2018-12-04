@@ -55,6 +55,7 @@
   * [Watchlist](analytics-panels/watchlist.md)
   * [Time & Sales](analytics-panels/time-and-sales.md)
   * [Order flow surface](analytics-panels/order-flow-surface.md)
+  * [Option Analytics](analytics-panels/option-analytics.md)
 * [Trading panels](trading-panels/README.md)
   * [Order Entry](trading-panels/order-entry/README.md)
     * [Order Types](trading-panels/order-entry/order-types.md)

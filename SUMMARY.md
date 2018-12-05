@@ -2,6 +2,7 @@
 
 * [Welcome to Quantower Help](README.md)
 * [Getting started](getting-started/README.md)
+  * [What's new](getting-started/latest-version.md)
   * [Installation](getting-started/installation.md)
   * [First start](getting-started/first-start.md)
   * [Platform update](getting-started/application-updates.md)

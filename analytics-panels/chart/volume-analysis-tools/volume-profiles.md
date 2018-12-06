@@ -47,7 +47,7 @@ Custom profile allows you to create a profile for any time range.  For instance,
 
 After you have placed a custom profile on the chart, a control panel with five options will appear next to it.
 
-![Control panel for custom volume profile](../../../.gitbook/assets/image%20%2817%29.png)
+![Control panel for custom volume profile](../../../.gitbook/assets/image%20%2819%29.png)
 
 * Dublicate profile with the same range and settings
 * Move profile to the background or foreground

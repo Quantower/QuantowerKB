@@ -6,11 +6,11 @@ Standart deviation indicator statisticy measures  the dispersion of a price rela
 
 In case of price movement, higher STD means higher volatility of an instrument, for example if we compare two assets, the asset with higher standard deviation will be more risky for an investment.
 
-![](../../../../.gitbook/assets/image%20%2816%29.png)
+![](../../../../.gitbook/assets/image%20%2818%29.png)
 
 ##  Formula
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../../.gitbook/assets/image%20%2816%29.png)
 
 Where:  
 **N** - period of calculation\(number of observations\)  
@@ -23,7 +23,7 @@ Where:
 * **Volatility measurement** - the most usefull case of STD usage is to determing a statistical volatility, understanding of this value is very usefull to find best positions of potential stop loss and take profit levels. It protects existing positions of small price fluctuations and random breakout of levels. 
 * **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high\(low\) of the price not confirmed with a new high of STD. This is a very good approach to find a weakness of existing trend.
 
-![](../../../../.gitbook/assets/image%20%2815%29.png)
+![](../../../../.gitbook/assets/image%20%2817%29.png)
 
 
 

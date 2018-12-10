@@ -1,4 +1,4 @@
 # Chart overlays
 
-[https://youtu.be/MafWv\_TMaa8](https://youtu.be/MafWv_TMaa8)
+{% embed url="https://youtu.be/MafWv\_TMaa8" caption="Chart Overlay. How to add multiple instruments on a single chart." %}
 

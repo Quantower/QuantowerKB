@@ -4,7 +4,7 @@
 
 The Watchlist panel is the standard table-based panel, representing a various trading info for the specified list of symbols. The list of symbols can be customized using the symbol lookup screen, available by pressing **\[ + \]** button on the toolbar, or from table context menu — “_**Add symbols**_“ option.
 
-![Watch the required symbol info using Watchlist panel](../.gitbook/assets/watchlist.png)
+![Watch the required symbol info using Watchlist panel](../.gitbook/assets/watchlist%20%281%29.png)
 
 Each symbol added to watchlist can be removed via the context menu on the symbol’s row. You can also clear all list via the context menu.
 
@@ -20,7 +20,7 @@ You may want to have a possibility to save several lists for Watchlist panel. To
 
 Once you press the **\[ SAVE \]** button, the new list will be added to the Favorites and became available from the _**“Saved lists”**_ drop-down on the toolbar.
 
-![Favorite lists drop-down](../.gitbook/assets/watchlist_list.png)
+![Favorite lists drop-down](../.gitbook/assets/lists-in-the-watchlist.png)
 
 Using the _**“Favorite lists”**_ drop-down, you can manage the current saved lists \(edit name, remove\) and initiate the current list save.
 
@@ -30,9 +30,15 @@ Please notice. When you click on any of favorite lists it will be added below th
 
 ## Indicators
 
-The Watchlist panel supports the indicators value display in separate columns. In order to add some indicator, just right-click on watchlist table and proceed to _**"Indicators" -&gt; "Add indicator"**_ option. This opens an indicators lookup screen, where you should select the required one.
+The Watchlist panel supports the indicators value display in separate columns. In order to add some indicator, thare are two ways to to it:
 
-![Indicators in watchlist are very useful](../.gitbook/assets/watchlist_indicators.png)
+* right-click on watchlist table and proceed to _**"Indicators" -&gt; "Add indicator"**_ option. This opens an indicators lookup screen, where you should select the required one.
+
+![Indicators in watchlist are very useful](../.gitbook/assets/indicators-watchlist-first-way.png)
+
+* through the icon _**"Add indicator"**_ in the upper right corner of the Watchlist panel
+
+![There are two ways to add indicators in the panel](../.gitbook/assets/indicators-watchlist-second-way.png)
 
 When you select an indicator, you will see the new column \(with the selected indicator name\) added to the right side of watchlist table. To remove indicator, go to the Indicators category in the context menu and click the _**“Remove Indicator Name”**_ option.
 

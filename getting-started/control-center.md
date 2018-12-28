@@ -23,6 +23,16 @@ Due to the fact that CC is the main controlling panel it has an ability to colla
 
 The “_**Close**_” icon just closes the terminal. You may set up “_not to ask to confirm the closing_” setting in the pop-up screen while the first closing.
 
+### Customization for Control Center
+
+Control center is the starting point of all terminal, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., right-click on the context menu and go to View section. By clicking on the ticks, the controls will appear at the control center.
+
+![Right click on the control center will bring up the addtional settings window ](../.gitbook/assets/customization-of-control-center.png)
+
+ We have also added the ability to quickly call the controls without displaying them on the control center.
+
+![Additional settings of Control Center](../.gitbook/assets/customization-of-control-center2.png)
+
 ## Sidebar
 
 Control center is the place where you can find any panel that is available under your license \(and even more\). All of the panels are placed in so-called “Sidebar” screen — the panel, popping out once you click the Logo icon on CC. 

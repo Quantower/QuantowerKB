@@ -16,8 +16,13 @@ This approach allows you to store \(and launch\) the Quantower on removable driv
 
 {% hint style="info" %}
 * Windows 7, 8.1, 10
-* .NET Framework v.4.6.2
+* .NET Framework v.4.7
 * Available disk space — 1 GB \(depends on the volume of loaded history\)
+{% endhint %}
+
+{% hint style="warning" %}
+Microsoft has officially stopped supporting Windows 8. Therefore, when you purchase a license, you will not be able to log in to the application under your account. In the free version, all available functionality of the platform will work properly.   
+We recommend updating Windows to version 10.
 {% endhint %}
 
 ## Installation steps

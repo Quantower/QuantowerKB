@@ -23,7 +23,7 @@ General settings are backed up automatically every 5 minutes by default and you 
 
 | **Theme** | List | Сhoose one of the 6 color schemes that suits you best |
 | :--- | :--- | :--- |
-| **Language \(beta\)** | List | Quantower supports 15 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual how to make changes in selected language.  |
+| **Language \(beta\)** | List | Quantower supports 15 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual [how to make changes in selected language](https://help.quantower.com/customization/localization).  |
 | **Autosave settings \(every 5 minutes\)** | true | Quantower will save your application settings in "Settings" folder and overwrite them every 5 minutes while the application is active. It also saves on application close |
 | **Display quantity in lots** | true |  |
 | **Abbreviate volume & ticks** | true |  |

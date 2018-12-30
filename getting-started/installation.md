@@ -27,7 +27,7 @@ We recommend updating Windows to version 10.
 
 ## Installation steps
 
-![Quantower installer screen](../.gitbook/assets/quantower_setup.png)
+![Quantower installer screen](../.gitbook/assets/extract-files-quantower.png)
 
 1. [Download the app installer](https://quantower.com) and launch the _**Quantower.exe**_ file
 2. Select the folder to extract application files
@@ -46,6 +46,4 @@ From this moment you can start trading and analysis as well as workspace modific
 If you need to uninstall the application, just delete the folder with all application files. You may also keep your personal settings \(connection information & workspaces\) by copying the Settings folder \(can be found right in Quantower folder\) before application delete. These Settings folder can be pasted to any other Quantower folder later.
 
 You may also refer to [Backup & Restore manager](backup-and-restore-manager.md) to backup your settings in one file and restore them later.
-
-
 

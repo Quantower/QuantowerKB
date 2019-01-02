@@ -5,8 +5,9 @@
 General settings — is a screen, where you can set up the most common behavior of the whole Quantower application. It is logically grouped into several tabs: 
 
 * General
+* Control Center
 * Sounds
-* Confirmations & warnings
+* Confirmations & Warnings
 * Time zone settings
 
 {% hint style="info" %}

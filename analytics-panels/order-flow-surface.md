@@ -8,5 +8,7 @@ Unlike other types of charts, such as Footprint \(or Cluster chart\), the Order 
 
 ![Order Flow Surface panel shows the evolution of all limit orders in Order Book](../.gitbook/assets/order-flow-surface.png)
 
+### **How To Interpret The Order Flow Chart**
 
+\*\*\*\*
 

@@ -41,3 +41,17 @@ In addition to visualizing the flow of limit orders, there are Volumetric Analys
 
 More information about each tool can be found in our documentation in the Analytical Panels — Chart — [Volume Analysis Tools](chart/volume-analysis-tools/) section.
 
+### General Settings
+
+In the panel's general settings there are a number of settings that are identical in other panels, but some are specific to Order Flow.
+
+![](../.gitbook/assets/general-settings-of-order-flow.png)
+
+**Aggregation mode**  — allows you to adjust the brightness of levels depending on the specified volume value. There are two modes: _**Auto, Custom**_.
+
+For example, let's set the value to 20. All levels where the volume is equal to or exceeds this value will have the brightest color. All levels with the volume less than the set value will have a less vivid coloring proportional to the volume on them.
+
+**Number of Levels** — shows the number of price levels in each direction from Best Bid and Best Offer.
+
+**Coloring scheme** — choice of visual representation of Order Book Heatmap. There are two modes: _**Histogram, Gradient**_.
+

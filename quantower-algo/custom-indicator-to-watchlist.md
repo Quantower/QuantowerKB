@@ -8,7 +8,7 @@ description: >-
 
 ### **How to make an indicator compatible with 'Watchlist’**
 
-Ok, let’s imagine, you have created a custom indicator and it works correctly when you add it to the ‘Chart’. But you want to add it to the ‘Watchlist’ panel too. Yes, Quantower supports this [feature](https://help.quantower.com/analytics-panels/watchlist#indicators). Open ‘Watchlist’ -&gt; click on ‘Indicators lookup’ -&gt; and… you can’t find it. Hmm, something is wrong. And two questions come up: _“Why I can’t see it on the list?”_ and _“How can I add my indicator to the list?”_.
+Ok, let’s imagine, you have created a custom indicator and it works correctly when you add it to the ‘Chart’. But you want to add it to the ‘Watchlist’ panel too. Yes, Quantower supports this [**feature**](https://help.quantower.com/analytics-panels/watchlist#indicators). Open ‘Watchlist’ -&gt; click on ‘Indicators lookup’ -&gt; and… you can’t find it. Hmm, something is wrong. And two questions come up: _“Why I can’t see it on the list?”_ and _“How can I add my indicator to the list?”_.
 
 Well, the reason is that your indicator doesn’t implement special **"IWatchlistIndicator"** interface. This is the marker which is used for filtering content into ‘Indicators lookup’ in ‘Watchlist’.
 
@@ -19,9 +19,9 @@ public class Best_Indicator : Indicator, IWatchlistIndicator
     }
 ```
 
-**For example:** Quantower platform has the built-in "_Price Action Zones_" indicator. It’s designed only for work on the ‘Chart’ panel because it uses [custom drawing](https://help.quantower.com/quantower-algo/indicator-with-custom-painting-gdi). It doesn’t implement this interface, and you can’t use it in the ‘Watchlist’.
+**For example:** Quantower platform has the built-in "_Price Action Zones_" indicator. It’s designed only for work on the ‘Chart’ panel because it uses [**custom drawing**](https://help.quantower.com/quantower-algo/indicator-with-custom-painting-gdi). It doesn’t implement this interface, and you can’t use it in the ‘Watchlist’.
 
-Ok, let’s remember. Before adding the indicator to the chart you need to select [‘TimeFrame’ and ‘Depth of history’](https://help.quantower.com/analytics-panels/chart#top-toolbar). But after adding an indicator to the ‘Watchlist’ you can customize input parameters and timeframe only. Hmm… “How does the Watchlist understand how deep the history needs to be downloaded?”.
+Ok, let’s remember. Before adding the indicator to the chart you need to select [‘**TimeFrame’ and ‘Depth of history**’](https://help.quantower.com/analytics-panels/chart#top-toolbar). But after adding an indicator to the ‘Watchlist’ you can customize input parameters and timeframe only. Hmm… “How does the Watchlist understand how deep the history needs to be downloaded?”.
 
 ![Input parameters of any indicator on Watchlist panel](../.gitbook/assets/input-parameters-of-indicatos-on-watchlist.png)
 

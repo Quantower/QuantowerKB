@@ -46,3 +46,5 @@ When you select an indicator, you will see the new column \(with the selected in
 Some indicators need time to calculate their values. You will see the “Initializing...” text in such cells.
 {% endhint %}
 
+If you have created \(or added\) a custom indicator in the platform and want to add it to the Watchlist panel, you need to add an additional parameter to the code. More information about how to do this is given in our guide "[**Adding a custom indicator to Watchlist**](../quantower-algo/custom-indicator-to-watchlist.md)".
+

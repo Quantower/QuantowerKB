@@ -96,6 +96,7 @@
   * [Built-In indicators access](quantower-algo/built-in-indicators.md)
   * [Indicator with custom painting \(GDI\)](quantower-algo/indicator-with-custom-painting-gdi.md)
   * [Using markers with indicators](quantower-algo/using-markers-with-indicators.md)
+  * [Adding a custom indicator to Watchlist](quantower-algo/custom-indicator-to-watchlist.md)
   * [Downloading history](quantower-algo/downloading-history.md)
   * [Simple strategy](quantower-algo/simple-strategy.md)
   * [Access to trading portfolio](quantower-algo/access-to-trading-portfolio.md)

@@ -6,6 +6,8 @@ description: >-
 
 # Cluster chart
 
+{% embed url="https://youtu.be/xnUxEjMrKKM" %}
+
 ### What is Cluster chart?
 
 **Cluster chart**, known as Footprint chart in other trading platforms, is an advanced chart type that shows a comprehensive view of the candle chart. It allows to look inside the price and see all market actions. Cluster chart combines several important characteristics like time, OHLC prices, trading volume, number of buy and sell trades.
@@ -21,7 +23,7 @@ Using this information, a trader can evaluate:
 
 ### How to enable cluster chart?
 
-Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the "_**Magnifier**_" icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart  — Cluster, Step Profile, Left Profile, Right Profile, Time Statistics, Custom Histogram.
+Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the "_**Magnifier**_" icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart — _Cluster,_ [_Step Profile, Left Profile, Right Profile_](volume-profiles.md)_,_ [_Time Statistics_](time-statistics.md)_,_ [_Time Histogram_](time-histogram.md)_,_ [_Historical Time & Sales_](historical-time-and-sales.md)_,_ [_Custom Volume Profile_](volume-profiles.md#custom-volume-profile).
 
 1. Click on the **Cluster** and Enable it
 2. Select the Data type \(you can select one or two different data types at once\)
@@ -42,17 +44,18 @@ Cluster chart has various settings allowing to display volume data from differen
 
 The main Data Types for cluster chart:
 
-* **Trades** - it's the number of contracts \(trades\) that executed at each price level.
-* **Buy \(or Sell\) trades** - it's the number of Buy \(or Sell\) trades that executed at each price level.
-* **Volume** - the total size of all positions that executed at each price level or price range.
-* **Buy \(or Sell\) Volume** - the total size of all Buy \(or sell\) positions that executed at each price level or price range.
-* **Buy \(or Sell\) Volume, %** - shows how many percent of the total volume relates to Buy \(or Sell\) trades
-* **Delta and Delta %** - shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time.
-* **Average size** - the average volume of the position that was executed at a certain price or price range.
-* **Buy \(or Sell\) average size** - the average volume of a Buy \(Sell\) position that was executed at a specific price or price range.
-* **Max one trade volume \(value and %\)** - shows the maximum volume of a single trade that has executed at a certain price or price range \(depending on the Custom Step \(ticks\) setting\).
-* **Filtered volume \(value and %\)** - this parameter displays volumes that exceed the size specified in the filter. If the volume size is smaller than the one specified in the filter, then the values will be zero.
-* **Buy \(or Sell\) filtered volume** - the parameter displays Buy \(or Sell\) volumes that exceed the size specified in the filter.
+* **Trades** — it's the number of contracts \(trades\) that executed at each price level.
+* **Buy \(or Sell\) trades** — it's the number of Buy \(or Sell\) trades that executed at each price level.
+* **Volume** — the total size of all positions that executed at each price level or price range.
+* **Buy \(or Sell\) Volume** — the total size of all Buy \(or sell\) positions that executed at each price level or price range.
+* **Buy \(or Sell\) Volume, %** — shows how many percent of the total volume relates to Buy \(or Sell\) trades
+* **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time.  Delta % = Delta / Volume \* 100
+* **Average size** — the average volume of the position that was executed at a certain price or price range.
+* **Average Buy size** — the average volume of a Buy position that was executed at a specific price or price range.
+* **Average Sell size** — the average volume of a Sell position that was executed at a specific price or price range.
+* **Max one trade volume \(value and %\)** — shows the maximum volume of a single trade that has executed at a certain price or price range \(depending on the Custom Step \(ticks\) setting\).
+* **Filtered volume \(value and %\)** — this parameter displays volumes that exceed the size specified in the filter. If the volume size is smaller than the one specified in the filter, then the values will be zero.
+* **Buy \(or Sell\) filtered volume** — the parameter displays Buy \(or Sell\) volumes that exceed the size specified in the filter.
 
 ### How to set the filtered volume?
 

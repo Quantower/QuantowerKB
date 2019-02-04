@@ -7,19 +7,19 @@ The first start of Quantower terminal brings you the testing environment with th
 * An active connection to Emulator
 * An opened positions \(can be seen in positions panel\)
 
-![First-launch workspace](../.gitbook/assets/quantower_first_launch.png)
+![First-launch workspace](../.gitbook/assets/welcome-screen.png)
 
 From this point, you can start using Quantower. Try to customize the workspace, open new panels or create your first orders.
 
 ## Emulator connection
 
-An emulator is a DEMO connection, available in Quantower connections screen. Technically, it is a special module of Quantower’s core, responsible for trading data generation. This means that once you connect to Emulator, it will start to produce the dummy quotes for a limited list of symbols; just for testing purposes.
+An emulator is a DEMO connection, available in Quantower connections screen. Technically, it is a special module of Quantower’s core, that provides generated quotes and emulates a trading process. This means that once you've connected to Emulator, it will start to produce the fake quotes for a limited list of symbols. _**Just for testing purposes!**_
 
 {% hint style="warning" %}
 Please note! Emulator consumes a certain amount of resources of your PC, so it can influence its performance. We recommend you to disconnect in case you don’t use it.
 {% endhint %}
 
-## FREE-mode possibilities
+## Quantower Free version
 
-By default, you will be using Quantower terminal in free mode, where you have a limited functionality. The list of features, available in FREE-mode can be found on a [Pricing page of Quantower website](https://www.quantower.com/pricing).
+By default, you will be using Quantower platform in free version, where you have a limited functionality. The list of features, that available in FREE version you can find on a [Pricing page of Quantower website](https://www.quantower.com/pricing).
 

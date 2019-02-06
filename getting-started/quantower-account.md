@@ -8,6 +8,8 @@ Actually, you don’t require to have an Account while using a **Free version** 
 
 Once you start using some paid feature, you will be asked to Login to your Account, so Quantower could verify whether you have the permission to use it. From this moment you can cancel the authorization process or proceed to log in. Once canceled you just won’t be able to use that paid feature. If you decide to log in, you need to have an Account and one of the paid licenses bound with it.
 
+{% embed url="https://www.youtube.com/watch?v=JFJ3SFjkbks" %}
+
 ## Account creation
 
 There are two ways to get yourself an Account: 

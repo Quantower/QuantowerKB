@@ -8,6 +8,8 @@ We deliver the most popular trading and analytics functionality for free, but so
 
 To use any paid License, the trader needs to have an active [Quantower Account](quantower-account.md). If you don’t have one, you can create it during your License purchase process.
 
+{% embed url="https://www.youtube.com/watch?v=JFJ3SFjkbks" %}
+
 ## License types
 
 We offer a user with a Free license and two paid Licenses — Basic & Premium. 

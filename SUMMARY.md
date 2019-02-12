@@ -8,6 +8,7 @@
   * [Platform update](getting-started/application-updates.md)
   * [Control center](getting-started/control-center.md)
   * [Connections manager](getting-started/connections-manager.md)
+  * [Connection to Interactive Brokers](getting-started/connect-quantower-to-interactive-broker.md)
   * [Emulator \(DEMO mode\)](getting-started/emulator-demo-mode.md)
   * [Workspaces, Binds, Groups](getting-started/workspaces-binds-groups.md)
   * [Templates](getting-started/templates.md)

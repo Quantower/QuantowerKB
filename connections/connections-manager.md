@@ -1,3 +1,9 @@
+---
+description: >-
+  Connections manager allows select from available integrations the ones you are
+  trading with and connect to them using your accounts.
+---
+
 # Connections manager
 
 Connections are integrations with third-party providers that supply various data: trading quotes, symbols history etc. 
@@ -25,7 +31,7 @@ Once connected, info column will contain the data about ping and current connect
 ## Multi-connect
 
 {% hint style="info" %}
-Quantower supports multiple connections simultaneously, but this function can be limited by your account license
+Quantower supports multiple connections simultaneously, but this function available for Premium License only
 {% endhint %}
 
 

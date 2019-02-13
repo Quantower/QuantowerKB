@@ -111,7 +111,7 @@ You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on 
 
 ## Favorite connections
 
-In order to use our terminal, you need to have at least one active connection. The list of active connections can be seen on Control center in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](connections-manager.md) screen will be opened by clicking any of items in Favorite connections block. 
+In order to use our terminal, you need to have at least one active connection. The list of active connections can be seen on Control center in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of items in Favorite connections block. 
 
 ![Add favorite connections by clicking the &quot;Star&quot; icon](../.gitbook/assets/favorite-connections.png)
 

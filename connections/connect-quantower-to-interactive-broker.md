@@ -9,7 +9,7 @@ description: >-
 
 This guide will help you to configure the connection to the Interactive Brokers and start working on Quantower platform.
 
-1. [**Download**](https://www.quantower.com/) ****and install Quantower trading platform \(if you haven’t it yet\) of an appropriate version \(32 bit or 64 bit\), and make sure that your PC complies with the [**minimum requirements**](installation.md#pc-requirements) 
+1. [**Download**](https://www.quantower.com/) ****and install Quantower trading platform \(if you haven’t it yet\) of an appropriate version \(32 bit or 64 bit\), and make sure that your PC complies with the [**minimum requirements**](../getting-started/installation.md#pc-requirements) 
 2. After installing the platform, you need to create a [**demo**](https://www.interactivebrokers.co.uk/en/index.php?f=1286) or [**real account**](https://www.interactivebrokers.com/en/home.php) by clicking the appropriate links on the Interactive Brokers official website.
 
 ![Creating a demo or real account on Interactive Brokers](../.gitbook/assets/create-demo-and-real-account-interactive-brokers.png)

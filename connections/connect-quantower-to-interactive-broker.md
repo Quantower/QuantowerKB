@@ -50,3 +50,13 @@ Select the application through which you are connecting  — TWS platform or IB 
 
 ![Select the necessary connection port type](../.gitbook/assets/connection-settings-for-ib.png)
 
+If the problem persists even after choosing the right application, you need to configure the _**Socket port**_ in TWS \(or IB Gateway\) and Quantower.
+
+![This Socket port in TWS \(or IB gateway\) should be the same as in Quantower](../.gitbook/assets/socket-port.png)
+
+Select the _**Custom**_ connection port type in the Connection settings of Quantower and set the _**Port Value**_
+
+![This Socket port in Quantower should be the same as in TWS \(or IB gateway\)](../.gitbook/assets/custom-socket-port.png)
+
+If you have any other problems during the connection to Interactive Brokers, please contact us in support and we will help you. [https://www.quantower.com/contact-us](https://www.quantower.com/contact-us)
+

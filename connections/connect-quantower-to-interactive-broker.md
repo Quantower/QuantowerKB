@@ -7,6 +7,8 @@ description: >-
 
 # Connection to Interactive Brokers
 
+### Necessary steps for successful connection
+
 This guide will help you to configure the connection to the Interactive Brokers and start working on Quantower platform.
 
 1. [**Download**](https://www.quantower.com/) ****and install Quantower trading platform \(if you haven’t it yet\) of an appropriate version \(32 bit or 64 bit\), and make sure that your PC complies with the [**minimum requirements**](../getting-started/installation.md#pc-requirements) 

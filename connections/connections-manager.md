@@ -8,6 +8,8 @@ description: >-
 
 Connections are integrations with third-party providers that supply various data: trading quotes, symbols history etc. 
 
+![Launch the Connections Manager to select necessary connection](../.gitbook/assets/connections-manager.png)
+
 {% hint style="success" %}
 Each integration is developed and tested by Quantower specialists and guarantees the stability and security of all transferred information. 
 {% endhint %}

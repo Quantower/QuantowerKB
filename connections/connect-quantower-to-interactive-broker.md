@@ -38,6 +38,8 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
 ### Problems during the connection to Interactive Brokers
 
+1. _**Wrong Connection Parameters**_
+
 There may be some problems during the connection to Interactive Brokers, for example _**Wrong Connection Parameters**_
 
 ![Wrong parameteres during connection to Interactive Brokers](../.gitbook/assets/connections-manager-for-ib_error.png)
@@ -57,6 +59,12 @@ If the problem persists even after choosing the right application, you need to c
 Select the _**Custom**_ connection port type in the Connection settings of Quantower and set the _**Port Value**_
 
 ![This Socket port in Quantower should be the same as in TWS \(or IB gateway\)](../.gitbook/assets/custom-socket-port.png)
+
+    2. _**Trader Workstation is not running**_
+
+![Trader Workstation is not running. Please launch it to connect to IB](../.gitbook/assets/connections-manager-for-ib_tws_error.png)
+
+Connection to Interactive Brokers is made through their TWS trading platform or the IB Gateway application. To successfully connect to IB you need to run their applications.
 
 If you have any other problems during the connection to Interactive Brokers, please contact us in support and we will help you. [https://www.quantower.com/contact-us](https://www.quantower.com/contact-us)
 

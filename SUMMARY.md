@@ -19,6 +19,7 @@
 * [Connections](connections/README.md)
   * [Connections manager](connections/connections-manager.md)
   * [Emulator \(DEMO mode\)](connections/emulator-demo-mode.md)
+  * [Connection to OANDA](connections/connection-to-oanda.md)
   * [Connection to Interactive Brokers](connections/connect-quantower-to-interactive-broker.md)
   * [Connection to Quandl](connections/connection-to-quandl.md)
 * [Analytics panels](analytics-panels/README.md)

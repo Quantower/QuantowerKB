@@ -38,9 +38,7 @@ The next step is to select a payment provider and press the **Pay** button.
 Also, you can make payments in cryptocurrencies or use direct bank transfers. To do it contact our support team.
 {% endhint %}
 
-
-
-![Order payment for Quantower license](https://lh3.googleusercontent.com/sqK4Kkle45CONpzUJ9WKxnfz4MnYCFm8BBdjMuCQwUQwqBmCIVdLUELA3M1MROLe8EBSox5casyquAv4j1lJmcJD5NSW38nU9lCeyQEJcvZucMDtARr-HfCa7edjngGyAGqCzTwm)
+![Order payment for Quantower license](../.gitbook/assets/orderpayment-quantower.png)
 
 After that, you will be redirected to the provider’s payment page. Once you complete all the payment steps, you will be redirected back to the confirmation page of Quantower Accounts. Follow the **GO TO DASHBOARD** link to get to your Quantower Account dashboard, where you should see you current Core License information and Payment transactions history.
 

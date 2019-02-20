@@ -1,3 +1,9 @@
+---
+description: >-
+  This guide helps you in a few simple steps to configure the connection to
+  OANDA with the correct settings.
+---
+
 # Connection to OANDA
 
 This guide helps you in a few simple steps to configure the connection to OANDA with the correct settings.

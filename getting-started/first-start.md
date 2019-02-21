@@ -1,13 +1,19 @@
+---
+description: >-
+  After installation, the platform will start automatically with default
+  workspace and Emulator connection to test the functionality.
+---
+
 # First start
 
 The first start of Quantower terminal brings you the testing environment with the key trading features allowed. This state can be called DEMO-mode, but in spite of other platforms, Quantower doesn’t require you to register in order to try. Once the platform was launched, you will get several elements of the platform, automatically created for testing purposes: 
 
-* Workspace
-* "Bind" with several most popular trading panels
-* An active connection to Emulator
+* \*\*\*\*[**Workspace**](https://help.quantower.com/getting-started/workspaces-binds-groups#workspaces)  ****
+* **"**[**Bind**](https://help.quantower.com/getting-started/workspaces-binds-groups#binds)**"** with several most popular trading panels
+* An active [**connection to Emulator**  ](https://help.quantower.com/connections/emulator-demo-mode)
 * An opened positions \(can be seen in positions panel\)
 
-![First-launch workspace](../.gitbook/assets/welcome-screen.png)
+![Default Workspace with merged panels in Bind](../.gitbook/assets/welcome-screen.png)
 
 From this point, you can start using Quantower. Try to customize the workspace, open new panels or create your first orders.
 

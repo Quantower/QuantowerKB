@@ -1,12 +1,12 @@
 ---
-description: Control center is a starting panel of all terminal
+description: >-
+  Get to know how to use and manage Control center that is a starting panel of
+  all platform
 ---
 
 # Control center
 
-## General
-
-In our application, Control center — is the main starting point of all terminal, used as a launcher and informer simultaneously. The main functions of the Control center \(CC\) are:
+**Control center** — is the main starting point of all terminal, used as a launcher and informer simultaneously. The main functions of the Control center \(CC\) are:
 
 * Launcher for panels
 * Workspaces holder
@@ -23,9 +23,9 @@ Due to the fact that CC is the main controlling panel it has an ability to colla
 
 The “_**Close**_” icon just closes the terminal. You may set up “_not to ask to confirm the closing_” setting in the pop-up screen while the first closing.
 
-### Customization for Control Center
+### Customization of Control Center
 
-Control center is the starting point of all terminal, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., right-click on the context menu and go to View section. By clicking on the ticks, the controls will appear at the control center.
+For optimal use of the space on Control center, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., right-click on the context menu and go to View section. By clicking on the ticks, the controls will appear at the control center.
 
 ![Right click on the control center will bring up the addtional settings window ](../.gitbook/assets/customization-of-control-center.png)
 
@@ -33,15 +33,13 @@ Control center is the starting point of all terminal, used as a launcher and inf
 
 ![Additional settings of Control Center](../.gitbook/assets/customization-of-control-center2.png)
 
-## Sidebar
+### Sidebar
 
-Control center is the place where you can find any panel that is available under your license \(and even more\). All of the panels are placed in so-called “Sidebar” screen — the panel, popping out once you click the Logo icon on CC. 
+All of the panels are placed in so-called _**“Sidebar”**_ screen, that is popping out once you click the Logo icon on CC. 
 
 ![Control center sidebar \(main menu\)](../.gitbook/assets/main-menu-in-control-center.png)
 
 The Sidebar consists of panels icons, grouped by the functionality. Each group can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
-
-### Footer
 
 The footer of Sidebar contains several functions:
 
@@ -52,7 +50,7 @@ The footer of Sidebar contains several functions:
 The list of links in footer can contain more or fewer items, depending on current application requirements.
 {% endhint %}
 
-## Smart search
+### Smart search
 
 The Smart search block of Control center allows finding the various elements of the whole application. It is connected with the Sidebar and uses it to display the search results.
 
@@ -69,7 +67,7 @@ If you were looking for a trading symbol, click on it to see the list of support
 
 To cancel the search results — click the “_**Cancel search**_” button at the Sidebar footer. This will get you back to the default panels list view.
 
-## Favorite panels
+### Favorite panels
 
 You might already have seen the Star icon in the right top corners of some panels tiles in Sidebar. This is the “Favorite panels” functionality, allowing you to select the most usable panels and place their icons on the Favorites bar on Control center.
 
@@ -77,7 +75,7 @@ You might already have seen the Star icon in the right top corners of some panel
 
 The way to use it very simple — hover over the right top corner of any panel tile in Sidebar and click the Star icon appeared. That is all: panel appears in Favorite panels bar in Control center. To remove from favorites just click the activated Star icon on Panel's tile or right-click on the icon in Favorites panel and select “_**Hide from toolbar**_”.
 
-## Lock trading
+### Lock trading
 
 If you would like to prevent the manual trading operations occur, you may use the “_**Lock trading**_” button on Control center. Once clicked it displays the confirmation message that trading being locked and all of the functions, related to opening or closing orders and positions will be disabled. Unlock trading can be done the vice-versa way.
 
@@ -85,7 +83,7 @@ If you would like to prevent the manual trading operations occur, you may use th
 
 This feature is useful in case you would like to only analyze the market or while editing your workspace \(mostly to avoid misclicks\).
 
-## Workspaces manager
+### Workspaces manager
 
 {% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="Create and save your workspace in Quantower" %}
 
@@ -109,7 +107,7 @@ The list of Workspace templates will be constantly growing.
 
 You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on the right side from Workspace name \(icon appears while hovering the name\).
 
-## Favorite connections
+### Favorite connections
 
 In order to use our terminal, you need to have at least one active connection. The list of active connections can be seen on Control center in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of items in Favorite connections block. 
 
@@ -125,7 +123,7 @@ Being added to Favorites bar, each connection will be displayed as a tile, conta
 
 You can Remove connection from Favorites by right-clicking on it and selecting “_**Hide from toolbar**_” item. Here you can also ask to connect or disconnect.
 
-## Notifications center
+### Notifications center
 
 The most actions during the platform use generate various notifications. There can be system notification \(some connection problems or errors\) and Deal tickets. The Deal tickets — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this. 
 
@@ -143,11 +141,11 @@ You will see all notifications just from the platform start. You may also clear 
 
 By clicking one of the notifications you will see the window with the detailed info.
 
-## General settings
+### General settings
 
 The “_**Gear**_” icon opens a general settings screen, where you can setup the most common parameters of our terminal. More details about the Settings screen is available in the corresponding section of this documentation.
 
-## Time & Time zones
+### Time & Time zones
 
 The Time bar is also displayed on the Control center toolbar showing you time in selected timezone. By default, your local timezone is used. You can change the time zones list by clicking the "_**Gear**_" icon and then select the required ones in [**General settings screen**](general-settings.md). You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
 

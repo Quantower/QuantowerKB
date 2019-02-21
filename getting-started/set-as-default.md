@@ -10,9 +10,7 @@ Flexible platform settings allow you to customize any panel on your own. Change 
 
 But if you don’t want to configure the newly opened panels of this type every time, we have created the "_**Set as Default**_**"** option that redefines the factory settings. 
 
-### How it works?
-
-The process of saving settings is pretty simple:
+### How Set as Default works?
 
 * **Open the panel** for which you want to assign new settings.
 * **Customize the panel**. For example, on the chart panel, add any indicator, change the font size of the price axis, change the background color.

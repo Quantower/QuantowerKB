@@ -1,6 +1,12 @@
+---
+description: >-
+  Get to know how to add or remove columns in the table, sort and filter data,
+  set alerts and actions
+---
+
 # Table management
 
-## Table panels
+### Table panels
 
 Table panels are represented as a separate class — they all have at least 99% of functionality based on the table view. We use the common table component for all of these panels, so the behavior and features are mostly the same.
 
@@ -8,7 +14,7 @@ Table panels are represented as a separate class — they all have at least 99% 
 
 Some table panels have a special toolbar that can be used for Mass-filtering or Quick actions. Other table panels can have no column headers because they don’t really need for understanding the data, thus were hidden to save space; this disables an ability to filter columns data in such panels.
 
-## Columns management
+### Columns management
 
 Data in table panels are organized in rows and columns, where each item’s \(row\) parameters are displayed in columns. Not all of the available columns are displayed by default in each table panel. We have selected the most popular and vital per panel and made an ability to modify the columns set as you like.
 
@@ -18,7 +24,7 @@ Right-click on any column header to see the “_**Column set**_” context menu.
 
 Other useful features of columns management are sorting and resize. Each column can be dragged by its header between other columns inside the table in order to set the required sequence. You can also drag the vertical borders between two columns to resize them.
 
-## Filtering
+### Filtering
 
 The set of rows in the table can be filtered by some data value in their column. There are two ways to apply the filtering: 
 
@@ -57,11 +63,11 @@ You can setup as many conditions as you like. Due to the possible complex logic 
 Please notice, not all of applied via Advanced filter conditions can be accessed from the Quick filter.
 {% endhint %}
 
-## Sorting
+### Sorting
 
 Each table can be sorted by column value. To sort the table, click on column’s header; you will see a “_**Sorting**_” icon appears. The next click on this header will revert the sorting by this column. You can sort your table only by one column simultaneously.
 
-## Grouping
+### Grouping
 
 If you want to organize your rows more precisely, you can use a “_**Rows grouping**_” feature. It allows separating all table items in groups, made from data of some column. Currently, only “_**String**_” data columns are supported for grouping.
 
@@ -69,7 +75,7 @@ If you want to organize your rows more precisely, you can use a “_**Rows group
 
 To apply the grouping just right-click on table body and find an option “_**Group by**_”; the second-level of context menu will contain all of available columns that can be grouped by. You can group by one column only. To cancel grouping — follow the previous steps and uncheck the column.
 
-## Table actions
+### Table actions
 
 This feature allows you to setup certain behavior on some data change in the table. Currently, Quantower tables support four types of actions:
 

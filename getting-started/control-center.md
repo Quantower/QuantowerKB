@@ -87,7 +87,7 @@ This feature is useful in case you would like to only analyze the market or whil
 
 {% embed url="https://www.youtube.com/watch?v=A\_2gJdeP-08&t=20s" caption="Create and save your workspace in Quantower" %}
 
-One of the most vital parts of the Control center is the Workspaces manager. It allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
+**Workspaces manager** allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
 
 ![Workspaces manager](../.gitbook/assets/ccworkspacesmanager.png)
 
@@ -109,7 +109,7 @@ You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on 
 
 ### Favorite connections
 
-In order to use our terminal, you need to have at least one active connection. The list of active connections can be seen on Control center in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of items in Favorite connections block. 
+The list of active connections can be seen on Control center in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of items in Favorite connections block. 
 
 ![Add favorite connections by clicking the &quot;Star&quot; icon](../.gitbook/assets/favorite-connections.png)
 
@@ -143,7 +143,7 @@ By clicking one of the notifications you will see the window with the detailed i
 
 ### General settings
 
-The “_**Gear**_” icon opens a general settings screen, where you can setup the most common parameters of our terminal. More details about the Settings screen is available in the corresponding section of this documentation.
+The “_**Gear**_” icon opens a general settings screen, where you can setup the most common parameters of our terminal. [More details about the **Settings**](general-settings.md) screen is available in the corresponding section of this documentation.
 
 ### Time & Time zones
 

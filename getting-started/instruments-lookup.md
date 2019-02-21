@@ -1,29 +1,39 @@
+---
+description: >-
+  Symbols lookup manager allowing to search and select any available symbol from
+  active connections
+---
+
 # Symbols lookup
 
-## General info
-
-Symbols lookup manager — is a special screen, allowing to select and setup any available symbol from active connections. There are various panels in Quantower terminal, that require to have a Symbol parameter being set up \(Watchlist, Chart, Symbol info etc.\). This parameter is usually a starting point of such panels operation. Depending on the requirements, symbols lookup can allow single or multiple symbols selection. 
+Symbols lookup manager — is a special screen, allowing to search and select any available symbol from active connections. There are various panels in Quantower terminal, that require to have a Symbol parameter being set up \(Watchlist, Chart, Symbol info etc.\). Depending on the requirements, symbols lookup can allow single or multiple symbols selection. 
 
 Each time you successfully connect with some integration, you will get a list of its symbols in Symbol lookup manager screen. Due to Quantower allows a multiple integrations connection, you may have several similar symbols with data, that can vary a bit. This is normal because different providers can give us different quotes data. 
 
 ### Lookup field
 
-Symbols lookup screen usually invoked from a lookup field. This field consists of two parts: symbol name \(with connection name\) and “_**Lookup**_” icon. Both parts allow you to open lookup screen.
+Symbols lookup screen usually invoked from a lookup field. This field consists of two parts that allow you to open lookup screen:
+
+* Symbol name \(with connection name\)
+* “_**Lookup**_” icon in the form of three vertical points
 
 ![Symbol lookup field](../.gitbook/assets/lookupfield.png)
 
-If you click on symbol name, the text input will be focused and name will be selected. Just start typing the new name and you will see that Lookup screen will pop up and the symbols, entered by you will be applied as filtering for the Symbols list.
+If you click on symbol name you will see that Lookup screen will pop up and the symbols, entered by you will be applied as filtering for the Symbols list.
 
 If you click on “_**Lookup**_” icon you will see the popped up Lookup screen without any filtering applied to symbols list.
 
-![Symbol lookup screen](../.gitbook/assets/lookup.png)
+![Symbol Lookup screen](../.gitbook/assets/symbol-lookup-screen.png)
 
-Anyway, you will get the Lookup screen, ready for Symbol selection. If you want to close it — just click outside of it. Lookup screen consists of two elements:
+Anyway, you will get the Lookup screen, ready for Symbol selection. Lookup screen consists of three elements:
 
-* Filter toolbar
-* Symbols list
+* Toolbar with Search field and filter
+* The list of Connections and their symbols
+* Footer section
 
-## Filtering
+If you want to close it just click outside of it.
+
+### Searching & Filtering
 
 Usually, each connection gives you a numerous list of trading Symbols to select from. If you know name, you can start typing it in “_**Search field**_”, and the below list will be instantly filtered to the items, containing the entered phrase.
 
@@ -45,7 +55,7 @@ Once selecting some items among filtering parameters, the list becomes filtered 
 Be careful. While the Searchfield is become reset each Lookup screen invoke, the second level filters stay as they were set up last time. So if you can’t find the required Symbol type — please check if you have this type enabled.
 {% endhint %}
 
-## Symbols list
+### Symbols list
 
 The list of symbols is a result of filtering in Lookup screen. Here you can see the nested tree of Symbols, grouped in the following order: 
 
@@ -71,6 +81,8 @@ To help you deal with the big lists of Symbols, there is a footer toolbar with a
 * Collapse all nodes
 * Expand head nodes \(top-level nodes, usually Connections\)
 * Expand first-level child nodes
+
+![Managing of multiple nodes in the Lookup Screen](../.gitbook/assets/collapsing.gif)
 
 The other useful information is placed on the right side of footer toolbar — items count. It may show the total amount of available Symbols \(after the filtering was applied\) as well as 3/235 \(3 from 235\) value, saying that you have selected multiple items among available.
 

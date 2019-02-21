@@ -1,21 +1,23 @@
+---
+description: >-
+  Create the best trading environment, based on your own preferences. Use
+  panels, Binds, and Groups under one Workspace
+---
+
 # Workspaces, Binds, Groups
-
-## General idea
-
-Every trader pays a lot of attention to the process of building the best trading environment, based on its personal preferences. That is why we strived to give the most available flexibility for Workspaces management. 
 
 We have divided the Workspaces organisation hierarchy into four basic layers \(in terms of its scales\):
 
-* Standalone panels
-* Groups
-* Binds
-* Workspaces
+* **Standalone panels**
+* **Groups**
+* **Binds**
+* **Workspaces**
 
 ![General scheme of organisation layers](../.gitbook/assets/group_bind_workspace.png)
 
 Each layer plays its role in process of Workspace contents organization and we sure that once you get used to our process, you will find it convenient, flexible and able to accomplish any of your ideas.
 
-## Panels
+### Panels
 
 Standalone panels are the minor elements of any Workspace and they behave just like any usual PC window:
 
@@ -26,7 +28,7 @@ Standalone panels are the minor elements of any Workspace and they behave just l
 
 ### Panel's context menu
 
-Each panel has its own context menu, situated on the left upper corner, right before the Panel’s title.
+Each panel has its own **context menu**, situated on the left upper corner, right before the Panel’s title.
 
 ![Panel&apos;s context menu](../.gitbook/assets/panels-context-menu.png)
 
@@ -42,11 +44,11 @@ This menu usually consists of following functions:
 
 {% embed url="https://www.youtube.com/watch?v=JwFp0COSuuA" caption="Panels linking" %}
 
-## Groups
+### Groups
 
-The simplest level of combining several panels together — is a group. This layer allows to arrange several panels as nested tabs and then move the created group as one panel. 
+The simplest level of combining several panels together is a group. This layer allows to arrange several panels as nested tabs and then move the created group as one panel. 
 
-To group two panels just click and drag one Panel’s header over another. To ungroup panels — just drag an active Panel’s tab out of group tabs bar.
+To group two panels just click and drag one Panel’s header over another. To ungroup panels just drag an active Panel’s tab out of group tabs bar.
 
 ![Panels grouping](../.gitbook/assets/groupping.gif)
 
@@ -56,7 +58,7 @@ Panels can also be reordered within group tabs as well as closed being grouped. 
 Grouping is very useful for saving space and putting together several common panels.
 {% endhint %}
 
-## Binds
+### Binds
 
 The most innovative and, we are sure, a useful layer of panels organization — is Binds \(binding\). It was developed to allow a user to create its own “Super-panels” — the sets of basic panels that should be stuck together. Generally, Binds allows to create any combination of panels in any required way; the only limit is your fantasy.
 
@@ -83,7 +85,7 @@ In order to edit the contents of the Bind, you should unbind it using its contex
 Please notice that not all elements of Quantower can be binded. This feature doesn’t allow to combine screens \(like Connections manager, settings\) and some non-standard panels: Order entry, FXCell. This restriction was made because of impossibility to resize the Screens while binds should contain only the resizable items.
 {% endhint %}
 
-## Workspaces
+### Workspaces
 
 The highest level of trading area organization — is a Workspace. This is the most general grouping layer that you may even don’t need most of the time. Binds and single panels are already enough for most use cases, but if you prefer to have a logically-separated environment \(like “Trading - Analysis - News” or “Grains - Bonds - Metals” etc.\) — Workspaces are your solution. 
 

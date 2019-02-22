@@ -7,7 +7,7 @@ description: >-
 
 # Welcome to Quantower Help
 
-![](.gitbook/assets/quantower_bander.png)
+![](.gitbook/assets/main-workspace-for-help.png)
 
 For ease of navigation, the Help system is divided into several categories that will allow you to quickly find the information you need:
 

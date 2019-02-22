@@ -7,7 +7,7 @@ description: >-
 
 # Volume analysis tools
 
-Quantower trading platform provides **Volume analysis tools**, an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.
+Quantower trading platform provides [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.
 
 Volume analysis tools include proprietary and well-known analytics, which we’ll explore in the further articles:
 

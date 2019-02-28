@@ -1,4 +1,14 @@
+---
+description: >-
+  Get to know how to add technical indicators to chart and manage them in one
+  click.
+---
+
 # Technical indicators
+
+{% embed url="https://www.youtube.com/watch?v=vnMvHggnYv0" %}
+
+
 
 {% page-ref page="oscillators/" %}
 

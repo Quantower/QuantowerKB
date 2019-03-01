@@ -4,7 +4,9 @@ description: System requirements and 3 simple steps to successfully install the 
 
 # Installation
 
-## About installation
+* [**System Requirements**](installation.md#pc-requirements)\*\*\*\*
+* \*\*\*\*[**Installation Steps**](installation.md#installation-steps)\*\*\*\*
+* \*\*\*\*[**Uninstallation**](installation.md#uninstall)\*\*\*\*
 
 Once you downloaded Quantower application from Quantower official website — you are ready to start an installation process. From this point we must clarify the main differences between Quantower "installation process" and default Windows® install process, that most users are accustomed to.
 
@@ -29,25 +31,25 @@ Microsoft has officially stopped supporting Windows 8. Therefore, when you purch
 We recommend updating Windows to version 10.
 {% endhint %}
 
-## Installation steps
+### Installation steps
 
 ![Quantower installer screen](../.gitbook/assets/extract-files-quantower.png)
 
-1. [Download the app installer](https://quantower.com) and launch the _**Quantower.exe**_ file
+1. [**Download the app installer**](https://updates.quantower.com/Quantower/x64/latest/Quantower.exe) and launch the _**Quantower.exe**_ file
 2. Select the folder to extract application files
-3. Once an extraction process being finished the platform will start automatically with Emulator connection enabled and the default workspace
+3. Once an extraction process being finished the platform will start automatically with [**Emulator connection**](../connections/emulator-demo-mode.md) enabled and the default workspace
 
 {% hint style="warning" %}
 Please note, that you may need to allow an in-going and outgoing connection for _**Starter.exe**_ file \(the main executable of Quantower terminal\) in your Firewall settings
 {% endhint %}
 
-From this moment you can start trading and analysis as well as workspace modification
+From this moment you can start trading and analysis as well as workspace customization
 
 ![The fist launch of Quantower platform](../.gitbook/assets/welcome-screen.png)
 
-## Uninstall
+### Uninstall
 
 If you need to uninstall the application, just _**delete the folder with all application files**_. You may also keep your personal settings \(connection information & workspaces\) by copying the Settings folder \(can be found right in Quantower folder\) before application delete. These Settings folder can be pasted to any other Quantower folder later.
 
-You may also refer to [Backup & Restore manager](backup-and-restore-manager.md) to backup your settings in one file and restore them later.
+You may also refer to [**Backup & Restore manager**](backup-and-restore-manager.md) to backup your settings in one file and restore them later.
 

@@ -24,3 +24,7 @@ If you accept an application restart for the update, it will close and reopen wi
 
 All of your local settings will be saved and applied for future updates because the update changes the Core files only.
 
+### Rollback to previous version
+
+
+

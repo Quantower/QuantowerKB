@@ -8,10 +8,10 @@ description: >-
 
 We have divided the Workspaces organisation hierarchy into four basic layers \(in terms of its scales\):
 
-* **Standalone panels**
-* **Groups**
-* **Binds**
-* **Workspaces**
+* \*\*\*\*[**Standalone panels**  ](workspaces-binds-groups.md#panels)\*\*\*\*
+* \*\*\*\*[**Groups**  ](workspaces-binds-groups.md#groups)\*\*\*\*
+* \*\*\*\*[**Binds**](workspaces-binds-groups.md#binds)  ****
+* \*\*\*\*[**Workspaces**](workspaces-binds-groups.md#workspaces)\*\*\*\*
 
 ![General scheme of organisation layers](../.gitbook/assets/group_bind_workspace.png)
 

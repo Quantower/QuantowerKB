@@ -4,11 +4,11 @@
 
 General settings — is a screen, where you can set up the most common behavior of the whole Quantower application. It is logically grouped into several tabs: 
 
-* General
-* Control Center
-* Sounds
-* Confirmations & Warnings
-* Time zone settings
+* [**General**](general-settings.md#general)\*\*\*\*
+* \*\*\*\*[**Control Center**](general-settings.md#control-center)\*\*\*\*
+* \*\*\*\*[**Sounds**](general-settings.md#sounds)\*\*\*\*
+* \*\*\*\*[**Confirmations & Warnings**](general-settings.md#confirmations)\*\*\*\*
+* \*\*\*\*[**Time zone settings**](general-settings.md#time-zones)\*\*\*\*
 
 {% hint style="info" %}
 The most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.

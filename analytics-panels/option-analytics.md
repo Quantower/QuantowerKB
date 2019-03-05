@@ -1,16 +1,24 @@
+---
+description: >-
+  Option Analytics panel allows options traders to see prices, Greeks, build and
+  analyze risk profiles
+---
+
 # Option Analytics
 
-Option Analytics is a professional and advanced options trading panel that allows traders to make strong analysis and send orders via intuitive and flexible GUI. 
+Option Analytics is a professional panel for options traders that allows making strong options analysis and send orders in one click. 
 
-Main toolbar contains 3 separate controls
+![General view of the Option Analytics panel](../.gitbook/assets/general-view-of-option-analytics.png)
 
-![](../.gitbook/assets/image%20%2840%29.png)
+There are 3 main controls on the main toolbar
 
-\(1\) - Symbol lookup control.  
-\(2\) - Level 1 bar, this control provides information about current Ask/Bid/Last prices, spread and day fluctuations of selected underlying symbol.  
-\(3\) - This combobox allows trader to go throungt three different views of panel: Option desk, Analyzer and combination of Desk and Analyzer simultaneously.
+![Main toolbar](../.gitbook/assets/option-analytics-main-toolbar.png)
 
-**Option trading desk**
+* **Symbol Lookup** for selecting a trading instrument that has an option series
+* **Level 1 bar** provides information about current Ask/Bid/Last prices, spread and day range of selected symbol
+* **Panel Appearance** allows trader to go throungt three different views of panel: _**Option desk, Analyzer**_ and combination of _**Desk & Analyzer**_ simultaneously.
+
+### **Options desk**
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
@@ -23,7 +31,30 @@ Main toolbar contains 3 separate controls
 
 \(5\) - Double click on Ask/Bid cells will open an Order Entry panel
 
-**Papers, Positions, Working orders**
+### **Joint mode of Option Desk & Analyzer**
+
+Add Paper positions in the options desk and the strategy analyzer will immediately show the option profile. This mode will allow you to see all changes in options desk — prices, volatility, options Greek values — and option profiles on one screen.
+
+![Option Analytics panel offers the joint mode of Options Desk and Analyzer](../.gitbook/assets/deskanalyzer.gif)
+
+### **Analyzer**
+
+Analyzer allows users to see the profile of existing portfolio. The profile illustrates a behavior of portfolio in cases of underlying instrument price change, volatility change or time decay.  Also Analyzer provides a possibility to add an overlay to main chart. It can be one of Greeks: Delta, Gamma, Vega, Theta or Rho
+
+![](../.gitbook/assets/image%20%2832%29.png)
+
+\(1\) - This controll allows to select a chart's data type. Possible options are: P/L, Delta, Gamma, Theta, Vega, Rho   
+\(2\) - This controll allows to add an overlay to main chart 
+
+![Add overlays on options profile chart](../.gitbook/assets/options-overlay.gif)
+
+\(3\) - By clicking on this button user can apply "What if" scenarios. 
+
+![Use What-If scenario analysis to assess the impact of volatility or time decay on the position](../.gitbook/assets/what-if-analysis.png)
+
+Trader is able to simulate the time decay and volatility impact scenarios simultaneously or separately by setting corresponding values. Up to 5 lines can be drawn at the same moment of time. All "What if" lines are drawn in dashed style.
+
+### **Papers, Positions, Working orders**
 
 The bottom part of the panel contains combined table with paper positions, real positions and working orders
 
@@ -35,36 +66,4 @@ The bottom part of the panel contains combined table with paper positions, real 
 \(4\) - By clicking on Anayse checkboxes user can include or exclude certain positions from portfolio.  
 \(5\) - Place button allows to place a paper position  
 \(6\) - Remove icon allows to remove a paper position
-
-**Analyzer**
-
-Analyzer allows users to see the profile of existing portfolio. The profile illustrates a behavior of portfolio in cases of underlying instrument price change, volatility change or time decay.  Also Analyzer provides a possibility to add an overlay to main chart. It can be one of Greeks: Delta, Gamma, Vega, Theta or Rho
-
-![](../.gitbook/assets/image%20%2832%29.png)
-
-\(1\) - This controll allows to select a chart's data type. Possible options are: P/L, Delta, Gamma, Theta, Vega, Rho   
-\(2\) - This controll allows to add an overlay to main chart 
-
-![](../.gitbook/assets/image%20%2820%29.png)
-
-\(3\) - By clicking on this button user can apply "What if" scenarios. 
-
-![](../.gitbook/assets/image%20%2833%29.png)
-
-Trader is able to simulate the time decay and volatility impact scenarios simultaneously or separately by setting corresponding values. Up to 5 lines can be drawn at the same moment of time. All "What if" lines are drawn in dashed style.
-
-![](../.gitbook/assets/image%20%284%29.png)
-
-  
-
-
-
-
-
-
- 
-
-
-
-
 

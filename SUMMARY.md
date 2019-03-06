@@ -59,6 +59,7 @@
       * [Historical Time & Sales](analytics-panels/chart/volume-analysis-tools/historical-time-and-sales.md)
   * [Watchlist](analytics-panels/watchlist.md)
   * [Time & Sales](analytics-panels/time-and-sales.md)
+  * [Price Statistic](analytics-panels/price-statistic.md)
   * [Order Flow Surface](analytics-panels/order-flow-surface.md)
   * [Option Analytics](analytics-panels/option-analytics.md)
 * [Trading panels](trading-panels/README.md)

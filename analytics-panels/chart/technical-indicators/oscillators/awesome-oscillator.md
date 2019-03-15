@@ -14,7 +14,7 @@ Owesome oscillator is an another kind of Moving average convergence/divergence i
 
 * **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high\(low\) of the price not confirmed with a new high/low of  AO. Such price and indicator’s behavior can be interpreted as the weakness of current existing trend.
 
-![](../../../../.gitbook/assets/image%20%2821%29.png)
+![](../../../../.gitbook/assets/image%20%2822%29.png)
 
 * **Crossing zero line** - this is a trend reversing signal and it can be very useful in case of determining a correction of existing trend, beginning of a new trend wave or starting a new trend.
 

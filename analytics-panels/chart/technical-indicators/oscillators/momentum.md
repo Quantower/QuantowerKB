@@ -18,9 +18,9 @@ Close\(N-periods ago\) - the close price N-periods ago
 
 **Trend indicating -** crossing a zero line could be used as an indicator of a new trend wave.
 
-![](../../../../.gitbook/assets/image%20%2828%29.png)
+![](../../../../.gitbook/assets/image%20%2829%29.png)
 
 * **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high\(low\) of the price not confirmed with a new high/low of  Momentum. Such price and indicator’s behavior can be interpreted as the weakness of current existing trend.
 
-![](../../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../../.gitbook/assets/image%20%2844%29.png)
 

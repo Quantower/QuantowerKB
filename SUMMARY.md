@@ -106,6 +106,7 @@
   * [Simple strategy](quantower-algo/simple-strategy.md)
   * [Access to trading portfolio](quantower-algo/access-to-trading-portfolio.md)
   * [Trading operations](quantower-algo/trading-operations.md)
+  * [Simple Moving Average example](quantower-algo/simple-moving-average-example.md)
 * [Customization](customization/README.md)
   * [Localization](customization/localization.md)
 

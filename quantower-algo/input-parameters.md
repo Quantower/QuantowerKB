@@ -114,7 +114,19 @@ public Color color;
 
 ### **List with options**
 
-To do...
+List with options Input parameter allows to select the value from the predefined list of possible states   
+
+```csharp
+[InputParameter("Simple price types list", 1, variants: new object[]{
+    "Close", PriceType.Close,
+    "Open", PriceType.Open,
+    "High", PriceType.High,
+    "Low", PriceType.Low,
+    "Typical", PriceType.Typical,
+    "Median", PriceType.Median,
+    "Weighted", PriceType.Weighted
+})]
+```
 
 ## Conclusion
 

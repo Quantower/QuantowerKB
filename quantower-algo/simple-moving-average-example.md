@@ -1,4 +1,4 @@
-# Simple Moving Average example
+# Example: Simple Moving Average
 
 In this example we will develop a simple moving average indicator. Let's, create an indicator template project and start.
 

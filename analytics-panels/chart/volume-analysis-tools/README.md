@@ -9,6 +9,8 @@ description: >-
 
 Quantower trading platform provides [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.
 
+{% embed url="https://youtu.be/duOmadSFN4Y" %}
+
 Volume analysis tools include proprietary and well-known analytics, which we’ll explore in the further articles:
 
 * \*\*\*\*[**Cluster chart**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/cluster-chart) \(or Footprint chart\)

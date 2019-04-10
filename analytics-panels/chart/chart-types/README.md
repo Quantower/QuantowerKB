@@ -1,8 +1,14 @@
+---
+description: >-
+  Select various chart types and styles that the most suite for your trading
+  approach
+---
+
 # Chart types
 
 Quantower offers a variety of chart types to help you display chart data in different formats. You can change chart type from _**Aggregation type**_ menu as shown below.
 
-![](../../../.gitbook/assets/chart-aggregations.png)
+![Switch between different time frames in one click](../../../.gitbook/assets/chart-time-selector.png)
 
 ### Chart types and styles
 

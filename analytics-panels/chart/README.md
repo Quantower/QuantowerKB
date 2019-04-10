@@ -11,13 +11,13 @@ description: >-
 
 The chart panel is one of the most important panel for an active trader. Accurate market data, graphical and analytical tools are integral components of the panel, which allow you to make the right trading decisions.
 
-![Main parts of Chart panel in Quantower](../../.gitbook/assets/chart-overview%20%281%29.png)
+![Main parts of Chart panel in Quantower](../../.gitbook/assets/main-parts-of-chart-panel-in-quantower.png)
 
 The chart panel can be divided into 5 parts:
 
-* primary or **top toolbar** with the main controls
+* primary or [**top toolbar**](./#top-toolbar) with the main controls
 * **the chart area** itself with the displaying of price data, indicators, positions
-* **sidebar menu** with controls of indicators, drawings, overlays and object manager
+* \*\*\*\*[**sidebar menu**](./#sidebar-menu-or-object-toolbar) with controls of indicators, drawings, overlays and object manager
 * **chart order entry** with hot buttons for quick trading
 * bottom toolbar with **volume analysis tools**
 
@@ -31,7 +31,7 @@ The top toolbar allows you to select a trading instrument, set the chart type an
 
 The sidebar menu allows you to add an indicator to the chart, a drawing tool or an overlay, and also manage all objects through the object manager.
 
-![An overview of Sidebar menu with indicators, drawings and overlays](../../.gitbook/assets/sidebar-menu.png)
+![An overview of Sidebar menu with indicators, drawings and overlays](../../.gitbook/assets/chart-sidebar-menu.png)
 
 For traders who often refer to certain drawings, there is an option to fix them on the Sidebar. For this, near each drawing there is an "Star" icon, upon activation of which you add them to the Favorite List.
 

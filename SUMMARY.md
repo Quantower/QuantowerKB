@@ -58,6 +58,7 @@
       * [Time statistics](analytics-panels/chart/volume-analysis-tools/time-statistics.md)
       * [Time histogram](analytics-panels/chart/volume-analysis-tools/time-histogram.md)
       * [Historical Time & Sales](analytics-panels/chart/volume-analysis-tools/historical-time-and-sales.md)
+    * [Power Trades](analytics-panels/chart/power-trades.md)
   * [Watchlist](analytics-panels/watchlist.md)
   * [Time & Sales](analytics-panels/time-and-sales.md)
   * [Price Statistic](analytics-panels/price-statistic.md)

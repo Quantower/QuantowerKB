@@ -36,6 +36,7 @@
     * [Chart overlays](analytics-panels/chart/chart-overlays.md)
     * [Technical indicators](analytics-panels/chart/technical-indicators/README.md)
       * [Oscillators](analytics-panels/chart/technical-indicators/oscillators/README.md)
+        * [Aroon Indicator](analytics-panels/chart/technical-indicators/oscillators/aroon-indicator.md)
         * [Moving Average Convergence/Divergence](analytics-panels/chart/technical-indicators/oscillators/moving-average-convergence-divergence.md)
         * [Awesome Oscillator](analytics-panels/chart/technical-indicators/oscillators/awesome-oscillator.md)
         * [Accelerator Oscillator](analytics-panels/chart/technical-indicators/oscillators/accelerator-oscillator.md)

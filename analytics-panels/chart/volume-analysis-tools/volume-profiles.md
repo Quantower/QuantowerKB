@@ -48,7 +48,7 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 
 Custom profile allows you to create a profile for any time range.  For instance, you want to see the distribution of the delta on the flat chart or for the impulse bar.  As with other volume analysis tools, you can choose any available data types for display.
 
-![Custom volume profile can be applied to any range](../../../.gitbook/assets/custom-profile.gif)
+![Custom volume profile can be applied to any range](../../../.gitbook/assets/new-custom-profile.gif)
 
 After you have placed a custom profile on the chart, a control panel with five options will appear next to it.
 
@@ -64,8 +64,12 @@ After you have placed a custom profile on the chart, a control panel with five o
 
 In addition to the settings for quick management of custom profile, there are additional settings. Let's take a closer look at what you can customize.
 
-![Additional settings for custom volume profile](../../../.gitbook/assets/additional-settings-for-custom-profile.png)
+![Additional settings for custom volume profile](../../../.gitbook/assets/custom-profile-settings.gif)
 
-  
+There are a lot of various settings, but the most intersting are:
 
+* **Value Area** — shows the price area with 70% of trading activity for the specified time range. The value of 70% is set by default, but the user can change it at his discretion.
+* **POC Ray** — extends the level of maximum volume \(Point of Control\) to the price scale
+* **Show Total** — shows/hides the total number under certain profile
+* **Custom step \(ticks\)** summarizes the volume data of as many price levels as specified in the setting. By default, the value of the custom step is set to 1 tick, which means the volume data are shown at each price level.
 

@@ -38,6 +38,7 @@ All volume analysis tools have the same **Data Types**, which can be specified i
 * **Buy \(or Sell\) Volume** — the total size of all Buy \(or sell\) positions that executed at each price level or price range.
 * **Buy \(or Sell\) Volume, %** — shows how many percent of the total volume relates to Buy \(or Sell\) trades
 * **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time.  Delta % = Delta / Volume \* 100
+* **Cumulative Delta** — the data is built by adding the current delta value with each subsequent delta value for the certain period of time \(or number of bars\). 
 * **Average size** — the average volume of the position that was executed at a certain price or price range.
 * **Average Buy size** — the average volume of a Buy position that was executed at a specific price or price range.
 * **Average Sell size** — the average volume of a Sell position that was executed at a specific price or price range.

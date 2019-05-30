@@ -10,6 +10,8 @@ First, let's take a look at a few examples.
 
 ![Power Trades tool shows huge executed trades for the short time](../../.gitbook/assets/power-trades-4.png)
 
+![Power Trades tool](../../.gitbook/assets/power-trades-for-es.png)
+
 ### Main settings of Power Trades
 
 ![Main settings of Power Trades tool](../../.gitbook/assets/power-trades-settings.png)

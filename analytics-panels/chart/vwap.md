@@ -38,3 +38,21 @@ By clicking on the "**Gear"** icon, additional settings will open. When choosing
 
 You can also set the value and colors for the standard deviation, which will be used in the quick settings.
 
+## How to use VWAP in trading?
+
+VWAP has numerous application in the trading world. It is helpful for both institutional investors and retail intraday traders. Below are some well known applications of VWAP:
+
+* It helps in Buying low and Selling High. If the price is below VWAP, it is considered as undervalued, while price above VWAP is considered as overvalued.
+* Crossing of prices above/below VWAP line in chart indicates momentum shift or change of trend.
+* VWAP is also used as a trading benchmark by institutional investors who are not worried about the timing of the trade, but who are concerned about the adverse impact of their trades on the price of the security.
+* VWAP serves as a reference point for prices for one day. As such, it is best suited for intraday analysis**.** Chartists can compare current prices with the VWAP values to determine the intraday trend.
+* VWAP indicator can be used as a dynamic support/resistance line during sideways market.
+
+For intraday trading we have found that it is possible to trade the return of the price to VWAP on small timeframes. For example, let's consider ES \(e-mini S&P500\) futures on 5-minute chart with an hourly VWAP. 
+
+![Trading with VWAP in Quantower platform](../../.gitbook/assets/vwap-trading.png)
+
+An important point in this tactic is that the distance between the VWAP value and the closing price should be significant.
+
+![The distance between the VWAP value and the closing price should be significant ](../../.gitbook/assets/vwap-trading1.png)
+

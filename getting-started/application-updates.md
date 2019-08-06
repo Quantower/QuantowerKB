@@ -14,7 +14,7 @@ Quantower automatically checks for updates on start and re-checks them every 10 
 
 A green arrow will appear near the logo when a new version is available. Сlick on the "_**Logo**_" icon and open the sidebar, then press the “_**NEW VERSION**_” button at the bottom and get on About screen.
 
-![New version is available for download](../.gitbook/assets/updateavailable.png)
+![New version is available for download](../.gitbook/assets/new-version-quantower.png)
 
 Press the "_**DOWNLOAD**_" button, and Quantower will download the latest version and prepare it for the update. When the download process is finished, Quantower will ask you about the restart. This action is required to apply the new version, but you can cancel the reboot and proceed using an application. In this case, updates will be applied on the next start of Quantower.
 
@@ -24,7 +24,9 @@ If you accept an application restart for the update, it will close and reopen wi
 
 All of your local settings will be saved and applied for future updates because the update changes the Core files only.
 
-### Rollback to previous version
+## Rollback to previous version
+
+![Rollback to previous Quantower version](../.gitbook/assets/rollbackto-previous-version.png)
 
 
 

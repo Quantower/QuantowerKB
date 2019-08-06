@@ -1,7 +1,8 @@
 ---
 description: >-
   After installation, the platform will start automatically with default
-  workspace and Emulator connection to test the functionality.
+  workspace and Binance connection with Info Mode to test the platform's
+  functionality.
 ---
 
 # First start
@@ -12,10 +13,9 @@ The first start of Quantower terminal brings you the testing environment with th
 
 * \*\*\*\*[**Workspace**](https://help.quantower.com/getting-started/workspaces-binds-groups#workspaces)  ****
 * **"**[**Bind**](https://help.quantower.com/getting-started/workspaces-binds-groups#binds)**"** with several most popular trading panels
-* An active [**connection to Emulator**  ](https://help.quantower.com/connections/emulator-demo-mode)
-* An opened positions \(can be seen in positions panel\)
+* An active **connection to Binance with Info Mode**
 
-![Default Workspace with merged panels in Bind](../.gitbook/assets/welcome-screen.png)
+![Default Workspace with merged panels in Bind](../.gitbook/assets/default-workspace.png)
 
 From this point, you can start using Quantower. Try to customize the workspace, open new panels or create your first orders.
 

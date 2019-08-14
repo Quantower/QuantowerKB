@@ -23,8 +23,8 @@ This approach allows you to store \(and launch\) the Quantower on removable driv
 ### PC requirements
 
 {% hint style="info" %}
-* Windows 7, 8.1, 10
-* .NET Framework v.4.7
+* Windows 7, 10
+* .NET Framework v.4.7.2
 * Available disk space — 1 GB \(depends on the volume of loaded history\)
 {% endhint %}
 

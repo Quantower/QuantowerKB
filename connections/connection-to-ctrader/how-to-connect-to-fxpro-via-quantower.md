@@ -1,6 +1,6 @@
 # How to connect to FxPro via Quantower
 
-To connect Quantower platform to FxPro broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with FxPro, then go to step 10 “Connecting to a broker”
+To connect Quantower platform to FxPro broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with FxPro, then go to the penultimate step in this manual.
 
 * Go to the official FxPro website, and in the [**Tools** section](https://www.fxpro.com/trading-platforms/ctrader) select the cTrader platform
 * **Create a trading account** by filling out the registration form. Demo and Real account are created under one cTrader ID, therefore there is only one form for opening an account. During the registration, always choose the **cTrader** platform where you need to specify it.
@@ -31,7 +31,9 @@ To enter the Quantower platform, use the **cTrader ID** and **password** that yo
 
 ![](../../.gitbook/assets/select-demo-account.png)
 
-* After that, in the Quantower platform in the connection manager, select cTrader Gateway connection with Demo or Real. An authorization form will appear, where you need to specify an email or cTrader ID, as well as a password. This is a standard OAUTH authorization where connection information is visible. **Allow access** and start trading :\)
+* After that, in the Quantower platform in the connection manager, select cTrader Gateway connection with Demo or Real and press **"Connect"** button. An authorization form will appear, where you need to specify an email or cTrader ID, as well as a password. This is a standard OAUTH authorization where you can see the connection information. **Allow access** and start trading :\)
+
+![](../../.gitbook/assets/ctrader-connection.gif)
 
 ![](../../.gitbook/assets/oauth-2019-08-14-18.57.12.png)
 

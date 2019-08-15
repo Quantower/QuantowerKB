@@ -25,6 +25,7 @@
   * [Connection to Quandl](connections/connection-to-quandl.md)
   * [Connection to cTrader](connections/connection-to-ctrader/README.md)
     * [How to connect to FxPro via Quantower](connections/connection-to-ctrader/how-to-connect-to-fxpro-via-quantower.md)
+    * [How to connect to Pepperstone via Quantower](connections/connection-to-ctrader/how-to-connect-to-pepperstone-via-quantower.md)
 * [Analytics panels](analytics-panels/README.md)
   * [Chart](analytics-panels/chart/README.md)
     * [Chart types](analytics-panels/chart/chart-types/README.md)

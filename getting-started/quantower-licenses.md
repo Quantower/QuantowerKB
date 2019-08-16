@@ -18,7 +18,13 @@ We offer a user with a Free license, two packages as well as licenses for separa
 
 **Free license** is granted by default once you have created a Quantower Account. Also, it will be available all the time when you don’t have any active paid License. Using Free license, you can freely connect to and trade with any available vendor as well as use the most panels and functions of the platform.
 
-Crypto Package
+**Crypto Package** contains the necessary functionality for professional analysis and trading in the cryptocurrency market. For this package are available: 
+
+* all connected crypto exchanges, 
+* simultaneous connection to several exchanges, 
+* [volume analysis tools](https://www.quantower.com/volumeanalysistools) — Cluster chart, Volume Profile, Time Statistics, Time Histogram, VWAP
+* Order Flow Surface panel
+* [advanced features](https://www.quantower.com/advancedfeatures) — Renko, Kagi, P&F and Heikin-Ashi chart types, Unlimited Overlays, Unlimited Indicators, Trading Simulator, Chart and Indicator Alerts
 
 Multi-asset Package
 

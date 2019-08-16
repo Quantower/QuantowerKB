@@ -39,13 +39,11 @@ We recommend updating Windows to version 10.
 
 1. [**Download the app installer**](https://updates.quantower.com/Quantower/x64/latest/Quantower.exe) and launch the _**Quantower.exe**_ file
 2. Select the folder to extract application files
-3. Once an extraction process being finished the platform will start automatically with [**Emulator connection**](../connections/emulator-demo-mode.md) enabled and the default workspace
+3. Once an extraction process being finished the platform will start automatically with **Binance connection** in Info Mode and with the default workspace
 
 {% hint style="warning" %}
 Please note, that you may need to allow an in-going and outgoing connection for _**Starter.exe**_ file \(the main executable of Quantower terminal\) in your Firewall settings
 {% endhint %}
-
-From this moment you can start trading and analysis as well as workspace customization
 
 ![The fist launch of Quantower platform](../.gitbook/assets/welcome-screen.png)
 

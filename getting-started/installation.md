@@ -45,7 +45,7 @@ We recommend updating Windows to version 10.
 Please note, that you may need to allow an in-going and outgoing connection for _**Starter.exe**_ file \(the main executable of Quantower terminal\) in your Firewall settings
 {% endhint %}
 
-![The fist launch of Quantower platform](../.gitbook/assets/welcome-screen.png)
+![](../.gitbook/assets/default-workspace.png)
 
 ### Uninstall
 

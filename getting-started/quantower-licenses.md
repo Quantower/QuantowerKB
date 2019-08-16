@@ -1,10 +1,10 @@
 # Quantower Licenses
 
+We deliver the most popular trading and analytics functionality for free, but some valuable and market-specific features are available under the paid License.
+
 {% hint style="info" %}
 In case of any problems with your Quantower Account or License purchase — please [contact our Support team](https://www.quantower.com/contact-us)
 {% endhint %}
-
-We deliver the most popular trading and analytics functionality for free, but some valuable and market-specific features are available under the paid License.
 
 To use any paid License, the trader needs to have an active [Quantower Account](quantower-account.md). If you don’t have one, you can create it during your License purchase process.
 
@@ -12,13 +12,25 @@ To use any paid License, the trader needs to have an active [Quantower Account](
 
 ## License types
 
-We offer a user with a Free license and two paid Licenses — Basic & Premium. 
+We offer a user with a Free license, two packages as well as licenses for separate features. 
+
+![](../.gitbook/assets/screenshot_34.png)
 
 **Free license** is granted by default once you have created a Quantower Account. Also, it will be available all the time when you don’t have any active paid License. Using Free license, you can freely connect to and trade with any available vendor as well as use the most panels and functions of the platform.
 
-**Basic license** includes some additional functionalities for working with symbol’s history, unlimited chart overlays, and trading simulation.
+Crypto Package
 
-**Premium license** gives access to the maximum set of Quantower features including professional and niche-specific trading functionality. Third-party plug-ins are charged separately.
+Multi-asset Package
+
+DOM Surface license
+
+Power Trades Scanner license
+
+Volume Analysis license
+
+\*\*\*\*[**Advanced Features**](https://www.quantower.com/advancedfeatures) license includes non-standard chart types, simultanious connections, additional functionalities for working with symbol’s history, unlimited chart overlays, and trading simulation.
+
+Options Trading license
 
 {% hint style="info" %}
 Check the [Licenses comparison table](https://www.quantower.com/pricing) on the Quantower website.

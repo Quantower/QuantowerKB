@@ -1,3 +1,9 @@
+---
+description: >-
+  An account is required to gain access to the platform’s paid features even for
+  a trial period
+---
+
 # Quantower Account
 
 Quantower account \(Account\) is a part of Licensing functionality. It is required to bind a paid licenses for Quantower software and its add-ons per account holder.

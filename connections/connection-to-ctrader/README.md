@@ -10,4 +10,5 @@ To connect Quantower to a broker that uses cTrader technology, it is sufficient 
 
 * [**How to connect to FxPro via Quantower**](how-to-connect-to-fxpro-via-quantower.md)\*\*\*\*
 * \*\*\*\*[**How to connect to Pepperstone via Quantower**](how-to-connect-to-pepperstone-via-quantower.md)\*\*\*\*
+* \*\*\*\*[**How to connect to IC Markets via Quantower**](how-to-connect-to-ic-markets-via-quantower.md)\*\*\*\*
 

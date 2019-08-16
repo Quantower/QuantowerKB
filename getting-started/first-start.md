@@ -17,15 +17,7 @@ The first start of Quantower terminal brings you the testing environment with th
 
 ![Default Workspace with merged panels in Bind](../.gitbook/assets/default-workspace.png)
 
-From this point, you can start using Quantower. Try to customize the workspace, open new panels or create your first orders.
-
-## Emulator connection
-
-An emulator is a DEMO connection, available in Quantower connections screen. Technically, it is a special module of Quantower’s core, that provides generated quotes and emulates a trading process. This means that once you've connected to Emulator, it will start to produce the fake quotes for a limited list of symbols. _**Just for testing purposes!**_
-
-{% hint style="warning" %}
-Please note! Emulator consumes a certain amount of resources of your PC, so it can influence its performance. We recommend you to disconnect in case you don’t use it.
-{% endhint %}
+From this point, you can start using Quantower. Customize the workspace, open new panels. For sending trading orders you need to swith to other trading connection like [OANDA](../connections/connection-to-oanda.md), [Interactive Brokers](../connections/connect-quantower-to-interactive-broker.md). 
 
 ## Quantower Free version
 

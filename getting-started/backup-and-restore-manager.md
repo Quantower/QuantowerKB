@@ -1,3 +1,9 @@
+---
+description: >-
+  Backup & restore manager plugin allows to keep your settings safe and restore
+  them in case of troubles with the application.
+---
+
 # Backup & restore manager
 
 ## General

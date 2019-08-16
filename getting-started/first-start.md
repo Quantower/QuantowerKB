@@ -9,7 +9,7 @@ description: >-
 
 {% embed url="https://youtu.be/PxP-BhDs-J4" %}
 
-The first start of Quantower terminal brings you the testing environment with the key trading features allowed. This state can be called DEMO-mode, but in spite of other platforms, Quantower doesn’t require you to register in order to try. Once the platform was launched, you will get several elements of the platform, automatically created for testing purposes: 
+During the first start of Quantower terminal you will get several elements of the platform, automatically created for testing purposes: 
 
 * \*\*\*\*[**Workspace**](https://help.quantower.com/getting-started/workspaces-binds-groups#workspaces)  ****
 * **"**[**Bind**](https://help.quantower.com/getting-started/workspaces-binds-groups#binds)**"** with several most popular trading panels

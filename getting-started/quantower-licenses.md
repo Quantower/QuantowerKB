@@ -1,3 +1,9 @@
+---
+description: >-
+  We offer a user with a Free license, two packages as well as licenses for
+  separate features.
+---
+
 # Quantower Licenses
 
 We deliver the most popular trading and analytics functionality for free, but some valuable and market-specific features are available under the paid License.
@@ -16,7 +22,13 @@ We offer a user with a Free license, two packages as well as licenses for separa
 
 ![](../.gitbook/assets/screenshot_34.png)
 
-**Free license** is granted by default once you have created a Quantower Account. Also, it will be available all the time when you don’t have any active paid License. Using Free license, you can freely connect to and trade with any available vendor as well as use the most panels and functions of the platform.
+**Free license** is granted by default once you have created a Quantower Account. Also, it will be available all the time when you don’t have any active paid License. Using Free license you will get:
+
+* one active connection to any broker, data feed or exchange
+* 2 indicators per chart
+* 1 symbol overlay per chart
+* Order Flow Surface panel
+* Options Analytics is temporary available for free
 
 **Crypto Package** contains the necessary functionality for professional analysis and trading in the cryptocurrency market. For this package are available: 
 
@@ -26,25 +38,28 @@ We offer a user with a Free license, two packages as well as licenses for separa
 * Order Flow Surface panel
 * [advanced features](https://www.quantower.com/advancedfeatures) — Renko, Kagi, P&F and Heikin-Ashi chart types, Unlimited Overlays, Unlimited Indicators, Trading Simulator, Chart and Indicator Alerts
 
-Multi-asset Package
+**Multi-Asset Package** includes all options that are available in the Crypto Package, plus gives access to Forex, Futures, Stock brokers and other data feeds.
 
-DOM Surface license
+\*\*\*\*[**DOM Surface**](https://www.quantower.com/blog/dom-surface-panel-for-deep-order-flow-analysis) license activates full access to the DOM Surface panel. In the free version of the panel, all accumulated data disappears after 3 minutes.
 
-Power Trades Scanner license
+[**Power Trades Scanner**](https://help.quantower.com/analytics-panels/chart/power-trades) license activates the scanner that shows the execution of big amount of orders during the short time.
 
-Volume Analysis license
+[**Volume Analysis**](https://www.quantower.com/volumeanalysistools) license activates all available volume tools:
+
+* Cluster chart
+* Volume profiles \(Right & Left, Custom, Step profiles\)
+* Time Histogram
+* Time Statistics
+* VWAP tool
+* Historical Time & Sales
 
 \*\*\*\*[**Advanced Features**](https://www.quantower.com/advancedfeatures) license includes non-standard chart types, simultanious connections, additional functionalities for working with symbol’s history, unlimited chart overlays, and trading simulation.
 
-Options Trading license
-
-{% hint style="info" %}
-Check the [Licenses comparison table](https://www.quantower.com/pricing) on the Quantower website.
-{% endhint %}
+[**Options Trading**](https://www.quantower.com/options-trading-features) license activates Options Analytics panel. Currently it's available for free usage.
 
 ## License purchase
 
-If you would like to upgrade your Free license, go to our [Pricing page](https://www.quantower.com/pricing) and click on the **BUY BASIC** or **BUY PREMIUM** button.
+If you would like to upgrade your Free license, go to our [Pricing page](https://www.quantower.com/pricing), choose the necessary license, it's period and click on the **BUY** button.
 
 The purchase process starts with the authorization in the Quantower service. Use your email and password to Sign in to the account. If you don’t have one yet, follow the instructions on [Quantower Account manual](quantower-account.md). Just after you successfully Log in, you will be redirected to the purchase Cart.
 

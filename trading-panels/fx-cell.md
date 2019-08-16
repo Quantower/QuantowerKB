@@ -1,3 +1,9 @@
+---
+description: >-
+  The panel shows the best bid/ask price for a certain instrument and allows to
+  place a market order at these prices
+---
+
 # FX Cell
 
 ### What is FX Cell

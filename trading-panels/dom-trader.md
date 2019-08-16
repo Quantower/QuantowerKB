@@ -1,3 +1,9 @@
+---
+description: >-
+  DOM panel shows the number of buy and sell orders placed at various price
+  levels around the current price for a particular instrument
+---
+
 # DOM Trader
 
 ### General info

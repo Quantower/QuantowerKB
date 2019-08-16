@@ -1,3 +1,9 @@
+---
+description: >-
+  Order Entry allows to create trading orders with different conditions, such as
+  order quantity, price, side, order type and submit them on the market.
+---
+
 # Order Entry
 
 ### General info

@@ -1,2 +1,2 @@
-# Miscellaneous panels
+# Miscellaneous
 

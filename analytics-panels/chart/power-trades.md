@@ -14,6 +14,22 @@ First, let's take a look at a few examples.
 
 ![Power Trades tool](../../.gitbook/assets/power-trades-for-es.png)
 
+### How does Power Trades find the zones?
+
+There is a continuous process of placing, changing and executing orders in the market. All this affects the price change and the expectations of traders regarding the future price.  
+  
+When a large order appears at a certain level, the price is more likely to come to this order and it will be executed because the market is always looking for levels with liquidity. This already applies to the order flow and the mechanics of orders matching, so we will omit the principles on which the orders are matched.  
+  
+It is only important to understand that "**abnormal events**" occur in the market at certain times. _Execution of a significant volume of orders in a very short time is one of such events._
+
+For example, let's set the _Total Volume of 2'000 contracts and Time Interval in 3 seconds_ on the E-mini SP500 futures. This means that the scan will be based on the available history and will show on the chart only those zones that have such a volume for the specified time.
+
+![](../../.gitbook/assets/screenshot_45.png)
+
+Additionally, it is worth to set a delta value to filter out the zones with one-side trades. The more delta value, the high probability that the price will reverse.
+
+![](../../.gitbook/assets/screenshot_46.png)
+
 ### Main settings of Power Trades
 
 ![Main settings of Power Trades tool](../../.gitbook/assets/power-trades-settings.png)

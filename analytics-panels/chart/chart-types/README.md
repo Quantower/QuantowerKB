@@ -22,8 +22,9 @@ Quantower provides 8 chart types:
 * [Line Break](https://help.quantower.com/analytics-panels/chart/chart-types/line-break)
 * [Kagi](https://help.quantower.com/analytics-panels/chart/chart-types/kagi)
 * [Points & Figures](https://help.quantower.com/analytics-panels/chart/chart-types/points-and-figures)
+* Volume
 
-![Chart types in Quantower](../../../.gitbook/assets/chart-types-all.png)
+![Chart types in Quantower](../../../.gitbook/assets/period-selector.png)
 
 Charts can also be represented in 5 different styles:
 

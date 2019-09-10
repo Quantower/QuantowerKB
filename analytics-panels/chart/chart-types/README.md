@@ -12,7 +12,7 @@ Quantower offers a variety of chart types to help you display chart data in diff
 
 ### Chart types and styles
 
-Quantower provides 8 chart types:
+Quantower provides **9 chart types**:
 
 * Tick chart
 * [Time chart](https://help.quantower.com/analytics-panels/chart/chart-types/time-aggregation)
@@ -22,17 +22,18 @@ Quantower provides 8 chart types:
 * [Line Break](https://help.quantower.com/analytics-panels/chart/chart-types/line-break)
 * [Kagi](https://help.quantower.com/analytics-panels/chart/chart-types/kagi)
 * [Points & Figures](https://help.quantower.com/analytics-panels/chart/chart-types/points-and-figures)
-* Volume
+* [Volume](volume-bars.md)
 
 ![Chart types in Quantower](../../../.gitbook/assets/period-selector.png)
 
-Charts can also be represented in 5 different styles:
+Charts can also be represented in **6 different styles**:
 
 * Candle
 * Bar
 * Line
 * Dotted Line
 * Area
+* Quantower
 
-![Chart styles in Quantower](../../../.gitbook/assets/chart-styles.png)
+![Chart styles in Quantower &#x2014; Candle, Bar, Line, Dotted Line, Area, Quantower style](../../../.gitbook/assets/chart-styles%20%281%29.png)
 

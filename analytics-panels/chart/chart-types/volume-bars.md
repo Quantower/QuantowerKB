@@ -12,7 +12,7 @@ Each bar in a Volume Bar chart contains a specified volume level. This volume le
 
 ![The comparison between Time chart and Volume Bars chart type in Quantower platform](../../../.gitbook/assets/volume-bars-chart-in-quantower.png)
 
-## How to set Volume Bars chart?
+### How to set Volume Bars chart?
 
 Open the Timeframe switcher and select from the list the Volume Bars chart type. Set the necessary value of lots \(or ticks\) that will be included in each bar \(candle\).
 

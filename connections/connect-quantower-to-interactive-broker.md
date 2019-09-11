@@ -30,11 +30,17 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
 ![Select API type and enter Login and password for IB Gateway](../.gitbook/assets/ib-gateway-credentials.png)
 
-     5. Once you are logged in, open the additional settings in IB Gateway or TWS:  **Configure**-&gt; **Settings**. Select **API** section - &gt;  **Precautions** and activate all checkboxes
+     5. Once you are logged in, open the additional settings in IB Gateway or TWS:  **Configure**-&gt; **Settings**. Select **API** section - &gt;  **Precautions** and activate all checkboxes.
+
+Also necessary in the **Settings** section diactivate **Read-Only API** to perform trading operations.
 
 ![Activate all checkboxes in the IB Gateway or TWS API settings](../.gitbook/assets/api-settings-for-ib.png)
 
-     6. Open the [**Connections Manager**](connections-manager.md) in Quantower platform, select Interactive Brokers connection and click on the **CONNECT** button. 
+     6. If you connect via the TWS platform, please select **API** section - &gt; **Settings** and check **Enable ActiveX and Socket Clients** box as well ****uncheck **Read-Only API**:
+
+![Diactivate Read-Only API and check Socket Clients in TWS platform](../.gitbook/assets/trader-workstation-api-settings.png)
+
+     7. Open the [**Connections Manager**](connections-manager.md) in Quantower platform, select Interactive Brokers connection and click on the **CONNECT** button. 
 
 ![Click on the Connect button once you are logged in to TWS or IB Gateway](../.gitbook/assets/connections-manager-for-ib.png)
 

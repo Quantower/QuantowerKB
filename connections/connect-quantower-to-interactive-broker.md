@@ -7,6 +7,16 @@ description: >-
 
 # Connection to Interactive Brokers
 
+### Data Limitations
+
+Interactive Brokers places the following limitations on realtime and historical data accessible to 3rd party applications
+
+* **Pacing Violations** – TWS limits the number of requests for data. It too many requests for data occur in a short period of time, you may see error messages indicating “Pacing Violation”. If this happens you may need to wait a few minutes before trying to load data again. 
+* **Real Time Quotes** – TWS does impose limits on the number of active tickers \(typically around 100\). Additional booster packs can be purchased from IB to work around this issue: [Booster Packs](https://www.interactivebrokers.com/en/index.php?f=14193). 
+* **Delayed Data Not Supported** – TWS does not provide access to delayed historical data and quotes. 
+
+For more details on these limitations see [IB Data Limitations](https://interactivebrokers.github.io/tws-api/historical_limitations.html#gsc.tab=0).
+
 ### Necessary steps for successful connection
 
 This guide will help you to configure the connection to the Interactive Brokers and start working on Quantower platform.

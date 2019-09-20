@@ -14,13 +14,13 @@ In case of any problems with your Quantower Account or License purchase — plea
 
 To use any paid License, the trader needs to have an active [Quantower Account](quantower-account.md). If you don’t have one, you can create it during your License purchase process.
 
-{% embed url="https://www.youtube.com/watch?v=JFJ3SFjkbks" %}
+{% embed url="https://www.youtube.com/watch?v=sQVm6Pikz1E" %}
 
 ## License types
 
 We offer a user with a Free license, two packages as well as licenses for separate features. 
 
-![](../.gitbook/assets/screenshot_34.png)
+![](../.gitbook/assets/pricing-page.png)
 
 **Free license** is granted by default once you have created a Quantower Account. Also, it will be available all the time when you don’t have any active paid License. Using Free license you will get:
 
@@ -39,6 +39,8 @@ We offer a user with a Free license, two packages as well as licenses for separa
 * [advanced features](https://www.quantower.com/advancedfeatures) — Renko, Kagi, P&F and Heikin-Ashi chart types, Unlimited Overlays, Unlimited Indicators, Trading Simulator, Chart and Indicator Alerts
 
 **Multi-Asset Package** includes all options that are available in the Crypto Package, plus gives access to Forex, Futures, Stock brokers and other data feeds.
+
+**All-in-One Package** includes all available features and connections. Also, all new features will be included once the license is active.
 
 \*\*\*\*[**DOM Surface**](https://www.quantower.com/blog/dom-surface-panel-for-deep-order-flow-analysis) license activates full access to the DOM Surface panel. In the free version of the panel, all accumulated data disappears after 3 minutes.
 

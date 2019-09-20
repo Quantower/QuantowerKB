@@ -18,7 +18,7 @@ To use any paid License, the trader needs to have an active [Quantower Account](
 
 ## License types
 
-We offer a user with a Free license, two packages as well as licenses for separate features. 
+We offer a user with a Free license, three packages as well as licenses for separate features. 
 
 ![](../.gitbook/assets/pricing-page.png)
 
@@ -40,7 +40,7 @@ We offer a user with a Free license, two packages as well as licenses for separa
 
 **Multi-Asset Package** includes all options that are available in the Crypto Package, plus gives access to Forex, Futures, Stock brokers and other data feeds.
 
-**All-in-One Package** includes all available features and connections. Also, all new features will be included once the license is active.
+**All-in-One Package** includes all available features and connections. Also, all new features will be automatically added and available while your subscription is active.
 
 \*\*\*\*[**DOM Surface**](https://www.quantower.com/blog/dom-surface-panel-for-deep-order-flow-analysis) license activates full access to the DOM Surface panel. In the free version of the panel, all accumulated data disappears after 3 minutes.
 

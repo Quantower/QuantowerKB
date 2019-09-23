@@ -72,6 +72,7 @@
   * [Order Flow Surface](analytics-panels/order-flow-surface.md)
   * [Option Analytics](analytics-panels/option-analytics.md)
 * [Trading panels](trading-panels/README.md)
+  * [Crypto Order Entry](trading-panels/crypto-order-entry.md)
   * [Order Entry](trading-panels/order-entry/README.md)
     * [Order Types](trading-panels/order-entry/order-types.md)
   * [DOM Trader](trading-panels/dom-trader.md)

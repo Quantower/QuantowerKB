@@ -8,7 +8,7 @@ During indicators development, you may need to mark some specific point or set o
 
 Each indicator line contains method **SetMarker**, which allows you to assign some special style for the particular element in your indicator's line buffer. The most simple way is marking it via a specified color. This is an example of usage:
 
-```csharp
+```
 // Mark the current bar of first indicator line with Yellow color
 LinesSeries[0].SetMarker(0, Color.Yellow)
 ```
@@ -19,7 +19,7 @@ We colored in yellow each tenth bar:
 
 Another way of marking is using icons. You can specify a type of icon, it's position and color. You can use the same overridden method **SetMarker**:
 
-```csharp
+```
 // Mark current bar with yellow color and flag icon in the top position
 LinesSeries[0].SetMarker(0, new IndicatorLineMarker(Color.Yellow, IndicatorLineMarkerIconType.Flag));
 ```
@@ -30,7 +30,7 @@ Result is displayed on the chart:
 
 Let's create a little more useful indicator. For example - we will mark with a green up arrow, places where we have more than 5 growing candles in a row and mark with a red bottom arrow, in the case of 5 falling bars. This is source code implementing this logic:
 
-```csharp
+```
 /// <summary>
 /// Calculation entry point. This function is called when a price data updates. 
 /// </summary>

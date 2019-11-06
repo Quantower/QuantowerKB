@@ -72,6 +72,7 @@
   * [DOM Surface](analytics-panels/dom-surface.md)
   * [Order Flow Surface](analytics-panels/order-flow-surface.md)
   * [Option Analytics](analytics-panels/option-analytics.md)
+  * [TPO Profile Chart](analytics-panels/tpo-chart.md)
 * [Trading panels](trading-panels/README.md)
   * [Crypto Order Entry](trading-panels/crypto-order-entry.md)
   * [Order Entry](trading-panels/order-entry/README.md)

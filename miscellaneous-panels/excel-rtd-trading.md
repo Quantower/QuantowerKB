@@ -27,7 +27,7 @@ When retrieving instrument data using RTD, you need to specify the ID of the ins
 
 RTD formula uses the following basic structure:
 
-```text
+```
 =RTD("TradingPlatform";"";"Param1";"Param2";"Param3";....")
 ```
 

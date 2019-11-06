@@ -23,7 +23,7 @@ During development of your own indicators or strategy, you may require using som
 
 You can access built-in indicators using **Core.Indicators.BuiltIn** class. A good place to initiate such indicators is in an **OnInit** method of your script:
 
-```csharp
+```
 Indicator AC;
 
 protected override void OnInit()
@@ -35,7 +35,7 @@ protected override void OnInit()
 
 An indicator can provide some parameters and you can specify them during creation:
 
-```csharp
+```
 Indicator EMA;
 
 protected override void OnInit()
@@ -49,7 +49,7 @@ protected override void OnInit()
 
 You can create a few copies of one indicator or a few different indicators if needed:
 
-```csharp
+```
 Indicator fastEMA;
 Indicator slowEMA;
 
@@ -63,7 +63,7 @@ protected override void OnInit()
 
 Now we need to assign the created indicator to our current script — which means it will use symbol and quotes from its parent. You can do this via **AddIndicator** method:
 
-```csharp
+```
 Indicator EMA;
 
 protected override void OnInit()
@@ -78,7 +78,7 @@ protected override void OnInit()
 
 Everything is ready to use this indicator in our calculations. After receiving new quotes it will be calculated automatically. You can access its values via [**GetValue** ](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_)method:
 
-```csharp
+```
 /// <summary>
 /// Calculation entry point. This function is called when a price data updates. 
 /// </summary>
@@ -94,7 +94,7 @@ protected override void OnUpdate(UpdateArgs args)
 
 In case you need to access value for previous bars or value from other indicators line you can use the offset and a **lineIndex** parameter of a [**GetValue**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetValue_System_Int32_System_Int32_TradingPlatform_BusinessLayer_SeekOriginHistory_) ****method:
 
-```csharp
+```
 /// <summary>
 /// Calculation entry point. This function is called when a price data updates. 
 /// </summary>
@@ -110,7 +110,7 @@ protected override void OnUpdate(UpdateArgs args)
 
 This is a total source code of our example. We use two EMA indicators with different period and display their difference on the chart:
 
-```csharp
+```
 using System.Drawing;
 using TradingPlatform.BusinessLayer;
 

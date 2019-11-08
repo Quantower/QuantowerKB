@@ -39,5 +39,12 @@ The base element of the TPO chart is letters that are used to build the market p
 * **History Range** — determines the depth of history for building TPO profiles. At a high depth of history, volume profiles can be built for a long time, because they use tick data.
 * **Custom Step \(Ticks\)** — this parameter defines the height and number of letters in the profile. _If enabled_, the letter height will correspond to the number of ticks which is set in the parameter. _If disabled_, the height and number of letters will be selected automatically using a smart algorithm. As a result, the chart will look the most optimal for analysis.
 
+### Style settings of TPO Profile Chart
 
+Choose any color scheme for better representation and analysis of the TPO profile as well as enable POC, Value Area, Singles, Standard Chart etc.
+
+* **Display** — mode for dispalying letters of TPO profile — **Boxes** or **Letters**.
+* **Point of Control \(POC\)** — price level of the greatest market activity or trading volume. At this level, the price spent most time over the profile range.
+* **Value Area** — price range in which approximately 68% - 70% of the market activity or trading volume took place.
+* **Singles** or **single prints** of the profile are placed in the middle of a profile structure, not at the upper or lower edge. They occur on impulse movements and are used as support/resistance zones, which the price can test in the near future. The singles line indicates where the singles begin to form \(in cases when there are several single prints\).
 

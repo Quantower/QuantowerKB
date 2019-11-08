@@ -58,7 +58,7 @@ Now we have a little more code - strategy contains Symbol and Account input vari
 
 Let's create some trivial example and try to run it in the Quantower platform. We will talk about retrieving current trading information and trading operations in our next articles, for the current moment, we just add counters for each type of quotes and strategy metrics for displaying in Strategy Runner panel. We will add examples of logs also - you should always use them, as it can help you to understand the current strategy state or display error information. You can specify a type of log: **Info, Error or Trading**.
 
-```
+```csharp
 /// <summary>
 /// Variables for counting quotes amount
 /// </summary>

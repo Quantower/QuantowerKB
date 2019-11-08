@@ -12,7 +12,7 @@ Ok, let’s imagine, you have created a custom indicator and it works correctly 
 
 Well, the reason is that your indicator doesn’t implement special **"IWatchlistIndicator"** interface. This is the marker which is used for filtering content into ‘Indicators lookup’ in ‘Watchlist’.
 
-```
+```csharp
 public class Best_Indicator : Indicator, IWatchlistIndicator
     {
     	… Best_Indicator code.
@@ -27,7 +27,7 @@ Ok, let’s remember. Before adding the indicator to the chart you need to selec
 
 **‘IWatchlistIndicator’** interface provides ‘_**MinHistoryDepths**_’ property which must return a minimal history depths value for the current indicator. You need to implement it correctly and that’s all.
 
-```
+```csharp
 public class DoubleSMA: Indicator, IWatchlistIndicator
     {
         [InputParameter("First SMA period", 0, 1, 999, 1, 1)]

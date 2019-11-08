@@ -50,7 +50,7 @@ This is only the main properties from [Core](http://api.quantower.com/docs/Tradi
 
 And as usual, let's create a simple example to show possibilities of an API. We will display the main information about your active connections and main objects: accounts, symbols, and positions. It will be quite easy to implement using our explanations above. We need only to iterate through all connections and retrieve the required data. Just, for example, we will use **Log** function to display this data, but you can use it in any way you need in your scripts. This is source code for our example:
 
-```
+```csharp
 protected override List<StrategyMetric> OnGetMetrics()
 {
     //

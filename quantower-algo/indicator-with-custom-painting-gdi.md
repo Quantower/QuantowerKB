@@ -12,7 +12,7 @@ In this topic, we will show you how to use a really great possibility of scripts
 
 Let's start. To get access to Graphics object of the chart you need to override **OnPaint** method and use **Hdc** value from its parameters:
 
-```
+```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
 {
     // Use args.Hdc to create Graphics which give us acces to chart canvas
@@ -24,7 +24,7 @@ public override void OnPaintChart(PaintChartEventArgs args)
 
 That's all - now you have full access to chart's canvas and can draw anything you want. For drawing in C\# you need to call special methods with graphical parameters: coordinates, color, width, etc.:
 
-```
+```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
 {
     Graphics gr = Graphics.FromHdc(args.Hdc);
@@ -52,7 +52,7 @@ If we build this indicator - we can see the result on the chart window:
 
 Let's try to draw a text — it is very similar. We need to specify text, font, and coordinates:
 
-```
+```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
 {
     Graphics gr = Graphics.FromHdc(args.Hdc);
@@ -70,7 +70,7 @@ Build this and check your chart:
 
 Ok, it is interesting but quite useless. Let's do something more serious — for example, display all levels of market depth on the chart. This is source code:
 
-```
+```csharp
 protected override void OnInit()
 {
     // Subscribe for level 2 quotes            

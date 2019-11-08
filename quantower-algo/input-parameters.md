@@ -24,7 +24,7 @@ We will show in details how to declare each type of input parameters and how to 
 
 Sometimes you may need a user to provide some text information, for example for displaying on the chart. For this, you need to declare a string variable and mark it as **InputAttribute**. You need to specify the name of an input parameter, which will be displayed in Settings screen:
 
-```
+```csharp
 [InputParameter("Text")]
 public string text;
 ```
@@ -35,7 +35,7 @@ If you call settings screen you will see text box, which you can use to enter a 
 
 If you have a few input parameters and want to arrange them in an appropriate order, you can apply SortIndex parameter for each InputParameter:
 
-```
+```csharp
 [InputParameter("First text", 1)]
 public string firstText;
 
@@ -55,7 +55,7 @@ As you can see, parameters displayed in specified order:
 
 In case you need a simple switcher, for example, to enable an option, you can use bool variable with an InputParameter attribute:
 
-```
+```csharp
 [InputParameter("Boolean")]
 public bool boolean;
 ```
@@ -64,14 +64,14 @@ public bool boolean;
 
 One of the most important types of input parameters is numbers. Input parameters can be applied to **int**, **double**, **long** and **decimal** variables:
 
-```
+```csharp
 [InputParameter("Integer")]
 public int intNumber;
 ```
 
 You can specify additional parameters - minimum/maximum value, increment, and decimal places.
 
-```
+```csharp
 [InputParameter("Double", 0, 0.00001, 10, 0.00001, 5)]
 public double doubleNumber;
 ```
@@ -80,7 +80,7 @@ public double doubleNumber;
 
 Sometimes you may need possibility so select symbol, for example in case of calculation of correlation between symbol from the chart and another symbol. And again - all you need just declare variable and mark in with **InputParameter** attribute:
 
-```
+```csharp
 [InputParameter("Symbol")]
 public Symbol symbol;
 ```
@@ -89,7 +89,7 @@ public Symbol symbol;
 
 If your script is executing some trading operation you need to provide an account setting. Use a variable of **Account** type for this:
 
-```
+```csharp
 [InputParameter("Account")]
 public Account account;
 ```
@@ -98,7 +98,7 @@ public Account account;
 
 Usually, DateTime settings are using to specify some range of history, for example, left and right border of downloaded history:
 
-```
+```csharp
 [InputParameter("Date")]
 public DateTime dateTime;
 ```
@@ -107,7 +107,7 @@ public DateTime dateTime;
 
 Color Input Parameters store color value in an RGB format:
 
-```
+```csharp
 [InputParameter("Color")]
 public Color color;
 ```
@@ -116,7 +116,7 @@ public Color color;
 
 List with options Input parameter allows to select the value from the predefined list of possible states   
 
-```
+```csharp
 [InputParameter("Simple price types list", 1, variants: new object[]{
     "Close", PriceType.Close,
     "Open", PriceType.Open,

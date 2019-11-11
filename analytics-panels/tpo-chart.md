@@ -10,6 +10,8 @@ To open new TPO panel, go to _**Main menu**_ \(Logo icon\) and select _**TPO Cha
 
 ### Key Elements of TPO Profile Chart
 
+![Main Elements of TPO Profile Chart \(a.k.a. Market Profile\) in Quantower](../.gitbook/assets/tpocontrols.png)
+
 **Point of Control \(POC\)** — price level of the greatest market activity or trading volume. At this level, the price spent most time over the profile range.
 
 **Value Area** — price range in which approximately 68% - 70% of the market activity or trading volume took place.
@@ -44,7 +46,26 @@ The base element of the TPO chart is letters that are used to build the market p
 Choose any color scheme for better representation and analysis of the TPO profile as well as enable POC, Value Area, Singles, Standard Chart etc.
 
 * **Display** — mode for dispalying letters of TPO profile — **Boxes** or **Letters**.
-* **Point of Control \(POC\)** — price level of the greatest market activity or trading volume. At this level, the price spent most time over the profile range.
-* **Value Area** — price range in which approximately 68% - 70% of the market activity or trading volume took place.
-* **Singles** or **single prints** of the profile are placed in the middle of a profile structure, not at the upper or lower edge. They occur on impulse movements and are used as support/resistance zones, which the price can test in the near future. The singles line indicates where the singles begin to form \(in cases when there are several single prints\).
+
+![Display TPO Profile as Filled Boxes or Letters](../.gitbook/assets/display-boxes-or-letters.png)
+
+* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a ****[**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
+
+![](../.gitbook/assets/overlaying-chart.gif)
+
+* **Show Point of Control \(POC\)** — enable a price level of the greatest market activity or trading volume on the chart. At this level, the price spent most time over the profile range.
+* **Show Value Area** — enable price range in which approximately 68% - 70% of the market activity or trading volume took place.
+* **Show Singles** or **single prints** of the profile are placed in the middle of a profile structure, not at the upper or lower edge. They occur on impulse movements and are used as support/resistance zones, which the price can test in the near future. The singles line indicates where the singles begin to form \(in cases when there are several single prints\).
+
+![Enable POC, Value Area and Singles on TPO Profile](../.gitbook/assets/key-elemetns-tpo.gif)
+
+### Volume Analysis
+
+TPO profiles are used on their own to find areas of support and resistance, and can also be used in conjunction with volume profiles. For this, we have added **Volume Analysis** control to the top toolbar of the panel. Here you can select the data type and show/hide the POC & Value Area.
+
+![Add Volume Profiles on TPO Profile Chart](../.gitbook/assets/volume-analysis-tpo.gif)
+
+Switch Volume Profile between [**different data types**](chart/volume-analysis-tools/#data-types-of-volume-analysis-tools), such as delta, buy&sell, trades, volume, etc.
+
+## Splitting & Merging of TPO Profile Chart
 

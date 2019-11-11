@@ -89,3 +89,11 @@ Use TPO splitting for a detailed analysis of profile formation. There are two sp
 
 ![](../.gitbook/assets/merging-tpo-profile_market-profile.gif)
 
+## Session Time
+
+Set the custom time range for the necessary trading session and the profile will be built within this range. The rest of the time the profile will not take into account.
+
+To set the time of the necessary session, go to the **TPO Chart settings -&gt; View -&gt; Custom session.** Set the time according the time zone.
+
+![Set custom sessions for TPO Profile](../.gitbook/assets/custom-session-time.gif)
+

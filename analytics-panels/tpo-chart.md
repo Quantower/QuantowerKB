@@ -49,12 +49,14 @@ Choose any color scheme for better representation and analysis of the TPO profil
 
 ![Display TPO Profile as Filled Boxes or Letters](../.gitbook/assets/display-boxes-or-letters.png)
 
+* **Coloring Mode —** choose any color scheme for better representation and analysis of the TPO profile. Currently, there are 10 different coloring modes available — **Single Color, Up/Down Profile, Up/Down Bars, Heatmap, Delta Profile, Delta Price, Delta Bars, Volume Profile, Volume Price, Volume Bars**.
+
 * **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a ****[**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
 
 ![](../.gitbook/assets/overlaying-chart.gif)
 
-* **Show Point of Control \(POC\)** — enable a price level of the greatest market activity or trading volume on the chart. At this level, the price spent most time over the profile range.
-* **Show Value Area** — enable price range in which approximately 68% - 70% of the market activity or trading volume took place.
+* **Show Point of Control \(POC\)** — enable a price level of the greatest market activity or trading volume on the chart. At this level, the price spent most time over the profile range. 
+* **Show Value Area** — enable price range in which approximately 68% - 70% of the market activity or trading volume took place. 
 * **Show Singles** or **single prints** of the profile are placed in the middle of a profile structure, not at the upper or lower edge. They occur on impulse movements and are used as support/resistance zones, which the price can test in the near future. The singles line indicates where the singles begin to form \(in cases when there are several single prints\).
 
 ![Enable POC, Value Area and Singles on TPO Profile](../.gitbook/assets/key-elemetns-tpo.gif)
@@ -68,4 +70,22 @@ TPO profiles are used on their own to find areas of support and resistance, and 
 Switch Volume Profile between [**different data types**](chart/volume-analysis-tools/#data-types-of-volume-analysis-tools), such as delta, buy&sell, trades, volume, etc.
 
 ## Splitting & Merging of TPO Profile Chart
+
+Use TPO splitting for a detailed analysis of profile formation. There are two splitting modes available in the platform:
+
+* **Split full profile**, that separates the TPO profile into each bar or letter. To separate profile into columns, click on the profile and press _**"Split"**_ button that is placed on the lower border of a selected profile.
+
+![Split TPO profile into each bar for a detailed analysis](../.gitbook/assets/splitting.gif)
+
+* **Divide by bar**, that option splits the profile in half on the selected bar. To separate TPO profile in half, select a necessary profile and right-click to open the context menu and click on _**"Divide by bar"**_ button.
+
+![Separate TPO Profile at selected bar](../.gitbook/assets/divide-at-bar.png)
+
+![](../.gitbook/assets/dividing.gif)
+
+### Merging of TPO Profile
+
+**Merge** is a feature that combines several profiles into one. Right-click on the selected profile to open the context menu and select **Merge Left** or **Merge Right**. To return profiles to their original positions, press the Reset button.
+
+![](../.gitbook/assets/merging-tpo-profile_market-profile.gif)
 

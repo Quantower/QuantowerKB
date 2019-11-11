@@ -24,9 +24,9 @@ To open new TPO panel, go to _**Main menu**_ \(Logo icon\) and select _**TPO Cha
 
 There are three main controls on the top toolbar of TPO chart panel:
 
-* **Aggregation**
-* **Style**
-* **Volume Analysis**
+* \*\*\*\*[**Aggregation**](tpo-chart.md#aggregation-of-tpo-profile-chart)\*\*\*\*
+* \*\*\*\*[**Style**](tpo-chart.md#style-settings-of-tpo-profile-chart)\*\*\*\*
+* \*\*\*\*[**Volume Analysis**](tpo-chart.md#volume-analysis)\*\*\*\*
 
 ### Aggregation of TPO Profile Chart
 

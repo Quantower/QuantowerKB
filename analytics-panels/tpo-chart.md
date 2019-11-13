@@ -1,3 +1,10 @@
+---
+description: >-
+  See the price distribution during the specified time via the TPO Profile
+  (known as Market Profile®) & understand at which levels the price has spent
+  the most time
+---
+
 # TPO Profile Chart
 
 **Time Price Opportunity** or **TPO Chart**, shows the price distribution during the specified time, thus forming a profile. This allows you to understand at which levels or ranges the price has spent the most time, as well as to determine the main support and resistance levels.

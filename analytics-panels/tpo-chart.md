@@ -104,3 +104,11 @@ To set the time of the necessary session, go to the **TPO Chart settings -&gt; V
 
 ![Set custom sessions for TPO Profile](../.gitbook/assets/custom-session-time.gif)
 
+## Additional settings of TPO Profile
+
+Right-click on the chart area -&gt; **Settings** to open the general settings of the TPO Chart panel. 
+
+![General settings of TPO Profile Chart in Quantower platform](../.gitbook/assets/tpo-chart-settings.png)
+
+
+

@@ -4,7 +4,7 @@ description: >-
   trading volume.
 ---
 
-# VWAP
+# VWAP \| Volume Weighted Average Price
 
 **Volume Weighted Average Price** knows as **VWAP** is a “benchmark” price of an asset for any period of the trading day or session. Average price is weighted by volume for evaluating the overpaying or underpaying of current price relative to the VWAP price.
 

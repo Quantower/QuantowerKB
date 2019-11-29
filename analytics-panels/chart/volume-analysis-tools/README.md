@@ -13,7 +13,7 @@ Quantower trading platform provides [**Volume analysis tools**](https://www.quan
 
 Volume analysis tools include proprietary and well-known analytics, which we’ll explore in the further articles:
 
-* \*\*\*\*[**Cluster chart**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/cluster-chart) \(or Footprint chart\)
+* \*\*\*\*[**Cluster Chart**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/cluster-chart) \(a.k.a. Footprint chart or OrderFlow chart\)
 * [**Volume Profiles**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/volume-profiles) — Step, Right, Left and Custom volume profiles
 * [**Time Statistics**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-statistics) \(known as Bar Statistics\) — in table form
 * [**Time Histogram**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-histogram) ****— in form of vertical histogram

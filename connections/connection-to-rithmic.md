@@ -17,9 +17,13 @@ To connect Quantower to a broker that uses Rithmic technology, it is sufficient 
 
 ![Enter login data for connection to Rithmic](../.gitbook/assets/rithmic-connection.png)
 
-### New Demo Account
+### New Accounts
 
-*  To register **Rithmic Demo** go to their official website or ****follow this [link](https://rithmic.com/demo.html#sign-up)
+* Create a new demo or open a real account with any broker supporting Rithmic technology, accept agreements, and start using our platform.
 
 {% embed url="https://youtu.be/3kpiOCiqE5Q" %}
+
+* To register **Rithmic Demo** go to their official website or ****follow this [link](https://rithmic.com/demo.html#sign-up)
+* Fill in all the required fields
+* Accept _"Market Data Subscription Agreement"_ and _"Market Data Self-Certification"_
 

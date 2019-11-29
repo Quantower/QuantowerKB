@@ -59,7 +59,7 @@
       * [Trend](analytics-panels/chart/technical-indicators/trend/README.md)
         * [ZigZag](analytics-panels/chart/technical-indicators/trend/zigzag.md)
     * [Drawing tools](analytics-panels/chart/drawing-tools.md)
-    * [Volume analysis tools](analytics-panels/chart/volume-analysis-tools/README.md)
+    * [Volume Analysis Tools \| Volume Profiles \| Footprint chart \| VWAP](analytics-panels/chart/volume-analysis-tools/README.md)
       * [Cluster chart](analytics-panels/chart/volume-analysis-tools/cluster-chart.md)
       * [Volume profiles](analytics-panels/chart/volume-analysis-tools/volume-profiles.md)
       * [Time statistics](analytics-panels/chart/volume-analysis-tools/time-statistics.md)

@@ -5,7 +5,7 @@ description: >-
   time.
 ---
 
-# Volume analysis tools
+# Volume Analysis Tools \| Volume Profiles \| Footprint chart \| VWAP
 
 Quantower trading platform provides [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price.
 
@@ -14,14 +14,16 @@ Quantower trading platform provides [**Volume analysis tools**](https://www.quan
 Volume analysis tools include proprietary and well-known analytics, which we’ll explore in the further articles:
 
 * \*\*\*\*[**Cluster chart**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/cluster-chart) \(or Footprint chart\)
-* [**Set of volume profiles**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/volume-profiles) — Step, Right, Left and Custom volume profiles
+* [**Volume Profiles**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/volume-profiles) — Step, Right, Left and Custom volume profiles
 * [**Time Statistics**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-statistics) \(known as Bar Statistics\) — in table form
 * [**Time Histogram**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-histogram) ****— in form of vertical histogram
-* [**Historical Time & Sales**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/historical-time-and-sales)\*\*\*\*
+* **Custom VWAP \(Anchored VWAP\)** — can be attached to the any selected bar as a starting calculation point
+* \*\*\*\*[**VWAP**](../vwap.md) — multiple VWAP lines for single chart
+* [**Historical Time & Sales**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/historical-time-and-sales) ****— the table of all trades for the any selected bar
 
- The screenshot below shows how you can activate the toolbar of volume analysis tools:
+ The GIF below shows how you can activate the toolbar of volume analysis tools:
 
-![](../../../.gitbook/assets/volume-analysis-tools.png)
+![Enable the toolbar of Volume Analysis Tools ](../../../.gitbook/assets/volume-analysis-tools.gif)
 
 {% hint style="info" %}
 **Green color** indicates that seleced volume analysis tool has entirely downloaded the data.   
@@ -37,6 +39,7 @@ All volume analysis tools have the same **Data Types**, which can be specified i
 * **Volume** — the total size of all positions that executed at each price level or price range.
 * **Buy \(or Sell\) Volume** — the total size of all Buy \(or sell\) positions that executed at each price level or price range.
 * **Buy \(or Sell\) Volume, %** — shows how many percent of the total volume relates to Buy \(or Sell\) trades
+* **Buy / Sell Volume** — simultaneous display of buy and sell volume on one histogram
 * **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time.  Delta % = Delta / Volume \* 100
 * **Cumulative Delta** — the data is built by adding the current delta value with each subsequent delta value for the certain period of time \(or number of bars\). 
 * **Average size** — the average volume of the position that was executed at a certain price or price range.

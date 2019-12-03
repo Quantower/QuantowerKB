@@ -8,7 +8,7 @@ description: >-
 
 **Volume Weighted Average Price** knows as **VWAP** is a “benchmark” price of an asset for any period of the trading day or session. Average price is weighted by volume for evaluating the overpaying or underpaying of current price relative to the VWAP price.
 
-![](../../.gitbook/assets/vwap.png)
+![](../../.gitbook/assets/multiple-vwap.png)
 
 The indicator is calculated for any period of time according to the following algorithm:
 
@@ -22,21 +22,36 @@ The indicator is calculated for any period of time according to the following al
 
 The VWAP indicator is located on the Volume Analysis toolbar. When you click on it, a menu with basic settings and an indicator activation / deactivation switch will appear.
 
-![VWAP Indicator is placed on Volume Analysis toolbar](../../.gitbook/assets/vwap-tool.png)
+![VWAP Indicator is placed on Volume Analysis toolbar](../../.gitbook/assets/vwap-activation.png)
 
-The quick settings menu contains three parameters:
+The quick settings menu contains:
 
-* **Base period and Value** — defines the number of bars \(duration\) on which VWAP will be calculated
-* **Show Standard Deviations** — when the parameter is active, the standard deviation lines up and down from VWAP will be additionally calculated on the chart. In the advanced settings you can set the number of standard deviations.
 * **Enabled** switch shows or hides the VWAP indicator on the chart
+* **Base period and Value** — defines the number of bars \(duration\) on which VWAP will be calculated
 
 ### Advanced indicator settings
 
-By clicking on the "**Gear"** icon, additional settings will open. When choosing a Day period VWAP in the advanced settings, you can set the start and end of the trading session.
+By clicking on the "**Gear"** icon, additional settings will open.
 
-![Additional setiings for VWAP Indicator](../../.gitbook/assets/vwap-advanced-settings.png)
+![Additional setiings for VWAP Indicator](../../.gitbook/assets/vwap-additional-settings.png)
 
-You can also set the value and colors for the standard deviation, which will be used in the quick settings.
+**1. Switch between different VWAPs** and set the settings for each of them
+
+Quantower platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
+
+**2.** Set the **Main Settings** for the VWAP line:
+
+* **Period and Value** — defines the number of bars \(duration\) on which VWAP will be calculated
+* **Forward Extensions** \(type and number\)
+* **VWAP line** — visual settings for VWAP itself
+
+**3. Standard Deviation Bands**
+
+When the parameter is active, the standard deviation lines up and down from VWAP will be additionally calculated on the chart. Specify the number of standard deviations in the _**"Value"**_ field and colors
+
+**4. Maximum Permissible Deviation \(MPD\)**
+
+MPD is similar to the standard deviation but is calculated as \(VWAP period high - VWAP period low\)/2.
 
 ## How to use VWAP in trading?
 

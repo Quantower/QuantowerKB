@@ -17,7 +17,9 @@ Time & Sales panel keeps a running record of trades for selected instruments dis
 
 ### Real-time and Historical modes
 
+Real-time mode shows all the trades that are currently executed. The historical mode allows you to get all past trades for a specified period of time directly in the panel.
 
+![Get all past trades in Time &amp; Sales for a specified period](../.gitbook/assets/historical-mode-in-ts.png)
 
 ### General settings
 

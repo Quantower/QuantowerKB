@@ -13,7 +13,7 @@ description: >-
 
 Time & Sales panel keeps a running record of trades for selected instruments displayed in chronological order. Each new entry is added to the top of the list, causing the panel screen to auto-scroll downward.
 
-![Time &amp; Sales panel in action - BTC/USD via Bitfinex connection](../.gitbook/assets/time-and-sales.gif)
+![Time &amp; Sales panel in Quantower shows all executed trades](../.gitbook/assets/time-and-sales.gif)
 
 ### General settings
 

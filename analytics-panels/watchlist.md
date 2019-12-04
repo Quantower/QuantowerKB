@@ -16,9 +16,13 @@ Each symbol added to watchlist can be removed via the context menu on the symbol
 When you add a symbol, that is already presented in current list, it will be added to the end of the list thus making a duplicates.
 {% endhint %}
 
+### Columns management
+
+
+
 ### Favorite lists
 
-You may want to have a possibility to save several lists for Watchlist panel. To save some list as Favorite, you can use the \[ Saved lists \] button on the toolbar. If you have no saved lists yet, it will open a “Save current list” popup, where you can set the name for the list, that you are saving.
+You may want to have a possibility to save several lists for Watchlist panel. To save some list as Favorite, you can use the **\[ Saved lists \]** button on the toolbar. If you have no saved lists yet, it will open a **“Save current list”** popup, where you can set the name for the list, that you are saving.
 
 ![Set the name for the Favorite list](../.gitbook/assets/lists-in-watchlist.gif)
 

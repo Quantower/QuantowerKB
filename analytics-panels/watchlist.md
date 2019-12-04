@@ -8,7 +8,7 @@ description: >-
 
 The Watchlist panel is the standard table-based panel, representing a various trading info for the specified list of symbols. The list of symbols can be customized using the symbol lookup screen, available by pressing **\[ + \]** button on the toolbar, or from table context menu — “_**Add symbols**_“ option.
 
-![Watch the required symbol info using Watchlist panel](../.gitbook/assets/watchlist%20%281%29.png)
+![Watch the required symbol info using Watchlist panel](../.gitbook/assets/watchlist-general-view.gif)
 
 Each symbol added to watchlist can be removed via the context menu on the symbol’s row. You can also clear all list via the context menu.
 
@@ -20,7 +20,7 @@ When you add a symbol, that is already presented in current list, it will be add
 
 You may want to have a possibility to save several lists for Watchlist panel. To save some list as Favorite, you can use the \[ Saved lists \] button on the toolbar. If you have no saved lists yet, it will open a “Save current list” popup, where you can set the name for the list, that you are saving.
 
-![Set the name for the Favorite list](../.gitbook/assets/watchlist_save.png)
+![Set the name for the Favorite list](../.gitbook/assets/lists-in-watchlist.gif)
 
 Once you press the **\[ SAVE \]** button, the new list will be added to the Favorites and became available from the _**“Saved lists”**_ drop-down on the toolbar.
 

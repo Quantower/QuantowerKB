@@ -18,7 +18,6 @@
   * [Quantower Licenses](getting-started/quantower-licenses.md)
 * [Connections](connections/README.md)
   * [Connections manager](connections/connections-manager.md)
-  * [Emulator \(DEMO mode\)](connections/emulator-demo-mode.md)
   * [Connection to OANDA](connections/connection-to-oanda.md)
   * [Connection to Interactive Brokers](connections/connect-quantower-to-interactive-broker.md)
   * [Connection to Rithmic](connections/connection-to-rithmic.md)

@@ -7,7 +7,7 @@ description: >-
 
 # First start
 
-{% embed url="https://youtu.be/PxP-BhDs-J4" %}
+{% embed url="https://youtu.be/155Ha6Rku0E" %}
 
 During the first start of Quantower terminal you will get several elements of the platform, automatically created for testing purposes: 
 

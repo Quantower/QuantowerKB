@@ -30,3 +30,11 @@ In case you have forgotten or lost your API key, you can create a new one at any
 
 ![Connect to OANDA using your API key](../.gitbook/assets/connection-to-oanda-via-quantower.png)
 
+### Issues with connection
+
+Sometimes OANDA cannot authorize users through API Key and you can see the message: _"**Index was out of range. Must be non-negative and less than the size of the collection. Parameter name: index"**_. 
+
+![Error during connection to OANDA](../.gitbook/assets/screenshot_16.png)
+
+To solve this issue, just click on the **Back** button and try to connect again. In most cases, the API key will be accepted and you will be successfully connected.
+

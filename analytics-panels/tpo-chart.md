@@ -58,7 +58,10 @@ Choose any color scheme for better representation and analysis of the TPO profil
 
 ![Display TPO Profile as Filled Boxes or Letters](../.gitbook/assets/display-boxes-or-letters.png)
 
-* **Coloring Mode —** choose any color scheme for better representation and analysis of the TPO profile. Currently, there are 10 different coloring modes available — **Single Color, Up/Down Profile, Up/Down Bars, Heatmap, Delta Profile, Delta Price, Delta Bars, Volume Profile, Volume Price, Volume Bars**.
+* **Coloring Mode —** choose any color scheme for better representation and analysis of the TPO profile. Currently, there are 10 different coloring modes available — **Single Color, Up/Down Profile, Up/Down Bars, Heatmap, Delta Profile, Delta Price, Delta Bars, Volume Profile, Volume Price, Volume Bars**. 
+* **POC Type** — price level of the greatest market activity or trading volume on the chart. Available two types:  **Final POC**, shows the single line **Migrating POC**, which shows the change of POC during a trading day or a selected session.
+
+![](../.gitbook/assets/migrating-poc.gif)
 
 * **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a ****[**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
 

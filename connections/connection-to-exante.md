@@ -1,6 +1,10 @@
-# Connection to Exante
+---
+description: >-
+  Exante provides direct access to 50+ markets in the US, Europe, and Asia for
+  trading Stocks, ETFs, Forex, Futures, Options, Bonds from one account.
+---
 
-**Exante** provides direct access to 50+ markets in the US, Europe, and Asia for trading **Stocks, ETFs, Forex, Futures, Options, Bonds** from one account.
+# Connection to Exante
 
 In order to trade via Quantower platform with Exante broker, you need to have a live trading account.
 

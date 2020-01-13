@@ -20,6 +20,7 @@
   * [Connections manager](connections/connections-manager.md)
   * [Connection to OANDA](connections/connection-to-oanda.md)
   * [Connection to Interactive Brokers](connections/connect-quantower-to-interactive-broker.md)
+  * [Connection to Exante](connections/connection-to-exante.md)
   * [Connection to Rithmic](connections/connection-to-rithmic.md)
   * [Connection to IQFeed](connections/connection-to-iqfeed.md)
   * [Connection to Quandl](connections/connection-to-quandl.md)

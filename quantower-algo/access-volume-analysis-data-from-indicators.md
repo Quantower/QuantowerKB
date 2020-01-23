@@ -6,7 +6,7 @@ description: Use advanced Volume Analysis technique in your indicators
 
 Quantower trading platform has a wide set of [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools), an advanced analytical functionality, which allows you to see the traded volume at each price level, assess the balance between buyers and sellers and understand the intentions of traders regarding the future price. 
 
-You can easily access all volume analysis data from your indicator. By default charts does not loading such data, as it requires time to get full trades history. You need to notify chart, that your indicator requires it and you can do this by implementing special Interface **IVolumeAnalysisIndicator**:
+You can easily access all volume analysis data from your indicator. By default charts does not loading such data, as it requires time to get full trades history. You need to notify chart, that your indicator need it for calculations and you can do this by implementing a special Interface **IVolumeAnalysisIndicator**:
 
 ```csharp
 public class IndicatorVolumeAnalysis : Indicator, IVolumeAnalysisIndicator
@@ -14,7 +14,7 @@ public class IndicatorVolumeAnalysis : Indicator, IVolumeAnalysisIndicator
     ...
 ```
 
-It contains only one method **VolumeAnalysisData\_Loaded** will be called, when all required data finish loading:
+It contains only one method **VolumeAnalysisData\_Loaded** and it will be called, when all required data finish loading:
 
 ```csharp
 public void VolumeAnalysisData_Loaded()
@@ -23,7 +23,7 @@ public void VolumeAnalysisData_Loaded()
 }
 ```
 
-If you need to know current state of loading, you may use **VolumeAnalysisCalculationProgress** from **HistoricalData**. If loading was started this object will be set and you may know current state or even percent of loaded data:
+If you need to know current state of loading, you may use **VolumeAnalysisCalculationProgress** from **HistoricalData**. If loading was started, this object will be set and you may know current state or even percent of loaded data:
 
 ```csharp
 if (HistoricalData.VolumeAnalysisCalculationProgress.State != VolumeAnalysisCalculationState.Finished
@@ -58,7 +58,7 @@ List of all available data types:
 | MaxOneTradeVolume | Shows the maximum volume of a single trade that has executed at a certain price or price range |
 | MaxOneTradeVolumePercent | Shows the maximum \(%\) volume of a single trade that has executed at a certain price or price range |
 
-Except Total \(aggregated\) information you have access to Volume analysis data for each price from the bar. It is available in PriceLevels dictionary and contains same data types as Total:
+Except **Total** \(aggregated\) information you have access to Volume analysis data for each price from the bar. It is available in PriceLevels dictionary and contains same data types as Total:
 
 ```csharp
 this.HistoricalData[0].VolumeAnalysisData.PriceLevels[1.2564].Volume

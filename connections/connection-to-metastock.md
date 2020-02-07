@@ -1,10 +1,3 @@
----
-description: >-
-  This guide walks you through the process of registering a new account for
-  MetaStock XENITH, installing the Eikon application and how to connect it via
-  Quantower platform
----
-
 # Connection to MetaStock
 
 ### How to install Meta**S**tock XENITH / EIKON and create an account?

@@ -22,6 +22,7 @@
   * [Connection to Interactive Brokers](connections/connect-quantower-to-interactive-broker.md)
   * [Connection to Exante](connections/connection-to-exante.md)
   * [Connection to Rithmic](connections/connection-to-rithmic.md)
+  * [Connection to MetaStock](connections/connection-to-metastock.md)
   * [Connection to IQFeed](connections/connection-to-iqfeed.md)
   * [Connection to Quandl](connections/connection-to-quandl.md)
   * [Connection to cTrader](connections/connection-to-ctrader/README.md)

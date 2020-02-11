@@ -2,6 +2,10 @@
 
 In this example we will develop a simple moving average indicator. Let's, create an indicator template project and start.
 
+{% hint style="info" %}
+See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/Quantower/Examples)
+{% endhint %}
+
 ### Input parameters
 
 First of all it is important to decide what parameters will our indicator have. We are building a simple moving average, so it will have only two parameters: **Period** and **Price type,** that will be used for calculations

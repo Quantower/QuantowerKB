@@ -6,6 +6,10 @@ description: How to create you first strategy and run it the Quantower trading p
 
 In our previous articles, we showed you how to use Quantower Algo extension and write your own indicators. Now we show you how to create you first strategy and run it the Quantower trading platform.
 
+{% hint style="info" %}
+See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/Quantower/Examples)
+{% endhint %}
+
 ## What is a Strategy?
 
 We use the name "Strategy" for code, that can implement absolutely any logic and can be executed in Quantower. You can use strategies for the realization of trading algorithms, a specific logic of controlling closing orders \(for example Trailing stop\), for arbitrage between different connections, etc. We don't have any restrictions or limitations for this, moreover, we provide you access to almost all functions from our trading core. 

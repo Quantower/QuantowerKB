@@ -29,8 +29,7 @@ We are planning to provide our users the possibility to use all well known produ
 We provide absolutely full access to all functionality of our trading core layer for developers. Moreover, we are developing Quantower using the same API, which means you always will have up-to-date and powerful set of features, which allows you to create script any level script, from trivial indicators to complex strategies or trading/analytics panels.
 
 {% hint style="info" %}
-Quantower API documentation is available on: [http://api.quantower.com](http://api.quantower.com)  
-See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/Quantower/Examples)
+Quantower API documentation is available on: [http://api.quantower.com](http://api.quantower.com)
 {% endhint %}
 
 ## Before you start

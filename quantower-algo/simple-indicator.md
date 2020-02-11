@@ -5,7 +5,9 @@ description: In this topic we will show you how simple is writing indicators in 
 # Simple Indicator
 
 {% hint style="info" %}
-We will use Quantower Algo extension for Visual Studio, but main principles are valid for all development environments. If you don't have Visual Studio or Quantower Algo extension installed you can read [How to install Quantower Algo](installing-visual-studio.md) manual.
+We will use Quantower Algo extension for Visual Studio, but main principles are valid for all development environments. If you don't have Visual Studio or Quantower Algo extension installed you can read [How to install Quantower Algo](installing-visual-studio.md) manual.  
+  
+See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/Quantower/Examples)
 {% endhint %}
 
 ## So, what is indicator in general?

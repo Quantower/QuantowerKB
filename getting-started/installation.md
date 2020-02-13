@@ -29,7 +29,7 @@ This approach allows you to store \(and launch\) the Quantower on removable driv
 {% endhint %}
 
 {% hint style="warning" %}
-**Microsoft has officially stopped supporting Windows 8 and Windows 7**. Therefore, the platform may not start or may work incorrectly. Windows versions no longer supported by Microsoft are not supported by Quantower. [More information on supported versions, please check on official Microsoft website.](https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet)  
+**Microsoft has officially stopped supporting Windows 8 and Windows 7**. Therefore, the platform may not start or may work incorrectly. [More information on supported versions, please check on official Microsoft website.](https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet)  
   
 We recommend using Windows 10.
 {% endhint %}

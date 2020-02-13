@@ -13,7 +13,7 @@ Once you downloaded Quantower application from Quantower official website — yo
 {% embed url="https://youtu.be/155Ha6Rku0E" %}
 
 {% hint style="success" %}
-Quantower does not copy it's files to the system folders \(AppData or Program Files\) of the OS, nor does write changes to the system registry
+Quantower does not copy its files to the system folders \(AppData or Program Files\) of the OS, nor does write changes to the system registry
 {% endhint %}
 
 What does it mean? The program doesn't violate the integrity of the OS, and in case of removal, it will not leave any prints of its presence on your computer. Quantower’s "installer" literally extracts files to the user-specified folder.

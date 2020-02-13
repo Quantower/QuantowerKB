@@ -9,7 +9,7 @@ description: >-
 
 ### How to install Meta**S**tock XENITH / EIKON and create an account?
 
-Metastock provides a trial access to their platform for 1 month. [**Follow the link**](https://www.metastock.com/offer/ek/?whc=quantowerek&pc=Eq-quantower) and click on the button “_**Get a FREE 1 month trial of XENITH**_”. Select the market data you'd like to subscribe to.
+Metastock provides trial access to its platform for 1 month. [**Follow the link**](https://www.metastock.com/offer/ek/?whc=quantowerek&pc=Eq-quantower) and click on the button “_**Get a FREE 1 month trial of XENITH**_”. Select the market data you'd like to subscribe to.
 
 ![Prices for subscription to MetaStock XENITH market data ](../.gitbook/assets/pricing-metastoc-xenith-_-eikon.png)
 

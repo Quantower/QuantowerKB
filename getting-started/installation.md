@@ -13,7 +13,7 @@ Once you downloaded Quantower application from Quantower official website — yo
 {% embed url="https://youtu.be/155Ha6Rku0E" %}
 
 {% hint style="success" %}
-Quantower does not copy it's files to the system folders \(AppData or Program Files\) of the OS, nor does write changes to the system registry
+Quantower does not copy its files to the system folders \(AppData or Program Files\) of the OS, nor does write changes to the system registry
 {% endhint %}
 
 What does it mean? The program doesn't violate the integrity of the OS, and in case of removal, it will not leave any prints of its presence on your computer. Quantower’s "installer" literally extracts files to the user-specified folder.
@@ -23,14 +23,15 @@ This approach allows you to store \(and launch\) the Quantower on removable driv
 ### PC requirements
 
 {% hint style="info" %}
-* Windows 7, 10
+* Windows 10
 * .NET Framework v.4.7.2
 * Available disk space — 1 GB \(depends on the volume of loaded history\)
 {% endhint %}
 
 {% hint style="warning" %}
-Microsoft has officially stopped supporting Windows 8. Therefore, when you purchase a license, you will not be able to log in to the application under your account. In the free version, all available functionality of the platform will work properly.   
-We recommend updating Windows to version 10.
+**Microsoft has officially stopped supporting Windows 8 and Windows 7**. Therefore, the platform may not start or may work incorrectly. [More information on supported versions, please check on official Microsoft website.](https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet)  
+  
+We recommend using Windows 10.
 {% endhint %}
 
 ### Installation steps

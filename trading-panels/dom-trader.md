@@ -1,14 +1,14 @@
 ---
 description: >-
-  DOM panel shows the number of buy and sell orders placed at various price
-  levels around the current price for a particular instrument
+  DOM Trader panel shows the number of buy and sell orders placed at various
+  price levels around the current price for a particular instrument
 ---
 
 # DOM Trader
 
 ### General info
 
-The Depth of Market or DOM panel shows the number of buy and sell orders placed at various price levels around the current price for a particular instrument \(most often for futures\). The more the number of orders is at a certain price level, the higher the interest in this level. The trading functionality of the panel allows you to quickly and efficiently place the required number of orders at the selected price, and also drag-and-drop, change or cancel them.
+**The Depth of Market** or **DOM Trader** panel shows the number of buy and sell orders placed at various price levels around the current price for a particular instrument \(most often for futures\). The more the number of orders is at a certain price level, the higher the interest in this level. The trading functionality of the panel allows you to quickly and efficiently place the required number of orders at the selected price, and also drag-and-drop, change or cancel them.
 
 ![General view of DOM Trader panel](../.gitbook/assets/domscheme.png)
 
@@ -22,18 +22,19 @@ To place an order via Mouse Trading mode:
 * Enter an order quantity;
 * Left-click at a specific prices in the left column will place a Buy Limit order \(below the current market price\);
 * Left-click at a specific prices in the right column will place a Sell Limit order \(above the current market price\). If you place the order below the current price it will be executed by market price;
-* To place a Stop order is necessary to press and hold down the _**Shift**_ key and click at a required price.
+* _To place a **Stop order**_ is necessary to press and hold down the _**Shift**_ key and click at a required price.
 
-![Mouse trading mode in DOM Trading](../.gitbook/assets/dom-mouse-trading.gif)
+![Mouse trading mode in DOM Trader](../.gitbook/assets/dom-trader-via-mouse.gif)
 
 To place an order via Order Entry:
 
 * Select an account and order restriction \(TIF\) in the order entry;
 * Enter an order quantity;
 * Click on the Bid, Ask or Market button to place your order;
+* Set Stop Loss and Take Profit orders \(Bracket Orders\)
 * Confirm your placement by first checking all the parameters.
 
-![Creating a new position via Order entry mode in DOM Trading](../.gitbook/assets/dom-order-entry.gif)
+![Placing a new position via Order Entry in DOM Trader ](../.gitbook/assets/oco-dom.gif)
 
 ### DOM Trader settings
 

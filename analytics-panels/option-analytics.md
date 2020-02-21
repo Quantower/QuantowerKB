@@ -8,17 +8,23 @@ description: >-
 
 Option Analytics is a professional panel for options traders that allows making strong options analysis and send orders in one click. 
 
-![General view of the Option Analytics panel](../.gitbook/assets/general-view-of-option-analytics.png)
+![](../.gitbook/assets/options.png)
 
-There are 3 main controls on the main toolbar
+To open a new Options Analytics panel, go to the _**Main menu**_ \(Logo icon\) and select _**Options Analytics**_ in the Analytics section.
 
-![Main toolbar](../.gitbook/assets/option-analytics-main-toolbar.png)
+![Open Options Analytics panel via Main menu](../.gitbook/assets/options-analytics-how-to-launch.png)
 
-* **Symbol Lookup** for selecting a trading instrument that has an option series
-* **Level 1 bar** provides information about current Ask/Bid/Last prices, spread and day range of selected symbol
-* **Panel Appearance** allows trader to go throungt three different views of panel: _**Option desk, Analyzer**_ and combination of _**Desk & Analyzer**_ simultaneously.
+### Key Elements of Options Analytics panel
 
-### **Options desk**
+![](../.gitbook/assets/optionanalytics.png)
+
+**Underlying Asset & Account** for selecting a trading instrument that has an option series and selecting  trading account \(in case of multiple accounts\)
+
+**"Mode"** controls the visibility of additional panels — _**Options Desk, Options Risk Analyzer, Volatility Smile \(Skew\)**_
+
+**Level 1 Data** **bar** provides basic information about current Ask, Bid, Last prices, spread and day range of selected symbol
+
+### **Options Desk**
 
 ![](../.gitbook/assets/image%20%281%29.png)
 

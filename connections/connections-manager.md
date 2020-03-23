@@ -33,8 +33,8 @@ Once connected, info column will contain the data about ping and current connect
 ## Multi-connect
 
 {% hint style="info" %}
-Quantower supports multiple connections simultaneously, but this function available for Premium License only
+Quantower supports multiple connections simultaneously, but this function available under paid licenses — Advanced Features, Crypto Package, Multi-Asset package and All-In-One License.
 {% endhint %}
 
-
+![Multiple connections in Quantower at the same time ](../.gitbook/assets/multiple-connections.png)
 

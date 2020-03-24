@@ -63,6 +63,8 @@ VWAP has numerous application in the trading world. It is helpful for both insti
 * VWAP serves as a reference point for prices for one day. As such, it is best suited for intraday analysis**.** Chartists can compare current prices with the VWAP values to determine the intraday trend.
 * VWAP indicator can be used as a dynamic support/resistance line during sideways market.
 
+### \#1 Return to 1 Hour VWAP
+
 For intraday trading we have found that it is possible to trade the return of the price to VWAP on small timeframes. For example, let's consider ES \(e-mini S&P500\) futures on 5-minute chart with an hourly VWAP. 
 
 ![Trading with VWAP in Quantower platform](../../.gitbook/assets/vwap-trading.png)
@@ -70,4 +72,12 @@ For intraday trading we have found that it is possible to trade the return of th
 An important point in this tactic is that the distance between the VWAP value and the closing price should be significant.
 
 ![The distance between the VWAP value and the closing price should be significant ](../../.gitbook/assets/vwap-trading1.png)
+
+### \#2 Trading with STD bands
+
+**Standard deviations** are an objective statistical measurement that quantify variance in a data set, with a small value indicating that most data points are close to the average and a larger value indicating a wider spread. 
+
+By applying this tool to trading with VWAP serving as our average, we can plot these deviations as bands to create a visible unit of measurement to characterize market movement and gauge volatility
+
+Deviation bands are plotted continuously alongside VWAP, automatically adjusting as we receive more data. They typically start off small and expand as price begins to break away from the market's average, but lacking any notable volume or volatility they remain stable throughout the day.
 

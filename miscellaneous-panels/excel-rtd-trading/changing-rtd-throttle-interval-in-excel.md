@@ -6,7 +6,7 @@ description: >-
 
 # Changing RTD Throttle Interval in Excel
 
-To change the throttle interval in the Excel, please follow steps below:
+The default throttle interval is set at 2000 milliseconds. To change it in the Excel, please follow steps below:
 
 1. In Excel, go to the Visual Basic Editor by pressing **ALT + F11**.
 2. Open the **Immediate Window**  and type this code:  **`Application.RTD.ThrottleInterval=0`**  \(**Note**: If the **Immediate Window** is not open, press **CTRL + G** to display the window.\)

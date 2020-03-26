@@ -27,6 +27,14 @@ Also in the settings there are two important settings:
 
 The easiest way to get data to Excel is to copy the necessary data through the panel context menu. For example, after activating RTD, an additional item in the context menu will appear in the Watchlist panel — **Copy RTD Formula**.
 
+* Select necessary symbol or multiple symbols, right-click and select Copy RTD Formula. You can copy formulas for specific columns or for all columns.
+
+![](../../.gitbook/assets/rtd-watchlist.png)
+
+* Go to Excel and paste the copied formulas. Now the data will be updated automatically.
+
+![Boadcasting real-time data to Excel](../../.gitbook/assets/rtd-quick-copying.gif)
+
 ### 2. Getting data through writing a formula
 
 When retrieving instrument data using RTD, you need to specify the ID of the instrument and the properties you want to retrieve.

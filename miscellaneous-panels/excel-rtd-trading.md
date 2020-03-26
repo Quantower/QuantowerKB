@@ -21,7 +21,13 @@ Also in the settings there are two important settings:
 * **Custom RTD formula name** — depending on the language of your operating system, the name of the RTD function in Excel may be called differently. The original name of the function in the English version of Excel is RTD, but for Russuian version it's called as "ДРВ".
 * **Custom argument separator** — the separator that participates in the formula. It depends on the localization of your operating system. Get to know [how to check argument separator in your system](excel-rtd-trading.md#how-to-check-argument-separator).
 
-## How to retrieve the instrument data from Quantower?
+## How to get the instrument data from Quantower?
+
+### 1. Getting data through copying a formula
+
+The easiest way to get data to Excel is to copy the necessary data through the panel context menu. For example, after activating RTD, an additional item in the context menu will appear in the Watchlist panel — **Copy RTD Formula**.
+
+### 2. Getting data through writing a formula
 
 When retrieving instrument data using RTD, you need to specify the ID of the instrument and the properties you want to retrieve.
 

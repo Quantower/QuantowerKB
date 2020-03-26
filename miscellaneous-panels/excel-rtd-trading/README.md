@@ -35,6 +35,8 @@ The easiest way to get data to Excel is to copy the necessary data through the p
 
 ![Boadcasting real-time data to Excel](../../.gitbook/assets/rtd-quick-copying.gif)
 
+You may notice that the data is updated with some delay. This is throttling by Excel that is set by default. If you want to increase the speed of updating data, read the instructions on how to do it.
+
 ### 2. Getting data through writing a formula
 
 When retrieving instrument data using RTD, you need to specify the ID of the instrument and the properties you want to retrieve.

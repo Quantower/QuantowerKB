@@ -8,18 +8,18 @@ We prepared the spreadsheet that outlines the basic syntax of RTD formulas with 
 
 Here is the General Syntax for getting symbol info via RTD function:
 
-![](../.gitbook/assets/screenshot_128%20%281%29.png)
+![](../../.gitbook/assets/screenshot_128%20%281%29.png)
 
 ## **How to activate RTD function in Quantower platform**
 
-Go to the [**General Settings**](../getting-started/general-settings.md) of the platform, then to _section **Excel RTD**_ and tick off _**"Enable Microsoft Excel RTD"**_
+Go to the [**General Settings**](../../getting-started/general-settings.md) of the platform, then to _section **Excel RTD**_ and tick off _**"Enable Microsoft Excel RTD"**_
 
-![Activation of RTD function in Quantower](../.gitbook/assets/assets_-ld6fsrvq3jgwjig6o7r_-lme4wbmrbk0ai3rafld_-lmeyazmdvqpbsftpr9b_rtd.png)
+![Activation of RTD function in Quantower](../../.gitbook/assets/assets_-ld6fsrvq3jgwjig6o7r_-lme4wbmrbk0ai3rafld_-lmeyazmdvqpbsftpr9b_rtd.png)
 
 Also in the settings there are two important settings:
 
 * **Custom RTD formula name** — depending on the language of your operating system, the name of the RTD function in Excel may be called differently. The original name of the function in the English version of Excel is RTD, but for Russuian version it's called as "ДРВ".
-* **Custom argument separator** — the separator that participates in the formula. It depends on the localization of your operating system. Get to know [how to check argument separator in your system](excel-rtd-trading.md#how-to-check-argument-separator).
+* **Custom argument separator** — the separator that participates in the formula. It depends on the localization of your operating system. Get to know [how to check argument separator in your system](./#how-to-check-argument-separator).
 
 ## How to get the instrument data from Quantower?
 
@@ -57,9 +57,9 @@ For Windows 10:
 * click **Additional Settings**
 * for **List Separator** check the argument. ****It must be the same as in RTD settings.
 
-![](../.gitbook/assets/regional_settings.png)
+![](../../.gitbook/assets/regional_settings.png)
 
-![](../.gitbook/assets/regional2.jpg)
+![](../../.gitbook/assets/regional2.jpg)
 
 
 

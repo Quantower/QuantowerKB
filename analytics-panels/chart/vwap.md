@@ -81,3 +81,5 @@ By applying this tool to trading with VWAP serving as our average, we can plot t
 
 Deviation bands are plotted continuously alongside VWAP, automatically adjusting as we receive more data. They typically start off small and expand as price begins to break away from the market's average, but lacking any notable volume or volatility they remain stable throughout the day.
 
+![](../../.gitbook/assets/stds-and-vwap.png)
+

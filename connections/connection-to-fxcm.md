@@ -8,6 +8,8 @@ description: >-
 
 To connect Quantower to FXCM broker, you need to activate unique Token API. Below we have described the step-by-step process of getting a token.
 
+{% embed url="https://youtu.be/U5luFf-pQXU" %}
+
 * Go to the [**FXCM** official website](https://www.fxcm.com/) to open a demo or live account. If you already have an account, please log in to the system.
 * Click on _**Launch Platform**_  button to create a demo account or click on the link [Forex Trading Demo](https://www.fxcm.com/uk/forex-trading-demo/).
 

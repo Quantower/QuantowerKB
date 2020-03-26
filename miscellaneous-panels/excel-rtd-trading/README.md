@@ -35,7 +35,7 @@ The easiest way to get data to Excel is to copy the necessary data through the p
 
 ![Boadcasting real-time data to Excel](../../.gitbook/assets/rtd-quick-copying.gif)
 
-You may notice that the data is updated with some delay. This is throttling by Excel that is set by default. If you want to increase the speed of updating data, read the instructions on how to do it.
+You may notice that the data is updated with some delay. This is throttling by Excel that is set by default. If you want to [increase the speed of updating data, read the instructions on how to do it](https://help.quantower.com/miscellaneous-panels/excel-rtd-trading/changing-rtd-throttle-interval-in-excel).
 
 ### 2. Getting data through writing a formula
 

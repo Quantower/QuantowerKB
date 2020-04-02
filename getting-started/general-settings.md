@@ -18,7 +18,7 @@ It is logically grouped into several tabs:
 * \*\*\*\*[**Confirmations & Warnings**](general-settings.md#confirmations)\*\*\*\*
 * \*\*\*\*[**Time zone settings**](general-settings.md#time-zones)\*\*\*\*
 * \*\*\*\*[**Excel RTD**](../miscellaneous-panels/excel-rtd-trading/)\*\*\*\*
-* **Messengers**
+* \*\*\*\*[**Messengers**](general-settings.md#messengers)\*\*\*\*
 
 {% hint style="info" %}
 The most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.

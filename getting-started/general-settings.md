@@ -102,5 +102,14 @@ Start from the version 1.39 Quantower supports RealTimeData \(RTD\) for sending 
 
 ## Messengers
 
+Quantower Alert Bot will send a message to your Telegram account about all events that you set in the platform. For example, set a price alert on the chart, and when the price will reach this level, a notification to the messenger will be sent.
+
+![](../.gitbook/assets/telegram-alerts.gif)
+
+To add a bot to the Telegram, open the platform's **General Settings -&gt; Messengers -&gt; Duplicate alerts to Telegram**.
+
+Specify your personal chat ID, which you can find out by clicking on the **Get ID** button. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx"**_  
+Enter your chat ID in the corresponding field and then connect to the Quantower Alert Bot.
+
 ![](../.gitbook/assets/general-settings-_-messengers.png)
 

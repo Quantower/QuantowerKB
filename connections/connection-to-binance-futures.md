@@ -31,7 +31,9 @@ To start trading on Binance Futures through Quantower platform, you need to open
 
 * For trading, please enter your **API Key** and **Secret Key**.
 
+## How to change Leverage and Margin Type
 
+* Binance Futures allows you to trade various instruments and manually change the leverage for each one. To change it, open [**Symbol Info**](../informational-panels/symbol-info.md) panel and select necessary symbol. In the bottom of this panel there is **Leverage** field where you can change the value and apply it by clicking **Enter** button.
 
-
+![](../.gitbook/assets/leverage-binance-futures.png)
 

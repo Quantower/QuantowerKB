@@ -37,3 +37,11 @@ To start trading on Binance Futures through Quantower platform, you need to open
 
 ![](../.gitbook/assets/leverage-binance-futures.png)
 
+Binance offers two types of margin for futures trading:
+
+**Cross Margin Mode**: Share your margin balance across all open positions to avoid liquidation. In the event of liquidation you risk losing your full margin balance along with any remaining open positions. 
+
+**Isolated Margin Mode**: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
+
+![](../.gitbook/assets/margin-type-binance-futures.png)
+

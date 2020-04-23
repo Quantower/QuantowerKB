@@ -9,6 +9,9 @@ description: >-
 
 You can benefit from market data provided by IQFeed while trading on Quantower platform. All you need to create IQFeed account and to connect it to Quantower. Having registered with IQFeed, a Free Trial Demo Account is automatically opened and you can use it during the determined trial time period for free. After the trial period expires, you will be offered to proceed with real account.
 
+* \*\*\*\*[**How to register and open demo account with IQFeed?**](connection-to-iqfeed.md#how-to-register-and-open-demo-account-with-iqfeed)\*\*\*\*
+* \*\*\*\*[**DTN Calculated Indicators & Market Statistics**](connection-to-iqfeed.md#dtn-calculated-indicators-and-market-statistics)  **\(**[**link to document**](http://www.iqfeed.net/symbolguide/DTNCalculatedIndicators.pdf)**\)**
+
 ### How to connect IQFeed to Quantower
 
 * Create a [**demo account**](https://www.iqfeed.net/index.cfm?displayaction=start) on the IQFeed official website. If you already have an account, skip this step.
@@ -71,4 +74,12 @@ Only data with NO dollar sign \(as it is indicated in the left side of the scree
 * Select [Manage Credit Cards](https://my.telventdtn.com/storefront/customer/ManageCreditCards) ;
 * Click on the respective Remove button to sign off your credit card.
 {% endhint %}
+
+### DTN Calculated Indicators & Market Statistics
+
+DTN’s Ticker Plant gives traders an edge by calculating thousands of indicators not available elsewhere that provide insight into historical trends and real-time market dynamics. [**How to request these stats in the platform?**](http://www.iqfeed.net/symbolguide/DTNCalculatedIndicators.pdf)\*\*\*\*
+
+![](../.gitbook/assets/dtn-market-stat.png)
+
+![](../.gitbook/assets/premiums.png)
 

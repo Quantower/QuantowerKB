@@ -7,6 +7,10 @@ description: >-
 
 # Connection to Interactive Brokers
 
+* \*\*\*\*[**Data Limitations**](connect-quantower-to-interactive-broker.md#data-limitations)\*\*\*\*
+* \*\*\*\*[**Necessary steps for successful connection to Quantower**](connect-quantower-to-interactive-broker.md#necessary-steps-for-successful-connection-to-quantower)\*\*\*\*
+* \*\*\*\*[**Problems during the connection to Interactive Brokers**](connect-quantower-to-interactive-broker.md#problems-during-the-connection-to-interactive-brokers)\*\*\*\*
+
 ### Data Limitations
 
 Interactive Brokers places the following limitations on realtime and historical data accessible to 3rd party applications
@@ -17,7 +21,7 @@ Interactive Brokers places the following limitations on realtime and historical 
 
 For more details on these limitations see [IB Data Limitations](https://interactivebrokers.github.io/tws-api/historical_limitations.html#gsc.tab=0).
 
-### Necessary steps for successful connection
+### Necessary steps for successful connection to Quantower
 
 This guide will help you to configure the connection to the Interactive Brokers and start working on Quantower platform.
 

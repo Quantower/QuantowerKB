@@ -7,6 +7,9 @@ description: >-
 
 # Connection to MetaStock
 
+* \*\*\*\*[**Download and install Metastock XENITH**](connection-to-metastock.md#download-and-install-metastock-xenith)\*\*\*\*
+* \*\*\*\*[**Launch Quantower with Metastock connection**](connection-to-metastock.md#launch-quantower-with-metastock-connection)\*\*\*\*
+
 ### How to install Meta**S**tock XENITH / EIKON and create an account?
 
 Metastock provides trial access to its platform for 1 month. [**Follow the link**](https://www.metastock.com/offer/ek/?whc=quantowerek&pc=Eq-quantower) and click on the button “_**Get a FREE 1 month trial of XENITH**_”. Select the market data you'd like to subscribe to.

@@ -1,20 +1,21 @@
 ---
 description: >-
-  History Player (Market Replay) allows you to test on any trading instruments
-  with any vendor or broker
+  History Player (Market Replay) allows you to test strategies on any trading
+  instruments with any data provider or broker
 ---
 
 # History Player
+
+\*\*\*\*[**First launch of the History Player**](history-player.md#first-launch-of-the-history-player)  
+****[**General and instruments settings**](history-player.md#general-and-instruments-settings)\*\*\*\*
 
 ### What is History Player
 
 Testing of trading strategies is one of the most important and necessary steps for successful trading. If you are an experienced algotrader, then the automatic testing method is ideal and you can use our Extension for Visual Studio. But unfortunately, many traders don't know the programming language, which makes testing their strategies difficult.
 
-![Launch History Player ](../.gitbook/assets/screenshot_27.png)
-
 Therefore Quantower provides the **History Player panel** for simple manual backtesting of any trading strategy.
 
-![General view of History Player panel ](../.gitbook/assets/history-player-general.png)
+![Testing process with History Player pane](../.gitbook/assets/history-player.png)
 
 History Player allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders \(quotation date feeds like IQFeed or crypto exchange\).
 
@@ -27,6 +28,10 @@ History Player allows you to test on any trading instruments with any vendor or 
 * Set the data type  — Tick, 1 minute, 1 day
 * Set the execution type  — Last or Bid/Ask/Last
 * Click on the "Start" button to start testing
+
+![Launch History Player ](../.gitbook/assets/screenshot_27.png)
+
+![General view of History Player with main settings](../.gitbook/assets/history-player-main-settings1.png)
 
 {% hint style="warning" %}
 If you click on the "**Stop"** button, all test progress will be canceled.

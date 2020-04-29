@@ -29,6 +29,8 @@ History Player allows you to test on any trading instruments with any vendor or 
 * Set the execution type  — Last or Bid/Ask/Last
 * Click on the "Start" button to start testing
 
+In our blog, we showed in detail the process of [manual backtesting of trading strategies using the History Player](https://www.quantower.com/blog/software-for-manual-backtesting-a-brief-review-of-history-player-plugin).
+
 ![Launch History Player ](../.gitbook/assets/screenshot_27.png)
 
 ![General view of History Player with main settings](../.gitbook/assets/history-player-main-settings1.png)
@@ -40,8 +42,6 @@ If you click on the "**Stop"** button, all test progress will be canceled.
  When the testing is started you can open all the necessary panels for testing by clicking on the “Open panel” button.
 
 ![Open necessary panels to create a workspace for backtesting](../.gitbook/assets/available-panels-in-history-player.png)
-
-In our blog, we showed in detail the process of [manual backtesting of trading strategies using the History Player](https://www.quantower.com/blog/software-for-manual-backtesting-a-brief-review-of-history-player-plugin).
 
 ### General and instruments settings
 

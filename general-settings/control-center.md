@@ -143,11 +143,11 @@ By clicking one of the notifications you will see the window with the detailed i
 
 ### General settings
 
-The “_**Gear**_” icon opens a general settings screen, where you can setup the most common parameters of our terminal. [More details about the **Settings**](general-settings.md) screen is available in the corresponding section of this documentation.
+The “_**Gear**_” icon opens a general settings screen, where you can setup the most common parameters of our terminal. [More details about the **Settings**](general-settings-1.md) screen is available in the corresponding section of this documentation.
 
 ### Time & Time zones
 
-The Time bar is also displayed on the Control center toolbar showing you time in selected timezone. By default, your local timezone is used. You can change the time zones list by clicking the "_**Gear**_" icon and then select the required ones in [**General settings screen**](general-settings.md). You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
+The Time bar is also displayed on the Control center toolbar showing you time in selected timezone. By default, your local timezone is used. You can change the time zones list by clicking the "_**Gear**_" icon and then select the required ones in [**General settings screen**](general-settings-1.md). You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
 
 ![Switch between your favorite timezones](../.gitbook/assets/timezones.png)
 

@@ -12,13 +12,13 @@ General settings — is a screen, where you can set up the most common behavior 
 
 It is logically grouped into several tabs: 
 
-* [**General**](general-settings.md#general)\*\*\*\*
-* \*\*\*\*[**Control Center**](general-settings.md#control-center)\*\*\*\*
-* \*\*\*\*[**Sounds**](general-settings.md#sounds)\*\*\*\*
-* \*\*\*\*[**Confirmations & Warnings**](general-settings.md#confirmations)\*\*\*\*
-* \*\*\*\*[**Time zone settings**](general-settings.md#time-zones)\*\*\*\*
+* [**General**](general-settings-1.md#general)\*\*\*\*
+* \*\*\*\*[**Control Center**](general-settings-1.md#control-center)\*\*\*\*
+* \*\*\*\*[**Sounds**](general-settings-1.md#sounds)\*\*\*\*
+* \*\*\*\*[**Confirmations & Warnings**](general-settings-1.md#confirmations)\*\*\*\*
+* \*\*\*\*[**Time zone settings**](general-settings-1.md#time-zones)\*\*\*\*
 * \*\*\*\*[**Excel RTD**](../miscellaneous-panels/excel-rtd-trading/)\*\*\*\*
-* \*\*\*\*[**Messengers**](general-settings.md#messengers)\*\*\*\*
+* \*\*\*\*[**Messengers**](general-settings-1.md#messengers)\*\*\*\*
 
 {% hint style="info" %}
 The most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.

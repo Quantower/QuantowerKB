@@ -9,15 +9,19 @@ description: >-
 
 To connect Quantower to a broker that uses Rithmic technology, it is sufficient to have \(or create a new\) account.
 
-### Existed Accounts
+* \*\*\*\*[**Connection for Existed Accounts**](connection-to-rithmic.md#connection-for-existed-accounts)\*\*\*\*
+* \*\*\*\*[**Connection for New Accounts**](connection-to-rithmic.md#connection-for-new-accounts)\*\*\*\*
+* \*\*\*\*[**Problems during the connection to Rithmic**](connection-to-rithmic.md#problems-during-the-connection-to-rithmic)\*\*\*\*
 
-* Open connection manager, select Rithmic and specify the type of connection \(Demo / Real\). 
+### Connection for Existed Accounts
+
+* Open connection manager, select **Rithmic** and specify the type of connection \(**Demo / Real**\). 
 * Enter your login and password and click **Connect.**
 * If necessary, the server can be changed in the connection settings. By default, the Rithmic Paper Chicago server is set for demo accounts and the Rithmic Aurora Chicago server is set for real accounts.
 
 ![Enter login data for connection to Rithmic](../.gitbook/assets/rithmic-connection.png)
 
-### New Accounts
+### Connection for New Accounts
 
 * Create a new demo or open a real account with any broker supporting Rithmic technology, accept agreements, and start using our platform.
 
@@ -25,5 +29,20 @@ To connect Quantower to a broker that uses Rithmic technology, it is sufficient 
 
 * To register **Rithmic Demo** go to their official website or ****follow this [link](https://rithmic.com/demo.html#sign-up)
 * Fill in all the required fields
-* Accept _"Market Data Subscription Agreement"_ and _"Market Data Self-Certification"_
+* Accept _**"Market Data Subscription Agreement"**_ and _"**Market Data Self-Certification"**_
+* Account will be activated within 30-60 minutes.
+
+### **Problems during the connection to Rithmic**
+
+Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed".**_
+
+![Rithmic error &quot;Market Data Connection Closed&quot; in Quantower](../.gitbook/assets/connections-error-with-rithmic.png)
+
+This error message is most commonly encountered by _**new Rithmic users for various reasons**_ and is not within the control of Quantower platform. More often it occurs for the following reasons:
+
+* You didn't accept aggrements "_Market Data Subscription Agreement"_ and _"Market Data Self-Certification"_  during the registration on Rithmic's wbsite or in R Trader platform. _We recommend connecting through **R Trader** or **R Trader Pro** platforms._
+* A new account was created less than an hour ago. Usually the **full activation of a new account takes from 30 minutes to 1 hour**.
+* The error can be encountered because the Rithmic server is unavailable to be connected to. This error commonly can be encountered over the weekend. In this case it is best to wait until Sunday evening to see if you can connect to determine if this is the problem or there is some other problem.
+* Rithmic demo accounts are limited to 14 days per exchange guidelines on providing live, streaming data. If you have used a Rithmic demo previously you will _not_ be able to login with a new Rithmic demo Username.
+* If you are unable to connect within a few days, you need to contact your broker about this issue.
 

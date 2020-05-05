@@ -1,2 +1,2 @@
-# Information panels
+# Information Panels
 

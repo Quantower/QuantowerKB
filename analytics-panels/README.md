@@ -1,2 +1,2 @@
-# Analytics panels
+# Analytics Panels
 

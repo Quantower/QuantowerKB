@@ -1,2 +1,2 @@
-# Trading panels
+# Trading Panels
 

@@ -48,3 +48,11 @@ Binance offers two types of margin for futures trading:
 
 ![](../.gitbook/assets/margin-type-binance-futures.png)
 
+{% hint style="danger" %}
+For new accounts on which no trades were made, it is **not possible to change the leverage and margin type**. 
+
+To enable these functions, you need to make at least 1 trade for current symbol. After that, please restart the platform and these features will be available.
+{% endhint %}
+
+![Make one trade to activate Leverage and Margin type for Binance Futures in Quantower](../.gitbook/assets/symbol-info-binance-futures.png)
+

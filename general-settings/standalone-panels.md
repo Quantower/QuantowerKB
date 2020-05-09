@@ -22,7 +22,7 @@ Each panel has its own **context menu**, situated on the left upper corner, righ
 This menu usually consists of following functions:
 
 * **Link**. Allows linking several panels by common symbol using the Color definition. Just select one link color in two panels and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
-* **Create bind**. Combining several panels in Super-panel. More in corresponding section below.
+* **Create bind**. Combining several panels in Super-panel. More in [_Binds section_](binds.md).
 * **Duplicate panel**. Just creates one more totally similar panel.
 * \*\*\*\*[**Save as template**](https://help.quantower.com/getting-started/templates). Customize the panel, combine in a group or Bind and save as template.
 * \*\*\*\*[**Save as default**](https://help.quantower.com/getting-started/set-as-default)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type.

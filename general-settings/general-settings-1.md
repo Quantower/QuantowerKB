@@ -88,9 +88,9 @@ The group of actions in Quantower, when the sound should be played consists of t
 
 ## Time zones
 
-In case you are trading in various markets that are in different time zones, you will find it useful to switch the time indicator in [**Control center**](control-center.md) to one of your favorite market times.
+In case you are trading in various markets that are in different time zones, you will find it useful to switch the time indicator in [**Control center**](main-toolbar.md) to one of your favorite market times.
 
-In Time zone settings group you can select what time zones are your favorite and should be displayed in a pop-up screen when you click the [**Time**](control-center.md#time-and-time-zones) in **Control center**. Once you select several items from this list, you will then be able to switch between them easily.
+In Time zone settings group you can select what time zones are your favorite and should be displayed in a pop-up screen when you click the [**Time**](main-toolbar.md#time-and-time-zones) in **Control center**. Once you select several items from this list, you will then be able to switch between them easily.
 
 ![Favorite time zones management](../.gitbook/assets/time-zones.png)
 

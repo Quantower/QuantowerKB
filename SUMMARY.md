@@ -10,7 +10,7 @@
   * [Quantower Account](getting-started/quantower-account.md)
   * [Quantower Licenses](getting-started/quantower-licenses.md)
 * [General Settings](general-settings/README.md)
-  * [Control center](general-settings/control-center.md)
+  * [Quantower Main Toolbar](general-settings/main-toolbar.md)
   * [Workspaces](general-settings/workspaces-binds-groups.md)
   * [Binds](general-settings/binds.md)
   * [Group of panels](general-settings/group-of-panels.md)

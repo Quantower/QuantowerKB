@@ -15,11 +15,20 @@ To connect Quantower to a broker that uses Rithmic technology, it is sufficient 
 
 ### Connection for Existed Accounts
 
+* \*\*\*\*[**Download and install R Trader Pro**](http://yyy3.rithmic.com/?page_id=16) from Rithmic official website.
 * Open connection manager, select **Rithmic** and specify the type of connection \(**Demo / Real**\). 
+* Click on **Connection Settings** and **activate Use RTrader** option to avoid additonal fees for subscription to market data. If necessary, trader can change the server. By default, the Rithmic Paper Chicago server is set for demo accounts and the Rithmic Aurora Chicago server is set for real accounts.
 * Enter your login and password and click **Connect.**
-* If necessary, the server can be changed in the connection settings. By default, the Rithmic Paper Chicago server is set for demo accounts and the Rithmic Aurora Chicago server is set for real accounts.
 
 ![Enter login data for connection to Rithmic](../.gitbook/assets/rithmic-connection.png)
+
+{% hint style="info" %}
+Starting from May 1, the [CME exchange сhanged the rules for determining a professional market participant](http://yyy3.rithmic.com/?p=1069), and as a result, increased the fee for the market data. In order to correctly define the professional participant, Ritmic has changed the connection parameters in their platform, as well as in API for platforms such as Quantower.
+
+To avoid additional fees for subscription to market data, a trader needs to login through the R Trader Pro platform and activate the setting in Quantower, which is called **Use RTrader**.
+{% endhint %}
+
+![Activate Use RTrader option to avoid additonal fees for subscription to market data](../.gitbook/assets/rithmic-plugin.gif)
 
 ### Connection for New Accounts
 

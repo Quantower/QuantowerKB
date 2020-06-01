@@ -4,24 +4,24 @@ description: >-
   instruments with any data provider or broker
 ---
 
-# History Player
+# Market Replay
 
-\*\*\*\*[**First launch of the History Player**](history-player.md#first-launch-of-the-history-player)  
+\*\*\*\*[**First launch of the Market Replay**](history-player.md#first-launch-of-the-market-replay)  
 ****[**General and instruments settings**](history-player.md#general-and-instruments-settings)\*\*\*\*
 
-### What is History Player
+### What is Market Replay
 
 Testing of trading strategies is one of the most important and necessary steps for successful trading. If you are an experienced algotrader, then the automatic testing method is ideal and you can use our Extension for Visual Studio. But unfortunately, many traders don't know the programming language, which makes testing their strategies difficult.
 
-Therefore Quantower provides the **History Player panel** for simple manual backtesting of any trading strategy.
+Therefore Quantower provides the **Market Replay panel** for simple manual backtesting of any trading strategy.
 
-![Testing process with History Player pane](../.gitbook/assets/history-player.png)
+![Testing process with Market Replay panel](../.gitbook/assets/history-player.png)
 
-History Player allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders \(quotation date feeds like IQFeed or crypto exchange\).
+Market Replay allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders \(quotation date feeds like IQFeed or crypto exchange\).
 
 {% embed url="https://www.youtube.com/watch?v=za-eE8ZSmV8" caption="How to backtest a trading strategy with History Player" %}
 
-### First launch of the History Player
+### First launch of the Market Replay
 
 * Start the panel from the main application menu
 * Add a trading instrument for testing
@@ -39,7 +39,7 @@ In our blog, we showed in detail the process of [manual backtesting of trading s
 If you click on the "**Stop"** button, all test progress will be canceled.
 {% endhint %}
 
- When the testing is started you can open all the necessary panels for testing by clicking on the “Open panel” button.
+When the testing is started you can open all the necessary panels for testing by clicking on the “Open panel” button.
 
 ![Open necessary panels to create a workspace for backtesting](../.gitbook/assets/available-panels-in-history-player.png)
 

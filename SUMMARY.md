@@ -89,7 +89,7 @@
   * [DOM Trader](trading-panels/dom-trader.md)
   * [Market depth](trading-panels/market-depth.md)
   * [Trading simulator](trading-panels/trading-simulator.md)
-  * [History Player](trading-panels/history-player.md)
+  * [Market Replay](trading-panels/history-player.md)
   * [FX Cell](trading-panels/fx-cell.md)
 * [Portfolio Panels](portfolio-panels/README.md)
   * [Positions](portfolio-panels/positions.md)

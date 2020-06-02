@@ -1,6 +1,6 @@
 ---
 description: >-
-  History Player (Market Replay) allows you to test strategies on any trading
+  Market Replay (or History Player) allows you to test strategies on any trading
   instruments with any data provider or broker
 ---
 
@@ -19,7 +19,7 @@ Therefore Quantower provides the **Market Replay panel** for simple manual backt
 
 Market Replay allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders \(quotation date feeds like IQFeed or crypto exchange\).
 
-{% embed url="https://www.youtube.com/watch?v=za-eE8ZSmV8" caption="How to backtest a trading strategy with History Player" %}
+{% embed url="https://www.youtube.com/watch?v=za-eE8ZSmV8" caption="How to backtest a trading strategy with Market Replay panel" %}
 
 ### First launch of the Market Replay
 
@@ -41,13 +41,13 @@ If you click on the "**Stop"** button, all test progress will be canceled.
 
 When the testing is started you can open all the necessary panels for testing by clicking on the “Open panel” button.
 
-![Open necessary panels to create a workspace for backtesting](../.gitbook/assets/available-panels-in-history-player.png)
+![Open necessary panels to create a workspace for backtesting](../.gitbook/assets/market-replay-in-action.gif)
 
 ### General and instruments settings
 
 Before you start testing the strategy, you need to set up an initial trading balance, a simulation \(or modeling\) scheme for downloaded data, a commission size for a trading instrument, and the netting type.
 
-![Set up the initial trading balance and modeling scheme](../.gitbook/assets/screenshot_18.png)
+![Set up the initial trading balance and modeling scheme](../.gitbook/assets/backtesting-environment-settings.png)
 
 Strategy testing can be performed by one of three schemes to choose from:
 
@@ -61,7 +61,7 @@ Strategy testing can be performed by one of three schemes to choose from:
 
 Now let's look at the main settings of the selected trading instrument
 
-![Basic settings for trading instrument - Netting type and additional fees](../.gitbook/assets/screenshot_20.png)
+![Basic settings for trading instrument &#x2014; Netting type and Additional Fees](../.gitbook/assets/netting-types.png)
 
 In the **Netting type** section, you can choose the method by which to summarize existing and new positions:
 

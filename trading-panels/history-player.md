@@ -33,7 +33,7 @@ In our blog, we showed in detail the process of [manual backtesting of trading s
 
 ![Launch Market Replay panel](../.gitbook/assets/market-replay-start.png)
 
-![General view of History Player with main settings](../.gitbook/assets/history-player-main-settings1.png)
+![General view of Market Replay with main settings](../.gitbook/assets/market-replay-for-new-instruments.png)
 
 {% hint style="warning" %}
 If you click on the "**Stop"** button, all test progress will be canceled.

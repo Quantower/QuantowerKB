@@ -30,13 +30,13 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 
 ![Activate Use RTrader option to avoid additonal fees for subscription to market data](../.gitbook/assets/rithmic-plugin.gif)
 
-### Connection for New Accounts
+### Creating a New Accounts and further connection
 
-* Create a new demo or open a real account with any broker supporting Rithmic technology, accept agreements, and start using our platform.
+* \*\*\*\*[**Create a new demo**](https://rithmic.com/demo.html#sign-up) or open a real account with any broker supporting Rithmic technology, accept agreements, and start using our platform.
 
 {% embed url="https://youtu.be/3kpiOCiqE5Q" %}
 
-* To register **Rithmic Demo** go to their official website or ****follow this [link](https://rithmic.com/demo.html#sign-up)
+* To register [**Rithmic Demo**](https://rithmic.com/demo.html#sign-up) ****go to their official website or ****follow this [link](https://rithmic.com/demo.html#sign-up)
 * Fill in all the required fields
 * Accept _**"Market Data Subscription Agreement"**_ and _"**Market Data Self-Certification"**_
 * Account will be activated within 30-60 minutes.

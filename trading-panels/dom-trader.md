@@ -36,6 +36,8 @@ To place an order via Order Entry:
 
 ![Placing a new position via Order Entry in DOM Trader ](../.gitbook/assets/oco-dom.gif)
 
+{% embed url="https://www.youtube.com/watch?v=8a19rPvy2nQ" caption="DOM Trader panel in Quantower" %}
+
 ### DOM Trader settings
 
 Additional settings of the DOM Trader allow you to customize general view for convenient display of data and the panel in general.

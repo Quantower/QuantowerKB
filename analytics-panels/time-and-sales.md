@@ -15,6 +15,8 @@ Time & Sales panel keeps a running record of trades for selected instruments dis
 
 ![Time &amp; Sales panel in Quantower shows all executed trades](../.gitbook/assets/time-and-sales.gif)
 
+{% embed url="https://www.youtube.com/watch?v=-R\_AXBMlNpM" caption="Aggregated Time & Sales in Quantower also known as Reconstructed Tape" %}
+
 ### Real-time and Historical modes
 
 Real-time mode shows all the trades that are currently executed. The historical mode allows you to get all past trades for a specified period of time directly in the panel.
@@ -25,7 +27,7 @@ Real-time mode shows all the trades that are currently executed. The historical 
 
 The basic settings in Time & Sales are similar to the parameters of most panels in Quantower — full flexibility in color settings, fonts, columns visibility, data position relative to the column, etc. 
 
-![General settings of Time &amp; Sales panel](../.gitbook/assets/time-and-sales-general-settings.png)
+![Time &amp; Sales settings in Quantower](../.gitbook/assets/time_sales-settings.png)
 
 But some settings are unique for this panel:
 
@@ -35,6 +37,9 @@ But some settings are unique for this panel:
   If you chose **“By Aggressor Flag”**, then for the trades with the Buy direction the line will be blue, and for the Sell trades, the line will be red. If the Aggressor flag is not defined \(None\) then the color lime will be white.
 
   If you selected **“By Tick Direction”**, then the lines will be colored according to the change in the last price.
+
+* **Aggregate Trades** — this mode allows tracking large traders, by summing up trades that match in price, direction and time
+* **Time Delay, ms** — it will continue to sum up the data within the specified time, with the same price and trade direction.
 
 ### Export Data
 
@@ -58,7 +63,7 @@ Rows in the table can be filtered by some data value in their column. There are 
 
 ![Quick filtering per column](../.gitbook/assets/quick-filtering.png)
 
-Once you select some option — the table rows will be filtered to that ones, containing the selected value. Quick filter can be cancelled by pressing “_**Cancel filtering**_” option.
+Once you select some option — the table rows will be filtered to those ones, containing the selected value. Quick filter can be canceled by pressing “_**Cancel filtering**_” option.
 
 {% hint style="info" %}
 Quick filtering can be applied only to one column of the table. For filtering multiple columns, we recommend to use  “_**Setup actions**_”.
@@ -76,7 +81,7 @@ This screen allows you to Enable/Disable filtering as well as set up filtering C
 
                                                 _IF \(condition1 AND condition2 ...\) OR \(conditionN...\) …_
 
-You can setup as many conditions as you like. Due to the possible complex logic of filtering, you are required to apply the changes once you finished the filter set up.
+You can set up as many conditions as you like. Due to the possible complex logic of filtering, you are required to apply the changes once you finished the filter set up.
 
 If you have additional questions or proposals about this functional, feel free to contact us. We are here to help you!
 

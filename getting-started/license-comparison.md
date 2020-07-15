@@ -392,9 +392,9 @@ Below you will find the detailed comparison table of licenses and platform featu
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../analytics-panels/option-analytics.md"><b>Option Analytics</b></a> *</td>
       <td
-      style="text-align:left">&#x2716;</td>
-        <td style="text-align:left">&#x2716;</td>
-        <td style="text-align:left">&#x2716;</td>
+      style="text-align:left">4 strikes</td>
+        <td style="text-align:left">4 strikes</td>
+        <td style="text-align:left">4 strikes</td>
         <td style="text-align:left">&#x2714;</td>
     </tr>
   </tbody>

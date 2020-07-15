@@ -2,7 +2,9 @@
 
 We provide the most popular trading & analytics features for free, but some valuable and market-specific features are available under the paid License.
 
-Below you will find the detailed comparison table of licenses and platform features
+Below you will find the detailed comparison table of licenses and platform features. [Prices are available on our official website](https://www.quantower.com/pricing)
+
+Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
 
 <table>
   <thead>
@@ -17,8 +19,10 @@ Below you will find the detailed comparison table of licenses and platform featu
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>Connection to Broker,</p>
-        <p>Data feed, Exchange</p>
+        <p><a href="https://www.quantower.com/connections">Connection to Broker,</a>
+        </p>
+        <p><a href="https://www.quantower.com/connections">Data feed, Exchange</a>
+        </p>
       </td>
       <td style="text-align:left">To one any</td>
       <td style="text-align:left">Only Crypto</td>
@@ -85,14 +89,16 @@ Below you will find the detailed comparison table of licenses and platform featu
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">DOM Trader panel</td>
+      <td style="text-align:left"><a href="../trading-panels/dom-trader.md">DOM Trader panel</a>
+      </td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Time &amp; sales panel</td>
+      <td style="text-align:left"><a href="../analytics-panels/time-and-sales.md">Time &amp; sales panel</a>
+      </td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
@@ -201,84 +207,96 @@ Below you will find the detailed comparison table of licenses and platform featu
       <td style="text-align:left">&#x221E;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Chart Overlays</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/chart-overlays.md">Chart Overlays</a>
+      </td>
       <td style="text-align:left">1</td>
       <td style="text-align:left">&#x221E;</td>
       <td style="text-align:left">&#x221E;</td>
       <td style="text-align:left">&#x221E;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Renko chart</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/chart-types/renko.md">Renko chart</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Kagi chart</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/chart-types/kagi.md">Kagi chart</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Point &amp; Figure chart</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/chart-types/points-and-figures.md">Point &amp; Figure chart</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Heiken Ashi</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/chart-types/heiken-ashi.md">Heiken Ashi</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Range Bars</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/chart-types/range-bars.md">Range Bars</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Volume Bars</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/chart-types/volume-bars.md">Volume Bars</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Indicators in Watchlist</td>
+      <td style="text-align:left"><a href="../analytics-panels/watchlist.md#indicators">Indicators in Watchlist</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Synthetic Symbols &amp; Spreads</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">Only Crypto</td>
-      <td style="text-align:left">&#x2714;</td>
-      <td style="text-align:left">&#x2714;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Trading Simulator</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">Only Crypto</td>
-      <td style="text-align:left">&#x2714;</td>
-      <td style="text-align:left">&#x2714;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Market Replay</td>
+      <td style="text-align:left"><a href="../portfolio-panels/synthetic-symbols.md">Synthetic Symbols &amp; Spreads</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">Only Crypto</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">RTD Excel function</td>
+      <td style="text-align:left"><a href="../trading-panels/trading-simulator.md">Trading Simulator</a>
+      </td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">Only Crypto</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="../trading-panels/history-player.md">Market Replay</a>
+      </td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">Only Crypto</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="../miscellaneous-panels/excel-rtd-trading/">RTD Excel function</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">Only Crypto</td>
       <td style="text-align:left">&#x2714;</td>
@@ -300,7 +318,8 @@ Below you will find the detailed comparison table of licenses and platform featu
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">Cluster chart (Footprint)</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/volume-analysis-tools/cluster-chart.md">Cluster chart (Footprint)</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
@@ -315,8 +334,10 @@ Below you will find the detailed comparison table of licenses and platform featu
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>All types of Volume Profiles</p>
-        <p>(Right, Left, Custom, Step)</p>
+        <p><a href="../analytics-panels/chart/volume-analysis-tools/volume-profiles.md">All types of Volume Profiles </a>
+        </p>
+        <p><a href="../analytics-panels/chart/volume-analysis-tools/volume-profiles.md">(Right, Left, Custom, Step)</a>
+        </p>
       </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
@@ -324,35 +345,40 @@ Below you will find the detailed comparison table of licenses and platform featu
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Time Statistics</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/volume-analysis-tools/time-statistics.md">Time Statistics</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Time Histogram</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/volume-analysis-tools/time-histogram.md">Time Histogram</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">VWAP</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/vwap.md">VWAP</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Anchored VWAP (custom)</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/anchored-vwap.md">Anchored VWAP (custom)</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Dynamic VPOC indicator</td>
+      <td style="text-align:left"><a href="https://www.quantower.com/blog/binance-futures-in-quantower-dynamic-poc-and-recent-bid-ask-in-the-dom#dynamic-vpoc-indicator">Dynamic VPOC indicator</a>
+      </td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
@@ -366,12 +392,12 @@ Below you will find the detailed comparison table of licenses and platform featu
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../analytics-panels/tpo-chart.md"><b>TPO Chart</b></a>&lt;b&gt;&lt;/b&gt;</td>
-      <td
-      style="text-align:left">&#x2716;</td>
-        <td style="text-align:left">&#x2716;</td>
-        <td style="text-align:left">&#x2716;</td>
-        <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../analytics-panels/tpo-chart.md"><b>TPO Chart</b></a><b> *</b>
+      </td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="https://www.quantower.com/dom-surface"><b>DOM Surface</b></a> *</td>
@@ -400,5 +426,5 @@ Below you will find the detailed comparison table of licenses and platform featu
   </tbody>
 </table>
 
-
+Licenses that are marked with the symbol \(\*\) can be purchased separately.
 

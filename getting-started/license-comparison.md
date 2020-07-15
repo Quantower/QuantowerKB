@@ -286,7 +286,59 @@ Below you will find the detailed comparison table of licenses and platform featu
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Cluster chart (Footprint)</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Footprint Imbalances</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>All types of Volume Profiles</p>
+        <p>(Right, Left, Custom, Step)</p>
+      </td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Time Statistics</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Time Histogram</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">VWAP</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Anchored VWAP (custom)</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Dynamic VPOC indicator</td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
@@ -294,45 +346,38 @@ Below you will find the detailed comparison table of licenses and platform featu
     </tr>
     <tr>
       <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">TPO Chart</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">DOM Surface *</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Power Trades *</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2716;</td>
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Option Analytics *</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
     </tr>
   </tbody>
 </table>

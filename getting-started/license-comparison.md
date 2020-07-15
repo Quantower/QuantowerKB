@@ -352,32 +352,36 @@ Below you will find the detailed comparison table of licenses and platform featu
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">TPO Chart</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../analytics-panels/tpo-chart.md"><b>TPO Chart</b></a>&lt;b&gt;&lt;/b&gt;</td>
+      <td
+      style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">DOM Surface *</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="https://www.quantower.com/dom-surface"><b>DOM Surface</b></a> *</td>
+      <td
+      style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Power Trades *</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../analytics-panels/chart/power-trades.md"><b>Power Trades</b></a> *</td>
+      <td
+      style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Option Analytics *</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2716;</td>
-      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../analytics-panels/option-analytics.md"><b>Option Analytics</b></a> *</td>
+      <td
+      style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2716;</td>
+        <td style="text-align:left">&#x2714;</td>
     </tr>
   </tbody>
 </table>

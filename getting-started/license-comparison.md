@@ -185,12 +185,12 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="https://www.quantower.com/advancedfeatures"><b>ADVANCED FEATURES</b></a>&lt;b&gt;&lt;/b&gt;</td>
-      <td
-      style="text-align:left"></td>
-        <td style="text-align:left"></td>
-        <td style="text-align:left"></td>
-        <td style="text-align:left"></td>
+      <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="https://www.quantower.com/advancedfeatures"><b>ADVANCED FEATURES</b></a><b> *</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Simultaneous connections</td>

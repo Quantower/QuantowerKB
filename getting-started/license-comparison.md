@@ -172,6 +172,13 @@ Below you will find the detailed comparison table of licenses and platform featu
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="https://www.quantower.com/advancedfeatures"><b>ADVANCED FEATURES</b></a>&lt;b&gt;&lt;/b&gt;</td>
       <td
       style="text-align:left"></td>
@@ -276,6 +283,13 @@ Below you will find the detailed comparison table of licenses and platform featu
       <td style="text-align:left">Only Crypto</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="https://www.quantower.com/volumeanalysistools"><b>VOLUME ANALYSIS TOOLS</b></a><b> *</b>

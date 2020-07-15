@@ -9,6 +9,7 @@
   * [Backup & restore manager](getting-started/backup-and-restore-manager.md)
   * [Quantower Account](getting-started/quantower-account.md)
   * [Quantower Licenses](getting-started/quantower-licenses.md)
+  * [License Comparison](getting-started/license-comparison.md)
 * [General Settings](general-settings/README.md)
   * [Quantower Main Toolbar](general-settings/main-toolbar.md)
   * [Workspaces](general-settings/workspaces-binds-groups.md)

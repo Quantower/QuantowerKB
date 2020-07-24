@@ -8,7 +8,7 @@ description: >-
 
 ### General info
 
-Order Entry panel allows to create trading orders with different conditions, such as order quantity, price, side, order type and submit them on the market. From the Order Entry panel, you can supply all of the necessary information for an order and easily submit it by clicking the appropriate action button.
+Order Entry panel allows to create trading orders with different conditions, such as order quantity, price, side, order type, and submit them on the market. From the Order Entry panel, you can supply all of the necessary information for order and easily submit it by clicking the appropriate action button.
 
 ![General view of Order Entry panel](../../.gitbook/assets/order-entry-panel-in-quantower-platfrom.png)
 
@@ -19,6 +19,12 @@ The entire panel is conventionally divided into several zones:
 * choice of order type, its price and TIF condition;
 * setting of stop loss and take profit prices;
 * information on current Ask and Bid prices, spread size, VWAP prices, as well as an order placement button.
+
+### How to open the Order Entry panel?
+
+Open the main menu by clicking the logo and in the **Trading section** click on the OE icon.
+
+![Open Order Entry panle in general menu](../../.gitbook/assets/oe-general.png)
 
 ### Symbol and account selection
 

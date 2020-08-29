@@ -16,8 +16,6 @@ To use any paid License, the trader needs to have an active [Quantower Account](
 
 {% embed url="https://www.youtube.com/watch?v=sQVm6Pikz1E" %}
 
-{% embed url="https://www.youtube.com/watch?v=a-mp3TIZEXc" %}
-
 ## License types
 
 We offer a user with a Free license, three packages as well as licenses for separate features. 

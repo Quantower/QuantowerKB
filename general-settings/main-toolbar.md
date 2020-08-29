@@ -10,7 +10,7 @@ description: >-
 
 ![Quantower Main Toolbar](../.gitbook/assets/controlcenter.png)
 
-In this guide you will learn about the next functionalitites:
+In this guide you will learn about the next functionalities:
 
 * \*\*\*\*[**How to customize the Main Toolbar**](main-toolbar.md#customization-of-main-toolbar)\*\*\*\*
 * \*\*\*\*[**Sidebar menu with all panels**](main-toolbar.md#sidebar)\*\*\*\*
@@ -43,7 +43,7 @@ For optimal use of the space on Main Toolbar, we have added the ability to displ
 
 ### Sidebar
 
-All of the panels are placed in so-called _**“Sidebar”**_ screen, that is popping out once you click the Logo icon on toolbar. 
+All of the panels are placed in the so-called _**“Sidebar”**_ screen, that is popping out once you click the Logo icon on the toolbar. 
 
 ![Control center sidebar \(main menu\)](../.gitbook/assets/main-menu-in-control-center.png)
 
@@ -73,7 +73,7 @@ In case you find a panel, just click its icon to open it.
 
 If you were looking for a trading symbol, click on it to see the list of supported panels, that can be opened, predefined with this symbol.
 
-To cancel the search results — click the “_**Cancel search**_” button at the Sidebar footer. This will get you back to the default panels list view.
+To cancel the search results — click the “_**Cancel Search**_” button at the Sidebar footer. This will get you back to the default panels list view.
 
 ### Favorite panels
 
@@ -85,7 +85,7 @@ The way to use it very simple — hover over the right top corner of any panel t
 
 ### Lock trading
 
-If you would like to prevent the manual trading operations occur, you may use the “_**Lock trading**_” button on Main Toolbar. Once clicked it displays the confirmation message that trading being locked and all of the functions, related to opening or closing orders and positions will be disabled. Unlock trading can be done the vice-versa way.
+If you would like to prevent manual trading operations occur, you may use the “_**Lock trading**_” button on Main Toolbar. Once clicked it displays the confirmation message that trading being locked and all of the functions, related to opening or closing orders and positions will be disabled. Unlock trading can be done the vice-versa way.
 
 ![Lock trading icon](../.gitbook/assets/cclocktrading.png)
 
@@ -99,7 +99,7 @@ This feature is useful in case you would like to only analyze the market or whil
 
 ![Workspaces manager](../.gitbook/assets/ccworkspacesmanager.png)
 
-The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of available item from the list. The bottom part of the list \(after separator\) consists of actions, referred to the currently active workspace and allows to:
+The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of the available item from the list. The bottom part of the list \(after separator\) consists of actions, referred to the currently active workspace and allows to:
 
 * **Lock**: disables an ability to add, remove, move or resize any panel in current workspace;
 * **Rename...** : invokes a pop-up screen where you can set up a new name for the current workspace;
@@ -109,11 +109,11 @@ The currently active workspace is marked with the color and has a blue dot on th
 
 When creating the new workspace, you have an ability to specify its future name and select whether it should be Blank, once created, or should contain some predefined panels set. 
 
-You can also Remove any of Workspaces by clicking the “_**Trash**_” icon on the right side from Workspace name \(icon appears while hovering the name\).
+You can also remove any of Workspaces by clicking the “_**Trash**_” icon on the right side from Workspace name \(icon appears while hovering the name\).
 
 ### Favorite connections
 
-The list of active connections can be seen on Main Toolbar in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of items in Favorite connections block. 
+The list of active connections can be seen on Main Toolbar in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of the items in Favorite connections block. 
 
 ![Add favorite connections by clicking the &quot;Star&quot; icon](../.gitbook/assets/favorite-connections.png)
 

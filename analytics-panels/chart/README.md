@@ -45,7 +45,7 @@ The sidebar menu allows you to add an indicator to the chart, a drawing tool or 
 
 ![An overview of Sidebar menu with indicators, drawings and overlays](../../.gitbook/assets/chart-sidebar-menu.png)
 
-For traders who often refer to certain drawings, there is an option to fix them on the Sidebar. For this, near each drawing there is an "Star" icon, upon activation of which you add them to the Favorite List.
+For traders who often refer to certain drawings, there is an option to fix them on the Sidebar. For this, near each drawing there is a "Star" icon, upon activation of which you add them to the Favorite List.
 
 
 

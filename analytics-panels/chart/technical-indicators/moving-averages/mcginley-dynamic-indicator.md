@@ -1,0 +1,2 @@
+# McGinley Dynamic Indicator
+

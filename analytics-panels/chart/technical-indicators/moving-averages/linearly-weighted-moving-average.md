@@ -1,0 +1,2 @@
+# Linearly Weighted Moving Average
+

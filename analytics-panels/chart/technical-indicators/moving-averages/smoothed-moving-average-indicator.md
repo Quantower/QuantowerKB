@@ -1,0 +1,2 @@
+# Smoothed Moving Average Indicator
+

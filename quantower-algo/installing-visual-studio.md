@@ -28,9 +28,9 @@ Now we need to install Quantower Algo extension from Visual Studio Marketplace. 
 
 Click "**Download**". Visual Studio will ask you for restarting to finish the extension installation process.
 
-To check whether Quantower Algo is installed successfully click "_**File -&gt; New -&gt; Project**_" menu item and you will see special project types: Indicator and Strategy:
+To check whether Quantower Algo is installed successfully click "_**File -&gt; New -&gt; Project**_" menu item, type "Indicator" and you will see special project type for blank indicator:
 
-![](../.gitbook/assets/new-project%20%281%29.png)
+![New project window](../.gitbook/assets/image%20%2854%29.png)
 
 Now everything is ready to [create your first indicator](simple-indicator.md).
 

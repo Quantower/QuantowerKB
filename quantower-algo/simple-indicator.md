@@ -16,11 +16,11 @@ An indicator is mathematical calculations based on a symbol's price or volume. T
 
 Sounds not very difficult, doesn't it? Let's start! As for example we will write a code that will implement algorithm of Simple Moving Average indicator.
 
-Use "_**File -&gt; New project**_" in the main menu of Visual Studio to open "**New project**" window. Find "**Quantower Algo**" group and select "**Indicator**" template:
+Use "_**File -&gt; New project**_" in the main menu of Visual Studio to open "**New project**" window. Type "Indicator" and you will see special project type for blank indicator:
 
 At first, you need to create a new project for the indicator. Quantower Algo provides you predefined templates for an empty indicator as well as a few examples of real indicators with source code:
 
-![New Project window](../.gitbook/assets/new-project.png)
+![New project window](../.gitbook/assets/image%20%2855%29.png)
 
 A minimum required source code will be generated automatically and contains the main Indicator functions:
 

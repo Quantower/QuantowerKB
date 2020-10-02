@@ -1,5 +1,7 @@
 # Directional Movement Index \(DMI\) Indicator
 
+### What is the Directional Movement Index \(DMI\) Indicator?
+
 **Directional Movement Index \(DMI\)** assists in determining if an asset is trending and attempts to measure the strength of the trend. The DMI disregards the direction of the asset. It only attempts to determine if there is a trend and that trends strength.
 
 The indicator is made up of 2 indicator lines:

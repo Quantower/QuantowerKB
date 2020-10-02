@@ -8,7 +8,7 @@ description: >-
 
 The Ichimoku Indicator displays support and resistance, momentum, and trend in one view. TenkanSen and KijunSen are similar to moving averages and analyzed in relationship to one another. When the shorter term indicator, TenkanSen, rises above the longer-term indicator, KijunSen, the securities trend is typically positive. When TenkanSen falls below KijunSen, the securities trend is typically negative. TenkanSen and KijunSen as a group are then analyzed in relationship to the Cloud, which is composed of the area between Senkou A and Senkou B.
 
-![Ichimoku Indicator in Quantower platform](../../../../.gitbook/assets/image%20%2858%29.png)
+![Ichimoku Indicator in Quantower platform](../../../../.gitbook/assets/image%20%2859%29.png)
 
 ### How Ichimoku indicator works
 

@@ -84,6 +84,7 @@
         * [Commodity Channel Index](analytics-panels/chart/technical-indicators/oscillators/commodity-channel-index.md)
       * [Trend](analytics-panels/chart/technical-indicators/trend/README.md)
         * [Ichimoku Indicator](analytics-panels/chart/technical-indicators/trend/ichimoku-indicator.md)
+        * [Directional Movement Index \(DMI\) Indicator](analytics-panels/chart/technical-indicators/trend/directional-movement-index-dmi-indicator.md)
         * [ZigZag](analytics-panels/chart/technical-indicators/trend/zigzag.md)
       * [Volatility](analytics-panels/chart/technical-indicators/volatility/README.md)
         * [Average True Range](analytics-panels/chart/technical-indicators/volatility/average-true-range.md)

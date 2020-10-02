@@ -83,6 +83,7 @@
         * [Rate of Change](analytics-panels/chart/technical-indicators/oscillators/rate-of-change.md)
         * [Commodity Channel Index](analytics-panels/chart/technical-indicators/oscillators/commodity-channel-index.md)
       * [Trend](analytics-panels/chart/technical-indicators/trend/README.md)
+        * [Average Directional Movement Index \(ADX\) Indicator](analytics-panels/chart/technical-indicators/trend/average-directional-movement-index-adx-indicator.md)
         * [Ichimoku Indicator](analytics-panels/chart/technical-indicators/trend/ichimoku-indicator.md)
         * [Directional Movement Index \(DMI\) Indicator](analytics-panels/chart/technical-indicators/trend/directional-movement-index-dmi-indicator.md)
         * [ZigZag](analytics-panels/chart/technical-indicators/trend/zigzag.md)

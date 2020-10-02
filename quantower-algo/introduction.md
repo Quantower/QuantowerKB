@@ -39,3 +39,5 @@ You just need to spend some time to read our articles about Algo Solutions in Qu
 
 In the next topic we will show you how to [install Visual Studio and Quantower Algo extension](https://help.quantower.com/quantower-algo/installing-visual-studio). If you aware how to do it or if you already have Visual Studio installed on your computer you can skip it and start writing your [first simple indicator](https://help.quantower.com/quantower-algo/simple-indicator).
 
+{% embed url="https://www.youtube.com/watch?v=CelIt\_F0Wuw" %}
+

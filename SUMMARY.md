@@ -29,6 +29,7 @@
     * [How to connect to FxPro via Quantower](connections/connection-to-ctrader/how-to-connect-to-fxpro-via-quantower.md)
     * [How to connect to Pepperstone via Quantower](connections/connection-to-ctrader/how-to-connect-to-pepperstone-via-quantower.md)
     * [How to connect to IC Markets via Quantower](connections/connection-to-ctrader/how-to-connect-to-ic-markets-via-quantower.md)
+  * [Connection to CQG \(AMP Futures\)](connections/connection-to-cqg-amp-futures.md)
   * [Connection to Rithmic](connections/connection-to-rithmic.md)
   * [Connection to Interactive Brokers](connections/connect-quantower-to-interactive-broker.md)
   * [Connection to Binance Futures](connections/connection-to-binance-futures.md)

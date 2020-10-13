@@ -112,6 +112,7 @@
   * [TPO Profile Chart](analytics-panels/tpo-chart.md)
 * [Trading Panels](trading-panels/README.md)
   * [Crypto Order Entry](trading-panels/crypto-order-entry.md)
+  * [Multiple Order Entry](trading-panels/multiple-order-entry.md)
   * [Order Entry](trading-panels/order-entry/README.md)
     * [Order Types](trading-panels/order-entry/order-types.md)
   * [DOM Trader](trading-panels/dom-trader.md)

@@ -6,6 +6,7 @@
   * [Installation](getting-started/installation.md)
   * [First start](getting-started/first-start.md)
   * [Platform update](getting-started/application-updates.md)
+  * [Reset settings to default](getting-started/reset-settings-to-default.md)
   * [Backup & restore manager](getting-started/backup-and-restore-manager.md)
   * [Quantower Account](getting-started/quantower-account.md)
   * [Quantower Licenses](getting-started/quantower-licenses.md)

@@ -67,7 +67,10 @@ In case your strategy requires some additional data for analysis, you may specif
 There is also an **additional settings screen** allowing to set up some Exchange or Market-specific parameters in order to emulate the most accurate and “real” testing environment. There is a View tab, for general parameters, and Per-selected-symbol tabs, for specifying symbol-specific parameters.
 
 * **Initial balance.** This field allows you to set an initial balance of your testing account.
-* **Modelling scheme.**
+* **Modelling scheme.** Here you can specify how backtester should generate quotes from source bars history:
+  * OHLC. For each bar 4 quotes will be generated using Open, High, Low and Close prices.
+  * Open. Only one quote per bar, using Open price, will be generated.
+  * Close. Only one quote per bar, using Close price, will be generated. _Please note, that these rules can be applied only when you provide bars history as a source data for backtester. When you provide tick data, the backtester will generate a quote for each tick._
 * **Netting type.** This option specifies how your backtester should behave when you open multiple positions per one symbol
   * One position. All new positions will be combined with the one first opened.
   * Multiple per side. All new positions will be combined with the one first opened but separately per each trading Side.

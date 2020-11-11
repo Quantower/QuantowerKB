@@ -8,7 +8,7 @@ description: >-
 
 ### Overview of Delta Flow indicator
 
-Our new indicator **Delta Flow** calculates as Delta \* \(High - Low\) and describes the impact of the aggressive orders on the market price through Delta value.
+**Delta Flow** calculates as Delta \* \(High - Low\) and describes the impact of the aggressive orders on the market price through Delta value.
 
 ![Delta Flow indicator](../../../../.gitbook/assets/delta-flow.png)
 

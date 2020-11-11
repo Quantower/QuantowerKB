@@ -16,3 +16,5 @@ To open a new Multiple Order Entry panel, go to the _**Main menu**_ \(Logo icon\
 
 
 
+
+

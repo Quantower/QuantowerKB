@@ -109,7 +109,6 @@
   * [Time & Sales](analytics-panels/time-and-sales.md)
   * [Price Statistic](analytics-panels/price-statistic.md)
   * [DOM Surface](analytics-panels/dom-surface.md)
-  * [Order Flow Surface](analytics-panels/order-flow-surface.md)
   * [Option Analytics](analytics-panels/option-analytics.md)
   * [TPO Profile Chart](analytics-panels/tpo-chart.md)
 * [Trading Panels](trading-panels/README.md)

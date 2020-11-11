@@ -10,11 +10,17 @@ description: >-
 
 
 
-{% page-ref page="oscillators/" %}
+{% page-ref page="channels/" %}
 
 {% page-ref page="moving-averages/" %}
 
-{% page-ref page="volatility/" %}
+{% page-ref page="oscillators/" %}
 
 {% page-ref page="trend/" %}
+
+{% page-ref page="volatility/" %}
+
+{% page-ref page="volume/" %}
+
+
 

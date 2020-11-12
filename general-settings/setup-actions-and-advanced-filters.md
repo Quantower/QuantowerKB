@@ -6,7 +6,24 @@ description: >-
 
 # Setup Actions & Advanced filters
 
-Setup Actions feature allows you to setup certain behavior on some data change in the table. This feature 
+**Setup Actions** feature allows you to set certain behavior on some data change in the table. This feature is available in panels:
+
+* Watchlist
+* Time & Sales
+* Price Statistic
+* Working Orders
+* Positions
+* Trades
+* Orders History
+
+![Setup Actions feature in Quantower platform](../.gitbook/assets/image%20%2864%29.png)
+
+Setup Actions consists of two options:
+
+1. **Filters** — where you can set up filters for different columns
+2. **Actions** — where you can set up multiple actions, based on data in rows & columns.
+
+## Actions
 
 Currently, Quantower tables support four types of actions:
 
@@ -29,7 +46,7 @@ Once some condition is met, action will execute the corresponding tasks. Each ta
 
 | **Show message** | Displays a popup box with the user-specified message |
 | :--- | :--- |
-| **Play sound** | Plays some user selected sound file |
+| **Play sound** | Plays some user-selected sound file |
 | **Color row** | Changes the styling of the whole row, where the condition was met. Allows changing the background and/or text colors. |
 | **Color cell** | Changes the styling of the specified cell\(s\) of the row, where the condition was met. Allows changing the background and/or text colors. |
 
@@ -37,11 +54,25 @@ Once some condition is met, action will execute the corresponding tasks. Each ta
 Be careful with the frequently occurring conditions. Some may be met several times per second, so tasks like “_Play sound_” can become disturbing. The “_Show message_” task, fired several times, will be shown as one message box.
 {% endhint %}
 
-### Advanced table filter
+### Table filters
 
-In case you would like to apply some more complex filtering \(multi-filtering\) you can open an advanced filter from panel’s context menu, option “_**Setup Actions**_”. This screen has two tabs on the left side, where the first one is an Advanced filter.
+Rows in the table can be filtered by some data values in their column. There are two ways to apply the filtering:
 
-![](https://gblobscdn.gitbook.com/assets%2F-LD6FsRvQ3jgwJIg6O7r%2F-LFqorWfAjWaGYwswV2L%2F-LFqqvJ1QgfZwbLwX8-P%2FTableAdvancedFiltering.png?alt=media&token=15bb2602-9410-4a9b-8acf-7f594c01c2e2)
+* **Quick filtering** can be accessed by clicking the “_**Filter**_” icon in any table column’s header.
+
+![Quick filtering per column](https://gblobscdn.gitbook.com/assets%2F-LD6FsRvQ3jgwJIg6O7r%2F-LSZlUr_Myk0rKIIPYb3%2F-LSZtsdnR8ZXyAorsvkj%2FQuick%20filtering.png?alt=media&token=ccff8243-c69e-427c-8825-00c8ce9e1818)
+
+Once you select some option — the table rows will be filtered to those ones, containing the selected value. Quick filter can be canceled by pressing “_**Cancel filtering**_” option.
+
+Quick filtering can be applied only to one column of the table. For filtering multiple columns, we recommend using “_**Setup actions**_”.
+
+* **Advanced filtering,** for applying more complex filtering \(multi-filtering\). Select in the panel's context menu option “_**Setup actions**_”.
+
+![](https://gblobscdn.gitbook.com/assets%2F-LD6FsRvQ3jgwJIg6O7r%2F-LvGYANuFTIQuOZAz6LM%2F-LvGfvw940y4eFZGgYt6%2Fsetup%20actions%20ts.png?alt=media&token=c7a2a5f1-ab62-49c9-b5a9-8f4753f51bbe)
+
+This screen has two tabs on the left side, where the first one is an Advanced filter.
+
+![Advanced filtering in Time &amp; Sales panel](https://gblobscdn.gitbook.com/assets%2F-LD6FsRvQ3jgwJIg6O7r%2F-LSZlUr_Myk0rKIIPYb3%2F-LS_5SP-opC1CiDG-iws%2Fadvanced%20filtering.png?alt=media&token=e2d74d74-7ee5-4533-ae11-09d4db0ab09c)
 
 This screen allows you to Enable/disable filtering as well as set up filtering Conditions. These conditions are set up as:
 

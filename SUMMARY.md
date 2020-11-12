@@ -21,6 +21,7 @@
   * [Set as Default](general-settings/set-as-default.md)
   * [Symbols lookup](general-settings/instruments-lookup.md)
   * [Table management](general-settings/table-management.md)
+  * [Setup Actions & Advanced filters](general-settings/setup-actions-and-advanced-filters.md)
   * [General settings](general-settings/general-settings-1.md)
 * [Connections](connections/README.md)
   * [Connections manager](connections/connections-manager.md)

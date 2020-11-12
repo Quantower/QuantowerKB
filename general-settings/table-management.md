@@ -41,28 +41,6 @@ Quick table filter can be accessed by clicking the “_**Filter**_” icon in an
 
 Depending on the data type in a column, the Quick filter will give you the corresponding form for input; currently “_**String**_”, “_**Date/time**_” & “_**Number**_” filtering are supported. Once you select some option — the table rows will be filtered to that ones, containing the selected value. Quick filter can be cancelled by pressing “_**Cancel filtering**_” option.
 
-### Advanced table filter
-
-In case you would like to apply some more complex filtering \(multi-filtering\) you can open an advanced filter from panel’s context menu, option “_**Setup actions**_”. This screen has two tabs on the left side, where the first one is an Advanced filter.
-
-{% hint style="success" %}
-You will see your filters here if you have applied some previously in Quick mode.
-{% endhint %}
-
-![Table advanced filter screen](../.gitbook/assets/tableadvancedfiltering.png)
-
-This screen allows you to Enable/disable filtering as well as set up filtering Conditions. These conditions are set up as:
-
-$$
-IF (condition1 AND condition2 ...) OR (conditionN...) …
-$$
-
-You can setup as many conditions as you like. Due to the possible complex logic of filtering, you are required to apply the changes once you finished the filter set up.
-
-{% hint style="info" %}
-Please notice, not all of applied via Advanced filter conditions can be accessed from the Quick filter.
-{% endhint %}
-
 ### Sorting
 
 Each table can be sorted by column value. To sort the table, click on column’s header; you will see a “_**Sorting**_” icon appears. The next click on this header will revert the sorting by this column. You can sort your table only by one column simultaneously.
@@ -93,10 +71,6 @@ The Table actions functionality can be found under the panel’s context menu op
 3. Set tasks \(Show message, Play sound, Color row, Color cell\) 
 4. Save Action 
 5. Enable Action
-
-### Table actions conditions
-
-Conditions setup for Table Actions is similar to [Filtering conditions, mentioned earlier](table-management.md#advanced-table-filter).
 
 ### Table actions tasks
 

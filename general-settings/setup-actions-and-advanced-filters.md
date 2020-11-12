@@ -15,6 +15,28 @@ Currently, Quantower tables support four types of actions:
 * Color row
 * Color cell
 
+The Table actions functionality can be found under the panel’s context menu option “Setup Actions” and once launched, it opens an “Actions screen”, where you can manage your Actions. The process of Action creation is not complicated.
+
+1. Create an Action item 
+2. Set conditions \(“OR” & “AND”\) 
+3. Set tasks \(Show message, Play sound, Color row, Color cell\) 
+4. Save Action 
+5. Enable Action
+
+### Table actions tasks
+
+Once some condition is met, action will execute the corresponding tasks. Each task will be executed as many times, as the condition was met.
+
+| **Show message** | Displays a popup box with the user-specified message |
+| :--- | :--- |
+| **Play sound** | Plays some user selected sound file |
+| **Color row** | Changes the styling of the whole row, where the condition was met. Allows changing the background and/or text colors. |
+| **Color cell** | Changes the styling of the specified cell\(s\) of the row, where the condition was met. Allows changing the background and/or text colors. |
+
+{% hint style="warning" %}
+Be careful with the frequently occurring conditions. Some may be met several times per second, so tasks like “_Play sound_” can become disturbing. The “_Show message_” task, fired several times, will be shown as one message box.
+{% endhint %}
+
 ### Advanced table filter
 
 In case you would like to apply some more complex filtering \(multi-filtering\) you can open an advanced filter from panel’s context menu, option “_**Setup Actions**_”. This screen has two tabs on the left side, where the first one is an Advanced filter.

@@ -18,13 +18,13 @@ As a top-level grouping layer, Workspaces store all their contents in special lo
 
 **Workspaces manager** allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
 
-![Workspaces manager](../.gitbook/assets/ccworkspacesmanager.png)
+![Workspaces manager](../.gitbook/assets/workspaces.png)
 
 The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of available item from the list. The bottom part of the list \(after separator\) consists of actions, referred to the currently active workspace and allows to:
 
-* **Lock**: disables an ability to add, remove, move or resize any panel in current workspace;
-* **Rename...** : invokes a pop-up screen where you can set up a new name for the current workspace;
-* **Create new**: opens a pop-up screen with the new workspace creation form.
+* **Lock** — disables an ability to add, remove, move or resize any panel in current workspace;
+* **Rename...** — invokes a pop-up screen where you can set up a new name for the current workspace;
+* **Create new** — opens a pop-up screen with the new workspace creation form.
 
 ![New workspace creation window](../.gitbook/assets/ccnewworkspace.png)
 

@@ -8,7 +8,7 @@ description: >-
 
 **Main Toolbar** — is the main starting point of the platform, used as a launcher and informer simultaneously.
 
-![Quantower Main toolbar](../.gitbook/assets/image%20%2870%29.png)
+![Quantower Main toolbar](../.gitbook/assets/image%20%2873%29.png)
 
 In this guide you will learn about the next functionalities:
 
@@ -25,7 +25,7 @@ In this guide you will learn about the next functionalities:
 
 Main Toolbar technically is a panel, but behaves something differently: it can be dragged among your screens \(if you have more than one\) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it. 
 
-![Main controls](../.gitbook/assets/image%20%2866%29.png)
+![Main controls](../.gitbook/assets/image%20%2868%29.png)
 
 Due to the fact that Toolbar is the main controlling panel it has an ability to collapse all terminal’s interface by clicking the “_**Collapse**_” icon. This action makes all application panels to collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens.
 
@@ -35,7 +35,7 @@ The “_**Close**_” icon just closes the platform. You may set up “_not to a
 
 For optimal use of the space on Main Toolbar, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., **Right-click** on the context menu and go to View section. By clicking on the ticks, the controls will appear at the Toolbar.
 
-![Right click on the Main Toolbar will bring up the addtional settings window](../.gitbook/assets/image%20%2872%29.png)
+![Right click on the Main Toolbar will bring up the addtional settings window](../.gitbook/assets/image%20%2876%29.png)
 
 ### Main Menu with all panels
 

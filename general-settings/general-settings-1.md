@@ -27,7 +27,7 @@ The most settings are applied automatically, once you change them, but, in some 
 
 ## General settings tab
 
-![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/image%20%2868%29.png)
+![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/image%20%2871%29.png)
 
 **Theme** — Сhoose one of the 8 color schemes that suits you best
 
@@ -58,7 +58,7 @@ The most settings are applied automatically, once you change them, but, in some 
 
 Control center is the starting point of all terminal, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls.
 
-![Configure the display of controls on the main control panel](../.gitbook/assets/image%20%2871%29.png)
+![Configure the display of controls on the main control panel](../.gitbook/assets/image%20%2875%29.png)
 
 ## Sounds
 
@@ -86,7 +86,7 @@ The group of actions in Quantower, when the sound should be played consists of t
 | **Confirm position reversing** | true | Ask before reversing the position |
 | **Confirm application close** | true | Ask before closing the Quantower terminal |
 | **Confirm bind close** | true | Ask before closing the binds |
-| **Show deal tickets** | true | Show the pop-up screens with the trading notification |
+| **Show deal tickets** | true | Show the pop-up screens with the trading notifications |
 | **Confirm hot button action** | true | Ask before make any action with Hot Button |
 
 ## Time zones
@@ -95,13 +95,13 @@ In case you are trading in various markets that are in different time zones, you
 
 In Time zone settings group you can select what time zones are your favorite and should be displayed in a pop-up screen when you click the [**Time**](main-toolbar.md#time-and-time-zones) in **Control center**. Once you select several items from this list, you will then be able to switch between them easily.
 
-![Favorite time zones management](../.gitbook/assets/time-zones.png)
+![Favorite time zones management](../.gitbook/assets/image%20%2870%29.png)
 
 ## Excel RTD
 
 Start from the version 1.39 Quantower supports RealTimeData \(RTD\) for sending data and other market information to Microsoft Excel®. Read our guide about [how to enable and use RTD function with Quantower](../miscellaneous-panels/excel-rtd-trading/).
 
-![](../.gitbook/assets/general-settings-_-rtd.png)
+![RTD function in Quantower trading platform](../.gitbook/assets/image%20%2866%29.png)
 
 ## Messengers
 
@@ -114,5 +114,11 @@ To add a bot to the Telegram, open the platform's **General Settings -&gt; Messe
 Specify your personal chat ID, which you can find out by clicking on the **Get ID** button. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx"**_  
 Enter your chat ID in the corresponding field and then connect to the Quantower Alert Bot.
 
-![](../.gitbook/assets/general-settings-_-messengers.png)
+![](../.gitbook/assets/image%20%2867%29.png)
+
+## Global Hotkeys
+
+![](../.gitbook/assets/image%20%2874%29.png)
+
+
 

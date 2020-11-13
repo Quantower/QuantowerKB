@@ -1,18 +1,18 @@
 ---
 description: >-
-  The Ichimoku Indicator displays support and resistance, momentum, and trend in
-  one view.
+  The Ichimoku Cloud Indicator displays support and resistance, momentum, and
+  trend in one view.
 ---
 
-# Ichimoku Indicator
+# Ichimoku Cloud Indicator
 
-### What is the Ichimoku Indicator?
+### What is the Ichimoku Cloud Indicator?
 
-The Ichimoku Indicator displays support and resistance, momentum, and trend in one view. TenkanSen and KijunSen are similar to moving averages and analyzed in relationship to one another. When the shorter term indicator, TenkanSen, rises above the longer-term indicator, KijunSen, the securities trend is typically positive. When TenkanSen falls below KijunSen, the securities trend is typically negative. TenkanSen and KijunSen as a group are then analyzed in relationship to the Cloud, which is composed of the area between Senkou A and Senkou B.
+The Ichimoku Cloud Indicator displays support and resistance, momentum, and trend in one view. TenkanSen and KijunSen are similar to moving averages and analyzed in relationship to one another. When the shorter term indicator, TenkanSen, rises above the longer-term indicator, KijunSen, the securities trend is typically positive. When TenkanSen falls below KijunSen, the securities trend is typically negative. TenkanSen and KijunSen as a group are then analyzed in relationship to the Cloud, which is composed of the area between Senkou A and Senkou B.
 
-![Ichimoku Indicator in Quantower platform](../../../../.gitbook/assets/image%20%2861%29.png)
+![Ichimoku Cloud indicator in Quantower platform](../../../../.gitbook/assets/image%20%2865%29.png)
 
-### How Ichimoku indicator works
+### How Ichimoku Cloud indicator works
 
 * When TenkanSen and KijunSen are decidedly above the Cloud, the issue's trend is positive.
 * When TenkanSen and KijunSen are decidedly below the Cloud, the issue's trend is negative.
@@ -22,7 +22,7 @@ The Ichimoku Indicator displays support and resistance, momentum, and trend in o
 * A buy signal is reinforced when the Tenkan Sen crosses above the Kijun Sen while the Tenkan Sen, Kijun Sen, and price are all above the cloud.
 * A sell signal is reinforced when the TenKan Sen crosses below the Kijun Sen while the Tenkan Sen, Kijun Sen, and price are all below the cloud.
 
-### Calculation of Ichimoku indicator
+### Calculation of Ichimoku Cloud indicator
 
 There are five plots that make up the Ichimoku Cloud indicator. Their names and calculations are:
 

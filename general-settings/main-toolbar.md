@@ -13,7 +13,7 @@ description: >-
 In this guide you will learn about the next functionalities:
 
 * \*\*\*\*[**How to customize the Main Toolbar**](main-toolbar.md#customization-of-main-toolbar)\*\*\*\*
-* \*\*\*\*[**Sidebar menu with all panels**](main-toolbar.md#sidebar)\*\*\*\*
+* \*\*\*\*[**Main menu with all panels**](main-toolbar.md#sidebar)\*\*\*\*
 * \*\*\*\*[**Smart Search of symbols and panels**](main-toolbar.md#smart-search)\*\*\*\*
 * \*\*\*\*[**How to add Favorite Panels on the Toolbar**](main-toolbar.md#favorite-panels)\*\*\*\*
 * \*\*\*\*[**How to Lock Trading**](main-toolbar.md#lock-trading)\*\*\*\*
@@ -41,15 +41,15 @@ For optimal use of the space on Main Toolbar, we have added the ability to displ
 
 ![Additional settings of Main Toolbar](../.gitbook/assets/customization-of-control-center2.png)
 
-### Sidebar
+### Main Menu with all panels
 
-All of the panels are placed in the so-called _**“Sidebar”**_ screen, that is popping out once you click the Logo icon on the toolbar. 
+All of the panels are placed in the _“Sidebar”_ screen, that is popping out once you click the **Logo icon** on the toolbar.
 
-![Control center sidebar \(main menu\)](../.gitbook/assets/main-menu-in-control-center.png)
+![Main menu in the Quantower platform](../.gitbook/assets/main-manu.png)
 
-The Sidebar consists of panels icons, grouped by the functionality. Each group can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
+The Main Menu consists of panels icons, grouped by the functionality. Each group can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
 
-The footer of Sidebar contains several functions:
+The footer of Main Menu contains several functions:
 
 * “**About**” link: opens a screen with information about terminal \(version, rollback, updates checker etc.\). If the system detects the new version of Quantower, the **“NEW VERSION”** button appears instead of this link;
 * “**Exit**” button: closes the application.
@@ -70,7 +70,7 @@ The way to use it very simple — hover over the right top corner of any panel t
 
 If you would like to prevent manual trading operations occur, you may use the “_**Lock trading**_” button on Main Toolbar. Once clicked it displays the confirmation message that trading being locked and all of the functions, related to opening or closing orders and positions will be disabled. Unlock trading can be done the vice-versa way.
 
-![Lock trading icon](../.gitbook/assets/cclocktrading.png)
+![Lock Traing Icon](../.gitbook/assets/lock_trading.png)
 
 This feature is useful in case you would like to only analyze the market or while editing your workspace \(mostly to avoid misclicks\).
 

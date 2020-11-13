@@ -8,7 +8,7 @@ description: >-
 
 **Main Toolbar** — is the main starting point of the platform, used as a launcher and informer simultaneously.
 
-![Quantower Main toolbar](../.gitbook/assets/image%20%2866%29.png)
+![Quantower Main toolbar](../.gitbook/assets/image%20%2868%29.png)
 
 In this guide you will learn about the next functionalities:
 
@@ -25,21 +25,17 @@ In this guide you will learn about the next functionalities:
 
 Main Toolbar technically is a panel, but behaves something differently: it can be dragged among your screens \(if you have more than one\) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it. 
 
-Due to the fact that Toolbar is the main controlling panel it has an ability to collapse all terminal’s interface by clicking the “_**Collapse**_” icon. This action makes all application panels to collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens.
+![Main controls](../.gitbook/assets/image%20%2865%29.png)
 
-![Global interface collapser](../.gitbook/assets/cclogoicon.png)
+Due to the fact that Toolbar is the main controlling panel it has an ability to collapse all terminal’s interface by clicking the “_**Collapse**_” icon. This action makes all application panels to collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens.
 
 The “_**Close**_” icon just closes the platform. You may set up “_not to ask to confirm the closing_” setting in the pop-up screen while the first closing.
 
 ### Customization of Main Toolbar
 
-For optimal use of the space on Main Toolbar, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., right-click on the context menu and go to View section. By clicking on the ticks, the controls will appear at the Toolbar.
+For optimal use of the space on Main Toolbar, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., **Right-click** on the context menu and go to View section. By clicking on the ticks, the controls will appear at the Toolbar.
 
-![Right click on the Main Toolbar will bring up the addtional settings window ](../.gitbook/assets/customization-of-control-center.png)
-
- We have also added the ability to quickly call the controls without displaying them on the Toolbar.
-
-![Additional settings of Main Toolbar](../.gitbook/assets/customization-of-control-center2.png)
+![Right click on the Main Toolbar will bring up the addtional settings window](../.gitbook/assets/image%20%2869%29.png)
 
 ### Main Menu with all panels
 
@@ -70,7 +66,7 @@ The way to use it very simple — hover over the right top corner of any panel t
 
 If you would like to prevent manual trading operations occur, you may use the “_**Lock trading**_” button on Main Toolbar. Once clicked it displays the confirmation message that trading being locked and all of the functions, related to opening or closing orders and positions will be disabled. Unlock trading can be done the vice-versa way.
 
-![Lock Traing Icon](../.gitbook/assets/lock_trading.png)
+![Lock Trading Icon](../.gitbook/assets/lock_trading.png)
 
 This feature is useful in case you would like to only analyze the market or while editing your workspace \(mostly to avoid misclicks\).
 
@@ -80,13 +76,13 @@ This feature is useful in case you would like to only analyze the market or whil
 
 **Workspaces manager** allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
 
-![Workspaces manager](../.gitbook/assets/ccworkspacesmanager.png)
+![](../.gitbook/assets/workspaces.png)
 
 The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of the available item from the list. The bottom part of the list \(after separator\) consists of actions, referred to the currently active workspace and allows to:
 
-* **Lock**: disables an ability to add, remove, move or resize any panel in current workspace;
-* **Rename...** : invokes a pop-up screen where you can set up a new name for the current workspace;
-* **Create new**: opens a pop-up screen with the new workspace creation form.
+* **Lock** — disables an ability to add, remove, move or resize any panel in current workspace;
+* **Rename...** — invokes a pop-up screen where you can set up a new name for the current workspace;
+* **Create new** — opens a pop-up screen with the new workspace creation form.
 
 ![New workspace creation window](../.gitbook/assets/ccnewworkspace.png)
 
@@ -112,13 +108,13 @@ You can Remove connection from Favorites by right-clicking on it and selecting �
 
 ### Notifications center
 
-The most actions during the platform use generate various notifications. There can be system notification \(some connection problems or errors\) and Deal tickets. The Deal tickets — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this. 
+The most actions during the platform use generate various notifications. There can be system notification \(some connection problems or errors\) and Deal tickets. 
+
+The Deal tickets — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this. 
 
 While some trading actions may be done in one click at the first sight, they usually consist of several related operations, each of them will be displayed via the Deal tickets. That is why you can see much more items in Notifications center than you did actions. 
 
-![The Deal ticket and Notifications center icon](../.gitbook/assets/ccdealticket.png)
-
-The Notifications center — is the place where all notifications are stored in one list. You can open that list by clicking the Notifications icon in Control center. 
+The **Notifications center** — is the place where all notifications are stored in one list. You can open that list by clicking the Notifications icon in Control center. 
 
 ![Notifications center](../.gitbook/assets/ccnotificationcenter.png)
 
@@ -131,6 +127,8 @@ By clicking one of the notifications you will see the window with the detailed i
 ### General settings
 
 The “_**Gear**_” icon opens a general settings screen, where you can setup the most common parameters of our terminal. [More details about the **Settings**](general-settings-1.md) screen is available in the corresponding section of this documentation.
+
+![Access to general settings](../.gitbook/assets/general-set.png)
 
 ### Time & Time zones
 

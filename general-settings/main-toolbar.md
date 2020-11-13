@@ -8,7 +8,7 @@ description: >-
 
 **Main Toolbar** — is the main starting point of the platform, used as a launcher and informer simultaneously.
 
-![Quantower Main Toolbar](../.gitbook/assets/controlcenter.png)
+![Quantower Main toolbar](../.gitbook/assets/image%20%2866%29.png)
 
 In this guide you will learn about the next functionalities:
 
@@ -57,23 +57,6 @@ The footer of Sidebar contains several functions:
 {% hint style="info" %}
 The list of links in footer can contain more or fewer items, depending on current application requirements.
 {% endhint %}
-
-### Smart search
-
-The Smart search block of Main Toolbar allows finding the various elements of the whole application. It is connected with the Sidebar and uses it to display the search results.
-
-![Smart search results](../.gitbook/assets/ccsmartsearch.png)
-
-Currently, the Smart search feature allows you to find the following elements:
-
-* Panels \(by their names\);
-* Trading symbols among all active connections \(by their names and descriptions\)
-
-In case you find a panel, just click its icon to open it. 
-
-If you were looking for a trading symbol, click on it to see the list of supported panels, that can be opened, predefined with this symbol.
-
-To cancel the search results — click the “_**Cancel Search**_” button at the Sidebar footer. This will get you back to the default panels list view.
 
 ### Favorite panels
 

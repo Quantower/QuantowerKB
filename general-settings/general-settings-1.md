@@ -27,7 +27,7 @@ The most settings are applied automatically, once you change them, but, in some 
 
 ## General settings tab
 
-![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/image%20%2867%29.png)
+![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/image%20%2868%29.png)
 
 **Theme** — Сhoose one of the 8 color schemes that suits you best
 
@@ -58,7 +58,7 @@ The most settings are applied automatically, once you change them, but, in some 
 
 Control center is the starting point of all terminal, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls.
 
-![Configure the display of controls on the main control panel](../.gitbook/assets/image%20%2870%29.png)
+![Configure the display of controls on the main control panel](../.gitbook/assets/image%20%2871%29.png)
 
 ## Sounds
 
@@ -77,7 +77,7 @@ The group of actions in Quantower, when the sound should be played consists of t
 
 ## Confirmations
 
-![Confirmations and Warnings management](../.gitbook/assets/general-settings-_-order-confirmations.png)
+![Confirmations and Warnings management](../.gitbook/assets/image%20%2865%29.png)
 
 | **Confirm order placement** | true | Ask before placing order |
 | :--- | :--- | :--- |

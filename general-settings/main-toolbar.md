@@ -8,7 +8,7 @@ description: >-
 
 **Main Toolbar** — is the main starting point of the platform, used as a launcher and informer simultaneously.
 
-![Quantower Main toolbar](../.gitbook/assets/image%20%2868%29.png)
+![Quantower Main toolbar](../.gitbook/assets/image%20%2869%29.png)
 
 In this guide you will learn about the next functionalities:
 
@@ -35,7 +35,7 @@ The “_**Close**_” icon just closes the platform. You may set up “_not to a
 
 For optimal use of the space on Main Toolbar, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., **Right-click** on the context menu and go to View section. By clicking on the ticks, the controls will appear at the Toolbar.
 
-![Right click on the Main Toolbar will bring up the addtional settings window](../.gitbook/assets/image%20%2869%29.png)
+![Right click on the Main Toolbar will bring up the addtional settings window](../.gitbook/assets/image%20%2871%29.png)
 
 ### Main Menu with all panels
 

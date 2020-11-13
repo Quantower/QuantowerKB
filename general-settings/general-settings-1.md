@@ -8,7 +8,7 @@ description: >-
 
 General settings — is a screen, where you can set up the most common behavior of the whole Quantower application. 
 
-![General Settings are placed on the platform&apos;s main toolbar \(Gear Icon\)](../.gitbook/assets/launch-general-settings.png)
+![General Settings are placed on the platform&apos;s main toolbar \(Gear Icon\)](../.gitbook/assets/general-set.png)
 
 It is logically grouped into several tabs: 
 
@@ -19,6 +19,7 @@ It is logically grouped into several tabs:
 * \*\*\*\*[**Time zone settings**](general-settings-1.md#time-zones)\*\*\*\*
 * \*\*\*\*[**Excel RTD**](../miscellaneous-panels/excel-rtd-trading/)\*\*\*\*
 * \*\*\*\*[**Messengers**](general-settings-1.md#messengers)\*\*\*\*
+* **Hotkeys**
 
 {% hint style="info" %}
 The most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.
@@ -26,7 +27,7 @@ The most settings are applied automatically, once you change them, but, in some 
 
 ## General settings tab
 
-![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/general-settings.png)
+![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/image%20%2867%29.png)
 
 **Theme** — Сhoose one of the 8 color schemes that suits you best
 
@@ -38,6 +39,8 @@ The most settings are applied automatically, once you change them, but, in some 
 * Light Forest
 * Light Gold
 * Light Water
+
+![Coloring themes in Quantower](../.gitbook/assets/themes.gif)
 
 **Language \(beta\)** — Quantower supports 17 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual [how to make changes in selected language](https://help.quantower.com/customization/localization).
 
@@ -55,7 +58,7 @@ The most settings are applied automatically, once you change them, but, in some 
 
 Control center is the starting point of all terminal, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls.
 
-![Configure the display of controls on the main control panel](../.gitbook/assets/general-settings-_-control-center.png)
+![Configure the display of controls on the main control panel](../.gitbook/assets/image%20%2870%29.png)
 
 ## Sounds
 

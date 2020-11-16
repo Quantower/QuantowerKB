@@ -29,15 +29,12 @@ We offer a user with a Free license, three packages as well as licenses for sepa
 * one active connection to any broker, data feed or exchange
 * 2 indicators per chart
 * 1 symbol overlay per chart
-* Order Flow Surface panel
-* Options Analytics is temporary available for free
 
 **Crypto Package** contains the necessary functionality for professional analysis and trading in the cryptocurrency market. For this package are available: 
 
 * all connected crypto exchanges, 
 * simultaneous connection to several exchanges, 
 * [volume analysis tools](https://www.quantower.com/volumeanalysistools) — Cluster chart, Volume Profile, Time Statistics, Time Histogram, VWAP
-* Order Flow Surface panel
 * [advanced features](https://www.quantower.com/advancedfeatures) — Renko, Kagi, P&F and Heikin-Ashi chart types, Unlimited Overlays, Unlimited Indicators, Trading Simulator, Chart and Indicator Alerts
 
 **Multi-Asset Package** includes all options that are available in the Crypto Package, plus gives access to Forex, Futures, Stock brokers and other data feeds.

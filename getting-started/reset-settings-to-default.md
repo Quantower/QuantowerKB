@@ -6,6 +6,8 @@ description: Follow this step-by-step guide to reset platform's settings to defa
 
 Sometimes all platform's settings need to be reset to default. To do this, close the platform, **Right-click** on Quantower icon and select **Open File Location** from the context menu.
 
+{% embed url="https://www.youtube.com/watch?v=n0lUFu8FNN8&t=168s" %}
+
 {% hint style="success" %}
 You can save the current settings if you want to return to them later. Just rename your **Settings** folder to something else, like _**Settings\_My**_ etc.
 {% endhint %}

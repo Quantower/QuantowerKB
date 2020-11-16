@@ -10,6 +10,12 @@ description: >-
 
 Backup & restore manager plugin allows to keep your settings safe and restore them in case of troubles with the application. This smart tool can backup your global settings, connections credentials, workspaces and per panel layout settings in one local file, that can be used later to restore them in several clicks.
 
+{% embed url="https://www.youtube.com/watch?v=n0lUFu8FNN8&t=76s" %}
+
+
+
+![Launch Backup Manager from the main menu](../.gitbook/assets/backup-manager.png)
+
 ![Backup &amp; restore master starting screen](../.gitbook/assets/backupmanager.png)
 
 ## Backup settings

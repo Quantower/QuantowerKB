@@ -1,3 +1,9 @@
+---
+description: >-
+  Below you will find the detailed comparison table of licenses and platform
+  features. Prices are available on our official website
+---
+
 # License Comparison
 
 We provide the most popular trading & analytics features for free, but some valuable and market-specific features are available under the paid License.
@@ -41,7 +47,8 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Chart Trading</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/chart-trading.md">Chart Trading</a>
+      </td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
@@ -147,7 +154,8 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Strategy Runner panel</td>
+      <td style="text-align:left"><a href="../quantower-algo/strategy-runner.md">Strategy Runner panel</a>
+      </td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>

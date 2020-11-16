@@ -25,9 +25,9 @@ In this guide you will learn about the next functionalities:
 
 Main Toolbar technically is a panel, but behaves something differently: it can be dragged among your screens \(if you have more than one\) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it. 
 
-![Main controls](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/main-toolbar.png)
 
-Due to the fact that Toolbar is the main controlling panel it has an ability to collapse all terminal’s interface by clicking the “_**Collapse**_” icon. This action makes all application panels to collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens.
+Due to the fact that Toolbar is the main controlling panel it has an ability to collapse all platform’s interface by clicking the “_**Minimize**_” icon. This action makes all application panels to collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens.
 
 The “_**Close**_” icon just closes the platform. You may set up “_not to ask to confirm the closing_” setting in the pop-up screen while the first closing.
 

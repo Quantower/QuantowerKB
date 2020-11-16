@@ -42,6 +42,7 @@
 * [Analytics Panels](analytics-panels/README.md)
   * [Chart](analytics-panels/chart/README.md)
     * [Chart Settings](analytics-panels/chart/chart-settings.md)
+    * [Chart Trading](analytics-panels/chart/chart-trading.md)
     * [Chart types](analytics-panels/chart/chart-types/README.md)
       * [Time aggregation](analytics-panels/chart/chart-types/time-aggregation.md)
       * [Renko](analytics-panels/chart/chart-types/renko.md)

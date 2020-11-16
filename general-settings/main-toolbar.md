@@ -10,6 +10,10 @@ description: >-
 
 ![Quantower Main toolbar](../.gitbook/assets/image%20%2873%29.png)
 
+Main Toolbar technically is a panel, but behaves something differently: it can be dragged among your screens \(if you have more than one\) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it. 
+
+![](../.gitbook/assets/main-toolbar.png)
+
 In this guide you will learn about the next functionalities:
 
 * \*\*\*\*[**How to customize the Main Toolbar**](main-toolbar.md#customization-of-main-toolbar)\*\*\*\*
@@ -22,10 +26,6 @@ In this guide you will learn about the next functionalities:
 * \*\*\*\*[**Sidebar with all Notifications**](main-toolbar.md#notifications-center)\*\*\*\*
 * \*\*\*\*[**Platform's General Settings**](main-toolbar.md#general-settings)\*\*\*\*
 * \*\*\*\*[**Time & Time Zones**](main-toolbar.md#time-and-time-zones)\*\*\*\*
-
-Main Toolbar technically is a panel, but behaves something differently: it can be dragged among your screens \(if you have more than one\) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it. 
-
-![](../.gitbook/assets/main-toolbar.png)
 
 Due to the fact that Toolbar is the main controlling panel it has an ability to collapse all platform’s interface by clicking the “_**Minimize**_” icon. This action makes all application panels to collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens.
 
@@ -110,13 +110,13 @@ You can Remove connection from Favorites by right-clicking on it and selecting �
 
 The most actions during the platform use generate various notifications. There can be system notification \(some connection problems or errors\) and Deal tickets. 
 
-The Deal tickets — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this. 
+The **Deal tickets** — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this. \(you can [disable deat tickets in general settings](general-settings-1.md#confirmations)\)
 
 While some trading actions may be done in one click at the first sight, they usually consist of several related operations, each of them will be displayed via the Deal tickets. That is why you can see much more items in Notifications center than you did actions. 
 
 The **Notifications center** — is the place where all notifications are stored in one list. You can open that list by clicking the Notifications icon in Control center. 
 
-![Notifications center](../.gitbook/assets/ccnotificationcenter.png)
+![Notifications center](../.gitbook/assets/image%20%2877%29.png)
 
 When you have a set of new notifications, the small number will appear in the left top corner of Notification center icon. It displays how many unread notifications you have. Once you open the list — it understands that you have read them and the number will disappear. 
 
@@ -134,5 +134,5 @@ The “_**Gear**_” icon opens a general settings screen, where you can setup t
 
 The Time bar is also displayed on the Main Toolbar toolbar showing you time in selected timezone. By default, your local timezone is used. You can change the time zones list by clicking the "_**Gear**_" icon and then select the required ones in [**General settings screen**](general-settings-1.md#time-zones). You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
 
-![Switch between your favorite timezones](../.gitbook/assets/timezones.png)
+![Switch between your favorite timezones](../.gitbook/assets/image%20%2878%29.png)
 

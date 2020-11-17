@@ -19,7 +19,7 @@ Using this information, a trader can evaluate:
 * zones of high trading interest \(the maximum number of trades\)
 * the number of buyers and sellers at each price level
 
-![General view of Cluster chart which shows Trades and Delta at once](../../../.gitbook/assets/cluster-chart-general-view.png)
+![Cluster chart with Imbalance view ](../../../.gitbook/assets/cluster-chart.png)
 
 ### How to enable cluster chart?
 

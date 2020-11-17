@@ -69,6 +69,8 @@ Each instrument has individual settings for the filtered volume depending on liq
 
 Select **Filtered Volume** as the data type in clusters to display them on the chart. All values that are less than the filtered volume are presented as zeros.
 
+![](../../../.gitbook/assets/image%20%2879%29.png)
+
 ### What is Custom step and how to set it properly?
 
 Cluster chart shows volume data at each price level for a specified period. But with a large number of levels, the cluster chart becomes difficult to read. 

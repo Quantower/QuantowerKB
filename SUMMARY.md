@@ -35,6 +35,7 @@
   * [Connection to Rithmic](connections/connection-to-rithmic.md)
   * [Connection to Interactive Brokers](connections/connect-quantower-to-interactive-broker.md)
   * [Connection to Binance Futures](connections/connection-to-binance-futures.md)
+  * [Connection to FTX](connections/connection-to-ftx.md)
   * [Connection to MetaStock](connections/connection-to-metastock.md)
   * [Connection to IQFeed](connections/connection-to-iqfeed.md)
   * [Connection to Exante](connections/connection-to-exante.md)

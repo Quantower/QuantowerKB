@@ -84,19 +84,16 @@ public override void OnPaintChart(PaintChartEventArgs args)
     // Create a font
     Font font = new Font("Arial", 10);
 
-    // Request a current sorting bids
-    List<Level2Item> sortedBids = this.Symbol.Bids.GetSortedList();
-
+    // Request current level2 data
+    var level2Collections =  this.Symbol.DepthOfMarket.GetDepthOfMarketAggregatedCollections();
+            
     // Draw bids
-    for (int i = 0; i < sortedBids.Count; i++)
-        gr.DrawString(sortedBids[i].Quote.Price.ToString(), font, Brushes.LightGray, 20, 23 * i + 30);
-
-    // Request a current sorting asks
-    List<Level2Item> sortedAsks = this.Symbol.Asks.GetSortedList();
-
+    for (int i = 0; i < level2Collections.Bids.Length; i++)
+        gr.DrawString(level2Collections.Bids[i].Price.ToString(), font, Brushes.LightGray, 20, 23 * i + 30);
+            
     // Draw asks
-    for (int i = 0; i < sortedAsks.Count; i++)
-        gr.DrawString(sortedAsks[i].Quote.Price.ToString(), font, Brushes.LightGray, 100, 23 * i + 30);     
+    for (int i = 0; i < level2Collections.Asks.Length; i++)
+        gr.DrawString(level2Collections.Asks[i].Price.ToString(), font, Brushes.LightGray, 100, 23 * i + 30);
 }
 ```
 

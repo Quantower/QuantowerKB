@@ -84,7 +84,7 @@ public override void OnPaintChart(PaintChartEventArgs args)
     // Create a font
     Font font = new Font("Arial", 10);
 
-    // Request current level2 data
+    // Request current Level2 data
     var level2Collections =  this.Symbol.DepthOfMarket.GetDepthOfMarketAggregatedCollections();
             
     // Draw bids

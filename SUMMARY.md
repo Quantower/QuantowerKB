@@ -162,6 +162,7 @@
   * [Custom indicators access](quantower-algo/custom-indicators-access.md)
   * [Access Volume analysis data from indicators](quantower-algo/access-volume-analysis-data-from-indicators.md)
   * [Indicator with custom painting \(GDI\)](quantower-algo/indicator-with-custom-painting-gdi.md)
+  * [Access Chart from indicator](quantower-algo/access-chart-from-indicator.md)
   * [Using markers with indicators](quantower-algo/using-markers-with-indicators.md)
   * [Adding a custom indicator to Watchlist](quantower-algo/custom-indicator-to-watchlist.md)
   * [Downloading history](quantower-algo/downloading-history.md)

@@ -20,7 +20,9 @@ The process of Template creation is as simple as 1-2-3:
 2. Customize it according your needs
 3. Save as Template with custom name.
 
-![&#x201C;Save as template&#x201D; option in panel&#x2019;s context menu](../.gitbook/assets/screenshot_129.png)
+![&#x201C;Save as template&#x201D; option in panel&#x2019;s context menu](../.gitbook/assets/screenshot_46%20%281%29.png)
+
+
 
 All of the created templates are stored in Control center sidebar, under the _**“Templates”**_ group. So you can launch any template from this place any time you wish. You can put the saved templates on the Favorites bar of Control center, as any other default panel.
 

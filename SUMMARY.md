@@ -99,6 +99,7 @@
         * [Standard deviation](analytics-panels/chart/technical-indicators/volatility/standard-deviation.md)
       * [Volume](analytics-panels/chart/technical-indicators/volume/README.md)
         * [Delta Flow](analytics-panels/chart/technical-indicators/volume/delta-flow.md)
+        * [Delta Rotation](analytics-panels/chart/technical-indicators/volume/delta-rotation.md)
     * [Drawing tools](analytics-panels/chart/drawing-tools.md)
     * [Volume Analysis Tools \| Volume Profiles \| Footprint chart \| VWAP](analytics-panels/chart/volume-analysis-tools/README.md)
       * [Cluster chart](analytics-panels/chart/volume-analysis-tools/cluster-chart.md)

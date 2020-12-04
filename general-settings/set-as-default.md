@@ -17,7 +17,7 @@ But if you don’t want to configure the newly opened panels of this type every 
 * Click on the panel's context menu \(left upper corner\) and click on the "_**Set as Default"**_. You will see the message "_**Settings saved as default layout**_".
 * A new panel of this type will open with saved settings.
 
-![Saving default settings](../.gitbook/assets/set-as-default.gif)
+![Saving settings as default](../.gitbook/assets/set-as-default%20%281%29.gif)
 
 {% hint style="warning" %}
 If you enable [_**volume analysis tools**_](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools) on the chart panel and save it by default, then each new chart panel will be loading tick and volume data. It will increase traffic consumption and reduce the speed of building chart data.

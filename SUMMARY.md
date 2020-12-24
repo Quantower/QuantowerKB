@@ -11,6 +11,7 @@
   * [Quantower Account](getting-started/quantower-account.md)
   * [Quantower Licenses](getting-started/quantower-licenses.md)
   * [License Comparison](getting-started/license-comparison.md)
+  * [Payment FAQ](getting-started/payment-faq.md)
 * [General Settings](general-settings/README.md)
   * [Quantower Main Toolbar](general-settings/main-toolbar.md)
   * [Workspaces](general-settings/workspaces-binds-groups.md)

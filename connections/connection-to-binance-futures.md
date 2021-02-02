@@ -56,7 +56,3 @@ To enable these functions, you need to make at least 1 trade for current symbol.
 
 ![Make one trade to activate Leverage and Margin type for Binance Futures in Quantower](../.gitbook/assets/symbol-info-binance-futures.png)
 
-### How to get Full License of Quantower for free with Binance?
-
-
-

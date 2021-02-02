@@ -24,5 +24,5 @@ Now select each group of cookies and press the “Remove” button. When there w
 
 When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free\*
 
-\* Please check whether such opportunity is available for you now by contacting the Quantower support.
+\* Please check whether such an opportunity is available for you now by contacting Quantower support.
 

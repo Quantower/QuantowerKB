@@ -1,6 +1,6 @@
 # Binance fresh account
 
-As [stated in our article](https://docs.google.com/document/d/1LKgSa0VXxKut9DNxQ2qhYde7XuponIKZA-scqaydK-0/edit#), it is possible to use Quantower premium features for free when connected to Binance exchange. Such an offer is possible thanks to Quantower’s participation in the Binance Broker Program, allowing us to compensate the price of premium features by getting a part of Binance’s commissions. That is why, in order to start using Quantower premium without charge, you need to accomplish some steps as follows.
+As [stated in our article](https://www.quantower.com/blog/quantower-participates-in-binance-broker-program), it is possible to use Quantower premium features for free when connected to Binance exchange. Such an offer is possible thanks to Quantower’s participation in the Binance Broker Program, allowing us to compensate the price of premium features by getting a part of Binance’s commissions. That is why, in order to start using Quantower premium without charge, you need to accomplish some steps as follows.
 
 ## **Create a fresh Binance account**
 

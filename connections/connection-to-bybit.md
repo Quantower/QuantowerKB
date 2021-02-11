@@ -7,5 +7,5 @@ description: >-
 
 # Connection to Bybit
 
-In this guide we will cover all the steps required to create an account and connect to the Quantower platform.
+In this guide we will cover all the steps required to create a trading account on Bybit and connect to the Quantower platform.
 

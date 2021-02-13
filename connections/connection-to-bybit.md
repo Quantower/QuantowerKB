@@ -7,5 +7,25 @@ description: >-
 
 # Connection to Bybit
 
-In this guide we will cover all the steps required to create a trading account on Bybit and connect to the Quantower platform.
+In this guide, we will cover all the steps required to create a trading account on Bybit and connect to the Quantower platform.
+
+Note, that in the platform, you can connect to the exchange in two modes:
+
+* **Info Mode** — free and quick way to view charts and other data for cryptocurrencies on the Bybit exchange without the need to enter keys
+* **Trading Mode** — for trading on the Bybit exchange in demo or real mode. API Keys are required. Below you will show how to get keys for trading.
+
+![](../.gitbook/assets/bybit-modes.gif)
+
+### Open an account on Bybit to get personal API keys
+
+Go to the [**Bybit official website** using this link](https://www.bybit.com/en-US/invite?ref=n9X0D) and go through the procedure for registering a new account on the exchange.
+
+For email registration, please enter your email, preferred password and \(!\) referral code **n9X0D**   
+Swipe the verification page then enter the verification code sent to your email inbox.
+
+![](../.gitbook/assets/image%20%2880%29.png)
+
+
+
+
 

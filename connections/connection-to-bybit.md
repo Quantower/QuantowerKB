@@ -25,7 +25,13 @@ Swipe the verification page then enter the verification code sent to your email 
 
 ![](../.gitbook/assets/image%20%2880%29.png)
 
+To create/manage your Bybit API keys, please click onto the top right on your username. Inside the dropdown menu, click on **'API'.**
 
+![](../.gitbook/assets/image%20%2881%29.png)
+
+Click on **'Create New Key'** located on the right side of the **'API Management'** page
+
+![](../.gitbook/assets/image%20%2882%29.png)
 
 
 

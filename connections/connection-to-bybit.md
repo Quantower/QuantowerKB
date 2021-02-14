@@ -23,15 +23,35 @@ Go to the [**Bybit official website** using this link](https://www.bybit.com/en-
 For email registration, please enter your email, preferred password and \(!\) referral code **n9X0D**   
 Swipe the verification page then enter the verification code sent to your email inbox.
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 To create/manage your Bybit API keys, please click onto the top right on your username. Inside the dropdown menu, click on **'API'.**
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2883%29.png)
 
 Click on **'Create New Key'** located on the right side of the **'API Management'** page
 
-![](../.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
+
+{% hint style="warning" %}
+ **You need to configure two-factor authorization on Bybit. It is necessary for creating keys.**
+{% endhint %}
+
+The following pop-out window will appear. Please configure your API key according to your trading needs. Enter your Google Authenticator 2FA and click on 'Confirm' to proceed
+
+Enter your API information, such as a reference name for your API key under **'Name'** and select **'Active Order and Positions'** in the section **'Key Permission',** and proceed to enter your Google authenticator 2FA code before you click on “Confirm”
+
+![](../.gitbook/assets/image%20%2885%29.png)
+
+![](../.gitbook/assets/image%20%2884%29.png)
+
+![](../.gitbook/assets/bybit-connected.gif)
+
+### Possible Errors
+
+"Timestamp error" means that your local time is not the same as on Bybit servers and should be synchronized. Please, go to **Windows Settings &gt; Time & Language &gt; Sync Now button.**
+
+![](../.gitbook/assets/image%20%2881%29.png)
 
 
 

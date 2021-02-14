@@ -43,7 +43,11 @@ Enter your API information, such as a reference name for your API key under **'N
 
 ![](../.gitbook/assets/image%20%2885%29.png)
 
+Once you receive the keys, save them. After closing the window, you will not be able to see the "APIPrivate Key" again.
+
 ![](../.gitbook/assets/image%20%2884%29.png)
+
+Use your personal API Keys to login into your trading account in Quantower platform.
 
 ![](../.gitbook/assets/bybit-connected.gif)
 

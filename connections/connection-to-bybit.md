@@ -53,7 +53,7 @@ Use your personal API Keys to login into your trading account in Quantower platf
 
 ### Possible Errors
 
-"Timestamp error" means that your local time is not the same as on Bybit servers and should be synchronized. Please, go to **Windows Settings &gt; Time & Language &gt; Sync Now button.**
+**"Timestamp error"** means that your local time on PC is not the same as on Bybit servers and it should be synchronized. Please, go to **Windows Settings &gt; Time & Language &gt; Sync Now button.**
 
 ![](../.gitbook/assets/image%20%2881%29.png)
 

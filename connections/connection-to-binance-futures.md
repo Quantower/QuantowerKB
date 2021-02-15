@@ -10,6 +10,8 @@ To start trading on Binance Futures through Quantower platform, you need to open
 
 * \*\*\*\*[**How to connect to Binance Futures in Quantower platform**](connection-to-binance-futures.md#how-to-connect-to-binance-futures-in-quantower-platform)\*\*\*\*
 * \*\*\*\*[**How to change Leverage and Margin Type**](connection-to-binance-futures.md#how-to-change-leverage-and-margin-type)\*\*\*\*
+* \*\*\*\*[**How to get Full License of Quantower for free with Binance?**](connection-to-binance-futures.md#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
+* \*\*\*\*[**Possible Errors with Binance Futures connection**](connection-to-binance-futures.md#possible-errors-with-binance-futures-connection)\*\*\*\*
 
 ## How to create a new Binance Futures account
 

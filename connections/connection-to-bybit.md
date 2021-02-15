@@ -9,6 +9,9 @@ description: >-
 
 In this guide, we will cover all the steps required to create a trading account on Bybit and connect to the Quantower platform.
 
+* \*\*\*\*[**Open an account on Bybit to get personal API keys**](connection-to-bybit.md#open-an-account-on-bybit-to-get-personal-api-keys)\*\*\*\*
+* \*\*\*\*[**Possible Errors with Bybit connection**](connection-to-bybit.md#possible-errors-with-bybit-connection)\*\*\*\*
+
 Note, that in the platform, you can connect to the exchange in two modes:
 
 * **Info Mode** — free and quick way to view charts and other data for cryptocurrencies on the Bybit exchange without the need to enter keys
@@ -51,7 +54,7 @@ Use your personal API Keys to login into your trading account in Quantower platf
 
 ![](../.gitbook/assets/bybit-connected.gif)
 
-### Possible Errors
+### Possible Errors with Bybit connection
 
 **"Timestamp error"** means that your local time on PC is not the same as on Bybit servers and it should be synchronized.
 

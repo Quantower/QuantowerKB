@@ -22,7 +22,5 @@ Now select each group of cookies and press the “Remove” button. When there w
 
 ![Binance stores referral data in cookies](../.gitbook/assets/screenshot_3%20%283%29.png)
 
-When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free\*
-
-\* Please check whether such an opportunity is available for you now by contacting Quantower support.
+When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
 

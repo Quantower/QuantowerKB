@@ -95,6 +95,10 @@ When you’ve created a new account with the Binance exchange you may log in usi
 * a trader **did not enable Future Trading** in the personal account on the Binance website
 * API Keys were not copied correctly.
 
+{% hint style="info" %}
+If you sure that everything is correct, please recreate the new keys and the problem is resolved. It's better to recreate it through another browser \(sometimes errors occur when creating through Google Chrome\).
+{% endhint %}
+
 ![](../.gitbook/assets/binance-futures-error.png)
 
 To solve it, please check that your API Key has permissions for Futures trading. **Go to Binance official website &gt; Under your account select API management &gt; check & activate Futures Trading**

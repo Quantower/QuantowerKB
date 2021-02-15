@@ -17,7 +17,7 @@ To start trading on Binance Futures through Quantower platform, you need to open
 
 ![](../.gitbook/assets/create-account-binance-futures.png)
 
-* Fill in the account registration form with your enail and safe password. Click on Create account and you will receive a verification email shortly. Follow the instructions in the email to complete your registration.
+* Fill in the account registration form with your email and safe password. Click on Create account and you will receive a verification email shortly. Follow the instructions in the email to complete your registration.
 * Once you are on the Binance Futures page, you should be able to see the first two characters of your email address associated with your account in the top right corner.
 
 ![](../.gitbook/assets/binance-futures-their-terminal.png)
@@ -56,7 +56,25 @@ To enable these functions, you need to make at least 1 trade for current symbol.
 
 ![Make one trade to activate Leverage and Margin type for Binance Futures in Quantower](../.gitbook/assets/symbol-info-binance-futures.png)
 
-### How to get Full License of Quantower for free with Binance?
+## How to get Full License of Quantower for free with Binance?
 
+First, you need to register a new account on Binance exchange, that wouldn’t be connected with any referral previously. In order to do this, please follow the [https://accounts.binance.com/en/register](https://accounts.binance.com/en/register) link and fill in the registration form.
 
+![Make sure that the Referral ID field is empty](../.gitbook/assets/screenshot_1.png)
+
+{% hint style="warning" %}
+Please note! The Referral ID field must be empty. If you see any prefilled ID in this field you should CLEAR YOUR **REFERRAL ID** COOKIES in the browser before registration.
+{% endhint %}
+
+### Clearing Referral ID cookies
+
+To clear your saved cookies in the Chrome browser, you should proceed to the “Site information block” and follow the “Cookies section”
+
+![Page cookies can be found via the Page info](../.gitbook/assets/screenshot_2.png)
+
+Now select each group of cookies and press the “Remove” button. When there will be no cookies in the list, please, press the “Done” button. Now you should refresh your registration page and make sure that the “Referral ID” field is empty. 
+
+![Binance stores referral data in cookies](../.gitbook/assets/screenshot_3%20%283%29.png)
+
+When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
 

@@ -59,7 +59,7 @@ Use your personal API Keys to login into your trading account in Quantower platf
 
 To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and click on **Sync Now** button**.**
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 
 
 

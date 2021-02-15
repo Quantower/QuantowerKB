@@ -34,7 +34,7 @@ Please activate it and after you can connect to Binance Futures in Quantower
 
 ![](../.gitbook/assets/image%20%2887%29.png)
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 ## How to connect to Binance Futures in Quantower platform
 
@@ -97,11 +97,15 @@ When you’ve created a new account with the Binance exchange you may log in usi
 
 ![](../.gitbook/assets/binance-futures-error.png)
 
+To solve it, please check that your API Key has permissions for Futures trading. **Go to Binance official website &gt; Under your account select API management &gt; check & activate Futures Trading**
+
+![](../.gitbook/assets/image%20%2888%29.png)
+
 **"TimeStamp"** error occurs when the time on the Binance server does not match the time on the user's computer.
 
-![Binance Futures error in Quantower - Timestamp for the request](../.gitbook/assets/image%20%2888%29.png)
+![Binance Futures error in Quantower - Timestamp for the request](../.gitbook/assets/image%20%2889%29.png)
 
 To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and click on **Sync Now** button**.**
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2892%29.png)
 

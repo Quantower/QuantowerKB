@@ -78,3 +78,20 @@ Now select each group of cookies and press the “Remove” button. When there w
 
 When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
 
+## Possible Errors with Binance Futures connection
+
+**"Invalid API Key"** error occurs for several reasons:
+
+* a trader **did not enable Future Trading** in the personal account on the Binance website
+* API Keys were not copied correctly.
+
+![](../.gitbook/assets/binance-futures-error.png)
+
+**"TimeStamp"** error occurs when the time on the Binance server does not match the time on the user's computer.
+
+![Binance Futures error in Quantower - Timestamp for the request](../.gitbook/assets/image%20%2887%29.png)
+
+To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and click on **Sync Now** button**.**
+
+![](../.gitbook/assets/image%20%2888%29.png)
+

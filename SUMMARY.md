@@ -78,7 +78,7 @@
         * [Modified Moving Average Indicator](analytics-panels/chart/technical-indicators/moving-averages/modified-moving-average-indicator.md)
         * [Pivot Point Moving Average Indicator](analytics-panels/chart/technical-indicators/moving-averages/pivot-point-moving-average-indicator.md)
         * [Regression Line Indicator](analytics-panels/chart/technical-indicators/moving-averages/regression-line-indicator.md)
-        * [Simple moving average](analytics-panels/chart/technical-indicators/moving-averages/simple-moving-average.md)
+        * [Simple Moving Average Indicator](analytics-panels/chart/technical-indicators/moving-averages/simple-moving-average.md)
         * [Smoothed Moving Average Indicator](analytics-panels/chart/technical-indicators/moving-averages/smoothed-moving-average-indicator.md)
         * [Guppy Multiple Moving Average Indicator](analytics-panels/chart/technical-indicators/moving-averages/guppy-multiple-moving-average-indicator.md)
         * [Trend Breakout System Indicator](analytics-panels/chart/technical-indicators/moving-averages/trend-breakout-system-indicator.md)

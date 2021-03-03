@@ -26,9 +26,9 @@ In this guide you will learn about the next functionalities:
 * \*\*\*\*[**Platform's General Settings**](main-toolbar.md#general-settings)\*\*\*\*
 * \*\*\*\*[**Time & Time Zones**](main-toolbar.md#time-and-time-zones)\*\*\*\*
 
-Due to the fact that Toolbar is the main controlling panel it has an ability to collapse all platform’s interface by clicking the “_**Minimize**_” icon. This action makes all application panels to collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens.
+Due to the fact that Toolbar is the main controlling panel it has the ability to collapse all platform’s interface by clicking the “_**Minimize**_” icon. This action makes all application panels collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens.
 
-The “_**Close**_” icon just closes the platform. You may set up “_not to ask to confirm the closing_” setting in the pop-up screen while the first closing.
+The “_**Close**_” icon just closes the platform. You may set up the “_not to ask to confirm the closing_” setting in the pop-up screen while the first closing.
 
 ### Customization of Main Toolbar
 

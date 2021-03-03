@@ -6,13 +6,13 @@ description: >-
 
 # Platform update
 
-Our team strives to release the new updates as soon as possible, usually at least a couple times per month.
+Our team strives to release the new updates as soon as possible, usually at least a couple of times per month.
 
-Quantower automatically checks for updates on start and re-checks them every 10 minutes in the background. It helps you to get known about the latest updates just after we release them.
+Quantower automatically checks for updates on start and re-checks them every 10 minutes in the background. It helps you to get to know about the latest updates just after we release them.
 
 ![The green arrow on the logo indicates that a new update is available](../.gitbook/assets/screenshot_128.png)
 
-A green arrow will appear near the logo when a new version is available. Сlick on the "_**Logo**_" icon and open the sidebar, then press the “_**NEW VERSION**_” button at the bottom and get on About screen.
+A green arrow will appear near the logo when a new version is available. Сlick on the "_**Logo**_" icon and open the sidebar, then press the “_**NEW VERSION**_” button at the bottom and get on the About screen.
 
 ![New version is available for download](../.gitbook/assets/new-version-quantower.png)
 
@@ -24,11 +24,13 @@ If you accept an application restart for the update, it will close and reopen wi
 
 All of your local settings will be saved and applied for future updates because the update changes the Core files only.
 
-## Rollback to previous version
+## Rollback to the previous version
 
-The rollback function allows you to go back one version after updating the platform. This option is only available if you have previously updated the platform.
+The rollback function allows you to go back to any previously supported version and switch to it in a few clicks.
 
-![Rollback to previous Quantower version](../.gitbook/assets/rollbackto-previous-version.png)
+![Rollback to previous Quantower version \(new version\)](../.gitbook/assets/rollback.gif)
+
+![Rollback to previous Quantower version \(here is how the old version of this window looked like\)](../.gitbook/assets/rollbackto-previous-version.png)
 
 
 

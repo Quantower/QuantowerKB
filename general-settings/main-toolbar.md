@@ -18,7 +18,6 @@ In this guide you will learn about the next functionalities:
 
 * \*\*\*\*[**How to customize the Main Toolbar**](main-toolbar.md#customization-of-main-toolbar)\*\*\*\*
 * \*\*\*\*[**Main menu with all panels**](main-toolbar.md#sidebar)\*\*\*\*
-* \*\*\*\*[**Smart Search of symbols and panels**](main-toolbar.md#smart-search)\*\*\*\*
 * \*\*\*\*[**How to add Favorite Panels on the Toolbar**](main-toolbar.md#favorite-panels)\*\*\*\*
 * \*\*\*\*[**How to Lock Trading**](main-toolbar.md#lock-trading)\*\*\*\*
 * \*\*\*\*[**How to create and manage your Workspaces**](main-toolbar.md#workspaces-manager)\*\*\*\*

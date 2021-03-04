@@ -24,6 +24,10 @@ If you accept an application restart for the update, it will close and reopen wi
 
 All of your local settings will be saved and applied for future updates because the update changes the Core files only.
 
+If you use the platform with a too old version, it will ask you to update it to the latest version to avoid any issues with connections and trading operation.
+
+![](../.gitbook/assets/image%20%2896%29.png)
+
 ## Rollback to the previous version
 
 The rollback function allows you to go back to any previously supported version and switch to it in a few clicks.

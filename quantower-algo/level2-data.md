@@ -14,7 +14,7 @@ Many professional traders develop their strategies using order book data. Quanto
 
 There are two method overloads:
 
-```text
+```csharp
 public DepthOfMarketAggregatedCollections GetDepthOfMarketAggregatedCollections(GetLevel2ItemsParameters parameters = null)
 ```
 
@@ -25,7 +25,7 @@ This method takes the “[GetLevel2ItemsParameters](https://api.quantower.com/do
 * **LevelsCount -** number of levels required
 * **CalculateCumulative -** set ‘true’ if you need cumulative value for each price level.
 
-```text
+```csharp
 public DepthOfMarketAggregatedCollections GetDepthOfMarketAggregatedCollections(GetDepthOfMarketParameters parameters)
 ```
 
@@ -46,7 +46,7 @@ In this topic we will develop a simple indicator which will draw ‘Cumulative�
 
 First, let’s define input parameters. We want to manage the number of levels and set custom tick size.
 
-```text
+```csharp
 [InputParameter("Level count", 10, 1, 9999, 1, 0)]
 public int InputLevelsCount = 10;
 
@@ -58,7 +58,7 @@ public double InputCustomTicksize = 0.0001;
 
 Populate constructor of our class. Define name and add line series.
 
-```text
+```csharp
 Name = "Level2 cumulative";
 
 AddLineSeries("Asks cumulative", Color.DarkRed, 10, LineStyle.Histogramm);
@@ -73,7 +73,7 @@ SeparateWindow = true;
 Pay attention! In the ‘OnInit’ method we need to subscribe to the ‘NewLevel2’ event. This is necessary for the terminal to send a 'order book' subscription request to the vendor. The ‘Symbol\_NewLevel2Handler’ method we leave empty.
 {% endhint %}
 
-```text
+```csharp
 protected override void OnInit()
 {
      this.Symbol.NewLevel2 += Symbol_NewLevel2Handler;
@@ -89,7 +89,7 @@ private void Symbol_NewLevel2Handler(Symbol symbol, Level2Quote level2, DOMQuote
 
 In the ‘OnUpdate’ method we skip the historical part and then get a level2 snapshot. Be sure to check that the ask/bid collections have values. Then we get the required levels and set ‘Cumulative’ values into our indicator buffers.
 
-```text
+```csharp
 protected override void OnUpdate(UpdateArgs args)
 {
     // skip historical part
@@ -117,7 +117,7 @@ protected override void OnUpdate(UpdateArgs args)
 
 In the ‘OnClear’ don’t forget to unsubscribe from the ‘NewLevel2’.
 
-```text
+```csharp
 protected override void OnClear()
 {
     this.Symbol.NewLevel2 -= Symbol_NewLevel2Handler;

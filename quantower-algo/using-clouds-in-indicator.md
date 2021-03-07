@@ -40,6 +40,8 @@ It will be a simple indicator that will draw two SMA lines with different period
 
 ![](../.gitbook/assets/using_clouds_example.jpg)
 
+### Input parameters
+
 Let’s create an empty indicator project and define input parameters.
 
 ```text
@@ -59,6 +61,8 @@ private Indicator fastSma;
 private Indicator slowSma;
 ```
 
+### Class constructor
+
 Populate constructor of our class. Define script name, add line series and set default colors of cloud areas.
 
 ```text
@@ -72,6 +76,8 @@ this.AddLineSeries("Slow SMA line", Color.Green, 3, LineStyle.Solid);
 this.FastAboveCloudColor = Color.FromArgb(127, Color.Green);
 this.SlowAboveCloudColor = Color.FromArgb(127, Color.Red);
 ```
+
+### OnInit method
 
 In the ‘OnInit ‘ method we create two SMA indicators and attach them to our main ‘HistoricalData’. 
 
@@ -90,6 +96,8 @@ protected override void OnInit()
 }
 
 ```
+
+### OnUpdate method
 
 The main calculation is performed in the "OnUpdate" method. 
 
@@ -128,6 +136,8 @@ protected override void OnUpdate(UpdateArgs args)
      }
 }
 ```
+
+### OnClear method
 
 Don’t forget to remove indicators we created in the method "OnClear"
 

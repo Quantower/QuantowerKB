@@ -12,7 +12,7 @@ To start drawing a cloud area we need to invoke the ‘[BeginCloud](https://api.
 
 Let’s figure out the meaning of these parameters:
 
-```text
+```csharp
 /// <summary>
 /// Marks cloud begin between two line series with specific color
 /// </summary>
@@ -23,7 +23,7 @@ Let’s figure out the meaning of these parameters:
 protected void BeginCloud(int line1Index, int line2Index, Color color, int offset = 0)
 ```
 
-```text
+```csharp
 /// <summary>
 ///  Marks cloud end between two line series with specific color
 /// </summary>
@@ -44,7 +44,7 @@ It will be a simple indicator that will draw two SMA lines with different period
 
 Let’s create an empty indicator project and define input parameters.
 
-```text
+```csharp
 [InputParameter("Fast SMA period", 10, 1, 9999, 1, 0)]
 public int FastPeriod = 50;
 
@@ -65,7 +65,7 @@ private Indicator slowSma;
 
 Populate constructor of our class. Define script name, add line series and set default colors of cloud areas.
 
-```text
+```csharp
 this.Name = "Crossing lines";
 
 // define two lines
@@ -83,7 +83,7 @@ In the ‘OnInit ‘ method we create two SMA indicators and attach them to our 
 
 > Notice, we use Quantower built-in indicator collection.
 
-```text
+```csharp
 protected override void OnInit()
 {
      // create SMA indicators
@@ -103,7 +103,7 @@ The main calculation is performed in the "OnUpdate" method.
 
 > Notice the line '19'. When lines are crossed we invoke the ‘EndCloud’ method to close the last area. After that we invoke ‘BeginCloud’ to start drawing the new area with specified color.
 
-```text
+```csharp
 protected override void OnUpdate(UpdateArgs args)
 {
      // get current values (offset is '0' by default)
@@ -141,7 +141,7 @@ protected override void OnUpdate(UpdateArgs args)
 
 Don’t forget to remove indicators we created in the method "OnClear"
 
-```text
+```csharp
 protected override void OnClear()
 {
      this.RemoveIndicator(this.fastSma);

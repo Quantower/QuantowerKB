@@ -31,7 +31,7 @@ protected void BeginCloud(int line1Index, int line2Index, Color color, int offse
 /// <param name="line2Index">Second line series index</param>
 /// <param name="color">Cloud color</param>
 /// <param name="offset">Offset</param>
-protected void BeginCloud(int line1Index, int line2Index, Color color, int offset = 0)
+protected void EndCloud(int line1Index, int line2Index, Color color, int offset = 0)
 ```
 
 ## **Practice**
@@ -101,7 +101,7 @@ protected override void OnInit()
 
 The main calculation is performed in the "OnUpdate" method. 
 
-> Notice the line '19'. When lines are crossed we invoke the ‘EndCloud’ method to close the last area. After that we invoke ‘BeginCloud’ to start drawing the new area with specified color.
+> Notice the line '20'. When lines are crossed we invoke the ‘EndCloud’ method to close the last area. After that we invoke ‘BeginCloud’ to start drawing the new area with specified color.
 
 ```csharp
 protected override void OnUpdate(UpdateArgs args)

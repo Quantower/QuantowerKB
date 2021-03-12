@@ -13,15 +13,20 @@ description: >-
 
 ### Data Limitations
 
-Interactive Brokers places the following limitations on realtime and historical data accessible to 3rd party applications
+Interactive Brokers places the following limitations on real-time and historical data accessible to 3rd party applications
 
-* **Pacing Violations** – TWS limits the number of requests for data. It too many requests for data occur in a short period of time, you may see error messages indicating “Pacing Violation”. If this happens you may need to wait a few minutes before trying to load data again. 
-* **Real Time Quotes** – TWS does impose limits on the number of active tickers \(typically around 100\). Additional booster packs can be purchased from IB to work around this issue: [Booster Packs](https://www.interactivebrokers.com/en/index.php?f=14193). 
+* **Pacing Violations** – TWS limits the number of requests for data. If too many requests for data occur in a short period of time, you may see error messages indicating “Pacing Violation”. If this happens you may need to wait a few minutes before trying to load data again. 
+* **Real-Time Quotes** – TWS does impose limits on the number of active tickers \(typically around 100\). Additional booster packs can be purchased from IB to work around this issue: [Booster Packs](https://www.interactivebrokers.com/en/index.php?f=14193). 
 * **Delayed Data Not Supported** – TWS does not provide access to delayed historical data and quotes. 
 
 For more details on these limitations see [IB Data Limitations](https://interactivebrokers.github.io/tws-api/historical_limitations.html#gsc.tab=0).
 
-### Necessary steps for successful connection to Quantower
+{% hint style="warning" %}
+* IB does not currently offer full depth market data for futures.
+* Market data updates are not frequent; therefore, we do not recommend using IB data \(instead we recommend using dxFeed or Iqfeed as market data provider\).
+{% endhint %}
+
+### Necessary steps for a successful connection to Quantower
 
 This guide will help you to configure the connection to the Interactive Brokers and start working on Quantower platform.
 
@@ -46,11 +51,11 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
      5. Once you are logged in, open the additional settings in IB Gateway or TWS:  **Configure**-&gt; **Settings**. Select **API** section - &gt;  **Precautions** and activate all checkboxes.
 
-Also necessary in the **Settings** section diactivate **Read-Only API** to perform trading operations.
+Also necessary in the **Settings** section deactivate the **Read-Only API** to perform trading operations.
 
 ![Activate all checkboxes in the IB Gateway or TWS API settings](../.gitbook/assets/api-settings-for-ib.png)
 
-     6. If you connect via the TWS platform, please select **API** section - &gt; **Settings** and check **Enable ActiveX and Socket Clients** box as well ****uncheck **Read-Only API**:
+     6. If you connect via the TWS platform, please select **API** section - &gt; **Settings** and check to **Enable ActiveX and Socket Clients** box as well ****uncheck **Read-Only API**:
 
 ![Diactivate Read-Only API and check Socket Clients in TWS platform](../.gitbook/assets/trader-workstation-api-settings.png)
 
@@ -62,7 +67,7 @@ Also necessary in the **Settings** section diactivate **Read-Only API** to perfo
 
 1. _**Wrong Connection Parameters**_
 
-There may be some problems during the connection to Interactive Brokers, for example _**Wrong Connection Parameters**_
+There may be some problems during the connection to Interactive Brokers, for example, _**Wrong Connection Parameters**_
 
 ![Wrong parameteres during connection to Interactive Brokers](../.gitbook/assets/connections-manager-for-ib_error.png)
 

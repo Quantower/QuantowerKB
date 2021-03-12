@@ -65,7 +65,9 @@ Also necessary in the **Settings** section deactivate the **Read-Only API** to p
 
 ### Problems during the connection to Interactive Brokers
 
-1. _**Wrong Connection Parameters**_
+* _**Wrong Connection Parameters**_
+* _**Trader Workstation is not running \(below\)**_
+* _**The Price Does Not Conform to the minimum price variation for this contract \(FOREX symbols\)**_
 
 There may be some problems during the connection to Interactive Brokers, for example, _**Wrong Connection Parameters**_
 
@@ -94,4 +96,18 @@ Select the _**Custom**_ connection port type in the Connection settings of Quant
 Connection to Interactive Brokers is made through their TWS trading platform or the IB Gateway application. To successfully connect to IB you need to run their applications.
 
 If you have any other problems during the connection to Interactive Brokers, please contact us in support and we will help you. [https://www.quantower.com/contact-us](https://www.quantower.com/contact-us)
+
+3. _**The Price Does Not Conform to the minimum price variation for this contract \(FOREX symbols\)**_
+
+By default, placing orders on Forex pairs in IB is carried out at prices equal to 1/2 pip. Like on the screenshot below:
+
+![](../.gitbook/assets/image%20%2899%29.png)
+
+If you place orders in Quantower at prices between those specified, for example 1.19382, you will get a message: _**The Price Does Not Conform to the minimum price variation for this contract \(FOREX symbols\).**_ 
+
+To solve this problem and to be able to place orders at any desired prices, you need to activate the setting in the TWS platform \(or in IB Gateway\)
+
+![](../.gitbook/assets/image%20%2898%29.png)
+
+
 

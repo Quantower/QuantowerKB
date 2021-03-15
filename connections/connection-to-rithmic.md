@@ -55,3 +55,7 @@ This error message is most commonly encountered by _**new Rithmic users for vari
 * Rithmic demo accounts are limited to 14 days per exchange guidelines on providing live, streaming data. If you have used a Rithmic demo previously you will _not_ be able to login with a new Rithmic demo Username.
 * If you are unable to connect within a few days, you need to contact your broker about this issue.
 
+If you enable Use RTrader plugin in Connection Settings and still can not connect to Rithmic, please check that you have more than 1 active session for Market data.
+
+![](../.gitbook/assets/image%20%28100%29.png)
+

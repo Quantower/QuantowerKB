@@ -5,13 +5,9 @@ description: >-
   know advanced features, and more
 ---
 
-# Welcome to Quantower Help
-
-
+# Welcome to Coincidence Help
 
 ![](.gitbook/assets/main-workspace-for-help.png)
-
-
 
 For the answers you can't find in the Knowledge Base, please contact us via the following options:
 
@@ -23,17 +19,31 @@ For ease of navigation, the Knowledge Base is divided into several categories th
 
 {% page-ref page="getting-started/" %}
 
+{% endpage-ref %}
+
 {% page-ref page="analytics-panels/" %}
+
+{% endpage-ref %}
 
 {% page-ref page="trading-panels/" %}
 
+{% endpage-ref %}
+
 {% page-ref page="portfolio-panels/" %}
+
+{% endpage-ref %}
 
 {% page-ref page="informational-panels/" %}
 
+{% endpage-ref %}
+
 {% page-ref page="miscellaneous-panels/" %}
 
+{% endpage-ref %}
+
 {% page-ref page="quantower-algo/" %}
+
+{% endpage-ref %}
 
 {% page-ref page="customization/" %}
 

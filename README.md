@@ -9,6 +9,12 @@ description: >-
 
 ![](.gitbook/assets/main-workspace-for-help.png)
 
+
+
+```text
+Example of code.
+```
+
 For the answers you can't find in the Knowledge Base, please contact us via the following options:
 
 * \*\*\*\*[**Telegram Support Chat**](https://t.me/quantower)\*\*\*\*

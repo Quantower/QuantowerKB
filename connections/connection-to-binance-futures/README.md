@@ -11,7 +11,7 @@ To start trading on Binance Futures through Quantower platform, you need to open
 * \*\*\*\*[**How to connect to Binance Futures in Quantower platform**](./#how-to-connect-to-binance-futures-in-quantower-platform)\*\*\*\*
 * \*\*\*\*[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)\*\*\*\*
 * \*\*\*\*[**How to get Full License of Quantower for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
-* \*\*\*\*[**Possible Errors with Binance Futures connection**](./#possible-errors-with-binance-futures-connection)\*\*\*\*
+* \*\*\*\*[**Possible Errors with Binance Futures connection**](errors-with-binance-connection.md)\*\*\*\*
 
 ## How to create a new Binance Futures account
 
@@ -87,31 +87,6 @@ Now select each group of cookies and press the “Remove” button. When there w
 ![Binance stores referral data in cookies](../../.gitbook/assets/screenshot_3%20%283%29.png)
 
 When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
-
-## Possible Errors with Binance Futures connection
-
-**"Invalid API Key"** error occurs for several reasons:
-
-* a trader **did not enable Future Trading** in the personal account on the Binance website
-* API Keys were not copied correctly.
-
-{% hint style="info" %}
-If you sure that everything is correct, please recreate the new keys and the problem is resolved. It's better to recreate it through another browser \(sometimes errors occur when creating through Google Chrome\).
-{% endhint %}
-
-![](../../.gitbook/assets/binance-futures-error.png)
-
-To solve it, please check that your API Key has permissions for Futures trading. **Go to Binance official website &gt; Under your account select API management &gt; check & activate Futures Trading**
-
-![](../../.gitbook/assets/image%20%2888%29.png)
-
-**"TimeStamp"** error occurs when the time on the Binance server does not match the time on the user's computer.
-
-![Binance Futures error in Quantower - Timestamp for the request](../../.gitbook/assets/image%20%2889%29.png)
-
-To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and click on **Sync Now** button**.**
-
-![](../../.gitbook/assets/image%20%2892%29.png)
 
 ### 
 

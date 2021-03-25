@@ -17,37 +17,30 @@ There are two ways to open Chart Settings:
 
 ![Open Chart Settings via context menu](../../.gitbook/assets/image%20%28125%29.png)
 
+General view of Chart settings menu has the following subsections. Let's take a closer look at them:
 
+* \*\*\*\*[**View**](chart-settings.md#view-settings)\*\*\*\*
+* \*\*\*\*[**Data style**](chart-settings.md#data-style)\*\*\*\*
+* \*\*\*\*[**Time scale**](chart-settings.md#time-scale)\*\*\*\*
+* \*\*\*\*[**Price scale**](chart-settings.md#price-scale)\*\*\*\*
+* \*\*\*\*[**Visual trading**](chart-settings.md#visual-trading)\*\*\*\*
+* \*\*\*\*[**Order entry**](chart-settings.md#order-entry)\*\*\*\*
+* \*\*\*\*[**Info window**](chart-settings.md#info-window)\*\*\*\*
+* \*\*\*\*[**Volume bars**](chart-settings.md#volume-bars)\*\*\*\*
+* \*\*\*\*[**Hotkeys**](chart-settings.md#hotkeys)\*\*\*\*
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![General View of Chart Settings](../../.gitbook/assets/image%20%28113%29.png)
 
-The settings menu has the following subsections. Let's take a closer look at them
+## View settings
 
-* **View**
-* **Data style**
-* **Time scale**
-* **Prise scale**
-* **Visual trading**
-* **Order entry**
-* **Info window**
-* **Volume bars**
-* **Hotkeys**
-
-### View settings
-
-**Custom title** - You can raname your chart as you wish.
-
-**Use custom tick sise.** 
-
-This is probably one of the most important settings in this chart. It is most often used for cluster charts. When you have a highly volatile instrument such as bitcoin or any other instrument in the course of its trading there will be volumes on each cluster level. Sometimes they have gaps in them. Clusters can be vertically compressed to display information better. The compression ratio must be specified in this menu item. Below you can see a bitcoin chart with compression of $10
+* **Custom title.** You can rename your chart panel as you wish. 
+* **Use custom tick size** This is probably one of the most important settings in this chart. It is most often used for cluster charts. When you have a highly volatile instrument such as BTC or any other instrument in the course of its trading there will be volumes on each cluster level. Sometimes they have gaps in them. Clusters can be vertically compressed to display information better. The compression ratio must be specified in this menu item. Below you can see a bitcoin chart with compression of $10
 
 ![](../../.gitbook/assets/image%20%28116%29.png)
 
-**Time Zome** These are the time zone settings of the chart
-
-**Mouse wheel action** - is a action when you rotate the mouse wheel
-
-**Drawings defoult avalilablity** - if you choose "All charts with the same symbol", all drawings will be projected onto the other charts of this ticket.And also allows you to change the color settings of the figures on all charts simultaneously.
+* **Time Zome.** These are the time zone settings of the chart 
+* **Mouse wheel action.** It's an action for the mouse wheel when a user will rotate the wheel. 
+* **Drawings default availability**. If you choose "All charts with the same symbol", all drawings will be projected onto the other charts with the same asset \(ticket\). And also allows you to change the color settings of the figures on all charts simultaneously.
 
 ![](../../.gitbook/assets/image%20%28114%29.png)
 
@@ -65,19 +58,19 @@ This is probably one of the most important settings in this chart. It is most of
 
 
 
-### Data style
+## Data style
 
 This tab controls the visual settings of the graph. Here you can change the candlesticks to bars to set special colors for the bull bar and for the bear bar. Try to set up a nice interface for your eyes
 
 ![](../../.gitbook/assets/image%20%28122%29.png)
 
-### Time scale
+## Time scale
 
 Use this tab to adjust the time scale. Here you can select the size and color of the font. You can also select the background color for the timeline. You can also control the vertical period separators. Such as Daily Period, Weekly Monthly and Yearly. All of these periods you can display in different colors as needed
 
 ![](../../.gitbook/assets/image%20%28108%29.png)
 
-### Price Scale
+## Price Scale
 
 ![](../../.gitbook/assets/image%20%28110%29.png)
 
@@ -89,13 +82,13 @@ These settings allow you to customize the price scale. There are 3 important poi
 
 **Highlights  prices** - Adjusts the color and font of the current price on the chart Gives the opportunity to highlight the minimums and maximums of the previous day and limits on the instrument
 
-### Visual trading 
+## Visual trading 
 
 This tab allows you to include settings to display the current position on the chart and display already completed trades.
 
 ![](../../.gitbook/assets/image%20%28117%29.png)
 
-### Order entry
+## Order entry
 
 These are the settings of the order entry panel. The most interesting thing here is that you can set the standard number of entry orders which correspond to your risks. This is very convenient for manual trading. 
 
@@ -103,19 +96,19 @@ These are the settings of the order entry panel. The most interesting thing here
 
 ![](../../.gitbook/assets/image%20%28115%29.png)
 
-### Info Window
+## Info Window
 
 This settings tab is for displaying values in the upper left corner. which data to display you can choose for yourself. For example, it is important for me to know the volume value and I only display them. You can also adjust the font of this information.
 
 ![](../../.gitbook/assets/image%20%28112%29.png)
 
-### Volume Bars
+## Volume Bars
 
 This tab is used to adjust the volume histogram at the bottom of the chart. You can choose the colors of the histogram that you like. You can also select a color scheme for coloring this chart. Adjusting the color of the volume histogram depending on the direction of the price bar or changing the color depending on whether the volume is higher or lower now.
 
 ![](../../.gitbook/assets/image%20%28111%29.png)
 
-### Hotkeys
+## Hotkeys
 
 This tab is for configuring your keyboard shortcuts. Here you can configure the volume change with one button. Drawing levels or trend channels. Cancel orders and many other useful functions. In general, almost any action can be assigned as you wish
 

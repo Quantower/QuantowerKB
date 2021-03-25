@@ -41,8 +41,8 @@ Quantower platform provides 5 separate VWAPs, that can be placed simultaneously 
 
 **2.** Set the **Main Settings** for the VWAP line:
 
-* **Data type —** Ticks or Current TF \(Ticks takes much more time for VWAP calculation\)
-* **Price Type** — uses for Current TF data type \(Open, High, Low, Close, HL/2, HLC/3, OHLC/4\)
+* **Data type** — set the data for VWAP calculation: **Ticks** or **Current TF.    Ticks** will use tick data for VWAP calculation and will take much more time for loading    **Current TF** will use Bar data from the current selected Timeframe of your chart. It will use Price type data and multiple it to Bar Volume.
+* **Price Type** — select the price for the Current TF data type \(Open, High, Low, Close, HL/2, HLC/3, OHLC/4\)
 * **Period and Value** — defines the number of bars \(duration\) on which VWAP will be calculated
 * **Forward Extensions** \(type and number\)
 * **VWAP line** — visual settings for VWAP itself

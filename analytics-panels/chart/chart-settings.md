@@ -1,2 +1,115 @@
+---
+description: >-
+  Here you will learn about the basic settings of the chart in Quantower. In
+  order to get to this menu, you need to right-click on the chart and in the
+  menu select settings
+---
+
 # Chart Settings
+
+
+
+![](../../.gitbook/assets/image%20%28113%29.png)
+
+The settings menu has the following subsections. Let's take a closer look at them
+
+* **View**
+* **Data style**
+* **Time scale**
+* **Prise scale**
+* **Visual trading**
+* **Order entry**
+* **Info window**
+* **Volume bars**
+* **Hotkeys**
+
+### View settings
+
+**Custom title** - You can raname your chart as you wish.
+
+**Use custom tick sise.** 
+
+This is probably one of the most important settings in this chart. It is most often used for cluster charts. When you have a highly volatile instrument such as bitcoin or any other instrument in the course of its trading there will be volumes on each cluster level. Sometimes they have gaps in them. Clusters can be vertically compressed to display information better. The compression ratio must be specified in this menu item. Below you can see a bitcoin chart with compression of $10
+
+![](../../.gitbook/assets/image%20%28116%29.png)
+
+**Time Zome** These are the time zone settings of the chart
+
+**Mouse wheel action** - is a action when you rotate the mouse wheel
+
+**Drawings defoult avalilablity** - if you choose "All charts with the same symbol", all drawings will be projected onto the other charts of this ticket.And also allows you to change the color settings of the figures on all charts simultaneously.
+
+![](../../.gitbook/assets/image%20%28114%29.png)
+
+**Custom session** - This item is for displaying trading sessions
+
+**Window colors**  - is for setting the background color on the chart
+
+**Crosshair** - These are settings of the cursor and its visibility on charts with one Ticket
+
+**Time to next bar** - these are settings for displaying time to the next bar and changing its color
+
+**Additional** - It is used to show relevant data on a chart
+
+![](../../.gitbook/assets/image%20%28118%29.png)
+
+
+
+### Data style
+
+This tab controls the visual settings of the graph. Here you can change the candlesticks to bars to set special colors for the bull bar and for the bear bar. Try to set up a nice interface for your eyes
+
+![](../../.gitbook/assets/image%20%28122%29.png)
+
+### Time scale
+
+Use this tab to adjust the time scale. Here you can select the size and color of the font. You can also select the background color for the timeline. You can also control the vertical period separators. Such as Daily Period, Weekly Monthly and Yearly. All of these periods you can display in different colors as needed
+
+![](../../.gitbook/assets/image%20%28108%29.png)
+
+### Price Scale
+
+![](../../.gitbook/assets/image%20%28110%29.png)
+
+These settings allow you to customize the price scale. There are 3 important points here, let's break down each one
+
+**Csale type** -  allows you to select which type of scale will be displayed on the graph. This can be a normal display. The percentage display or a logarithmic scale.
+
+**Zoom** - On the zoom tab, you can adjust the vertical scaling of the graph. I leave this item by default in the manual setting
+
+**Highlights  prices** - Adjusts the color and font of the current price on the chart Gives the opportunity to highlight the minimums and maximums of the previous day and limits on the instrument
+
+### Visual trading 
+
+This tab allows you to include settings to display the current position on the chart and display already completed trades.
+
+![](../../.gitbook/assets/image%20%28117%29.png)
+
+### Order entry
+
+These are the settings of the order entry panel. The most interesting thing here is that you can set the standard number of entry orders which correspond to your risks. This is very convenient for manual trading. 
+
+[How to use the order entry panel read here](../../trading-panels/order-entry/)
+
+![](../../.gitbook/assets/image%20%28115%29.png)
+
+### Info Window
+
+This settings tab is for displaying values in the upper left corner. which data to display you can choose for yourself. For example, it is important for me to know the volume value and I only display them. You can also adjust the font of this information.
+
+![](../../.gitbook/assets/image%20%28112%29.png)
+
+### Volume Bars
+
+This tab is used to adjust the volume histogram at the bottom of the chart. You can choose the colors of the histogram that you like. You can also select a color scheme for coloring this chart. Adjusting the color of the volume histogram depending on the direction of the price bar or changing the color depending on whether the volume is higher or lower now.
+
+![](../../.gitbook/assets/image%20%28111%29.png)
+
+### Hotkeys
+
+This tab is for configuring your keyboard shortcuts. Here you can configure the volume change with one button. Drawing levels or trend channels. Cancel orders and many other useful functions. In general, almost any action can be assigned as you wish
+
+![](../../.gitbook/assets/image%20%28119%29.png)
+
+**I know that you will be able to customize the graphs interface to your personality. And enjoy a great interface.**
 

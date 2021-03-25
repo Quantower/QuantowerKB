@@ -7,6 +7,16 @@ description: >-
 
 # Chart Settings
 
+There are two ways to open Chart Settings:
+
+**1\)** click on the Menu button on the left upper corner and select Settings item
+
+![Open Chart Settings via main menu button](../../.gitbook/assets/image%20%28124%29.png)
+
+**2\)** Right-click on the chart and select Settings item
+
+![Open Chart Settings via context menu](../../.gitbook/assets/image%20%28125%29.png)
+
 
 
 ![](../../.gitbook/assets/image%20%28113%29.png)

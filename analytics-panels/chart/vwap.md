@@ -31,19 +31,23 @@ The quick settings menu contains:
 
 ### Advanced indicator settings
 
-By clicking on the "**Gear"** icon, additional settings will open.
+By clicking on the "**Gear"** icon, additional settings will open. 
 
-![Additional setiings for VWAP Indicator](../../.gitbook/assets/vwap-additional-settings.png)
+![Additional settings for VWAP Indicator](../../.gitbook/assets/image%20%28107%29.png)
 
-**1. Switch between different VWAPs** and set the settings for each of them
+**1. Switch between different VWAPs** and set the settings for each of them 
 
 Quantower platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
 
 **2.** Set the **Main Settings** for the VWAP line:
 
+* **Data type —** Ticks or Current TF \(Ticks takes much more time for VWAP calculation\)
+* **Price Type** — uses for Current TF data type \(Open, High, Low, Close, HL/2, HLC/3, OHLC/4\)
 * **Period and Value** — defines the number of bars \(duration\) on which VWAP will be calculated
 * **Forward Extensions** \(type and number\)
 * **VWAP line** — visual settings for VWAP itself
+
+![](../../.gitbook/assets/image%20%28104%29.png)
 
 **3. Standard Deviation Bands**
 

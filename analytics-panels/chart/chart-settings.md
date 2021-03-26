@@ -79,6 +79,8 @@ These settings allow you to customize the price scale. There are 3 important poi
 * **Scale type**. Allows you to select which type of scale will be displayed on the chart. This can be a normal display. The percentage display or a logarithmic scale. 
 * **Zoom**. Here you can adjust the vertical scaling of the chart.
 
+![Price Scaling on the chart panel](../../.gitbook/assets/price-scaling.gif)
+
 ![](../../.gitbook/assets/image%20%28126%29.png)
 
 * **Highlight prices**. Adjusts the color and font of the current price on the chart. Gives the opportunity to highlight the minimums and maximums of the previous day and limits on the instrument

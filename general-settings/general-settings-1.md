@@ -8,7 +8,7 @@ description: >-
 
 General settings — is a screen, where you can set up the most common behavior of the whole Quantower application. 
 
-![General Settings are placed on the platform&apos;s main toolbar \(Gear Icon\)](../.gitbook/assets/general-set.png)
+![General Settings are placed on the platform&apos;s main toolbar \(Gear Icon\)](../.gitbook/assets/image%20%28133%29.png)
 
 It is logically grouped into several tabs: 
 
@@ -22,14 +22,14 @@ It is logically grouped into several tabs:
 * **Hotkeys**
 
 {% hint style="info" %}
-The most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.
+Most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.
 {% endhint %}
 
 ## General settings tab
 
-![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/image%20%2871%29.png)
+![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/image%20%28134%29.png)
 
-**Theme** — Сhoose one of the 8 color schemes that suits you best
+**Theme** — Сhoose one of the 8 color schemes that suit you best
 
 * Default Blue theme
 * Dark Autumn
@@ -42,9 +42,11 @@ The most settings are applied automatically, once you change them, but, in some 
 
 ![Coloring themes in Quantower](../.gitbook/assets/themes.gif)
 
-**Language \(beta\)** — Quantower supports 17 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual [how to make changes in selected language](https://help.quantower.com/customization/localization).
+**Language \(beta\)** — Quantower supports 17 languages. In case of errors or inaccuracies in translation, any user can make changes to the text. Read the manual on [how to make changes in the selected language](https://help.quantower.com/customization/localization).
 
-**Autosave settings \(every 5 minutes\)** — Quantower will save all changes of application settings in "Settings" folder and overwrite them every 5 minutes while the application is active. It also saves on application close.
+**Default symbol** — specify a trading symbol that will open by default in all trading panels.
+
+**Autosave settings \(every 5 minutes\)** — Quantower will save all changes of application settings in the "Settings" folder and overwrite them every 5 minutes while the application is active. It also saves on application close.
 
 **Abbreviate volume & ticks** — this option displays the volume values or the number of ticks in a simplified form \(1K = 1 000; 10K = 10 000 etc.\)
 

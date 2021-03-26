@@ -58,7 +58,7 @@ Most settings are applied automatically, once you change them, but, in some case
 
 **Unload inactive workspaces.** If this option is enabled, all previously created workspaces will not receive an update on market data. This will reduce memory usage.
 
-![](../.gitbook/assets/image%20%28135%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 **Hide part of an account name.** Specify the number of characters that will be hidden for your trading account name and ID. This option is used to keep the account private.
 
@@ -87,15 +87,15 @@ The group of actions in Quantower, when the sound should be played consists of t
 
 ![Confirmations and Warnings management](../.gitbook/assets/image%20%2865%29.png)
 
-| **Confirm order placement** | true | Ask before placing order |
+| **Confirm order placement** | true | Ask before placing an order |
 | :--- | :--- | :--- |
-| **Confirm order cancellation** | true | Ask before cancelling order |
-| **Confirm order/position modification** | true | Ask before order of position modifications apply |
+| **Confirm order cancellation** | true | Ask before canceling an order |
+| **Confirm order/position modification** | true | Ask before an order or position modifications apply |
 | **Confirm position reversing** | true | Ask before reversing the position |
 | **Confirm application close** | true | Ask before closing the Quantower terminal |
 | **Confirm bind close** | true | Ask before closing the binds |
 | **Show deal tickets** | true | Show the pop-up screens with the trading notifications |
-| **Confirm hot button action** | true | Ask before make any action with Hot Button |
+| **Confirm hotkeys action** | true | Ask before making any action with Hotkey |
 
 ## Time zones
 
@@ -122,7 +122,7 @@ To add a bot to the Telegram, open the platform's **General Settings -&gt; Messe
 Specify your personal chat ID, which you can find out by clicking on the **Get ID** button. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx"**_  
 Enter your chat ID in the corresponding field and then connect to the Quantower Alert Bot.
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%28135%29.png)
 
 ## Global Hotkeys
 

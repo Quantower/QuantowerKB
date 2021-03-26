@@ -49,15 +49,13 @@ General view of Chart settings menu has the following subsections. Let's take a 
 
 ![](../../.gitbook/assets/image%20%28114%29.png)
 
-**Custom session** - This item is for displaying trading sessions
+{% embed url="https://www.youtube.com/watch?v=BtC9iJEOcjY" %}
 
-**Window colors**  - is for setting the background color on the chart
-
-**Crosshair** - These are settings of the cursor and its visibility on charts with one Ticket
-
-**Time to next bar** - these are settings for displaying time to the next bar and changing its color
-
-**Additional** - It is used to show relevant data on a chart
+* **Custom session.** This item is for displaying trading sessions
+* **Window colors.**  Settings the background color on the chart
+* **Crosshair.** These are settings of the cursor and its visibility on charts with one symbol \(asset\)
+* **Time to next bar** - these are settings for displaying time to the next bar and changing its color
+* **Additional** - It is used to show relevant data on a chart
 
 ![](../../.gitbook/assets/image%20%28118%29.png)
 

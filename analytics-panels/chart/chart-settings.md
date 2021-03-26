@@ -51,19 +51,18 @@ General view of Chart settings menu has the following subsections. Let's take a 
 
 {% embed url="https://www.youtube.com/watch?v=BtC9iJEOcjY" %}
 
-* **Custom session.** This item is for displaying trading sessions
-* **Window colors.**  Settings the background color on the chart
-* **Crosshair.** These are settings of the cursor and its visibility on charts with one symbol \(asset\)
-* **Time to next bar** - these are settings for displaying time to the next bar and changing its color
-* **Additional** - It is used to show relevant data on a chart
+* **Custom session.** This item is for displaying trading sessions.
+* **Window colors.**  Settings for the background color on the chart.
+* **Crosshair.** These are settings of the cursor and its visibility on charts with one symbol \(asset\).
+* **Grid.** Settings for the grid lines on the chart \(horizontal and vertical grid\).
+* **Time to next bar.** These are settings for displaying time to the next bar and changing its color.
+* **Additional.** It is used to enable/disable toolbars and misc data on a chart.
 
 ![](../../.gitbook/assets/image%20%28118%29.png)
 
-
-
 ## Data style
 
-This tab controls the visual settings of the graph. Here you can change the candlesticks to bars to set special colors for the bull bar and for the bear bar. Try to set up a nice interface for your eyes
+This tab controls the visual settings of the chart data. Here you can change the Chart Style \(like Candles, Bars, Area, Line\) and set colors for the Up & Down Bars. Try to set up a nice interface for your eyes.
 
 ![](../../.gitbook/assets/image%20%28122%29.png)
 

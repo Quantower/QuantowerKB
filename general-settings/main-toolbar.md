@@ -32,22 +32,22 @@ The “_**Close**_” icon just closes the platform. You may set up the “_not 
 
 ### Customization of Main Toolbar
 
-For optimal use of the space on Main Toolbar, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., **Right-click** on the context menu and go to View section. By clicking on the ticks, the controls will appear at the Toolbar.
+For optimal use of the space on the Main Toolbar, we have added the ability to display/hide some controls. For example, to hide the Timezones, Workspaces, Connections, etc., **Right-click** on the context menu and go to the View section. By clicking on the ticks, the controls will appear at the Toolbar.
 
 ![Right click on the Main Toolbar will bring up the addtional settings window](../.gitbook/assets/image%20%2876%29.png)
 
 ### Main Menu with all panels
 
-All of the panels are placed in the _“Sidebar”_ screen, that is popping out once you click the **Logo icon** on the toolbar. The Main Menu consists of panels icons, grouped by the functionality. Actually , in this menu you can find all panels.
+All of the panels are placed in the _“Sidebar”_ screen, which is popping out once you click the **Logo icon** on the toolbar. The Main Menu consists of panel icons, grouped by functionality. Actually, in this menu, you can find all panels.
 
 ![Main menu in the Quantower platform](../.gitbook/assets/main-manu.png)
 
 Each group in this menu can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
 
-The footer of Main Menu contains several functions:
+The footer of the Main Menu contains several functions:
 
 * “**About**” link: opens a screen with information about terminal \(version, rollback, updates checker etc.\). If the system detects the new version of Quantower, the **“NEW VERSION”** button appears instead of this link;
-* “**Exit**” button: closes the application.
+* “**Exit**” button closes the application.
 
 {% hint style="info" %}
 The list of links in footer can contain more or fewer items, depending on current application requirements.
@@ -59,11 +59,11 @@ You might already have seen the Star icon in the right top corners of some panel
 
 ![Favorite panels](../.gitbook/assets/ccfavoritepanels.gif)
 
-The way to use it very simple — hover over the right top corner of any panel tile in Sidebar and click the Star icon appeared. That is all: panel appears in Favorite panels bar in Main Toolbar. To remove from favorites just click the activated Star icon on Panel's tile or right-click on the icon in Favorites panel and select “_**Hide from toolbar**_”.
+The way to use it very simple — hover over the right top corner of any panel tile in Sidebar and click the Star icon that appeared. That is all: panel appears in Favorite panels bar in Main Toolbar. To remove from favorites just click the activated Star icon on Panel's tile or right-click on the icon in Favorites panel and select “_**Hide from toolbar**_”.
 
 ### Lock trading
 
-If you would like to prevent manual trading operations occur, you may use the “_**Lock trading**_” button on Main Toolbar. Once clicked it displays the confirmation message that trading being locked and all of the functions, related to opening or closing orders and positions will be disabled. Unlock trading can be done the vice-versa way.
+If you would like to prevent manual trading operations occur, you may use the “_**Lock trading**_” button on Main Toolbar. Once clicked it displays the confirmation message that trading being locked and all of the functions, related to the opening or closing orders and positions will be disabled. Unlock trading can be done the vice-versa way.
 
 ![Lock Trading Icon](../.gitbook/assets/lock_trading.png)
 
@@ -77,7 +77,7 @@ This feature is useful in case you would like to only analyze the market or whil
 
 ![](../.gitbook/assets/workspaces.png)
 
-The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of the available item from the list. The bottom part of the list \(after separator\) consists of actions, referred to the currently active workspace and allows to:
+The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of the available items from the list. The bottom part of the list \(after separator\) consists of actions, referred to the currently active workspace and allows to:
 
 * **Lock** — disables an ability to add, remove, move or resize any panel in current workspace;
 * **Rename...** — invokes a pop-up screen where you can set up a new name for the current workspace;
@@ -103,11 +103,11 @@ Being added to Favorites bar, each connection will be displayed as a tile, conta
 * **Status text** \(can be a status message or Ping time in ms when the connection is active\)
 * **Status Dot**, a visual representation of connection status. Can be grey \(disconnected\), yellow \(connecting\), green \(active\).
 
-You can Remove connection from Favorites by right-clicking on it and selecting “_**Hide from toolbar**_” item. Here you can also ask to connect or disconnect.
+You can remove a connection from Favorites by right-clicking on it and selecting “_**Hide from toolbar**_” item. Here you can also ask to connect or disconnect.
 
 ### Notifications center
 
-The most actions during the platform use generate various notifications. There can be system notification \(some connection problems or errors\) and Deal tickets. 
+Most actions during the platform use generate various notifications. There can be system notifications \(some connection problems or errors\) and Deal tickets. 
 
 The **Deal tickets** — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this. \(you can [disable deat tickets in general settings](general-settings-1.md#confirmations)\)
 
@@ -125,13 +125,13 @@ By clicking one of the notifications you will see the window with the detailed i
 
 ### General settings
 
-The “_**Gear**_” icon opens a general settings screen, where you can setup the most common parameters of our terminal. [More details about the **Settings**](general-settings-1.md) screen is available in the corresponding section of this documentation.
+The “_**Gear**_” icon opens a general settings screen, where you can set up the most common parameters of our terminal. [More details about the **Settings**](general-settings-1.md) screen are available in the corresponding section of this documentation.
 
-![Access to general settings](../.gitbook/assets/general-set.png)
+![Access to general settings](../.gitbook/assets/image%20%28133%29.png)
 
 ### Time & Time zones
 
-The Time bar is also displayed on the Main Toolbar toolbar showing you time in selected timezone. By default, your local timezone is used. You can change the time zones list by clicking the "_**Gear**_" icon and then select the required ones in [**General settings screen**](general-settings-1.md#time-zones). You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
+The Time bar is also displayed on the Main Toolbar toolbar showing you time in the selected timezone. By default, your local timezone is used. You can change the time zones list by clicking the "_**Gear**_" icon and then select the required ones in [**General settings screen**](general-settings-1.md#time-zones). You may also select several time zones and they will appear as a list in a drop-down panel, allowing you to switch among them quickly.
 
 ![Switch between your favorite timezones](../.gitbook/assets/image%20%2878%29.png)
 

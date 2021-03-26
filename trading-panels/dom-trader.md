@@ -52,7 +52,7 @@ The general view of DOM Trader settings menu has the following subsections. Let'
 
 ### View settings
 
-![](../.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image%20%28147%29.png)
 
 * **Custom title.** You can rename the DOM Trader panel as you wish.
 * **Refresh rate \(ms\)** controls the rate at which market data is updated. This determines how often the platform processes changes in depth of market. With a value of 1, all changes to the level2 data will be processed immediately. We recommend using value 50. 
@@ -74,6 +74,12 @@ At the bottom of the DOM Trader is the Position Bar, which displays brief info a
 ![Position Bar in DOM trading](../.gitbook/assets/dom-position-bar1.png)
 
 ![Settings of position bar in DOM Trader panel](../.gitbook/assets/image%20%28145%29.png)
+
+### Hotkeys
+
+This tab is for configuring your keyboard shortcuts. Here you can configure the order size with one button and place it to the market. Cancel orders and many other useful functions.
+
+![](../.gitbook/assets/image%20%28146%29.png)
 
 
 

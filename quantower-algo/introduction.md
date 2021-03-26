@@ -31,6 +31,8 @@ We provide absolutely full access to all functionality of our trading core layer
 {% hint style="info" %}
 Quantower API documentation is available on: [http://api.quantower.com](http://api.quantower.com)  
 See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/Quantower/Examples)
+
+[Quantower Algo extension](https://marketplace.visualstudio.com/items?itemName=Quantower.quantoweralgo) on Visual Studio Marketplace
 {% endhint %}
 
 ## Before you start

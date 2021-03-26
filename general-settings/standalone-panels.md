@@ -23,7 +23,7 @@ This menu usually consists of the following functions:
 
 * **Link**. Allows linking several panels by common symbol using the Color definition. More details in the [_**Linking section**_](link-panels.md)**.**
 * \*\*\*\*[**Create bind**](binds.md). Combining several panels in Super-panel. More details in [_**Binds section**_](binds.md).
-* **Create panel.** Opens a new panel with the current symbol.  You can open the following panels: Order Entry, Chart, DOM Trader, Market Depth, Time&Sales, DOM Surface, TPO Chart, Symbol Info
+* **Create panel.** Opens a new panel with the current symbol.  You can open the following panels: [**Order Entry**](../trading-panels/order-entry/)**,** [**Chart**](../analytics-panels/chart/)**,** [**DOM Trader**](../trading-panels/dom-trader.md)**,** [**Market Depth**](../trading-panels/market-depth.md)**,** [**Time&Sales**](../analytics-panels/time-and-sales.md)**,** [**DOM Surface**](../analytics-panels/dom-surface.md)**,** [**TPO Chart**](../analytics-panels/tpo-chart.md)**,** [**Symbol Info**](../informational-panels/symbol-info.md)\*\*\*\*
 
 ![Open a new panel with the current symbol](../.gitbook/assets/image%20%28133%29.png)
 

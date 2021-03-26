@@ -1,10 +1,10 @@
 ---
 description: >-
-  Standalone panels are the minor elements of any Workspace and they behave just
-  like any usual PC window
+  Single panel is the minor element of any Workspace and they behave just like
+  any usual PC window
 ---
 
-# Standalone Panels
+# Single Panel
 
 Standalone panels are the minor elements of any Workspace and they behave just like any usual PC window:
 
@@ -19,7 +19,7 @@ Each panel has its own **context menu**, situated on the left upper corner, righ
 
 ![](../.gitbook/assets/chart-context-menu.png)
 
-This menu usually consists of following functions:
+This menu usually consists of the following functions:
 
 * **Link**. Allows linking several panels by common symbol using the Color definition. Just select one link color in two panels and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
 * \*\*\*\*[**Create bind**](binds.md). Combining several panels in Super-panel. More in [_Binds section_](binds.md).

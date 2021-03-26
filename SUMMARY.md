@@ -18,7 +18,7 @@
   * [Workspaces](general-settings/workspaces-binds-groups.md)
   * [Binds](general-settings/binds.md)
   * [Group of panels](general-settings/group-of-panels.md)
-  * [Standalone Panels](general-settings/standalone-panels.md)
+  * [Single Panel](general-settings/standalone-panels.md)
   * [Templates](general-settings/templates.md)
   * [Set as Default](general-settings/set-as-default.md)
   * [Symbols lookup](general-settings/instruments-lookup.md)

@@ -25,7 +25,7 @@ This menu usually consists of the following functions:
 * \*\*\*\*[**Create bind**](binds.md). Combining several panels in Super-panel. More in [_Binds section_](binds.md).
 * **Create panel.** Opens a new panel by the current symbol
 * **Duplicate panel**. Just creates one more totally similar panel.
-* \*\*\*\*[**Save as template**](https://help.quantower.com/getting-started/templates). Customize the panel, combine in a group or Bind and save as template.
+* \*\*\*\*[**Save as template**](templates.md). Customize the panel, combine in a group or Bind and save as template.
 * \*\*\*\*[**Save as default**](https://help.quantower.com/getting-started/set-as-default)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type.
 * \*\*\*\*[**Setup Actions**](../analytics-panels/time-and-sales.md#setup-actions-filters-and-actions) \(only for table panels like Watchlist, Time & Sales, Positions, Working Orders etc.\). This option allows you to set Alerts and advanced filtering to values in the table.
 * **Export Data.** Saving the data from a chart or table to an external CSV file. You can save Price data, indicator values, values in tables.

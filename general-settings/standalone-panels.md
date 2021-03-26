@@ -21,14 +21,12 @@ Each panel has its own **context menu**, situated on the left upper corner, righ
 
 This menu usually consists of the following functions:
 
-* \*\*\*\*[**Link**](link-panels.md). Allows linking several panels by common symbol using the Color definition. Just select one link color in two panels and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
+* **Link**. Allows linking several panels by common symbol using the Color definition. More details in the [_**Linking section**_](link-panels.md)**.**
+* \*\*\*\*[**Create bind**](binds.md). Combining several panels in Super-panel. More details in [_**Binds section**_](binds.md).
+* **Create panel.** Opens a new panel with the current symbol.  You can open the following panels: Order Entry, Chart, DOM Trader, Market Depth, Time&Sales, DOM Surface, TPO Chart, Symbol Info
 
+![](../.gitbook/assets/image%20%28136%29.png)
 
-
-
-
-* \*\*\*\*[**Create bind**](binds.md). Combining several panels in Super-panel. More details in [_Binds section_](binds.md).
-* **Create panel.** Opens a new panel with the current symbol 
 * **Duplicate panel**. Just creates one more totally similar panel.
 * \*\*\*\*[**Save as template**](templates.md). Customize the panel, combine in a group or Bind and save as a template.
 * \*\*\*\*[**Save as default**](set-as-default.md)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type.

@@ -17,7 +17,7 @@ Standalone panels are the minor elements of any Workspace and they behave just l
 
 Each panel has its own **context menu**, situated on the left upper corner, right before the Panel’s title.
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 This menu usually consists of the following functions:
 

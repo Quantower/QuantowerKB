@@ -27,7 +27,7 @@ Most settings are applied automatically, once you change them, but, in some case
 
 ## General settings tab
 
-![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/image%20%28135%29.png)
+![General settings of Quantower &#x2014; Localization, Themes, Sounds, RTD, Time zones](../.gitbook/assets/image%20%28136%29.png)
 
 **Theme** — Сhoose one of the 8 color schemes that suit you best
 
@@ -58,7 +58,7 @@ Most settings are applied automatically, once you change them, but, in some case
 
 **Unload inactive workspaces.** If this option is enabled, all previously created workspaces will not receive an update on market data. This will reduce memory usage.
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image%20%28141%29.png)
 
 **Hide part of an account name.** Specify the number of characters that will be hidden for your trading account name and ID. This option is used to keep the account private.
 
@@ -122,7 +122,7 @@ To add a bot to the Telegram, open the platform's **General Settings -&gt; Messe
 Specify your personal chat ID, which you can find out by clicking on the **Get ID** button. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx"**_  
 Enter your chat ID in the corresponding field and then connect to the Quantower Alert Bot.
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28137%29.png)
 
 ## Global Hotkeys
 

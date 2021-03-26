@@ -64,7 +64,7 @@ General view of Chart settings menu has the following subsections. Let's take a 
 
 This tab controls the visual settings of the chart data. Here you can change the Chart Style \(like Candles, Bars, Area, Line\) and set colors for the Up & Down Bars. Try to set up a nice interface for your eyes.
 
-![](../../.gitbook/assets/image%20%28122%29.png)
+![Chart data style and its settings](../../.gitbook/assets/data-style.gif)
 
 ## Time scale
 

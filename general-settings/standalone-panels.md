@@ -17,7 +17,7 @@ Standalone panels are the minor elements of any Workspace and they behave just l
 
 Each panel has its own **context menu**, situated on the left upper corner, right before the Panel’s title.
 
-![](../.gitbook/assets/chart-context-menu.png)
+![](../.gitbook/assets/image%20%28139%29.png)
 
 This menu usually consists of the following functions:
 
@@ -25,10 +25,11 @@ This menu usually consists of the following functions:
 * \*\*\*\*[**Create bind**](binds.md). Combining several panels in Super-panel. More details in [_**Binds section**_](binds.md).
 * **Create panel.** Opens a new panel with the current symbol.  You can open the following panels: Order Entry, Chart, DOM Trader, Market Depth, Time&Sales, DOM Surface, TPO Chart, Symbol Info
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![Open a new panel with the current symbol](../.gitbook/assets/image%20%28133%29.png)
 
-* **Duplicate panel**. Just creates one more totally similar panel.
+* **Duplicate panel**. Just creates one more totally similar panel \(full copy\).
 * \*\*\*\*[**Save as template**](templates.md). Customize the panel, combine in a group or Bind and save as a template.
+* **Apply template.** Once you created several templates you can apply any of them to this particular panel.
 * \*\*\*\*[**Save as default**](set-as-default.md)**.** Each panel type has its own settings by Default. You can tune them whatever you want and even make your personal defaults. Just select “_**Set as Default**_” option, and Quantower will store your current panel’s settings and will apply them for each newly opened panel of this type.
 * \*\*\*\*[**Setup Actions**](setup-actions-and-advanced-filters.md) \(only for table panels like Watchlist, Time & Sales, Positions, Working Orders etc.\). This option allows you to set Alerts and advanced filtering to values in the table.
 * **Export Data.** Saving the data from a chart or table to an external CSV file. You can save Price data, indicator values, values in tables.

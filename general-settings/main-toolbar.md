@@ -127,7 +127,7 @@ By clicking one of the notifications you will see the window with the detailed i
 
 The “_**Gear**_” icon opens a general settings screen, where you can set up the most common parameters of our terminal. [More details about the **Settings**](general-settings-1.md) screen are available in the corresponding section of this documentation.
 
-![Access to general settings](../.gitbook/assets/image%20%28133%29.png)
+![Access to general settings](../.gitbook/assets/image%20%28134%29.png)
 
 ### Time & Time zones
 

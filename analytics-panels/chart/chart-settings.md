@@ -45,6 +45,8 @@ General view of Chart settings menu has the following subsections. Let's take a 
 
 * **Drawings default availability**. If you choose "All charts with the same symbol", all drawings will be projected onto the other charts with the same asset \(ticker\). And also allows you to change the color settings of the figures on all charts simultaneously.
 
+![](../../.gitbook/assets/image%20%28128%29.png)
+
 ![](../../.gitbook/assets/image%20%28114%29.png)
 
 **Custom session** - This item is for displaying trading sessions

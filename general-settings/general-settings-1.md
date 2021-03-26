@@ -56,6 +56,12 @@ Most settings are applied automatically, once you change them, but, in some case
 
 ![](../.gitbook/assets/abbreviate-cryptos.gif)
 
+**Unload inactive workspaces.** If this option is enabled, all previously created workspaces will not receive an update on market data. This will reduce memory usage.
+
+![](../.gitbook/assets/image%20%28135%29.png)
+
+
+
 ## Control Center
 
 Control center is the starting point of all terminal, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls.

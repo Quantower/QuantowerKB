@@ -68,21 +68,19 @@ This tab controls the visual settings of the chart data. Here you can change the
 
 ## Time scale
 
-Use this tab to adjust the time scale. Here you can select the size and color of the font. You can also select the background color for the timeline. You can also control the vertical period separators. Such as Daily Period, Weekly Monthly and Yearly. All of these periods you can display in different colors as needed
+Use this tab to adjust the time scale. Here you can select the size and color of the font. You can also select the background color for the timeline. You can also control the vertical period separators. Such as Daily Period, Weekly Monthly and Yearly. All of these periods you can display in different colors as needed.
 
 ![](../../.gitbook/assets/image%20%28108%29.png)
 
 ## Price Scale
 
+These settings allow you to customize the price scale. There are 3 important points here, let's break down each one:
+
 ![](../../.gitbook/assets/image%20%28110%29.png)
 
-These settings allow you to customize the price scale. There are 3 important points here, let's break down each one
-
-**Csale type** -  allows you to select which type of scale will be displayed on the graph. This can be a normal display. The percentage display or a logarithmic scale.
-
-**Zoom** - On the zoom tab, you can adjust the vertical scaling of the graph. I leave this item by default in the manual setting
-
-**Highlights  prices** - Adjusts the color and font of the current price on the chart Gives the opportunity to highlight the minimums and maximums of the previous day and limits on the instrument
+* **Scale type**. Allows you to select which type of scale will be displayed on the chart. This can be a normal display. The percentage display or a logarithmic scale. 
+* **Zoom**. Here you can adjust the vertical scaling of the chart. 
+* **Highlight prices**. Adjusts the color and font of the current price on the chart. Gives the opportunity to highlight the minimums and maximums of the previous day and limits on the instrument
 
 ## Visual trading 
 

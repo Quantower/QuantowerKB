@@ -19,7 +19,7 @@ It is logically grouped into several tabs:
 * \*\*\*\*[**Time zone settings**](general-settings-1.md#time-zones)\*\*\*\*
 * \*\*\*\*[**Excel RTD**](../miscellaneous-panels/excel-rtd-trading/)\*\*\*\*
 * \*\*\*\*[**Messengers**](general-settings-1.md#messengers)\*\*\*\*
-* **Hotkeys**
+* \*\*\*\*[**Hotkeys**](general-settings-1.md#global-hotkeys)\*\*\*\*
 
 {% hint style="info" %}
 Most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.

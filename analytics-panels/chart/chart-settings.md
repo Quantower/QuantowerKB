@@ -100,7 +100,9 @@ These are the settings of the order entry panel. The most interesting thing here
 
 This settings tab is for displaying values in the upper left corner. which data to display you can choose for yourself. For example, it is important for me to know the volume value and I only display them. You can also adjust the font of this information.
 
-![](../../.gitbook/assets/image%20%28112%29.png)
+![Info Window on the chart](../../.gitbook/assets/info-window.gif)
+
+![Visual settings for Info Window](../../.gitbook/assets/image%20%28112%29.png)
 
 ## Volume Bars
 

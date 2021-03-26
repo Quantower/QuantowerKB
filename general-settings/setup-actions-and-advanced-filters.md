@@ -8,13 +8,13 @@ description: >-
 
 **Setup Actions** feature allows you to set certain behavior on some data change in the table. This feature is available in panels:
 
-* Watchlist
-* Time & Sales
-* Price Statistic
-* Working Orders
-* Positions
-* Trades
-* Orders History
+* \*\*\*\*[**Watchlist**](../analytics-panels/watchlist.md)\*\*\*\*
+* \*\*\*\*[**Time & Sales**](../analytics-panels/time-and-sales.md#setup-actions-filters-and-actions)\*\*\*\*
+* \*\*\*\*[**Price Statistic**](../analytics-panels/price-statistic.md)\*\*\*\*
+* \*\*\*\*[**Working Orders**](../portfolio-panels/working-orders.md)\*\*\*\*
+* \*\*\*\*[**Positions**](../portfolio-panels/positions.md)\*\*\*\*
+* \*\*\*\*[**Trades**](../portfolio-panels/trades.md)\*\*\*\*
+* \*\*\*\*[**Orders History**](../portfolio-panels/orders-history.md)\*\*\*\*
 
 ![Setup Actions feature in Quantower platform](../.gitbook/assets/image%20%2864%29.png)
 

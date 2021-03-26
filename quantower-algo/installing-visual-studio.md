@@ -6,7 +6,7 @@ description: >-
 
 # Install for Visual Studio
 
-**Visual Studio** — is an integrated development environment \(IDE\) from Microsoft, which includes a code editor with IntelliSense, debugger, supporting for source control systems and many other professional features. The currently supported Visual Studio version is 2017. 
+**Visual Studio** — is an integrated development environment \(IDE\) from Microsoft, which includes a code editor with IntelliSense, debugger, supporting for source control systems and many other professional features. The currently supported Visual Studio version is 2019. 
 
 {% hint style="success" %}
 We recommend you to use the most basic version of **Visual Studio — the Community edition**, which is available free of charge.

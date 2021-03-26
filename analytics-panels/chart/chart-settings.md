@@ -41,11 +41,11 @@ General view of Chart settings menu has the following subsections. Let's take a 
 * **Time Zome.** These are the time zone settings of the chart 
 * **Mouse wheel action.** It's an action for the mouse wheel when a user will rotate the wheel. There are two options available — **Scroll** or **Zoom** of the chart area.
 
-![](../../.gitbook/assets/image%20%28127%29.png)
+![](../../.gitbook/assets/image%20%28128%29.png)
 
 * **Drawings default availability**. If you choose "All charts with the same symbol", all drawings will be projected onto the other charts with the same asset \(ticker\). And also allows you to change the color settings of the figures on all charts simultaneously.
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../../.gitbook/assets/image%20%28129%29.png)
 
 ![](../../.gitbook/assets/image%20%28114%29.png)
 
@@ -76,11 +76,14 @@ Use this tab to adjust the time scale. Here you can select the size and color of
 
 These settings allow you to customize the price scale. There are 3 important points here, let's break down each one:
 
-![](../../.gitbook/assets/image%20%28110%29.png)
-
 * **Scale type**. Allows you to select which type of scale will be displayed on the chart. This can be a normal display. The percentage display or a logarithmic scale. 
-* **Zoom**. Here you can adjust the vertical scaling of the chart. 
+* **Zoom**. Here you can adjust the vertical scaling of the chart.
+
+![](../../.gitbook/assets/image%20%28126%29.png)
+
 * **Highlight prices**. Adjusts the color and font of the current price on the chart. Gives the opportunity to highlight the minimums and maximums of the previous day and limits on the instrument
+
+![](../../.gitbook/assets/image%20%28110%29.png)
 
 ## Visual trading 
 

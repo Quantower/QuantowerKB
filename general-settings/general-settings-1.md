@@ -1,12 +1,12 @@
 ---
 description: >-
   General settings — is a screen, where you can set up the most common behavior
-  of the whole Quantower application.
+  of the whole Quantower platform.
 ---
 
 # General settings
 
-General settings — is a screen, where you can set up the most common behavior of the whole Quantower application. 
+General settings — is a screen, where you can set up the most common behavior of the whole Quantower platform. 
 
 ![General Settings are placed on the platform&apos;s main toolbar \(Gear Icon\)](../.gitbook/assets/image%20%28133%29.png)
 

@@ -1,6 +1,6 @@
-# General Overview
+# Chart Overview
 
-### General info
+### General info about Chart panel
 
 The chart panel is one of the most important panel for an active trader. Accurate market data, graphical and analytical tools are integral components of the panel, which allow you to make the right trading decisions.
 
@@ -13,6 +13,8 @@ The chart panel can be divided into 5 parts:
 * \*\*\*\*[**sidebar menu**](./#sidebar-menu-or-object-toolbar) with controls of indicators, drawings, overlays and object manager
 * **chart order entry** with hot buttons for quick trading
 * bottom toolbar with [**volume analysis tools**](volume-analysis-tools/)\*\*\*\*
+
+## 
 
 ### Chart Top toolbar
 
@@ -27,12 +29,11 @@ The top toolbar allows you to select a trading instrument, set the chart type an
 * **Keyboard Trading mode** — activates the keyboard trading mode for quick trading. You can change trading hotkeys in the chart settings
 * **Mouse Trading mode** for placing orders via chart area using the mouse.
 * **Quick Order Entry** with Best Bid & Offer \(Ask\) prices where you can place orders or open a new position by the market price
-* **Trading Settings** where you can set Order Quantity, TIF for different order types
-* **Sidebar menu with Trading Buttons**
+* **Sidebar Order Entry with Trading Buttons** where you can set Order Quantity, TIF for different order types
 
-![Primary or Top toolbar with the main controls](../../.gitbook/assets/image%20%2851%29.png)
+![Primary or Top toolbar with the main controls](../../.gitbook/assets/image%20%28126%29.png)
 
-### Sidebar menu or object toolbar
+### Sidebar menu with Drawings, Indicators, Overlays
 
 The sidebar menu allows you to add an indicator to the chart, a drawing tool or an overlay, and also manage all objects through the object manager.
 

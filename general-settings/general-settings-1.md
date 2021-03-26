@@ -60,7 +60,7 @@ Most settings are applied automatically, once you change them, but, in some case
 
 ![](../.gitbook/assets/image%20%28135%29.png)
 
-
+**Hide part of an account name.** Specify the number of characters that will be hidden for your trading account name and ID. This option is used to keep the account private.
 
 ## Control Center
 

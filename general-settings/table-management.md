@@ -8,11 +8,11 @@ description: >-
 
 ### Table panels
 
-Table panels are represented as a separate class — they all have at least 99% of functionality based on the table view. We use the common table component for all of these panels, so the behavior and features are mostly the same.
+Table panels are represented as a separate class — they all have at least 99% functionality based on the table view. We use the common table component for all of these panels, so the behavior and features are mostly the same.
 
 ![Table panels example](../.gitbook/assets/tablepanels.png)
 
-Some table panels have a special toolbar that can be used for Mass-filtering or Quick actions. Other table panels can have no column headers because they don’t really need for understanding the data, thus were hidden to save space; this disables an ability to filter columns data in such panels.
+Some table panels have a special toolbar that can be used for Mass-filtering or Quick actions. Other table panels can have no column headers because they don’t really need for understanding the data, thus were hidden to save space; this disables an ability to filter column data in such panels.
 
 ### Columns management
 
@@ -22,7 +22,7 @@ Data in table panels are organized in rows and columns, where each item’s \(ro
 
 Right-click on any column header to see the “_**Column set**_” context menu. Then click on any item in this menu to switch the column’s visibility. You can disable up to 1 column minimum; the last visible column won’t be available to hide. 
 
-Other useful features of columns management are sorting and resize. Each column can be dragged by its header between other columns inside the table in order to set the required sequence. You can also drag the vertical borders between two columns to resize them.
+Other useful features of column management are sorting and resize. Each column can be dragged by its header between other columns inside the table in order to set the required sequence. You can also drag the vertical borders between two columns to resize them.
 
 ### Filtering
 
@@ -51,7 +51,5 @@ If you want to organize your rows more precisely, you can use a “_**Rows group
 
 ![Table grouped by &#x201C;Side&#x201D; value](../.gitbook/assets/tablegrouping.png)
 
-To apply the grouping just right-click on table body and find an option “_**Group by**_”; the second-level of context menu will contain all of available columns that can be grouped by. You can group by one column only. To cancel grouping — follow the previous steps and uncheck the column.
-
-
+To apply the grouping just right-click on the table body and find an option “_**Group by**_”; the second-level of context menu will contain all of available columns that can be grouped by. You can group by one column only. To cancel grouping — follow the previous steps and uncheck the column.
 

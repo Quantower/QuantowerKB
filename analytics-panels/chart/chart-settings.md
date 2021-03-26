@@ -116,5 +116,3 @@ This tab is for configuring your keyboard shortcuts. Here you can configure the 
 
 ![](../../.gitbook/assets/image%20%28119%29.png)
 
-**I know that you will be able to customize the graphs interface to your personality. And enjoy a great interface.**
-

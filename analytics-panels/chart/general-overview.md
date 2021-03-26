@@ -31,7 +31,7 @@ The top toolbar allows you to select a trading instrument, set the chart type an
 * **Quick Order Entry** with Best Bid & Offer \(Ask\) prices where you can place orders or open a new position by the market price
 * **Sidebar Order Entry with Trading Buttons** where you can set Order Quantity, TIF for different order types
 
-![Primary or Top toolbar with the main controls](../../.gitbook/assets/image%20%28126%29.png)
+![Primary or Top toolbar with the main controls](../../.gitbook/assets/image%20%28128%29.png)
 
 ### Sidebar menu with Drawings, Indicators, Overlays
 

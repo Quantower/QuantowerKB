@@ -12,16 +12,16 @@ Each time you successfully connect with some integration, you will get a list of
 
 ### Lookup field
 
-Symbols lookup screen usually invoked from a lookup field. This field consists of two parts that allow you to open lookup screen:
+Symbols lookup screen usually invoked from a lookup field. This field consists of two parts that allow you to open a lookup screen:
 
-* Symbol name \(with connection name\)
+* Trading symbol \(ticker\) with connection name
 * “_**Lookup**_” icon in the form of three vertical points
 
-![Symbol lookup field](../.gitbook/assets/lookupfield.png)
+![Symbol lookup field](../.gitbook/assets/image%20%28138%29.png)
 
-If you click on symbol name you will see that Lookup screen will pop up and the symbols, entered by you will be applied as filtering for the Symbols list.
+If you click on the symbol name you will see that the Lookup screen will pop up and the symbols, entered by you will be applied as filtering for the Symbols list.
 
-If you click on “_**Lookup**_” icon you will see the popped up Lookup screen without any filtering applied to symbols list.
+If you click on the “_**Lookup**_” icon you will see the popped up Lookup screen without any filtering applied to symbols list.
 
 ![Symbol Lookup screen](../.gitbook/assets/symbol-lookup-screen.png)
 
@@ -52,7 +52,7 @@ Here you will be able to filter the list by three parameters:
 Once selecting some items among filtering parameters, the list becomes filtered to the selected values only. 
 
 {% hint style="warning" %}
-Be careful. While the Searchfield is become reset each Lookup screen invoke, the second level filters stay as they were set up last time. So if you can’t find the required Symbol type — please check if you have this type enabled.
+Be careful. While the Searchfield is become reset each Lookup screen invokes, the second level filters stay as they were set up last time. So if you can’t find the required Symbol type — please check if you have this type enabled.
 {% endhint %}
 
 ### Symbols list

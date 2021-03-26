@@ -57,7 +57,7 @@ The list of links in footer can contain more or fewer items, depending on curren
 
 You might already have seen the Star icon in the right top corners of some panels tiles in Sidebar. This is the “**Favorite panels**” functionality, allowing you to select the most usable panels and place their icons on the Main Toolbar.
 
-![Favorite panels](../.gitbook/assets/ccfavoritepanels.gif)
+![Favorite panels](../.gitbook/assets/favorite-panels.gif)
 
 The way to use it very simple — hover over the right top corner of any panel tile in Sidebar and click the Star icon that appeared. That is all: panel appears in Favorite panels bar in Main Toolbar. To remove from favorites just click the activated Star icon on Panel's tile or right-click on the icon in Favorites panel and select “_**Hide from toolbar**_”.
 

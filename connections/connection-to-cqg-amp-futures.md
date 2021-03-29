@@ -10,7 +10,7 @@ description: >-
 * [**How to Find a Trading Symbol in Quantower for CQG connection?**](connection-to-cqg-amp-futures.md#how-to-add-trading-symbols-from-the-cqg-connection)\*\*\*\*
 
 CQG provides access to more than [75 world exchanges](https://www.cqg.com/partners/exchanges), allowing you to trade futures, options, stocks, bonds, commodity spreads, and much more.  
-Besides, traders get the opportunity to work with a wide range of analytical tools, like volume profiles, footprint \(cluster chart\), VWAP, Power Trades, TPO chart, DOM Trader, Option Analytics and DOM Surface panels.
+Besides, traders get the opportunity to work with a wide range of analytical tools, like [volume profiles](../analytics-panels/chart/volume-analysis-tools/volume-profiles.md), [footprint \(cluster chart\)](../analytics-panels/chart/volume-analysis-tools/cluster-chart.md), [VWAP](../analytics-panels/chart/vwap.md), [Power Trades](../analytics-panels/chart/power-trades.md), [TPO chart](../analytics-panels/tpo-chart.md), [DOM Trader](../trading-panels/dom-trader.md), [Option Analytics](../analytics-panels/option-analytics.md) and [DOM Surface](../analytics-panels/dom-surface.md) panels.
 
 ### How to start trading via AMP/CQG connection?
 

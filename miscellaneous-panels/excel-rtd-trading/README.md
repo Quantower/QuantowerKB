@@ -12,6 +12,14 @@ Here is the General Syntax for getting symbol info via RTD function:
 
 ## **How to activate RTD function in Quantower platform**
 
+{% hint style="warning" %}
+For the function to work properly, **Quantower platform and Excel must have the same version — 64 or 32 bit**
+{% endhint %}
+
+Launch Excel and after open the Task Manager to check the version of Excel \(32-bit or 64-bit\). The platform should have the same version in order to work with RTD function correctly.
+
+![](../../.gitbook/assets/image%20%28150%29.png)
+
 Go to the [**General Settings**](../../general-settings/general-settings-1.md) of the platform, then to _section **Excel RTD**_ and tick off _**"Enable Microsoft Excel RTD"**_
 
 ![Activation of RTD function in Quantower](../../.gitbook/assets/assets_-ld6fsrvq3jgwjig6o7r_-lme4wbmrbk0ai3rafld_-lmeyazmdvqpbsftpr9b_rtd.png)

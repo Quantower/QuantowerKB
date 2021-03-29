@@ -13,6 +13,7 @@
   * [Reset settings to default](getting-started/reset-settings-to-default.md)
   * [Payment FAQ](getting-started/payment-faq.md)
   * [Binance fresh account](getting-started/binance-fresh-account.md)
+  * [Referral Program](getting-started/referral-program.md)
 * [General Settings](general-settings/README.md)
   * [Quantower Main Toolbar](general-settings/main-toolbar.md)
   * [Workspaces](general-settings/workspaces-binds-groups.md)

@@ -14,6 +14,8 @@ description: >-
 
 * **Get a link with your code.** Any registered customer of Quantower can find its referral code from within the personal account page \([https://accounts.quantower.com](https://accounts.quantower.com/)\)  You will be able to **copy the complete referral link to start sharing immediately**.
 
+![](../.gitbook/assets/image%20%28153%29.png)
+
 ![](../.gitbook/assets/image%20%28152%29.png)
 
 * **Start inviting.** Share your referral link with your friends, partners, and via your social networks. Everyone who signs up using your link will become your referral and start bringing your earnings.

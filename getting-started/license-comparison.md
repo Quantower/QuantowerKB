@@ -215,6 +215,14 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left">&#x221E;</td>
     </tr>
     <tr>
+      <td style="text-align:left"><a href="../trading-panels/multiple-order-entry.md">Multiple Order Entry</a>
+      </td>
+      <td style="text-align:left">&#x2716;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+      <td style="text-align:left">&#x2714;</td>
+    </tr>
+    <tr>
       <td style="text-align:left"><a href="../analytics-panels/chart/chart-overlays.md">Chart Overlays</a>
       </td>
       <td style="text-align:left">1</td>

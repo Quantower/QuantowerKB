@@ -1,6 +1,6 @@
 # Excel and RTD function
 
-Start from the version 1.39 Quantower supports RealTimeData \(RTD\) for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to better manage your workflow. 
+Start from version 1.39 Quantower supports **Real-Time Data \(RTD\)** for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to better manage your workflow. 
 
 RTD is a newer protocol that offers several advantages over DDE, including more flexibility and better performance and reliability. 
 
@@ -24,9 +24,9 @@ Go to the [**General Settings**](../../general-settings/general-settings-1.md) o
 
 ![Activation of RTD function in Quantower](../../.gitbook/assets/assets_-ld6fsrvq3jgwjig6o7r_-lme4wbmrbk0ai3rafld_-lmeyazmdvqpbsftpr9b_rtd.png)
 
-Also in the settings there are two important settings:
+Also in the settings, there are two important settings:
 
-* **Custom RTD formula name** — depending on the language of your operating system, the name of the RTD function in Excel may be called differently. The original name of the function in the English version of Excel is RTD, but for Russuian version it's called as "ДРВ".
+* **Custom RTD formula name** — depending on the language of your operating system, the name of the RTD function in Excel may be called differently. The original name of the function in the English version of Excel is RTD, but for the Russian version it's called "ДРВ".
 * **Custom argument separator** — the separator that participates in the formula. It depends on the localization of your operating system. Get to know [how to check argument separator in your system](./#how-to-check-argument-separator).
 
 ## How to get the instrument data from Quantower?
@@ -35,7 +35,7 @@ Also in the settings there are two important settings:
 
 The easiest way to get data to Excel is to copy the necessary data through the panel context menu. For example, after activating RTD, an additional item in the context menu will appear in the Watchlist panel — **Copy RTD Formula**.
 
-* Select necessary symbol or multiple symbols, right-click and select Copy RTD Formula. You can copy formulas for specific columns or for all columns.
+* Select a necessary symbol or multiple symbols, right-click and select **Copy RTD Formula**. You can copy formulas for specific columns or for all columns.
 
 ![](../../.gitbook/assets/rtd-watchlist.png)
 
@@ -44,7 +44,7 @@ The easiest way to get data to Excel is to copy the necessary data through the p
 ![Boadcasting real-time data to Excel](../../.gitbook/assets/rtd-quick-copying.gif)
 
 {% hint style="info" %}
-You may notice that the data is updated with some delay. This is throttle interval that is set by default in Excel \(2000 milliseconds\). If you want to [increase the speed of updating data, read the instructions on how to do it](https://help.quantower.com/miscellaneous-panels/excel-rtd-trading/changing-rtd-throttle-interval-in-excel).
+You may notice that the data is updated with some delay. This is a throttling interval that is set by default in Excel \(2000 milliseconds\). If you want to [increase the speed of updating data, read the instructions on how to do it](https://help.quantower.com/miscellaneous-panels/excel-rtd-trading/changing-rtd-throttle-interval-in-excel).
 {% endhint %}
 
 ### 2. Getting data through writing a formula
@@ -80,8 +80,4 @@ For Windows 10:
 ![](../../.gitbook/assets/regional_settings.png)
 
 ![](../../.gitbook/assets/regional2.jpg)
-
-
-
-
 

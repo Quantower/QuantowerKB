@@ -68,7 +68,7 @@ Most settings are applied automatically, once you change them, but, in some case
 
 ## Control Center
 
-Control center is the starting point of all terminal, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls.
+Control center is the starting point of the platform, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls.
 
 ![Configure the display of controls on the main control panel](../.gitbook/assets/image%20%2875%29.png)
 

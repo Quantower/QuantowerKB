@@ -62,6 +62,10 @@ Most settings are applied automatically, once you change them, but, in some case
 
 **Hide part of an account name.** Specify the number of characters that will be hidden for your trading account name and ID. This option is used to keep the account private.
 
+**Beta Version.** When this option is activated, you will receive updates to new functionality that is still in testing. We strive for our traders to use fully working functionality, but for this, we need the help of each user. Therefore, we ask as many people as possible to use the Beta version to inform us about possible bugs that eluded our testers.
+
+{% embed url="https://www.youtube.com/watch?v=L21kFXQaWQ0" %}
+
 ## Control Center
 
 Control center is the starting point of all terminal, used as a launcher and informer simultaneously. And for optimal use of the space on it, we have added the ability to display/hide some controls.

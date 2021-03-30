@@ -52,7 +52,7 @@ Most settings are applied automatically, once you change them, but, in some case
 
 ![Abbreviative Volume &amp; Number of Ticks](../.gitbook/assets/abbreviative-volume.png)
 
-**Abbreviate crypto prices** — this option displays the abbreviated values of cryptocurrencies prices that have a large number of zeros.
+**Abbreviate crypto prices** — this option displays the abbreviated values of cryptocurrency prices that have a large number of zeros.
 
 ![](../.gitbook/assets/abbreviate-cryptos.gif)
 
@@ -61,6 +61,8 @@ Most settings are applied automatically, once you change them, but, in some case
 ![](../.gitbook/assets/image%20%28142%29.png)
 
 **Hide part of an account name.** Specify the number of characters that will be hidden for your trading account name and ID. This option is used to keep the account private.
+
+![](../.gitbook/assets/image%20%28154%29.png)
 
 **Beta Version.** When this option is activated, you will receive updates to new functionality that is still in testing. We strive for our traders to use fully working functionality, but for this, we need the help of each user. Therefore, we ask as many people as possible to use the Beta version to inform us about possible bugs that eluded our testers.
 
@@ -111,7 +113,7 @@ In Time zone settings group you can select what time zones are your favorite and
 
 ## Excel RTD
 
-Start from the version 1.39 Quantower supports RealTimeData \(RTD\) for sending data and other market information to Microsoft Excel®. Read our guide about [how to enable and use RTD function with Quantower](../miscellaneous-panels/excel-rtd-trading/).
+Start from version 1.39 Quantower supports RealTimeData \(RTD\) for sending data and other market information to Microsoft Excel®. Read our guide about [how to enable and use RTD function with Quantower](../miscellaneous-panels/excel-rtd-trading/).
 
 ![RTD function in Quantower trading platform](../.gitbook/assets/image%20%2866%29.png)
 

@@ -14,7 +14,7 @@ Connections are integrations with third-party providers that supply various data
 Each integration is developed and tested by Quantower specialists and guarantees the stability and security of all transferred information. 
 {% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=7Sp2e\_N-U0E" caption="How to use Connections manager" %}
+{% embed url="https://www.youtube.com/watch?v=\_1tnBDlyDbY" caption="Video manual about new connections manager" %}
 
 ## General information
 

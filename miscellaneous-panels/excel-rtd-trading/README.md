@@ -67,12 +67,6 @@ The second parameter is the name of the external server running the RTD Server. 
 
 ### **How to check argument separator?**
 
-For Windows 7:
-
-* go to **Start &gt; Control Panel &gt; Regional and Language Options**
-* Click on **Formats Tab** **&gt; Additional Settings**
-* for **List Separator** check the argument. ****It must be the same as in RTD settings.
-
 For Windows 10: 
 
 * go to **Start &gt;type Control Panel  and press enter &gt; Region**

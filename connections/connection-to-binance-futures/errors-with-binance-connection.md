@@ -1,7 +1,7 @@
 ---
 description: >-
-  Here will be a description of the most common errors when working or
-  connecting to binans futures in the terminal Quantower .
+  Here are descriptions of the most common errors when working with or
+  connecting to Binance Futures in Quantower platform
 ---
 
 # Errors with Binance connection
@@ -14,9 +14,7 @@ All error messages you can see in the main menu in the Event panel
 
 ![This is the Event log Panel](../../.gitbook/assets/image%20%28101%29.png)
 
-## Description of the errors with Binance connection
-
-
+## Possible errors with Binance Futures / Binance Spot connection
 
 ### There is an error "Api-key format invalid". 
 
@@ -49,7 +47,7 @@ To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and cl
 
 ### 
 
-### Error "Order's notional must be smaller than 5.0 \(unless you choose reduce only\).
+### Error "Order's notional must be smaller than 5.0 \(unless you choose to reduce only\).
 
  
 
@@ -65,7 +63,7 @@ Example: When opening 0.001 ETH, the value of the order is greater than $5, so i
 
 ### "Too many new orders" error has occurred.
 
- Limit on the number of orders set by the exchange was reached \(usually this is a limit on a particular instrument\). May be a limit on the instrument itself, or a limit on orders sent in a certain period \(for example, 10 orders per second - spam\).
+ Limit on the number of orders set by the exchange was reached \(usually this is a limit on a particular instrument\). Maybe a limit on the instrument itself, or a limit on orders sent in a certain period \(for example, 10 orders per second - spam\).
 
 ### "Balance is insufficient" has occurred. Not enough funds on the balance.
 
@@ -79,7 +77,7 @@ This situation is connected with the rule of exchange Binance Futures about the 
 
 2. Place a pending stop order to close the position with a volume equal to the position. 
 
-3. Set Stop-Loss or Take-Profit on the server side.
+3. Set Stop-Loss or Take-Profit on the server-side.
 
  4. Close the order through Binance Futures website.
 

@@ -12,8 +12,6 @@ Here is the General Syntax for getting symbol info via RTD function:
 
 {% embed url="https://www.youtube.com/watch?v=k1pbtSadX8I" %}
 
-
-
 ## **How to activate RTD function in Quantower platform**
 
 {% hint style="warning" %}

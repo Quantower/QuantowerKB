@@ -6,11 +6,11 @@ description: >-
 
 # Connection to CQG \(AMP Futures\)
 
-* \*\*\*\*[**How to Create a New Demo Account?**](connection-to-cqg-amp-futures.md#how-to-start-trading-via-amp-cqg-connection)\*\*\*\*
-* [**How to Find a Trading Symbol in Quantower for CQG connection?**](connection-to-cqg-amp-futures.md#how-to-add-trading-symbols-from-the-cqg-connection)\*\*\*\*
+* \*\*\*\*[**How to Create a New Demo Account?**](./#how-to-start-trading-via-amp-cqg-connection)\*\*\*\*
+* [**How to Find a Trading Symbol in Quantower for CQG connection?**](./#how-to-add-trading-symbols-from-the-cqg-connection)\*\*\*\*
 
 CQG provides access to more than [75 world exchanges](https://www.cqg.com/partners/exchanges), allowing you to trade futures, options, stocks, bonds, commodity spreads, and much more.  
-Besides, traders get the opportunity to work with a wide range of analytical tools, like [volume profiles](../analytics-panels/chart/volume-analysis-tools/volume-profiles.md), [footprint \(cluster chart\)](../analytics-panels/chart/volume-analysis-tools/cluster-chart.md), [VWAP](../analytics-panels/chart/vwap.md), [Power Trades](../analytics-panels/chart/power-trades.md), [TPO chart](../analytics-panels/tpo-chart.md), [DOM Trader](../trading-panels/dom-trader.md), [Option Analytics](../analytics-panels/option-analytics.md) and [DOM Surface](../analytics-panels/dom-surface.md) panels.
+Besides, traders get the opportunity to work with a wide range of analytical tools, like [volume profiles](../../analytics-panels/chart/volume-analysis-tools/volume-profiles.md), [footprint \(cluster chart\)](../../analytics-panels/chart/volume-analysis-tools/cluster-chart.md), [VWAP](../../analytics-panels/chart/vwap.md), [Power Trades](../../analytics-panels/chart/power-trades.md), [TPO chart](../../analytics-panels/tpo-chart.md), [DOM Trader](../../trading-panels/dom-trader.md), [Option Analytics](../../analytics-panels/option-analytics.md) and [DOM Surface](../../analytics-panels/dom-surface.md) panels.
 
 ### How to start trading via AMP/CQG connection?
 
@@ -18,7 +18,7 @@ By [**following this link**](https://vip.ampfutures.com/quantower-cqg) you can r
 
 Fill out the form on the AMP website and within several minutes you will get an email from CQG with your credentials \(Login and Password\).
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 
 

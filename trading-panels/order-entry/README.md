@@ -6,6 +6,10 @@ description: >-
 
 # Order Entry
 
+* Order Entry for CQG connection
+* Order Entry for Rithmic connection
+* Order Entry for Binance Futures
+
 ### General info
 
 Order Entry panel allows to create trading orders with different conditions, such as order quantity, price, side, order type, and submit them on the market. From the Order Entry panel, you can supply all of the necessary information for order and easily submit it by clicking the appropriate action button.
@@ -25,6 +29,8 @@ The entire panel is conventionally divided into several zones:
 Open the main menu by clicking the logo and in the **Trading section** click on the OE icon.
 
 ![Open Order Entry panle in general menu](../../.gitbook/assets/oe-general.png)
+
+
 
 ### Symbol and account selection
 

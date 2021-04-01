@@ -16,13 +16,13 @@ This error can occur when the Internet connection is weak, or when there is an e
 
 This error occurs when trading on your account has been **restricted by a Broker or Prop trading company** due to reaching the loss limit or for other reasons. To resolve this issue, please contact your Broker or Prop trading company.
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 ## Chart Data is incorrect or has gaps
 
 Sometimes, non-market gaps can occur due to a weak Internet connection, a broken connection to your data provider, or other reasons. To solve this problem, **Right-click on the chart** and select **Reload history \(server\).**
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
 ## Can not find a symbol
 

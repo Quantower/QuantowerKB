@@ -184,4 +184,6 @@
   * [Access to crypto account and balances](quantower-algo/access-to-crypto-account-and-balances.md)
 * [Customization](customization/README.md)
   * [Localization](customization/localization.md)
+* [FAQ](faq/README.md)
+  * [General Errors](faq/general-errors.md)
 

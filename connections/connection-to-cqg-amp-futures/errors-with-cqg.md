@@ -6,6 +6,12 @@ This error can occur when the Internet connection is weak, or when there is an e
 
 ![](../../.gitbook/assets/image%20%28159%29.png)
 
+## 'This account is only allowed to liquidate open positions' error
+
+This error occurs when trading on your account has been **restricted by a Broker or Prop trading company** due to reaching the loss limit or for other reasons. To resolve this issue, please contact your Broker or Prop trading company.
+
+![](../../.gitbook/assets/image%20%28161%29.png)
+
 ## Can not find a symbol
 
 ![](../../.gitbook/assets/image%20%28158%29.png)

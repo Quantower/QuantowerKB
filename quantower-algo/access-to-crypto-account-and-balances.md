@@ -4,43 +4,102 @@ description: Get access to current crypto account information.
 
 # Access to crypto account and balances
 
-## **Theory**
-
-While developing a trading strategy script, you will definitely need to use a trading account. For example, to send a “place order’ request, you need to use an account ID. Or, if you need to calculate the trade quantity for the request, you need to check the available balance. All strategies must have trading account as input parameter.
-
-Quantower API supports two types of user accounts - [Account](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html) and [CryptoAccount](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) classes.
-
-### **Account class**
-
-[Account](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html) ****is a base class that contains general information about a user. Let's take a look at the main properties.
-
-* **Id -** unique account identifier
-* **Name** - current account name
-* **AccountCurrency** - base currency 
-* **Balance** - available balance
-* **ConnectionId** - connection id associated with this account
-* **AdditionalInfo** - collection of fields with specific info
-
-For getting all available accounts from all open connections you can use ['Accounts'](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform_BusinessLayer_Core_Accounts) main property from [Core](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html) object.
+While developing a trading strategy, you will definitely need information about the current balance of the selected account. To get this value, you need to use the ‘**Balance**’ property of [Account ](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html)class. 
 
 ```csharp
-var allAccountsCollection = Core.Instance.Accounts;
-
-foreach (var account in allAccountsCollection)
+public class TestStrategy : Strategy
 {
-    // to do something
+    [InputParameter("Selected account", 10)]
+    public Account inputAccount;
+          
+    protected override void OnRun()
+    {
+        if (inputAccount != null)
+        {
+            Log("Currency name: " + inputAccount.AccountCurrency);
+            Log("Balance: " + inputAccount.Balance);
+        }
+    }
 }
 ```
 
+But what about crypto balances? For example, if we have some crypto connection and we need to get all available balances of ‘BTC’ currency, or ‘ETH’ currency or both. How do we get these values? The answer is ‘Easy”\)
+
 ### **CryptoAccount class**
 
-This class derives from [Account](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html) ****and describes a crypto trading account. Since trading on crypto-exchanges is possible with different crypto-currencies this class contains ‘**Balances**’ property that stores information about all available crypto-balances.
+Quantower API supports a special [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) class for most crypto connections.  This class is derived from the base ‘[Account](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html)’ class and extends its functionality with additional property - ‘[**Balances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_Balances)’ and special '[**BalanceUpdated**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_BalanceUpdated)' event. In your code, you need to make sure the account you choose implements the [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) ****class.
 
-* **Balances** - array that contains current balance information for each available cryptocurrencies.Each item is an instance of '‘[CryptoAssetBalances](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAssetBalances.html)’ class
+```csharp
+public class TestStrategy : Strategy
+{
+    [InputParameter("Selected account", 10)]
+    public Account inputAccount;
+    
+    private CryptoAccount cryptoAccount;
+               
+    public TestStrategy()
+        : base()
+    {
+        // Defines strategy's name and description.
+        this.Name = "TestStrategy";
+        this.Description = "My strategy's annotation";
+    }
+         
+    protected override void OnRun()
+    {
+        // 
+        if (inputAccount == null)
+        {
+            Log("Input account is null", StrategyLoggingLevel.Error); 
+            Stop();
+            return;
+        }
+    
+        // check if selected account implements 'CryptoAccount' class
+        if (inputAccount is CryptoAccount)
+        {
+            // cast to 'CryptoAccount' type and store as a variable
+            cryptoAccount = (CryptoAccount)inputAccount;
+            
+            // subscribe to 'BalanceUpdated' event
+            cryptoAccount.BalanceUpdated += CryptoAccount_BalanceUpdated;
+            
+            // log coin name and available balance
+            foreach (CryptoAssetBalances coin in cryptoAccount.Balances)
+            {
+                Log($"Coin name: " + coin.AssetId);
+                Log($"Avalilable balance: " + coin.AvailableBalance);
+            }
+        }
+    }
+    
+    protected override void OnStop()
+    {
+        // unsubscribe from 'BalanceUpdated' event
+        if (cryptoAccount != null)
+        {
+            cryptoAccount.BalanceUpdated -= CryptoAccount_BalanceUpdated;
+            cryptoAccount = null;
+        }
+        
+    }
+    
+    private void CryptoAccount_BalanceUpdated(object sender, CryptoAccountEventArgs e)
+    {
+        if (e.Reason == AccountBalanceEventReason.Update)
+        {
+            Log("Updated coin name: " + e.Balances.AssetId);
+            Log("Updated available balance: " + e.Balances.AvailableBalance);
+        }
+    }
+}
+```
+
+The '[**Balances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_Balances)' property is an array that contains info about all available crypto coins and their states in this moment of time. Each item of this collection is an instance of [**CryptoAssetBalances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAssetBalances.html) class.
 
 ### CryptoAssetBalances class
 
-This class contains general information about a specific cryptocurrency.  Let's take a look at the main properties.
+Let's take a look at the main properties of [**CryptoAssetBalances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAssetBalances.html) class:
 
 * **AssetId** - base currency identifier
 * **TotalBalance** - total amount of currency
@@ -49,9 +108,57 @@ This class contains general information about a specific cryptocurrency.  Let's 
 * **TotalInBTC** - converted total amount of currency in ‘BTC’
 * **TotalInUSD** - converted total amount of currency in ‘USD’
 
-## Practice  
+### If crypto connection doesn't support CryptoAccount class
 
+Unfortunately, not all crypto connections support CryptoAccount class. The main reason for this is imperfection current broker API. For such connections, information about crypto balances is stored in a special **AdditionalInfo** collection.
 
+All you need to do is find the required element in debug mode and save its 'Id'. Below is an example how to find the "BTC wallet balance" element for an **Bybit**-account.
 
+![](../.gitbook/assets/debug_additional_fields.png)
 
+Now, we can store this identifier as a constant and use it to get this additional field. Example below:
+
+```csharp
+public class TestStrategy : Strategy
+{
+    // const
+    private const string BYBIT_BTC_WALLET_BALANCE = "BTC wallet balance";
+    
+    // input parameter
+    [InputParameter("Selected account", 10)]
+    public Account inputAccount;
+    
+    public TestStrategy()
+       : base()
+    {
+        // Defines strategy's name and description.
+        Name = "TestStrategy";
+        Description = "My strategy's annotation";
+    }
+    
+    protected override void OnRun()
+    {
+        if (inputAccount == null)
+        {
+            Log("Input account is null", StrategyLoggingLevel.Error);
+            Stop();
+            return;
+        }
+        
+        if (inputAccount.AdditionalInfo == null || inputAccount.AdditionalInfo.Count == 0)
+        {
+            Log("AdditionalInfo collection is empty", StrategyLoggingLevel.Error);
+            Stop();
+            return;
+        }
+        
+        // try to get 'BTC wallet balance' item       
+        if (inputAccount.AdditionalInfo.TryGetItem(BYBIT_BTC_WALLET_BALANCE, out AdditionalInfoItem btcWalletBalance))
+        {
+            Log("Coin name: BTC");
+            Log("Walet balance: " + btcWalletBalance.Value);
+        }
+    }
+}
+```
 

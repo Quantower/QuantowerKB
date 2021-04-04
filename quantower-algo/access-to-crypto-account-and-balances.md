@@ -122,7 +122,7 @@ Below is an example how to find the "BTC wallet balance" element for an **Bybit*
 
 ![](../.gitbook/assets/debug_additional_fields.png)
 
-Now, we can store this identifier as a constant and use it to get this additional field. Example below:
+Now, we can store this identifier as a constant and use it to get required additional field. Example below:
 
 ```csharp
 public class TestStrategy : Strategy

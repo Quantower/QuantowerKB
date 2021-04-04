@@ -110,9 +110,15 @@ Let's take a look at the main properties of [**CryptoAssetBalances**](https://ap
 
 ### If crypto connection doesn't support CryptoAccount class
 
-Unfortunately, not all crypto connections support CryptoAccount class. The main reason for this is imperfection current broker API. For such connections, information about crypto balances is stored in a special **AdditionalInfo** collection.
+Unfortunately, not all crypto connections support [**CryptoAccount** ](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html)class. The main reason for this is imperfection current broker API. For such connections, information about crypto balances is stored in a special **AdditionalInfo** collection.
 
-All you need to do is find the required element in debug mode and save its 'Id'. Below is an example how to find the "BTC wallet balance" element for an **Bybit**-account.
+All you need to do:
+
+1. To find the required element in **debug** mode.
+2. Store identifier of this element as a constant. 
+3. Use '**TryGetItem**' method and stored identifier to get required element.
+
+Below is an example how to find the "BTC wallet balance" element for an **Bybit**-account.
 
 ![](../.gitbook/assets/debug_additional_fields.png)
 

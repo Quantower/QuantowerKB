@@ -114,7 +114,7 @@ Unfortunately, not all crypto connections support [**CryptoAccount** ](https://a
 
 All you need to do:
 
-1. To find the required element in **debug** mode.
+1. Run **Debug**-mode and find the required element in **AdditionalInfo** collection.
 2. Store identifier of this element as a constant. 
 3. Use '**TryGetItem**' method with stored identifier to get required element.
 

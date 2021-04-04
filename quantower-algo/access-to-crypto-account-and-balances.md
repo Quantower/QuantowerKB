@@ -4,7 +4,7 @@ description: Get access to current crypto account information.
 
 # Access to crypto account and balances
 
-While developing a trading strategy, you will definitely need information about the current balance of the selected account. To get this value, you need to use the ‘**Balance**’ property of [Account ](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html)class. 
+While developing a trading strategy, you will definitely need information about the current balance of the selected account. To get this value, you need to use the **Balance** property of [Account ](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html)class. 
 
 ```csharp
 public class TestStrategy : Strategy
@@ -27,7 +27,7 @@ But what about crypto balances? For example, if we have some crypto connection a
 
 ## **CryptoAccount class**
 
-Quantower API supports a special [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) class for most crypto connections.  This class is derived from the base ‘[Account](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html)’ class and extends its functionality with additional property - ‘[**Balances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_Balances)’ and special '[**BalanceUpdated**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_BalanceUpdated)' event. In your code, you need to make sure the account you choose implements the [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) ****class.
+Quantower API supports a special [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) class for most crypto connections.  This class is derived from the base [Account](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html) class and extends its functionality with additional property - [**Balances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_Balances) and special [**BalanceUpdated**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_BalanceUpdated) event. In your code, you need to make sure the account you choose implements the [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) ****class.
 
 ```csharp
 public class TestStrategy : Strategy
@@ -95,7 +95,7 @@ public class TestStrategy : Strategy
 }
 ```
 
-The '[**Balances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_Balances)' property is an array that contains info about all available crypto coins and their states in this moment of time. Each item of this collection is an instance of [**CryptoAssetBalances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAssetBalances.html) class.
+The [**Balances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_Balances) property is an array that contains info about all available crypto coins and their states in this moment of time. Each item of this collection is an instance of [**CryptoAssetBalances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAssetBalances.html) class.
 
 ## CryptoAssetBalances class
 

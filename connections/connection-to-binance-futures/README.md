@@ -8,9 +8,10 @@ description: >-
 
 To start trading on Binance Futures through Quantower platform, you need to open an account and create an **API Key** and **Secret Key**. In this guide we will show you step-by-step how to set up the connection, change margin type and leverage size.
 
+* \*\*\*\*[**How to create a new Binance Futures account**](./#how-to-create-a-new-binance-futures-account)\*\*\*\*
 * \*\*\*\*[**How to connect to Binance Futures in Quantower platform**](./#how-to-connect-to-binance-futures-in-quantower-platform)\*\*\*\*
-* \*\*\*\*[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)\*\*\*\*
 * \*\*\*\*[**How to get Full License of Quantower for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
+* \*\*\*\*[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)\*\*\*\*
 * \*\*\*\*[**Possible Errors with Binance Futures connection**](errors-with-binance-connection.md)\*\*\*\*
 
 ## How to create a new Binance Futures account
@@ -44,6 +45,34 @@ Please activate it and after you can connect to Binance Futures in Quantower
 
 * For trading, please enter your **API Key** and **Secret Key**.
 
+## How to get Full License of Quantower for free with Binance?
+
+First, you need to register a new account on Binance exchange, that wouldn’t be connected with any referral previously. In order to do this, please follow the [https://accounts.binance.com/en/register](https://accounts.binance.com/en/register) link and fill in the registration form.
+
+{% hint style="warning" %}
+Please note! The Referral ID field must be empty. If you see any prefilled ID in this field you should CLEAR YOUR **REFERRAL ID** COOKIES in the browser before registration.
+{% endhint %}
+
+![Make sure that the Referral ID field is empty](../../.gitbook/assets/screenshot_1.png)
+
+### Clearing Referral ID cookies
+
+To clear your saved cookies in the Chrome browser, you should proceed to the “Site information block” and follow the “Cookies section”
+
+![Page cookies can be found via the Page info](../../.gitbook/assets/screenshot_2.png)
+
+Now select each group of cookies and press the “Remove” button. When there will be no cookies in the list, please, press the “Done” button. Now you should refresh your registration page and make sure that the “Referral ID” field is empty. 
+
+![Binance stores referral data in cookies](../../.gitbook/assets/screenshot_3%20%283%29.png)
+
+When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
+
+### How to check that your account has a Full license in Quantower?
+
+Once you created a new account with Binance Spot, Binance Futures, please login to the platform in trading mode with your API Keys. After that, open ****[**Account Info** panel](../../informational-panels/account-info.md) and check that the field **Full license is Enabled**.
+
+![](../../.gitbook/assets/image%20%28167%29.png)
+
 ## How to change Leverage and Margin Type
 
 * Binance Futures allows you to trade various instruments and manually change the leverage for each one. To change it, open the [**Symbol Info**](../../informational-panels/symbol-info.md) panel and select the necessary symbol. At the bottom of this panel there is a **Leverage** field where you can change the value and apply it by clicking the **Enter** button.
@@ -66,27 +95,7 @@ To enable these functions, you need to make at least 1 trade for current symbol.
 
 ![Make one trade to activate Leverage and Margin type for Binance Futures in Quantower](../../.gitbook/assets/symbol-info-binance-futures.png)
 
-## How to get Full License of Quantower for free with Binance?
-
-First, you need to register a new account on Binance exchange, that wouldn’t be connected with any referral previously. In order to do this, please follow the [https://accounts.binance.com/en/register](https://accounts.binance.com/en/register) link and fill in the registration form.
-
-![Make sure that the Referral ID field is empty](../../.gitbook/assets/screenshot_1.png)
-
-{% hint style="warning" %}
-Please note! The Referral ID field must be empty. If you see any prefilled ID in this field you should CLEAR YOUR **REFERRAL ID** COOKIES in the browser before registration.
-{% endhint %}
-
-### Clearing Referral ID cookies
-
-To clear your saved cookies in the Chrome browser, you should proceed to the “Site information block” and follow the “Cookies section”
-
-![Page cookies can be found via the Page info](../../.gitbook/assets/screenshot_2.png)
-
-Now select each group of cookies and press the “Remove” button. When there will be no cookies in the list, please, press the “Done” button. Now you should refresh your registration page and make sure that the “Referral ID” field is empty. 
-
-![Binance stores referral data in cookies](../../.gitbook/assets/screenshot_3%20%283%29.png)
-
-When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
+## 
 
 ### 
 

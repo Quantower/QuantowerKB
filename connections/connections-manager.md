@@ -6,15 +6,11 @@ description: >-
 
 # Connections manager
 
+{% embed url="https://www.youtube.com/watch?v=\_1tnBDlyDbY" caption="How to work with Connections manager in Quantower" %}
+
 Connections are integrations with third-party providers that supply various data: trading quotes, symbols history etc. 
 
 ![Launch the Connections Manager to select necessary connection](../.gitbook/assets/connections-manager.png)
-
-{% hint style="success" %}
-Each integration is developed and tested by Quantower specialists and guarantees the stability and security of all transferred information. 
-{% endhint %}
-
-{% embed url="https://www.youtube.com/watch?v=\_1tnBDlyDbY" caption="Video manual about new connections manager" %}
 
 ## General information
 
@@ -22,7 +18,7 @@ Each integration is developed and tested by Quantower specialists and guarantees
 
 ![Connections manager screen with multiple accounts](../.gitbook/assets/multiple-accounts.gif)
 
-Connections manager screen consists of two columns: connections list & connection info. Connection info column holds an information about the active connection or Login form, in case if the current connection is not active.
+Connections manager screen consists of two columns: connections list & connection info. Connection info column holds information about the active connection or Login form, in case if the current connection is not active.
 
 Each active connection is marked with green Status dot by the left hand from its name. The "_**Star**_" icon indicates that connection is favorite and displayed on Control center toolbar. This icon is also used to **add/remove** a connection **from favorites**.
 

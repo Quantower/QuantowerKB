@@ -161,6 +161,7 @@
   * [Browser](miscellaneous-panels/browser.md)
   * [Excel and RTD function](miscellaneous-panels/excel-rtd-trading/README.md)
     * [Changing RTD Throttle Interval in Excel](miscellaneous-panels/excel-rtd-trading/changing-rtd-throttle-interval-in-excel.md)
+  * [Quantower Telegram Bot](miscellaneous-panels/quantower-telegram-bot.md)
 * [Quantower Algo](quantower-algo/README.md)
   * [Introduction](quantower-algo/introduction.md)
   * [Install for Visual Studio](quantower-algo/installing-visual-studio.md)

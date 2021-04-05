@@ -6,7 +6,7 @@ description: >-
 
 # Connections manager
 
-{% embed url="https://www.youtube.com/watch?v=\_1tnBDlyDbY" caption="Video manual about new connections manager" %}
+{% embed url="https://www.youtube.com/watch?v=\_1tnBDlyDbY" caption="How to work with Connections manager in Quantower" %}
 
 Connections are integrations with third-party providers that supply various data: trading quotes, symbols history etc. 
 

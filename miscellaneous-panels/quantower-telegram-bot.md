@@ -10,7 +10,7 @@ Quantower Alert Bot will send a message to your Telegram account about all event
 
 ![](../.gitbook/assets/telegram-alerts.gif)
 
-### Ho to add Telegram Bot to your account?
+## Ho to add Telegram Bot to your account?
 
 To add a bot to the Telegram, open the platform's **General Settings -&gt; Messengers -&gt; Duplicate alerts to Telegram**.
 

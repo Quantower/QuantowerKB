@@ -1,3 +1,7 @@
+---
+description: This panel displays all events happening in Quantower
+---
+
 # Event Log
 
 Event Log panel displays detail information about all events that occurred during working with the trading platform. Event Log panel is related to Informational group of Control Center sidebar.

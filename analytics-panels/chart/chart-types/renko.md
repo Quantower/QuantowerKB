@@ -1,3 +1,7 @@
+---
+description: Review and setup Renko charts in Quantower platform
+---
+
 # Renko
 
 ### General info

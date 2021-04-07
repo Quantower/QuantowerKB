@@ -12,6 +12,7 @@ To start trading on Binance Futures through Quantower platform, you need to open
 * \*\*\*\*[**How to connect to Binance Futures in Quantower platform**](./#how-to-connect-to-binance-futures-in-quantower-platform)\*\*\*\*
 * \*\*\*\*[**How to get Full License of Quantower for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
 * \*\*\*\*[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)\*\*\*\*
+* **How to load the history of past trades \(for previous days\)**
 * \*\*\*\*[**Possible Errors with Binance Futures connection**](errors-with-binance-connection.md)\*\*\*\*
 
 ## How to create a new Binance Futures account
@@ -95,7 +96,11 @@ To enable these functions, you need to make at least 1 trade for current symbol.
 
 ![Make one trade to activate Leverage and Margin type for Binance Futures in Quantower](../../.gitbook/assets/symbol-info-binance-futures.png)
 
-## 
+## **How to load the history of past trades \(for previous days\)**
+
+All trades made during the active session of the platform can be displayed on the chart, as well as in the Trades panel. To display trades for previous days, you need to activate the option **"Load user trades history"** in the connection settings.
+
+![](../../.gitbook/assets/image%20%28175%29.png)
 
 ### 
 

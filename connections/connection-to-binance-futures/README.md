@@ -6,13 +6,13 @@ description: >-
 
 # Connection to Binance Futures
 
-To start trading on Binance Futures through Quantower platform, you need to open an account and create an **API Key** and **Secret Key**. In this guide we will show you step-by-step how to set up the connection, change margin type and leverage size.
+To start trading on Binance Futures through Quantower platform, you need to open an account and create an **API Key** and **Secret Key**. In this guide, we will show you step-by-step how to set up the connection, change margin type and leverage size.
 
 * \*\*\*\*[**How to create a new Binance Futures account**](./#how-to-create-a-new-binance-futures-account)\*\*\*\*
 * \*\*\*\*[**How to connect to Binance Futures in Quantower platform**](./#how-to-connect-to-binance-futures-in-quantower-platform)\*\*\*\*
 * \*\*\*\*[**How to get Full License of Quantower for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
 * \*\*\*\*[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)\*\*\*\*
-* **How to load the history of past trades \(for previous days\)**
+* \*\*\*\*[**How to load the history of past trades \(for previous days\)**](./#how-to-load-the-history-of-past-trades-for-previous-days)\*\*\*\*
 * \*\*\*\*[**Possible Errors with Binance Futures connection**](errors-with-binance-connection.md)\*\*\*\*
 
 ## How to create a new Binance Futures account

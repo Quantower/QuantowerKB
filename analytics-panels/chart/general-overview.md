@@ -1,3 +1,7 @@
+---
+description: Basic settings and features for charts in Quantower
+---
+
 # Chart Overview
 
 ### General info about Chart panel

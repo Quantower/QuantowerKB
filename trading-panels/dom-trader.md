@@ -20,8 +20,8 @@ To place an order via Mouse Trading mode:
 
 * Select an account and order restriction \(TIF\) in the order entry;
 * Enter an order quantity;
-* Left-click at a specific prices in the left column will place a Buy Limit order \(below the current market price\);
-* Left-click at a specific prices in the right column will place a Sell Limit order \(above the current market price\). If you place the order below the current price it will be executed by market price;
+* Left-click at a specific price in the left column will place a Buy Limit order \(below the current market price\);
+* Left-click at specific prices in the right column will place a Sell Limit order \(above the current market price\). If you place the order below the current price it will be executed by market price;
 * _To place a **Stop order**_ is necessary to press and hold down the _**Shift**_ key and click at a required price.
 
 ![Mouse trading mode in DOM Trader](../.gitbook/assets/dom-trader-via-mouse.gif)

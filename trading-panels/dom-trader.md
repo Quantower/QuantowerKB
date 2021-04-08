@@ -10,7 +10,7 @@ description: >-
 
 **The Depth of Market** or **DOM Trader** panel shows the number of buy and sell orders placed at various price levels around the current price for a particular instrument \(most often for futures\). The more the number of orders is at a certain price level, the higher the interest in this level. The trading functionality of the panel allows you to quickly and efficiently place the required number of orders at the selected price, and also drag-and-drop, change or cancel them.
 
-![General view of DOM Trader panel](../.gitbook/assets/domscheme.png)
+![General view of DOM Trader panel](../.gitbook/assets/dom.png)
 
 ## Trading with DOM Trader
 

@@ -101,6 +101,10 @@ To enable these functions, you need to make at least 1 trade for current symbol.
 
 All trades made during the active session of the platform can be displayed on the chart, as well as in the Trades panel. To display trades for previous days, you need to activate the option **"Load user trades history"** in the connection settings.
 
+{% hint style="info" %}
+Due to Binance API limitations, it takes several minutes \(up to 5 minutes\) to load data on past trades. In addition, only data from the last 7 days can be downloaded.
+{% endhint %}
+
 ![](../../.gitbook/assets/image%20%28175%29.png)
 
 ## **How to change Hedge Mode \(One position & Multiple positions\)**

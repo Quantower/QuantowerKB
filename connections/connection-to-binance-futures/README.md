@@ -109,5 +109,9 @@ Due to Binance API limitations, it takes several minutes \(up to 5 minutes\) to 
 
 ## **How to change Hedge Mode \(One position & Multiple positions\)**
 
+**One Position mode** means that traders can only hold positions in one direction under one contract. If you open a short position, anticipating that the price will go down in the longer timeframe, but in the meanwhile wanted to open a long to do a trade for a shorter time frame. You are unable to open positions in both directions at the same time. Opening positions in both directions would result in canceling one another out.
+
+**Multiple Positions mode** means that traders can hold positions in both long and short directions at the same time under the same contract. For example, you could now hold both long and short positions of the BTCUSDT contract at the same time.
+
 ![](../../.gitbook/assets/image%20%28176%29.png)
 

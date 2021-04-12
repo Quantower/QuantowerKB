@@ -183,6 +183,8 @@
   * [Trading operations](quantower-algo/trading-operations.md)
   * [Example: Simple Moving Average](quantower-algo/simple-moving-average-example.md)
   * [Access to crypto account and balances](quantower-algo/access-to-crypto-account-and-balances.md)
+  * [Access to advanced aggregations](quantower-algo/access-to-advanced-aggregations.md)
+  * [Access to symbol/account additional fields](quantower-algo/access-to-symbol-account-additional-fields.md)
 * [Customization](customization/README.md)
   * [Localization](customization/localization.md)
 * [FAQ](faq/README.md)

@@ -270,9 +270,9 @@ private Indicator slowSmaIndicator;
 In this section, we will carry out the first, second and fourth points. 
 
 {% hint style="info" %}
-Pay attention to line **23**. Here we create instance of [**HistoryAggregationRenko**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.HistoryAggregationRenko.html) class and pass required parameters.
+Pay attention to line **24**. Here we create instance of [**HistoryAggregationRenko**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.HistoryAggregationRenko.html) class and pass required parameters.
 
-Pay attention ****to line **29**. Here we subscribe '**NewHistoryItem**' event. Another words, our 'RenkoHistoricalData\_NewHistoryItem' handler will trigger on each new brick item.
+Pay attention ****to line **30**. Here we subscribe '**NewHistoryItem**' event. Another words, our 'RenkoHistoricalData\_NewHistoryItem' handler will trigger on each new brick item.
 {% endhint %}
 
 ```csharp

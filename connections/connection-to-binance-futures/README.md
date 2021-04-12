@@ -13,7 +13,7 @@ To start trading on Binance Futures through Quantower platform, you need to open
 * \*\*\*\*[**How to get Full License of Quantower for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
 * \*\*\*\*[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)\*\*\*\*
 * \*\*\*\*[**How to load the history of past trades \(for previous days\)**](./#how-to-load-the-history-of-past-trades-for-previous-days)\*\*\*\*
-* **How to change Hedge Mode \(One position & Multiple positions\)**
+* \*\*\*\*[**How to change Hedge Mode \(One position & Multiple positions\)**](./#how-to-change-hedge-mode-one-position-and-multiple-positions)\*\*\*\*
 * \*\*\*\*[**Possible Errors with Binance Futures connection**](errors-with-binance-connection.md)\*\*\*\*
 
 ## How to create a new Binance Futures account
@@ -109,5 +109,5 @@ Due to Binance API limitations, it takes several minutes \(up to 5 minutes\) to 
 
 ## **How to change Hedge Mode \(One position & Multiple positions\)**
 
-### 
+![](../../.gitbook/assets/image%20%28176%29.png)
 

@@ -6,6 +6,10 @@ description: >-
 
 # Connection to OANDA
 
+{% hint style="warning" %}
+OANDA doesn't provide tick data for Volume Analysis Data, that's why Volume Profiles or Footprint chart can not be used under this connection.
+{% endhint %}
+
 This guide helps you in a few simple steps to configure the connection to OANDA with the correct settings.
 
 1. Open real or demo trading account with OANDA on their [**official website**](https://www.oanda.com/).

@@ -13,7 +13,7 @@ Here is the list of the most common errors and issues with Binance Futures /Spot
 * \*\*\*\*[**Error "Timestamp for this request was 1000ms ahead of the server's time"**](errors-with-binance-connection.md#error-timestamp-for-this-request-was-1000ms-ahead-of-the-servers-time)\*\*\*\*
 *  ****
 
-  \*\*\*\*[**Error "Order's notional must be no smaller than 5.0 \(unless you choose to reduce only\)**](errors-with-binance-connection.md#error-orders-notional-must-be-smaller-than-5-0-unless-you-choose-to-reduce-only)\*\*\*\*
+  \*\*\*\*[**Error "Order's notional must be no smaller than 5.0 \(unless you choose to reduce only\)**](errors-with-binance-connection.md#error-orders-notional-must-be-no-smaller-than-5-0-unless-you-choose-to-reduce-only)\*\*\*\*
 
 * \*\*\*\*[**Error "Margin is insufficient"**](errors-with-binance-connection.md#error-margin-is-insufficient)\*\*\*\*
 * \*\*\*\*[**Error "Too many new orders"**](errors-with-binance-connection.md#error-too-many-new-orders)\*\*\*\*

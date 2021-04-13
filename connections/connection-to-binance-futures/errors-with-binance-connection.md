@@ -81,3 +81,7 @@ This situation is connected with the rule of exchange Binance Futures about the 
 
  4. Close the order through Binance Futures website.
 
+### Error - This listenKey does not exist
+
+You are connecting to the exchange with one api on different platforms. each platform must have its own api. Rebuild the  new api key for our platform.
+

@@ -83,5 +83,5 @@ This situation is connected with the rule of exchange Binance Futures about the 
 
 ### Error - This listenKey does not exist
 
-You are connecting to the exchange with one api on different platforms. each platform must have its own api. Rebuild the  new api key for our platform.
+You are connecting to the exchange with one api on different platforms. Each platform must have its own API. Rebuild the  new API key for our platform.
 

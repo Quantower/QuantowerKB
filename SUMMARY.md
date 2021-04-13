@@ -60,6 +60,7 @@
       * [Points & Figures](analytics-panels/chart/chart-types/points-and-figures.md)
       * [Range bars](analytics-panels/chart/chart-types/range-bars.md)
       * [Line break](analytics-panels/chart/chart-types/line-break.md)
+      * [Tick chart](analytics-panels/chart/chart-types/tick-chart.md)
       * [Volume Bars](analytics-panels/chart/chart-types/volume-bars.md)
     * [Chart overlays](analytics-panels/chart/chart-overlays.md)
     * [Technical indicators](analytics-panels/chart/technical-indicators/README.md)

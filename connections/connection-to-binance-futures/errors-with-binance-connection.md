@@ -16,7 +16,9 @@ Here is the list of the most common errors and issues with Binance Futures /Spot
   \*\*\*\*[**Error "Order's notional must be smaller than 5.0 \(unless you choose to reduce only\)**](errors-with-binance-connection.md#error-orders-notional-must-be-smaller-than-5-0-unless-you-choose-to-reduce-only)\*\*\*\*
 
 * \*\*\*\*[**Error "Margin is insufficient"**](errors-with-binance-connection.md#error-margin-is-insufficient)\*\*\*\*
-* \*\*\*\*
+* \*\*\*\*[**Error "Too many new orders"**](errors-with-binance-connection.md#error-too-many-new-orders)\*\*\*\*
+* \*\*\*\*[**Error "Balance is insufficient"**](errors-with-binance-connection.md#error-balance-is-insufficient)\*\*\*\*
+* \*\*\*\*[**Error "This listenKey does not exist"**](errors-with-binance-connection.md#error-this-listenkey-does-not-exist)\*\*\*\*
 
 ### **Error "Invalid API-key, IP, or permissions for action"**
 
@@ -63,13 +65,17 @@ This error occurs when trying to place the order. Please check your wallet balan
 
 ![](../../.gitbook/assets/image%20%28179%29.png)
 
-### "Too many new orders" error has occurred.
+### Error "Too many new orders"
 
- Limit on the number of orders set by the exchange was reached \(usually this is a limit on a particular instrument\). Maybe a limit on the instrument itself, or a limit on orders sent in a certain period \(for example, 10 orders per second - spam\).
+Limit on the number of orders has been reached \(usually this is a limit on a particular instrument\). There may be a limit on the instrument itself, or a limit on orders sent in a certain period \(for example, 10 orders per second - spam\).
 
-### "Balance is insufficient" has occurred. Not enough funds on the balance.
+### Error "Balance is insufficient"
 
- Check your wallet balance and make sure you have enough coins for the transaction.
+This error occurs when **you don't have enough funds on the balance**. Check your wallet balance and make sure you have enough coins for the transaction.
+
+### Error "This listenKey does not exist"
+
+This error occurs when a trader connects to Binance exchange with the same API Key on various platforms. Each platform must have its own API Key. **Generate a new API key for Quantower platform**.
 
 ### An error has occurred: "I can't close the position. Request was executed partially - the value of the open position is less than $5. 
 
@@ -82,8 +88,4 @@ This situation is connected with the rule of exchange Binance Futures about the 
 3. Set Stop-Loss or Take-Profit on the server-side.
 
  4. Close the order through Binance Futures website.
-
-### Error - This listenKey does not exist
-
-This error occurs when a trader connects to Binance exchange with the same API Key on various platforms. Each platform must have its own API Key. **Generate a new API key for Quantower platform**.
 

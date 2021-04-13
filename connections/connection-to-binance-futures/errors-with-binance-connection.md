@@ -1,24 +1,24 @@
 ---
 description: >-
   Here are descriptions of the most common errors when working with or
-  connecting to Binance Futures in Quantower platform
+  connecting to Binance Futures / Binance Spot in Quantower platform
 ---
 
 # Errors with Binance connection
 
-### Event Log panel
+Here is the list of the most common errors and issues with Binance Futures /Spot connections:
 
-All error messages you can see in the main menu in the Event panel 
+* \*\*\*\*[**Error "Invalid API-key, IP, or permissions for action"**](errors-with-binance-connection.md#error-invalid-api-key-ip-or-permissions-for-action)\*\*\*\*
+* \*\*\*\*[**Error "API-key format invalid"**](errors-with-binance-connection.md#error-api-key-format-invalid)\*\*\*\*
+* \*\*\*\*[**Error "Timestamp for this request was 1000ms ahead of the server's time"**](errors-with-binance-connection.md#error-timestamp-for-this-request-was-1000ms-ahead-of-the-servers-time)\*\*\*\*
+*  ****
 
-![How to start Eventlog Panel](../../.gitbook/assets/image%20%28103%29.png)
+  \*\*\*\*[**Error "Order's notional must be smaller than 5.0 \(unless you choose to reduce only\)**](errors-with-binance-connection.md#error-orders-notional-must-be-smaller-than-5-0-unless-you-choose-to-reduce-only)\*\*\*\*
 
-![This is the Event log Panel](../../.gitbook/assets/image%20%28101%29.png)
+* \*\*\*\*[**Error "Margin is insufficient"**](errors-with-binance-connection.md#error-margin-is-insufficient)\*\*\*\*
+* \*\*\*\*
 
-## Possible errors with Binance Futures / Binance Spot connection
-
-### There is an error "Api-key format invalid". 
-
-Check that your ApiKey and ApiSecret are correct.
+### **Error "Invalid API-key, IP, or permissions for action"**
 
 **"Invalid API Key"** error occurs for several reasons:
 
@@ -33,11 +33,15 @@ If you sure that everything is correct, please recreate the new keys and the pro
 
 To solve it, please check that your API Key has permissions for Futures trading. **Go to Binance official website &gt; Under your account select API management &gt; check & activate Futures Trading**
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![Activate the setting for Futures Trading](../../.gitbook/assets/image%20%2888%29.png)
 
+### Error "API key format invalid"
 
+Check that your **API Key** and **API Secret** are correct.
 
-### **"TimeStamp"** error occurs when the time on the Binance server does not match the time on the user's computer.
+### Error "Timestamp for this request was 1000ms ahead of the server's time"
+
+**"TimeStamp"** error occurs when the time on the Binance server does not match the time on the user's computer.
 
 ![Binance Futures error in Quantower - Timestamp for the request](../../.gitbook/assets/image%20%2889%29.png)
 
@@ -45,11 +49,7 @@ To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and cl
 
 ![](../../.gitbook/assets/image%20%2892%29.png)
 
-### 
-
-### Error "Order's notional must be smaller than 5.0 \(unless you choose to reduce only\).
-
- 
+### Error "Order's notional must be smaller than 5.0 \(unless you choose to reduce only\)
 
 ![](../../.gitbook/assets/image%20%28102%29.png)
 
@@ -57,9 +57,11 @@ As of February 24, 2021 the value of the perpetual futures order must be at leas
 
 Example: When opening 0.001 ETH, the value of the order is greater than $5, so it will be placed. An order for 1 ANK is worth less than $5, so it will be rejected.
 
-### "Margin is insufficient" error occurred when trying to place the order.
+### Error "Margin is insufficient"
 
- Check your wallet balance. Make sure there is enough coin to make a trade. When trading USDS-M futures on Binance Futures, the wallet account must have USDT tokens.
+This error occurs when trying to place the order. Please check your wallet balance and make sure that there is enough coin to make a trade. When trading USDS-M futures on Binance Futures, the wallet account must have USDT tokens.
+
+![](../../.gitbook/assets/image%20%28179%29.png)
 
 ### "Too many new orders" error has occurred.
 
@@ -83,5 +85,5 @@ This situation is connected with the rule of exchange Binance Futures about the 
 
 ### Error - This listenKey does not exist
 
-You are connecting to the exchange with one api on different platforms. Each platform must have its own API. Rebuild the  new API key for our platform.
+This error occurs when a trader connects to Binance exchange with the same API Key on various platforms. Each platform must have its own API Key. **Generate a new API key for Quantower platform**.
 

@@ -60,6 +60,7 @@
       * [Range bars](analytics-panels/chart/chart-types/range-bars.md)
       * [Line break](analytics-panels/chart/chart-types/line-break.md)
       * [Volume Bars](analytics-panels/chart/chart-types/volume-bars.md)
+      * [Reversal Bars](analytics-panels/chart/chart-types/reversal-bars.md)
     * [Chart Settings](analytics-panels/chart/chart-settings.md)
     * [Chart Trading](analytics-panels/chart/chart-trading.md)
     * [Chart overlays](analytics-panels/chart/chart-overlays.md)

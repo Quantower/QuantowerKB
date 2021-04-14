@@ -23,7 +23,7 @@ Quantower provides **10 chart types**:
 * \*\*\*\*[**Kagi**](https://help.quantower.com/analytics-panels/chart/chart-types/kagi)\*\*\*\*
 * \*\*\*\*[**Points & Figures**](https://help.quantower.com/analytics-panels/chart/chart-types/points-and-figures)\*\*\*\*
 * \*\*\*\*[**Volume**](volume-bars.md)\*\*\*\*
-* **Reversal**
+* \*\*\*\*[**Reversal**](reversal-bars.md)\*\*\*\*
 
 ![Chart types in Quantower](../../../.gitbook/assets/period-selector.png)
 

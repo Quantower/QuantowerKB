@@ -11,6 +11,7 @@ Here is the list of the most common errors and issues with Binance Futures /Spot
 * \*\*\*\*[**Error "Invalid API-key, IP, or permissions for action"**](errors-with-binance-connection.md#error-invalid-api-key-ip-or-permissions-for-action)\*\*\*\*
 * \*\*\*\*[**Error "API-key format invalid"**](errors-with-binance-connection.md#error-api-key-format-invalid)\*\*\*\*
 * \*\*\*\*[**Error "Timestamp for this request was 1000ms ahead of the server's time"**](errors-with-binance-connection.md#error-timestamp-for-this-request-was-1000ms-ahead-of-the-servers-time)\*\*\*\*
+* \*\*\*\*[**Error "Timestamp for this request is outside of the recvWindow"**](errors-with-binance-connection.md#error-timestamp-for-this-request-is-outside-of-the-recvwindow)\*\*\*\*
 *  ****
 
   \*\*\*\*[**Error "Order's notional must be no smaller than 5.0 \(unless you choose to reduce only\)**](errors-with-binance-connection.md#error-orders-notional-must-be-no-smaller-than-5-0-unless-you-choose-to-reduce-only)\*\*\*\*
@@ -50,6 +51,14 @@ Check that your **API Key** and **API Secret** are correct.
 To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and click on **Sync Now** button**.**
 
 ![](../../.gitbook/assets/image%20%2892%29.png)
+
+### Error "Timestamp for this request is outside of the recvWindow"
+
+![](../../.gitbook/assets/image%20%28181%29.png)
+
+The platform synchronizes time with the Binance exchange during the connection. If the desynchronization reaches a certain limit, then any \(authorized\) requests will display this error.
+
+To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and click on **Sync Now** button**.**
 
 ### Error "Order's notional must be no smaller than 5.0 \(unless you choose to reduce only\)
 

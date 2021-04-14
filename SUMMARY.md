@@ -50,7 +50,7 @@
 * [Analytics Panels](analytics-panels/README.md)
   * [Chart](analytics-panels/chart/README.md)
     * [Chart Overview](analytics-panels/chart/general-overview.md)
-    * [Chart types](analytics-panels/chart/chart-types/README.md)
+    * [Chart Types](analytics-panels/chart/chart-types/README.md)
       * [Tick chart](analytics-panels/chart/chart-types/tick-chart.md)
       * [Time aggregation](analytics-panels/chart/chart-types/time-aggregation.md)
       * [Renko](analytics-panels/chart/chart-types/renko.md)

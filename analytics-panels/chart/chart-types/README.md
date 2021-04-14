@@ -4,7 +4,7 @@ description: >-
   approach
 ---
 
-# Chart types
+# Chart Types
 
 Quantower offers a variety of chart types to help you display chart data in different formats. You can change chart type from _**Aggregation type**_ menu as shown below.
 

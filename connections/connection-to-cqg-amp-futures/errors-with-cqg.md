@@ -6,13 +6,22 @@ description: >-
 
 # Errors with CQG
 
+Here is the list of the most common errors and issues with CQG connection:
+
+* \*\*\*\*[**Error "Index was outside the bounds of the array"**](errors-with-cqg.md#error-index-was-outside-the-bounds-of-the-array)\*\*\*\*
+* \*\*\*\*[**Error "This account is only allowed to liquidate open positions"**](errors-with-cqg.md#error-this-account-is-only-allowed-to-liquidate-open-positions)\*\*\*\*
+* \*\*\*\*[**Chart Data is incorrect or has gaps**](errors-with-cqg.md#chart-data-is-incorrect-or-has-gaps)\*\*\*\*
+*  ****
+
+  \*\*\*\*[**Can not find a symbol**](errors-with-cqg.md#can-not-find-a-symbol)\*\*\*\*
+
 ## Error "Index was outside the bounds of the array"
 
 This error can occur when the Internet connection is weak, or when there is an error during loading the symbol files. _**To solve it, click Back and try to connect again.**_
 
 ![](../../.gitbook/assets/image%20%28159%29.png)
 
-## 'This account is only allowed to liquidate open positions' error
+## Error "This account is only allowed to liquidate open positions"
 
 This error occurs when trading on your account has been **restricted by a Broker or Prop trading company** due to reaching the loss limit or for other reasons. To resolve this issue, please contact your Broker or Prop trading company.
 

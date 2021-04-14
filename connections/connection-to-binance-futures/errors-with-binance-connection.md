@@ -54,7 +54,7 @@ To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and cl
 
 ### Error "Timestamp for this request is outside of the recvWindow"
 
-![](../../.gitbook/assets/image%20%28181%29.png)
+![](../../.gitbook/assets/image%20%28182%29.png)
 
 The platform synchronizes time with the Binance exchange during the connection. If the desynchronization reaches a certain limit, then any \(authorized\) requests will display this error.
 

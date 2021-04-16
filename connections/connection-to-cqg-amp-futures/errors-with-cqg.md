@@ -15,6 +15,8 @@ Here is the list of the most common errors and issues with CQG connection:
 
   \*\*\*\*[**Can not find a symbol**](errors-with-cqg.md#can-not-find-a-symbol)\*\*\*\*
 
+* **Error "Refuse: Can not route the order at this time"**
+
 ## Error "Index was outside the bounds of the array"
 
 This error can occur when the Internet connection is weak, or when there is an error during loading the symbol files. _**To solve it, click Back and try to connect again.**_

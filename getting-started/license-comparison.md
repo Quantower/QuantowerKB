@@ -55,7 +55,8 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Tick charts</td>
+      <td style="text-align:left"><a href="../analytics-panels/chart/chart-types/tick-chart.md">Tick charts</a>
+      </td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
@@ -162,7 +163,8 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left">Alerts Log panel</td>
+      <td style="text-align:left"><a href="../informational-panels/event-log.md">Event Log panel</a>
+      </td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>
@@ -170,8 +172,10 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>Access to free API for developing</p>
-        <p>custom indicators, strategies</p>
+        <p><a href="../quantower-algo/">Access to free API for developing </a>
+        </p>
+        <p><a href="../quantower-algo/">custom indicators, strategies</a>
+        </p>
       </td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>

@@ -1,3 +1,7 @@
+---
+description: Leave any question you have about our platform and we will answer it for you.
+---
+
 # Live Support
 
 If you faced any troubles or questions while using terminal feel free to ask Quantower Live support about it. You can do it several ways:

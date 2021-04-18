@@ -1,8 +1,14 @@
+---
+description: >-
+  "Exchange times" panel was developed to help trader monitor the worldwide
+  Exchanges activity periods
+---
+
 # Exchange times
 
 ## General
 
-"Exchange times" panel was developed to help trader monitor the worldwide Exchanges activity periods. Many traders are watching several Exchanges in different time zones and need to convert their local time to Exchange time and back many times.
+Many traders are watching several Exchanges in different time zones and need to convert their local time to Exchange time and back many times.
 
 ![Exchange times panel](../.gitbook/assets/exchangetimes.png)
 

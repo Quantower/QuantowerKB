@@ -1,3 +1,7 @@
+---
+description: How to export Real-Time data to Exel
+---
+
 # Excel and RTD function
 
 Start from version 1.39 Quantower supports **Real-Time Data \(RTD\)** for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to better manage your workflow. 

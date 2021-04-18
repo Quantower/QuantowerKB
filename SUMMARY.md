@@ -157,7 +157,7 @@
   * [History Exporter](miscellaneous-panels/history-exporter.md)
   * [Symbol Mapping Manager](miscellaneous-panels/symbol-mapping-manager.md)
   * [Live Support](miscellaneous-panels/live-support.md)
-  * [Market heat map](miscellaneous-panels/market-heat-map.md)
+  * [Market Heat map](miscellaneous-panels/market-heat-map.md)
   * [Stat matrix](miscellaneous-panels/stat-matrix.md)
   * [Exchange times](miscellaneous-panels/exchange-times.md)
   * [Quote Board](miscellaneous-panels/quote-board.md)

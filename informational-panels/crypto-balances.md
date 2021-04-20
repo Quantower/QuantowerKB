@@ -10,3 +10,5 @@ Crypto balances panel shows all of your coin balances list. Here you can find in
 
 There is also an info bar with total amounts of your coins in BTC & USD. By default, we hid assets with zero balances, so the list looks more clear, but you can enable the full list via the panel settings \(“Hide zero balances” option\).
 
+![Open Crypto Balances via the main menu](../.gitbook/assets/image%20%28198%29.png)
+

@@ -1,6 +1,12 @@
+---
+description: >-
+  Order History panel shows you information about your opening and closing
+  orders
+---
+
 # Orders History
 
-Order History panel shows you information about your opening and closing orders. Order History panel is related to Portfolio group of Control Center sidebar.
+ Order History panel is related to Portfolio group of Control Center sidebar.
 
 ![The common look of Order History panel](../.gitbook/assets/orderhistory.png)
 

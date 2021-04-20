@@ -12,5 +12,5 @@ In order to use Quantower features from the All-in-one package for free, you jus
 
 Added the ability to select the main and sub-accounts. Due to the specifics of the exchange API, the speed of order processing was executed with a delay of up to 5 seconds, which led to a slippage of the order and incorrect opening of orders. For example, if you work only on the Main account, the processing of orders is much faster than when you connect to multiple accounts \(Main + Sub-accounts\).
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/ftx-accounts.gif)
 

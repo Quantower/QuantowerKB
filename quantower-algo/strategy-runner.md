@@ -7,9 +7,15 @@ description: >-
 
 # Strategy runner
 
+## Video manual
+
+This video describes the process of creation of a simple automated trading strategy as well as Strategy runner operation practices
+
+{% embed url="https://www.youtube.com/watch?v=SP\_7emOq0Fk" caption="Video manual on how to backtest your code in Strategy runner panel" %}
+
 ## **General usage**
 
-Initially, this panel consists of two parts: Strategy parameters and Results.The parameters section represents the strategy operation settings and allows you to change them before launch. The Results section represents all of the information about strategy progress once it was launched. Right in the footer of the Strategy runner panel you can find the Run button, that will change to Stop after the strategy was launched.
+Initially, this panel consists of two parts: Strategy parameters and Results. The parameters section represents the strategy operation settings and allows you to change them before launch. The Results section represents all of the information about strategy progress once it was launched. Right in the footer of the Strategy runner panel you can find the Run button, which will change to Stop after the strategy was launched.
 
 ![Strategy runner panel general view](../.gitbook/assets/strategyrunner.png)
 
@@ -67,10 +73,10 @@ In case your strategy requires some additional data for analysis, you may specif
 There is also an **additional settings screen** allowing to set up some Exchange or Market-specific parameters in order to emulate the most accurate and “real” testing environment. There is a View tab, for general parameters, and Per-selected-symbol tabs, for specifying symbol-specific parameters.
 
 * **Initial balance.** This field allows you to set an initial balance of your testing account.
-* **Modelling scheme.** Here you can specify how backtester should generate quotes from source bars history:
+* **Modeling scheme.** Here you can specify how backtester should generate quotes from source bars history:
   * OHLC. For each bar 4 quotes will be generated using Open, High, Low and Close prices.
   * Open. Only one quote per bar, using Open price, will be generated.
-  * Close. Only one quote per bar, using Close price, will be generated. _Please note, that these rules can be applied only when you provide bars history as a source data for backtester. When you provide tick data, the backtester will generate a quote for each tick._
+  * Close. Only one quote per bar, using Close price, will be generated. _Please note, that these rules can be applied only when you provide bar history as source data for backtester. When you provide tick data, the backtester will generate a quote for each tick._
 * **Netting type.** This option specifies how your backtester should behave when you open multiple positions per one symbol
   * One position. All new positions will be combined with the one first opened.
   * Multiple per side. All new positions will be combined with the one first opened but separately per each trading Side.
@@ -103,17 +109,9 @@ Using an interactive mode, the backtesting process has a limited maximum speed, 
 
 ## **Risk notice**
 
-All automated trading strategies carry risk, even if the long term profitability is positive. There is no perfect system, nor is there a system that always wins. Any investment in ATS carries great risks, and the performance shown should not blind the user from those risks. It is important to note that the worst losing streak of a system is most often yet to come, and can happen when the system is active in the user's account. The market circumstances can change from the period in which the system was designed, and the system’s rules which have given positive returns in the past can start giving negative returns.
+All automated trading strategies carry risk, even if the long-term profitability is positive. There is no perfect system, nor is there a system that always wins. Any investment in ATS carries great risks, and the performance shown should not blind the user from those risks. It is important to note that the worst losing streak of a system is most often yet to come, and can happen when the system is active in the user's account. The market circumstances can change from the period in which the system was designed, and the system’s rules which have given positive returns in the past can start giving negative returns.
 
 Quantower trading platform performs the execution of orders, sent by ATS for User’s account on a "not held" basis, meaning Quantower shall not be held responsible for the execution of the order at the price indicated or otherwise; and shall not be responsible for the performance of the ATS, including any potential trading losses the user may sustain as a result of the use of the ATS.
 
 In particular, Quantower is not responsible for any damages that may result from incorrect functioning of the ATS as well as any technical problem external to the Quantower trading platform.
-
-## Video manual
-
-This video describes the process of creation of a simple automated trading strategy as well as Strategy runner operation practices
-
-{% embed url="https://www.youtube.com/watch?v=SP\_7emOq0Fk" caption="Video manual on how to backtest your code in Strategy runner panel" %}
-
-
 

@@ -1,6 +1,10 @@
+---
+description: Working orders panel displays all currently placed orders.
+---
+
 # Working Orders
 
-Working orders panel displays all currently placed orders. Once you places a new order, it appears in this panel and becomes available to be managed. Working orders panel is related to Portfolio group of Control Center sidebar.
+Once you places a new order, it appears in this panel and becomes available to be managed. Working orders panel is related to Portfolio group of Control Center sidebar.
 
 ![The common look of Working Orders panel](../.gitbook/assets/workingorders.png)
 

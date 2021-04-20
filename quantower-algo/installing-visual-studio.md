@@ -12,7 +12,7 @@ description: >-
 We recommend you to use the most basic version of **Visual Studio — the Community edition**, which is available free of charge.
 {% endhint %}
 
-You can [download Visual Studio from an official website](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&rel=16). It requires about 10 minutes to install and 2.5 Gb of free space on your hard drive.
+You can [**download Visual Studio from an official website**](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community&rel=16). It requires about 10 minutes to install and 2.5 Gb of free space on your hard drive.
 
 {% embed url="https://www.youtube.com/watch?v=CelIt\_F0Wuw" %}
 

@@ -23,3 +23,9 @@ More details you can find here [https://www.minitool.com/news/ms-gaming-overlay-
 
 ![](../.gitbook/assets/image%20%28163%29.png)
 
+## An error occurred during platform initialization: Exception has been thrown by the target of an invocation
+
+
+
+![](../.gitbook/assets/image%20%28196%29.png)
+

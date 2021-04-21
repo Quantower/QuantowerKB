@@ -4,7 +4,9 @@ description: This panel is designed to export historical data - quotes in csv fo
 
 # History Exporter
 
-## How to export hystorical data
+## How to export historical data
+
+To export historical data to an external CSV file, please open the **History Exporter panel** from the main application menu.
 
 ![](../.gitbook/assets/image%20%28184%29.png)
 

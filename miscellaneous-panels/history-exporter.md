@@ -30,7 +30,11 @@ You can add many symbols for exporting with different chart aggregation, data ty
 
 You can start loading only one selected or all symbols at once. The loading process is displayed on the status bar. If the download process takes a lot of time, you can click the **Pause** button to stop the download process. To remove a symbol from the list of tasks, click on the **Trash** icon.
 
-You can also edit the settings for a loading symbol, like the data type or loading range, by clicking on the **Gear** icon.
+You can also edit the settings for a selected symbol, like the data type or loading range, by clicking on the **Gear** icon.
+
+{% hint style="warning" %}
+You will not be able to change the settings of a task if it is already in the process of loading or paused. In this case, it must be removed from the list of tasks and re-add the required symbol with different settings.
+{% endhint %}
 
 ![](../.gitbook/assets/image%20%28195%29.png)
 

@@ -25,7 +25,7 @@ More details you can find here [https://www.minitool.com/news/ms-gaming-overlay-
 
 ## An error occurred during platform initialization: Exception has been thrown by the target of an invocation
 
-This error occurs due to the removal of the file by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform. Our developers wrote to Avast company that the file is correct and to add an exception for it. As a solution, we recommend you remove this antivirus \(completely\) and reinstall the platform.
+This error occurs due to the removal of the file by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform. Our developers wrote to Avast and AVG companies that the file is correct and to add an exception for it. As a solution, we recommend you remove this antivirus \(completely\) and reinstall the platform.
 
 ![](../.gitbook/assets/image%20%28196%29.png)
 

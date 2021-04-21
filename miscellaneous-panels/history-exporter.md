@@ -1,7 +1,7 @@
 ---
 description: >-
-  This panel is designed to export historical data in CSV format to an external
-  file.
+  This panel is designed to export historical data from a broker, exchange, or
+  data provider to an external file in CSV format.
 ---
 
 # History Exporter

@@ -54,3 +54,9 @@ By using Export data via the menu of Chart and other table panels \(Watchlist, T
 
 ![](../.gitbook/assets/image%20%28204%29.png)
 
+After clicking the **Export data** option, a setting window will appear in front of you, where you can specify the data type for export, as well as the format of the external file:
+
+![](../.gitbook/assets/image%20%28205%29.png)
+
+Once all the necessary data is selected, click on the **Export file** button and specify a name and location for saving the file.
+

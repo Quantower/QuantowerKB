@@ -37,7 +37,7 @@ This menu usually consists of the following functions:
 * \*\*\*\*[**Setup Actions**](setup-actions-and-advanced-filters.md) \(only for table panels like Watchlist, Time & Sales, Positions, Working Orders etc.\). This option allows you to set Alerts and advanced filtering to values in the table.
 * \*\*\*\*[**Export Data.**](../miscellaneous-panels/history-exporter.md#how-to-export-historical-data-via-other-panels) Saving the data from a chart or table to an external CSV file. You can save Price data, indicator values, values in tables. Also, you can use the [**HISTORY EXPORTER**](../miscellaneous-panels/history-exporter.md) panel.
 
-![](../.gitbook/assets/image%20%28206%29.png)
+![](../.gitbook/assets/image%20%28207%29.png)
 
 * **Make Screenshot.** Creates and copies a screenshot of the panel to the clipboard for its further paste into the social network.
 * **Help**. If you have questions about working with the panel or specific functionality, click on this link and you will immediately redirect to the documentation for this panel.

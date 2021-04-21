@@ -1,14 +1,18 @@
 ---
-description: This panel is designed to export historical data - quotes in csv format
+description: >-
+  This panel is designed to export historical data in CSV format to an external
+  file.
 ---
 
 # History Exporter
 
+This panel allows traders to download any available history data for any available symbol on their connection and save it in CSV format. You can use it for offline analysis in Excel or similar applications, for comparison or merge with other parts of history.
+
 ## How to export historical data
 
-To export historical data to an external CSV file, please open the **History Exporter panel** from the main application menu.
+To export historical data to an external CSV file, please open the **History Exporter panel** from the main platform menu.
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28199%29.png)
 
 This panel is located in the main menu in the misc section.
 

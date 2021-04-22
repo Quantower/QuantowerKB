@@ -15,6 +15,7 @@ Here is the list of the most common errors and issues with CQG connection:
 
   \*\*\*\*[**Can not find a symbol**](errors-with-cqg.md#can-not-find-a-symbol)\*\*\*\*
 
+* \*\*\*\*[**Error "Refuse: End of Day is not allowed for given data type"**](errors-with-cqg.md#error-end-of-day-is-not-allowed-for-given-data-type)\*\*\*\*
 * **Error "Refuse: Can not route the order at this time"**
 
 ## Error "Index was outside the bounds of the array"
@@ -47,4 +48,8 @@ Sometimes, non-market gaps can occur due to a weak Internet connection, a broken
 * If the correct symbol cannot be found even with an active exchange, it is necessary to re-download the list of symbols from the CQG servers. Open the main platform folder and clear the Temp folder where the CQG symbols are stored. Delete the entire CQG folder and reconnect.
 
 ![](../../.gitbook/assets/delete-temp-folder.gif)
+
+## Error "End of Day is not allowed for given data type"
+
+Sometimes this error occurs for new demo accounts. We recommend **contacting AMP support staff** or to support of a prop company \(like SpeedUP trader\).
 

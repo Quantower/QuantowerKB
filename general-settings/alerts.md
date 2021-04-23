@@ -20,7 +20,9 @@ In the **alert settings,** you can specify single or multiple triggers. To make 
 
 Sometimes you will have a lot of alerts. Use the Object manager to manage them. A double-click on an Alert will move you to the point on the chart where that Alert is set.You can also edit it or delete unnecessary alerts.
 
-Important: The alert will only work on an open chart. If you switch the chart on which you set the alert from one symbol to another alert will not work
+{% hint style="danger" %}
+**Important:** The alert will only work on an open chart. If you switch the chart on which you set the alert from one symbol to another alert will not work
+{% endhint %}
 
 
 

@@ -21,7 +21,7 @@ Price changes due to matching between limit and market orders:
 
 ![](../.gitbook/assets/order-matching-algorithm.png)
 
-**Order Book** shows the volume for Bids & Offers at different price levels, which can be presented as a [DOM table](../trading-panels/dom-trader.md) or as a **Heatmap** chart.
+**Order Book** shows the volume for Bids & Offers at different price levels, which can be presented as a [DOM table](../trading-panels/dom-trader/) or as a **Heatmap** chart.
 
 At any given time, new orders are placed on the market and existing orders are either changed / canceled or executed. It is very difficult to track all these changes through the DOM table, so the visual representation of this process in the form of Heatmap is more useful.
 

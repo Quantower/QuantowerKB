@@ -97,7 +97,7 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="../trading-panels/dom-trader.md">DOM Trader panel</a>
+      <td style="text-align:left"><a href="../trading-panels/dom-trader/">DOM Trader panel</a>
       </td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>

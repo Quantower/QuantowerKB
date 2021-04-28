@@ -39,3 +39,11 @@ To be 100% sure, that this file is not dangerous, you can check it manually usin
 
 As a solution, we recommend you remove Avast or AVG antiviruses \(completely\) and reinstall the platform.
 
+## An error occurred during platform initialization: Fail to load dll signatures
+
+This error can occur for several reasons:
+
+* There is **no internet connection or a weak connection**. Please check that the connection is stable with your browser.
+
+![](../.gitbook/assets/quantower-error.png)
+

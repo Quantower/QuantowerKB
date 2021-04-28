@@ -25,7 +25,17 @@ More details you can find here [https://www.minitool.com/news/ms-gaming-overlay-
 
 ## An error occurred during platform initialization: Exception has been thrown by the target of an invocation
 
-This error occurs due to the removal of the file by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform. Our developers wrote to Avast and AVG companies that the file is correct and to add an exception for it. As a solution, we recommend you remove this antivirus \(completely\) and reinstall the platform.
+This error occurs due to the removal of the file by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform. 
 
 ![](../.gitbook/assets/image%20%28196%29.png)
+
+Our developers informed Avast and AVG companies that the file CefSharp.BrowserSubprocess.exe is a part of the CefSharp library — HTML5, JavaScript and PDF supported Web browser based on Chromium Embedded Framework. It allows using web browsing services in applications to create the user interface. We use this library in our platform as well. More information about it you can read here [https://cefsharp.github.io](https://cefsharp.github.io)
+
+We don't know a reason why antivirus sometimes recognizes this file as suspicious, but if you search in google, you can see that there are already many reports from users about the same problem: [https://www.google.com/search?q=cefsharp.browsersubprocess.exe+antivirus](https://www.google.com/search?q=cefsharp.browsersubprocess.exe+antivirus) In general case antivirus developers recommend reporting a problem as false positive.
+
+To be 100% sure, that this file is not dangerous, you can check it manually using different web services like [https://www.virustotal.com](https://www.virustotal.com) They will display your results received from different antiviruses.
+
+![CefSharp.BrowserSubprocess.exe is checked by all major antiviruses](../.gitbook/assets/image%20%28214%29.png)
+
+As a solution, we recommend you remove Avast or AVG antiviruses \(completely\) and reinstall the platform.
 

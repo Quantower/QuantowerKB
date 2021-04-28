@@ -43,3 +43,11 @@ And so let's look at how to set up an alert. To do this, we need to do a few act
 Do not forget to activate the Enable Action button
 {% endhint %}
 
+### How to copy conditions of Alerts
+
+![](../.gitbook/assets/image%20%28215%29.png)
+
+You can also copy the Alert state and change only some parameters, such as the symbol and its values
+
+
+

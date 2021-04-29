@@ -31,7 +31,7 @@ Sometimes you will have a lot of alerts. Use the Object manager to manage them. 
 * From the menu of this window, select Setup Actions
 * Right-click on the desired symbol and find Alert in the menu
 
-![](../.gitbook/assets/animaciya-1-.gif)
+![](../.gitbook/assets/animaciya-3-.gif)
 
 And so let's look at how to set up an alert. To do this, we need to do a few actions. Activate the alert / Enable Action Give a name to the alert. Specify the symbol of interest. Add a condition. Select an action when the condition occurs
 

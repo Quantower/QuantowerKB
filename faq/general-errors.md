@@ -46,7 +46,7 @@ As a solution, we recommend you remove Avast or AVG antiviruses \(completely\) a
 This error can occur for several reasons:
 
 * There is **no internet connection or a weak connection**. Please check that the connection is stable with your browser.
-* The platform has not fully installed the files to work correctly. Please reinstall the platform.
+* The platform has **not fully installed the files** to work correctly. Please reinstall the platform.
 
 ![Full list of folders and files for Quantower](../.gitbook/assets/image%20%28216%29.png)
 

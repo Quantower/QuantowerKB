@@ -41,9 +41,12 @@ As a solution, we recommend you remove Avast or AVG antiviruses \(completely\) a
 
 ## An error occurred during platform initialization: Fail to load dll signatures
 
+![Quantower error &quot;Fail to load dll signatures&quot;](../.gitbook/assets/quantower-error.png)
+
 This error can occur for several reasons:
 
 * There is **no internet connection or a weak connection**. Please check that the connection is stable with your browser.
+* The platform has not fully installed the files to work correctly. Please reinstall the platform.
 
-![](../.gitbook/assets/quantower-error.png)
+![Full list of folders and files for Quantower](../.gitbook/assets/image%20%28216%29.png)
 

@@ -9,7 +9,7 @@ description: >-
 Our Referral Program allows you to earn the real money, that can be spent on buying the Quantower licenses or even be withdrawn on demand. The earning process is simple: you receive 20% from each purchase sum of your referral.
 
 {% hint style="warning" %}
-Your referral \(the person you invited\) must **register an account** in our license system **Through Your Link!**
+Your referral \(the person you invited\) must **register an account** in our license system **Through Your Link!** Otherwise, he will not be counted as your referral.
 {% endhint %}
 
 {% embed url="https://youtu.be/yJgIG0i8LM8" caption="How does Quantower Referral Program work?" %}

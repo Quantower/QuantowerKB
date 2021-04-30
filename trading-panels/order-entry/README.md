@@ -6,7 +6,7 @@ description: >-
 
 # Order Entry
 
-* Order Entry for CQG connection
+* \*\*\*\*[**Order Entry for CQG connection**](order-entry-for-cqg.md)\*\*\*\*
 * Order Entry for Rithmic connection
 * Order Entry for Binance Futures
 

@@ -15,7 +15,7 @@ Orders can be divided into 2 groups by side:
 * **Buy** order which opens a long position is sent if the trader believes in the further growth of the asset;
 * **Sell** order which opens a short position is sent if the trader believes in the further decrease of the asset.
 
-![Order&apos;s side - Buy and Sell](../../.gitbook/assets/image%20%28219%29.png)
+![Order&apos;s side - Buy and Sell](../../.gitbook/assets/image%20%28220%29.png)
 
 Quantower supports the following order types:
 

@@ -1,6 +1,16 @@
 # Order Entry for CQG
 
-![](../../.gitbook/assets/image%20%28218%29.png)
+The general view of the Order Entry panel for CQG connection is as follows, and is divided into the following categories:
+
+* Account and symbol selection
+* Order side and its quantity
+* Order parameters — type, TIF, price, Algorithmic settings
+* Brackets mode for Stop Loss & Take Profit. Multi-Brackets
+* Order placing strategies
+
+![](../../.gitbook/assets/image%20%28219%29.png)
+
+## CQG OrderTypes, Time in Force \(TIF\), Algorithmic in Quantower
 
 CQG provides various order types for trading via the Order Entry panel:
 
@@ -9,5 +19,17 @@ CQG provides various order types for trading via the Order Entry panel:
 * Stop order
 * Stop limit order
 
-![](../../.gitbook/assets/image%20%28217%29.png)
+![Order types in Quantower for CQG connection](../../.gitbook/assets/image%20%28218%29.png)
+
+**Time-in-force \(TIF\)** instructions define the length of time over which an order will continue working before it is canceled. CQG provides various TIFs:
+
+![Time in Force \(TIFs\) for CQG connection](../../.gitbook/assets/image%20%28217%29.png)
+
+* **GTC \(Good till canceled\)** — orders will remain working until they are canceled by trader or the contract expires;
+* **FOK \(or Fill or Kill\)** —  order will be canceled if it is not executed in the entire volume as soon as it becomes available;
+* **IOC \(Immediate or cancel\)** — requires that any portion of an order that is not filled as soon as it becomes available in the market is canceled;
+* **DAY** — order will be canceled if it is not executed within the current trading day;
+* **GTD \(Good till date\)** — order will remain working within the system and in the marketplace, until it executes or until the close of the market on the date specified.
+
+
 

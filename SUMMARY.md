@@ -15,6 +15,7 @@
   * [“Coinpayments” payment](getting-started/coinpayments-payment.md)
   * [Binance fresh account](getting-started/binance-fresh-account.md)
   * [Referral Program](getting-started/referral-program.md)
+  * [You have found a bug. What’s next?](getting-started/you-have-found-a-bug.-whats-next.md)
 * [General Settings](general-settings/README.md)
   * [Quantower Main Toolbar](general-settings/main-toolbar.md)
   * [Workspaces](general-settings/workspaces-binds-groups.md)

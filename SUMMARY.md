@@ -12,6 +12,7 @@
   * [Backup & restore manager](getting-started/backup-and-restore-manager.md)
   * [Reset settings to default](getting-started/reset-settings-to-default.md)
   * [Payment FAQ](getting-started/payment-faq.md)
+  * [“Coinpayments” payment](getting-started/coinpayments-payment.md)
   * [Binance fresh account](getting-started/binance-fresh-account.md)
   * [Referral Program](getting-started/referral-program.md)
 * [General Settings](general-settings/README.md)

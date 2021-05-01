@@ -21,6 +21,7 @@ Here is the list of the most common errors and issues with Binance Futures /Spot
 * \*\*\*\*[**Error "Balance is insufficient"**](errors-with-binance-connection.md#error-balance-is-insufficient)\*\*\*\*
 * \*\*\*\*[**Error "This listenKey does not exist"**](errors-with-binance-connection.md#error-this-listenkey-does-not-exist)\*\*\*\*
 * \*\*\*\*[**Error "Too much requests weight used; current limit is 1200 request weight per 1 minute. Please use the websocket for live updates to avoid polling the API"**](errors-with-binance-connection.md#error-too-much-requests-weight-used-current-limit-is-1200-request-weight-per-1-minute-please-use-the-websocket-for-live-updates-to-avoid-polling-the-api)\*\*\*\*
+* \*\*\*\*[**Error "Parameter 'start time' is invalid"**](errors-with-binance-connection.md#error-parameter-start-time-is-invalid)\*\*\*\*
 
 ### **Error "Invalid API-key, IP, or permissions for action"**
 
@@ -104,4 +105,12 @@ This situation is connected with the rule of exchange Binance Futures about the 
 ![](../../.gitbook/assets/image%20%28183%29.png)
 
 Binance has set a limit of requests for a certain time \(e.g., sending an order, requesting an instrument table\). If the limit is exceeded, an appropriate message may appear, or the IP will be banned for making requests for some time.
+
+
+
+### **Error "Parameter 'start time' is invalid"**
+
+![](../../.gitbook/assets/image%20%28221%29.png)
+
+Change the time interval of the graph of your tool to download the download of historical data
 

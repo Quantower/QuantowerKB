@@ -92,13 +92,13 @@ This error occurs when a trader connects to Binance exchange with the same API K
 
 This situation is connected with the rule of exchange Binance Futures about the minimum order volume from $5. You may close a position worth less than $5 using the following methods:
 
- 1. Buy up to minimum volume and place limit order to close position. 
+1. Buy up to minimum volume and place limit order to close position. 
 
 2. Place a pending stop order to close the position with a volume equal to the position. 
 
 3. Set Stop-Loss or Take-Profit on the server-side.
 
- 4. Close the order through Binance Futures website.
+4. Close the order through Binance Futures website.
 
 ### Error "Too much requests weight used; current limit is 1200 request weight per 1 minute. Please use the websocket for live updates to avoid polling the API"
 
@@ -106,11 +106,9 @@ This situation is connected with the rule of exchange Binance Futures about the 
 
 Binance has set a limit of requests for a certain time \(e.g., sending an order, requesting an instrument table\). If the limit is exceeded, an appropriate message may appear, or the IP will be banned for making requests for some time.
 
-
-
 ### **Error "Parameter 'start time' is invalid"**
 
 ![](../../.gitbook/assets/image%20%28221%29.png)
 
-Change the time interval of the graph of your tool to download the download of historical data
+This error does not affect the correct data loading or trading. The message appears when switching to a symbol that has not yet been loaded in the current active session.
 

@@ -22,6 +22,7 @@ Here is the list of the most common errors and issues with Binance Futures /Spot
 * \*\*\*\*[**Error "This listenKey does not exist"**](errors-with-binance-connection.md#error-this-listenkey-does-not-exist)\*\*\*\*
 * \*\*\*\*[**Error "Too much requests weight used; current limit is 1200 request weight per 1 minute. Please use the websocket for live updates to avoid polling the API"**](errors-with-binance-connection.md#error-too-much-requests-weight-used-current-limit-is-1200-request-weight-per-1-minute-please-use-the-websocket-for-live-updates-to-avoid-polling-the-api)\*\*\*\*
 * \*\*\*\*[**Error "Parameter 'start time' is invalid"**](errors-with-binance-connection.md#error-parameter-start-time-is-invalid)\*\*\*\*
+* \*\*\*\*[**Error "Signature for this request is not valid"**](errors-with-binance-connection.md#error-signature-for-this-request-is-not-valid)\*\*\*\*
 
 ### **Error "Invalid API-key, IP, or permissions for action"**
 
@@ -111,4 +112,8 @@ Binance has set a limit of requests for a certain time \(e.g., sending an order,
 ![](../../.gitbook/assets/image%20%28221%29.png)
 
 This error does not affect the correct data loading or trading. The message appears when switching to a symbol that has not yet been loaded in the current active session.
+
+### Error "Signature for this request is not valid"
+
+Usually, the error indicates that the keys are not entered correctly. It is likely that the API Key/Secret key is entered correctly, but maybe "broken". **Check if the APIKey and APISecret are entered correctly or recreate the keys.**
 

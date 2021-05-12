@@ -49,9 +49,13 @@ Please activate it and after you can connect to Binance Futures in Quantower
 
 ## How to get Full License of Quantower for free with Binance?
 
+{% hint style="danger" %}
+If you already have a binance account and it is older than **1 FEBRUARY  2021**, then you need to create a new account in order to use all the paid quantower features
+{% endhint %}
+
 First, you need to register a new account on Binance exchange, that wouldn’t be connected with any referral previously. In order to do this, please follow the [https://accounts.binance.com/en/register](https://accounts.binance.com/en/register) link and fill in the registration form.
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Please note! The Referral ID field must be empty. If you see any prefilled ID in this field you should CLEAR YOUR **REFERRAL ID** COOKIES in the browser before registration.
 {% endhint %}
 

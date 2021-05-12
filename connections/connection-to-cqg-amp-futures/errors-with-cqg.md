@@ -53,3 +53,9 @@ Sometimes, non-market gaps can occur due to a weak Internet connection, a broken
 
 Sometimes this error occurs for new demo accounts. We recommend **contacting AMP support staff** or to support of a prop company \(like SpeedUP trader\).
 
+## Error "Real-time data for instrument XXXX are not allowed"
+
+This error usually occurs for new demo accounts
+
+![](../../.gitbook/assets/image%20%28222%29.png)
+

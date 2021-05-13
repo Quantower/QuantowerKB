@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Quantower Help.](README.md)
+* [Welcome to Quantower Help](README.md)
 * [Getting Started](getting-started/README.md)
   * [What's new](getting-started/latest-version.md)
   * [Installation](getting-started/installation.md)

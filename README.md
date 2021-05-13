@@ -5,7 +5,7 @@ description: >-
   know advanced features, and more
 ---
 
-# Welcome to Quantower Help.
+# Welcome to Quantower Help
 
 
 

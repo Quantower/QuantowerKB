@@ -39,6 +39,10 @@ To be 100% sure, that this file is not dangerous, you can check it manually usin
 
 As a solution, we recommend you remove Avast or AVG antiviruses \(completely\) and reinstall the platform.
 
+Some times Kaspersky delete our files. 
+
+![](../.gitbook/assets/image%20%28223%29.png)
+
 ## An error occurred during platform initialization: Fail to load dll signatures
 
 ![Quantower error &quot;Fail to load dll signatures&quot;](../.gitbook/assets/quantower-error.png)

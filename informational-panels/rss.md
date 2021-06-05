@@ -1,10 +1,28 @@
+---
+description: >-
+  RSS panel was developed in order to allow traders watch the news feeds right
+  inside the Quantower trading application.
+---
+
 # RSS
 
-## First start
+### How to connect RSS
 
-RSS panel was developed in order to allow traders watch the news feeds right inside the Quantower trading application. This panel can be easily bond with others and also can be modified and saved as Template for further usage.
+At first go to connection manager and find RSS connection
 
-![RSS first start screen](../.gitbook/assets/rss_start.png)
+![](../.gitbook/assets/image%20%28224%29.png)
+
+### Custom RSS channel
+
+If necessary, you can add any nes source. To do this, specify a link to this source in the connection settings. Here you can see the list of currently available feeds. You can change the name or URL per each feed item. In case you would like to add a new feed, just press the **\[ + \]** button on the right top corner of feeds manager. This will add a blank row to the feeds list, where you can set up the required feed access settings.
+
+![](../.gitbook/assets/image%20%28225%29.png)
+
+
+
+This panel can be easily bond with others and also can be modified and saved as Template for further usage.
+
+![](../.gitbook/assets/image%20%28226%29.png)
 
 When you open RSS panel for the first time, you won’t have any feeds available in settings, so you will see the welcome screen where you can decide: whether you wish to set up your feeds list by yourself \(**\[FEEDS MANAGER\]** button\) or start usage by importing one of the proposed feeds.
 
@@ -14,9 +32,9 @@ If you decide to import the proposed feeds, just check the ones, you would like 
 
 In case you want to set up your personally favored feeds — use the Feeds manager \(it is situated on the corresponding tab of RSS panel settings\).
 
-![](../.gitbook/assets/rss_manager.png)
+![](../.gitbook/assets/image%20%28227%29.png)
 
-Here you can see the list of currently available feeds. You can change the name or URL per each feed item. In case you would like to add a new feed, just press the **\[ + \]** button on the right top corner of feeds manager. This will add a blank row to the feeds list, where you can set up the required feed access settings.
+
 
 {% hint style="warning" %}
 If you set up the incorrect feed URL, you will not see its news. Please be careful with providing the correct URL to RSS 2.0 feed.

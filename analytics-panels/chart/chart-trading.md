@@ -12,11 +12,19 @@ Trading with the quick trade toolbar The quick trade toolbar appears by clicking
 
 ![](../../.gitbook/assets/image%20%28156%29.png)
 
+### **How to set quanty**
+
 **Quanty** is the number of lots for a trade. Here you can set your custom values according to your risk and money management. See chart settings for how to do this.
 
-**Description Time**
+![](../../.gitbook/assets/image%20%28228%29.png)
 
-~~Bihayvor~~
+By right-clicking on this panel you can set the default number of coins to trade. You can also set standard lots for trading and switch between them with hot keys - \(1-9\) on your keyboard
+
+![](../../.gitbook/assets/image%20%28229%29.png)
+
+
+
+
 
 **Trigger** is a method of calculating your profit or loss. You can choose at the last price or at the price the broker marks
 

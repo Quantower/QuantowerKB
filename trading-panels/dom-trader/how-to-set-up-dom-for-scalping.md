@@ -6,7 +6,7 @@ description: In this article we will look at the basic doom settings for scalpin
 
 ### Refrash rate of the Dom Trader
 
-![](../../.gitbook/assets/image%20%28230%29.png)
+![](../../.gitbook/assets/image%20%28231%29.png)
 
 This setting affects how often the data will be updated in the Dom reader/ You need to experiment and find the optimal setting for your region.
 
@@ -16,7 +16,7 @@ Too frequent updates of Dom Trader can lead to significant delays in data proces
 
 ### How to set bid ask in one column
 
-![](../../.gitbook/assets/image%20%28233%29.png)
+![](../../.gitbook/assets/image%20%28234%29.png)
 
 To set bid and ask over each other use split size colums setting
 
@@ -28,13 +28,27 @@ The essence of scalping is to see **large orders in the stack** and act in the c
 
 ### How to make more visible DOM levels
 
-![](../../.gitbook/assets/image%20%28231%29.png)
+![](../../.gitbook/assets/image%20%28232%29.png)
 
 To begin with, set the number of levels to 100. You can set any value you want.
 
-![](../../.gitbook/assets/image%20%28234%29.png)
+![](../../.gitbook/assets/image%20%28235%29.png)
 
 Change the font and font size in the general view settings
+
+![](../../.gitbook/assets/image%20%28240%29.png)
+
+Next step is the set up Price Column font to arial 12 size.
+
+![](../../.gitbook/assets/image%20%28242%29.png)
+
+Set up font arial and size of it 12 for Bid and Ask column
+
+![](../../.gitbook/assets/image%20%28229%29.png)
+
+Now your Dom Trader should look like on the picture. Stretch the height of your Dom trader to the whole monitor and you will see all available information
+
+
 
 
 

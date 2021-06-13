@@ -16,7 +16,7 @@ Trading with the quick trade toolbar The quick trade toolbar appears by clicking
 
 **Quanty** is the number of lots for a trade. Here you can set your custom values according to your risk and money management. See chart settings for how to do this.
 
-![](../../.gitbook/assets/image%20%28229%29.png)
+![](../../.gitbook/assets/image%20%28230%29.png)
 
 By right-clicking on this panel you can set the default number of coins to trade. 
 
@@ -24,7 +24,7 @@ By right-clicking on this panel you can set the default number of coins to trade
 You can also set standard lots for trading and switch between them with hot keys - \(1-9\) on your keyboard
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28232%29.png)
+![](../../.gitbook/assets/image%20%28233%29.png)
 
 
 

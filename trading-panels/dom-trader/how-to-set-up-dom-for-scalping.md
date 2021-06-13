@@ -34,6 +34,10 @@ To begin with, set the number of levels to 100. You can set any value you want.
 
 ![](../../.gitbook/assets/image%20%28234%29.png)
 
+Change the font and font size in the general view settings
+
+
+
 
 
 

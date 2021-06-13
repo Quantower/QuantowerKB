@@ -18,15 +18,15 @@ Trading with the quick trade toolbar The quick trade toolbar appears by clicking
 
 ![](../../.gitbook/assets/image%20%28228%29.png)
 
-By right-clicking on this panel you can set the default number of coins to trade. You can also set standard lots for trading and switch between them with hot keys - \(1-9\) on your keyboard
+By right-clicking on this panel you can set the default number of coins to trade. 
+
+{% hint style="info" %}
+You can also set standard lots for trading and switch between them with hot keys - \(1-9\) on your keyboard
+{% endhint %}
 
 ![](../../.gitbook/assets/image%20%28229%29.png)
 
 
-
-
-
-**Trigger** is a method of calculating your profit or loss. You can choose at the last price or at the price the broker marks
 
 Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 

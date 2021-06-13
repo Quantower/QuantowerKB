@@ -8,7 +8,7 @@ description: In this article we will look at the basic doom settings for scalpin
 
 ![](../../.gitbook/assets/image%20%28231%29.png)
 
-This setting affects how often the data will be updated in the Dom reader/ You need to experiment and find the optimal setting for your region.
+This setting affects how often the **data will be updated** in the Dom reader/ You need to experiment and find the optimal setting for your region.
 
 {% hint style="warning" %}
 Too frequent updates of Dom Trader can lead to significant delays in data processing if you have a weak computer
@@ -18,7 +18,7 @@ Too frequent updates of Dom Trader can lead to significant delays in data proces
 
 ![](../../.gitbook/assets/image%20%28232%29.png)
 
-To begin with, set the number of levels to 100. You can set any value you want.
+To begin with, set the **number of levels** to 100. You can set any value you want.
 
 ![](../../.gitbook/assets/image%20%28235%29.png)
 
@@ -34,7 +34,7 @@ Set up font arial and size of it 12 for Bid and Ask column
 
 ![](../../.gitbook/assets/image%20%28229%29.png)
 
-Now your Dom Trader should look like on the picture. Stretch the height of your Dom trader to the whole monitor and you will see all available information
+Now your Dom Trader should look like on the picture. **Stretch the height** of your Dom trader to the whole monitor and you will see all available information
 
 ### How to set bid ask in one column
 

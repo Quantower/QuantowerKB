@@ -14,18 +14,6 @@ This setting affects how often the data will be updated in the Dom reader/ You n
 Too frequent updates of Dom Trader can lead to significant delays in data processing if you have a weak computer
 {% endhint %}
 
-### How to set bid ask in one column
-
-![](../../.gitbook/assets/image%20%28234%29.png)
-
-To set bid and ask over each other use split size colums setting
-
-### How to highlight large volumes in Dom trader
-
-![](../../.gitbook/assets/image%20%28211%29.png)
-
-The essence of scalping is to see **large orders in the stack** and act in the context of the market situation. Let's take a look at how I set up the Dom. And so for that let's go to the column settings and select Bids and Asks. At first I remove the gradient setting it is a little uncomfortable for my eyes.  I want to see contrasting volumes. Observe the Dom and choose really **big volumes** and specify that value in the settings
-
 ### How to make more visible DOM levels
 
 ![](../../.gitbook/assets/image%20%28232%29.png)
@@ -48,17 +36,17 @@ Set up font arial and size of it 12 for Bid and Ask column
 
 Now your Dom Trader should look like on the picture. Stretch the height of your Dom trader to the whole monitor and you will see all available information
 
+### How to set bid ask in one column
 
+![](../../.gitbook/assets/image%20%28234%29.png)
 
+To set bid and ask over each other use split size colums setting
 
+### How to highlight large volumes in Dom trader
 
+![](../../.gitbook/assets/image%20%28211%29.png)
 
-
-
-
-
-
-
+The essence of scalping is to see **large orders in the stack** and act in the context of the market situation. Let's take a look at how I set up the Dom. And so for that let's go to the column settings and select Bids and Asks. At first I remove the gradient setting it is a little uncomfortable for my eyes.  I want to see contrasting volumes. Observe the Dom and choose really **big volumes** and specify that value in the settings
 
 ### How to set coins quantity
 
@@ -69,14 +57,4 @@ Next, I specify my **standard volumes** for the trade. According to my money man
 ![](../../.gitbook/assets/image%20%28213%29.png)
 
 For **instant order management** I use quick response panel and hotkeys/ I learned some hotkeys and use keyboard to trade. For example, I quickly close a position or flip a position from buying to selling.
-
-![](../../.gitbook/assets/image%20%28228%29.png)
-
-To set bid and ask over each other use this setting
-
-
-
-
-
-
 

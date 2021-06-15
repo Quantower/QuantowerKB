@@ -52,7 +52,7 @@ Some brokers such as Binance do not allow stop orders for limit orders. \(Until 
 If you execute an order at market, the specified stop parameters will retain their values and will be set immediately.
 {% endhint %}
 
-### How to set up  double Profit and Stop orders
+### How to set up  multiple Profit and Stop orders for one position
 
 ![](../../.gitbook/assets/animaciya-4-.gif)
 

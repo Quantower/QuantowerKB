@@ -36,5 +36,28 @@ Next comes a block of buttons for **quickly placing an orde**r into the betting 
 
 Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
 
+### How to set up Profit and Stop orders
 
+{% hint style="info" %}
+Some brokers such as Binance do not allow stop orders for limit orders. \(Until the position is NOT open\) In this case, use limit orders of the opposite direction
+{% endhint %}
+
+![](../../.gitbook/assets/animaciya-3-%20%281%29.gif)
+
+* Use the Qquick Ttrade toolbar 
+* Set your values for stop loss or profit. You can also use any one parameter only. 
+* Use the button to activate the trade with the mouse to set a limit order
+
+{% hint style="warning" %}
+If you execute an order at market, the specified stop parameters will retain their values and will be set immediately.
+{% endhint %}
+
+### How to set up  double Profit and Stop orders
+
+![](../../.gitbook/assets/animaciya-4-.gif)
+
+* To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
+* Enter data for setting the first limit orders and how many lots or coins should be closed 
+* For the next stops, enter similar data on the next line.
+*  You can set orders in multiples of your total volume.
 

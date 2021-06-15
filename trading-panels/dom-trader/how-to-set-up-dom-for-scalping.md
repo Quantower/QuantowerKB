@@ -42,7 +42,7 @@ Now your Dom Trader should look like on the picture. **Stretch the height** of y
 
 To set bid and ask over each other use split size colums setting. **Close Panel DOM trader settings!**
 
-![](../../.gitbook/assets/image%20%28243%29.png)
+![](../../.gitbook/assets/image%20%28244%29.png)
 
 {% hint style="danger" %}
 Note that after applying this setting, you must close the PANEL with settings and reopen it. You will see a new BID/ASK column - this will be the general settings for this column. You may have to edit these again to improve the readability of the DOM TRader

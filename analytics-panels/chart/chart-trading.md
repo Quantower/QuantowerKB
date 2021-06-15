@@ -10,7 +10,7 @@ description: >-
 
 Trading with the quick trade toolbar The quick trade toolbar appears by clicking on the button marked on the picture. If you don't have it you should enable it from the chart settings. See here how it is [done](chart-settings.md).
 
-![](../../.gitbook/assets/image%20%28156%29.png)
+![](../../.gitbook/assets/image%20%28243%29.png)
 
 ### **How to set quanty**
 

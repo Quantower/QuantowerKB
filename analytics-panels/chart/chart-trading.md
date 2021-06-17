@@ -12,9 +12,9 @@ Trading with the quick trade toolbar The quick trade toolbar appears by clicking
 
 ![](../../.gitbook/assets/image%20%28243%29.png)
 
-### **How to set quanty**
+### **How to set quantity**
 
-**Quanty** is the number of lots for a trade. Here you can set your custom values according to your risk and money management. See chart settings for how to do this.
+**Quantity** is the number of lots for a trade. Here you can set your custom values according to your risk and money management. See chart settings for how to do this.
 
 ![](../../.gitbook/assets/image%20%28230%29.png)
 

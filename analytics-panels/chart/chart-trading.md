@@ -26,8 +26,6 @@ You can also set standard lots for trading and switch between them with hot keys
 
 ![](../../.gitbook/assets/image%20%28233%29.png)
 
-
-
 Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
 **Pricing automation**

@@ -49,5 +49,47 @@ Do not forget to activate the Enable Action button
 
 You can also copy the Alert state and change only some parameters, such as the symbol and its values
 
+### 10 steps for working with alerts on a chart
+
+{% hint style="danger" %}
+**Important:** The alert will only work on an open chart. If you switch the chart on which you set the alert from one symbol to another alert will not work
+
+To get around this limitation, we will make a 10-step pattern
+{% endhint %}
+
+1\) Create a Watchlist and add the necessary coins to it. In fact, I recommend no more than 20 coins. Better yet, only the ones that we are going to trade today or in the near term. 
+
+2\) Assign a color to this panel, I like the green. 
+
+3\) We need to have a chart on which we spend analytics, levels and alerts. Let us call it an analytical diagram. For each of it will be its own set-up as desired. 
+
+![](../.gitbook/assets/image%20%28247%29.png)
+
+4\) We need to associate the analysis chart with the Watchlis by color. In my case I chose green. 
+
+![](../.gitbook/assets/image%20%28253%29.png)
+
+5\) Create a simple chart and remove all the controls and charts from it as much as possible. Let's call it a signal chart. 
+
+6\) Synchronize the objects on the signal and analysis chart. Manually set a coin or symbol from Watclist on the Signal Chart. 
+
+![](../.gitbook/assets/image%20%28248%29.png)
+
+7\) Duplicate this signal chart as many times as there are symbols in Watclist and set other coins on them. 
+
+8\) Create a group of tabs from the resulting Signal Graphs. 
+
+![](../.gitbook/assets/image%20%28251%29.png)
+
+9\) Go to the analytical chart and analyze and set levels and alerts. All alerts must be duplicated in our group of charts for a particular coin. We check that all levels are set on the signal chart. 
+
+![](../.gitbook/assets/image%20%28250%29.png)
+
+10 Wait for the alert to trigger, evaluate the market action and earn profits
+
+{% hint style="success" %}
+So we have Watchllist for fast switching between charts. Analysis on our favorite chart and notification signals from our levels.
+{% endhint %}
+
 
 

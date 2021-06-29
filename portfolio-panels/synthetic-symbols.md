@@ -1,3 +1,10 @@
+---
+description: >-
+  Synthetic Symbols panel allows to create any non-standard instruments
+  (symbols) or spreads that you can both trade and use as an indicator of the
+  current market situation or market divergences.
+---
+
 # Synthetic Symbols
 
 ### What is Synthetic Symbols

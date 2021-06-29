@@ -4,9 +4,9 @@ description: Trades panel displays your trading history
 
 # Trades
 
-Trades panel is related to Portfolio group of Control Center sidebar.
+Trades panel shows all past trades made by a trader on all accounts. 
 
-![The common look of Trades panel](../.gitbook/assets/trades.png)
+![The common look of Trades panel](../.gitbook/assets/image%20%28258%29.png)
 
 ## Available columns
 

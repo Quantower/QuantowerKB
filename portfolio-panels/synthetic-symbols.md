@@ -47,5 +47,5 @@ For example, let's build an FX spread with multiple forex pairs \(we will use fu
 
 ![FX Spread of multiple forex pairs](../.gitbook/assets/image%20%28256%29.png)
 
-![Spread between WTI and Brent Crude Oil](../.gitbook/assets/spread-between-wti-and-brent-crude-oil.png)
+
 

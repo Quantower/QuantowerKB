@@ -69,5 +69,5 @@ This error can occur for several reasons:
 3\) Demo account expired.  
 4\) If you use a Real account, please contact your broker about this issue.
 
-![](../../.gitbook/assets/image%20%28265%29.png)
+![](../../.gitbook/assets/image%20%28266%29.png)
 

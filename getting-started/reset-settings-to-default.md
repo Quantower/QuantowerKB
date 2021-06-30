@@ -10,6 +10,7 @@ Settings folder contains all the workspaces, saved templates, as well as all the
 * How to Reset Settings of a particular panel, drawing, indicator
 * How to share your Templates, Workspaces with other traders
 * How to copy settings to other PC
+* \*\*\*\*[**How to provide Settings for developers \(for checking an issue\)**](reset-settings-to-default.md#how-to-provide-settings-for-developers-for-checking-an-issue)\*\*\*\*
 
 {% embed url="https://www.youtube.com/watch?v=n0lUFu8FNN8&t=168s" caption="Quantower Settings. How to Save, Copy, Restore, Reset" %}
 
@@ -35,4 +36,21 @@ _Rename the **Settings** folder_ \(for example, Settings1 or Settings\_old\). Af
 {% hint style="warning" %}
 Before sending your Settings to developers for checking the problem, add the full settings folder to the ZIP or RAR archive and send it to **info@quantower.com** with a brief description of your problem
 {% endhint %}
+
+### How to provide Settings for developers \(for checking an issue\)
+
+Close the platform, **Right-click** on Quantower icon, and select **Open File Location** from the context menu.
+
+![](../.gitbook/assets/screenshot_39.png)
+
+A folder with the main files of the latest \(installed\) version of the program will open.  
+_**Go to the main folder of the platform.**_
+
+![](../.gitbook/assets/screenshot_40.png)
+
+Add the entire Settings folder to the archive and send this archive to us to check the problem.
+
+![](../.gitbook/assets/image%20%28265%29.png)
+
+
 

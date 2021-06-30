@@ -16,6 +16,7 @@ Here is the list of the most common errors and issues with CQG connection:
   \*\*\*\*[**Can not find a symbol**](errors-with-cqg.md#can-not-find-a-symbol)\*\*\*\*
 
 * \*\*\*\*[**Error "Refuse: End of Day is not allowed for given data type"**](errors-with-cqg.md#error-end-of-day-is-not-allowed-for-given-data-type)\*\*\*\*
+* \*\*\*\*[**Error "Username or password is incorrect"**](errors-with-cqg.md#error-username-or-password-is-incorrect)\*\*\*\*
 * **Error "Refuse: Can not route the order at this time"**
 
 ## Error "Index was outside the bounds of the array"
@@ -58,4 +59,15 @@ Sometimes this error occurs for new demo accounts. We recommend **contacting AMP
 This error usually occurs for new demo accounts
 
 ![](../../.gitbook/assets/image%20%28222%29.png)
+
+## Error "Username or password is incorrect"
+
+This error can occur for several reasons:  
+  
+1\) Please check that you entered your Login and Password correctly.  
+2\) Please check that you use your credentials for the correct connection — Demo or Real.  
+3\) Demo account expired.  
+4\) If you use a Real account, please contact your broker about this issue.
+
+![](../../.gitbook/assets/image%20%28265%29.png)
 

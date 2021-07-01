@@ -52,5 +52,11 @@ Add the entire Settings folder to the archive and send this archive to us to che
 
 ![](../.gitbook/assets/image%20%28265%29.png)
 
+#### How to provide Log files?
+
+Moreover, for checking issues our developers can request Log Files. Please go to the **platform's main folder -&gt; Logs -&gt; Log4Net -&gt; send the latest file** or several latest files. 
+
+![](../.gitbook/assets/image%20%28267%29.png)
+
 
 

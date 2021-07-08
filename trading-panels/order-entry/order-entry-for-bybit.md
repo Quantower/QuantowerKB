@@ -60,7 +60,11 @@ You can select the order volume by specifying the amount in the quote currency a
 
 ### Quick change order amount buttons 
 
-The quick change order amount buttons will help you to change the specified amount in one click, based on your trading strategy. You can set by default any parameters you need for quick change of values. And the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
+The quick change order amount buttons will help you to change the specified amount in one click, based on your trading strategy.  It is  starts from 1 to 9 numbers on keybord.
+
+You can set by default any parameters you need for quick change of values. And the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons" 
+
+
 
 ![](../../.gitbook/assets/image%20%28275%29.png)
 

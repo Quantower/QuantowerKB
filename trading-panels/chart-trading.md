@@ -28,6 +28,19 @@ By right-clicking you can save the default order entry settings for each symbol
 
 ![](../.gitbook/assets/image%20%28230%29.png)
 
+There are two ways to enter the size of a position 
+
+* Entering an order in lots of a traded symbol or coin. 
+* Entering the amount of money planned to purchase that asset.
+
+{% hint style="danger" %}
+It is important to remember that if you use margin trading, the result is counted taking into account the leverage.
+{% endhint %}
+
+![](../.gitbook/assets/animaciya-5-.gif)
+
+ For example, at the moment you have $82 on your account and 10 leverage is set. It means that you have $820 available balance for trade. This is what you can see in the example.
+
 ### How to set up Profit and Stop orders
 
 Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
@@ -54,8 +67,6 @@ If you execute an order at market, the specified stop parameters will retain the
 * Enter data for setting the first limit orders and how many lots or coins should be closed 
 * For the next stops, enter similar data on the next line.
 *  You can set orders in multiples of your total volume.
-
-
 
 
 

@@ -8,15 +8,15 @@ description: >-
 
 ## Trading with the quick trade toolbar
 
-Trading with the quick trade toolbar The quick trade toolbar appears by clicking on the button marked on the picture. If you don't have it you should enable it from the chart settings. See here how it is [done](chart-settings.md).
+Trading with the quick trade toolbar The quick trade toolbar appears by clicking on the button marked on the picture. If you don't have it you should enable it from the chart settings. See here how it is [done](../analytics-panels/chart/chart-settings.md).
 
-![](../../.gitbook/assets/image%20%28243%29.png)
+![](../.gitbook/assets/image%20%28243%29.png)
 
 ### **How to set quantity**
 
 **Quantity** is the number of lots for a trade. Here you can set your custom values according to your risk and money management. See chart settings for how to do this.
 
-![](../../.gitbook/assets/image%20%28230%29.png)
+![](../.gitbook/assets/image%20%28230%29.png)
 
 By right-clicking on this panel you can set the default number of coins to trade. 
 
@@ -24,7 +24,7 @@ By right-clicking on this panel you can set the default number of coins to trade
 You can also set standard lots for trading and switch between them with hot keys - \(1-9\) on your keyboard
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28233%29.png)
+![](../.gitbook/assets/image%20%28233%29.png)
 
 Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
@@ -40,7 +40,7 @@ Next comes a large block of functions for managing the current position. You can
 Some brokers such as Binance do not allow stop orders for limit orders. \(Until the position is NOT open\) In this case, use limit orders of the opposite direction
 {% endhint %}
 
-![](../../.gitbook/assets/animaciya-3-%20%281%29.gif)
+![](../.gitbook/assets/animaciya-3-%20%281%29.gif)
 
 * Use the Qquick Ttrade toolbar 
 * Set your values for stop loss or profit. You can also use any one parameter only. 
@@ -52,7 +52,7 @@ If you execute an order at market, the specified stop parameters will retain the
 
 ### How to set up  multiple Profit and Stop orders for one position
 
-![](../../.gitbook/assets/animaciya-4-.gif)
+![](../.gitbook/assets/animaciya-4-.gif)
 
 * To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
 * Enter data for setting the first limit orders and how many lots or coins should be closed 

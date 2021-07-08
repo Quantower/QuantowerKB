@@ -47,7 +47,7 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="../analytics-panels/chart/chart-trading.md">Chart Trading</a>
+      <td style="text-align:left"><a href="../trading-panels/chart-trading.md">Chart Trading</a>
       </td>
       <td style="text-align:left">&#x2714;</td>
       <td style="text-align:left">&#x2714;</td>

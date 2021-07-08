@@ -57,6 +57,14 @@ The general view of DOM Trader settings menu has the following subsections. Let'
 * **Custom title.** You can rename the DOM Trader panel as you wish.
 * **Refresh rate \(ms\)** controls the rate at which market data is updated. This determines how often the platform processes changes in depth of market. With a value of 1, all changes to the level2 data will be processed immediately. We recommend using value 50. 
 * **Use custom tick size.** 
+
+There are two ways to change the aggregation of ticks in the DOM trader 
+
+1. Press CTRL + and spin the mouse wheel 
+2. Set the parameter manually in the panel settings
+
+![](../../.gitbook/assets/animaciya-7-.gif)
+
 * **Short price format**
 * **Split size columns.** A mode that allows you to place Ask and Bid volume on one or different sides of the Size column;
 * **Custom session.** This item is for selecting trading sessions for Volume Analysis data primarily.

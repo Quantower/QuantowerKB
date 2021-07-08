@@ -2,13 +2,13 @@
 
 The general view of the Order Entry panel for CQG connection is as follows, and is divided into the following categories:
 
-* Account and symbol selection
+* Account and symbol selection -  **The same as for the general pane**
 * Order side and its quantity
 * Order parameters — type, TIF, price, Algorithmic settings
 * Brackets mode for Stop Loss & Take Profit. Multi-Brackets
 * Order placing strategies
 
-![](../../.gitbook/assets/image%20%28219%29.png)
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 ## CQG OrderTypes, Time in Force \(TIF\), Algorithmic in Quantower
 

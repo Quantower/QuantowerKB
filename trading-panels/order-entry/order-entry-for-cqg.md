@@ -3,12 +3,22 @@
 The general view of the Order Entry panel for CQG connection is as follows, and is divided into the following categories:
 
 * Account and symbol selection -  **The same as for the general pane**
-* Order side and its quantity
+* Order side and its quantity -         **The same as for the general pane**
 * Order parameters — type, TIF, price, Algorithmic settings
 * Brackets mode for Stop Loss & Take Profit. Multi-Brackets
 * Order placing strategies
 
 ![](../../.gitbook/assets/image%20%28270%29.png)
+
+### How to set up traling order
+
+AMP/CQG support **server-side trailing orders**. To set such an order you must Select order type select TRAIL item in Algorithmic trading Specify the parameters of this Price and the offset for the movement
+
+
+
+![](../../.gitbook/assets/animaciya-8-.gif)
+
+
 
 ## CQG OrderTypes, Time in Force \(TIF\), Algorithmic in Quantower
 

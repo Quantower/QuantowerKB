@@ -1,3 +1,7 @@
+---
+description: This panel was for entering crypto orders only
+---
+
 # Crypto Order Entry
 
 {% hint style="danger" %}

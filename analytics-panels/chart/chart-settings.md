@@ -93,6 +93,24 @@ This tab allows you to include settings to display the current position on the c
 
 ![](../../.gitbook/assets/image%20%28117%29.png)
 
+![](../../.gitbook/assets/image%20%28269%29.png)
+
+**Show positions**. This option allows you to enable or disable the display of current positions on the chart.
+
+![](../../.gitbook/assets/animaciya-4-%20%281%29.gif)
+
+The **Pnl** type allows you to choose the display of profit/loss on an open position in ticks or currency.
+
+{% hint style="info" %}
+The **Pnl** type allows you to choose to display the position in currency only for those connections where this option exists.
+{% endhint %}
+
+**Show orders**. The option allows you to enable or disable the display of work orders on the chart. 
+
+**Trade through Order entry panel**. If this option is enabled, mouse trade mode will be disabled, and when the mouse clicks on the chart, the associated order entry panel for this quote will automatically open. The mouse trade mode is the same as : clicking the right mouse button will open a panel for entering a limit order for a "Sell" deal at the marked price on the chart; click the left mouse button to open the panel for entering a limit order for a "Buy" deal at the marked price on the chart;
+
+
+
 ## Order entry
 
 These are the settings of the order entry panel. The most interesting thing here is that you can set the standard number of entry orders which correspond to your risks. This is very convenient for manual trading. 
@@ -100,6 +118,14 @@ These are the settings of the order entry panel. The most interesting thing here
 [How to use the order entry panel read here](../../trading-panels/order-entry/)
 
 ![](../../.gitbook/assets/image%20%28115%29.png)
+
+**Mouse trading mode**. There are two modes available to choose from:
+
+**single order/position**. Once the order is set, the mouse trading mode is automatically disabled.
+
+**multiple orders/positions**. Mouse trading mode will be active until it is deactivated.
+
+![](../../.gitbook/assets/image%20%28270%29.png)
 
 ## Info Window
 

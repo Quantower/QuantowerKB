@@ -93,7 +93,7 @@ This tab allows you to include settings to display the current position on the c
 
 ![](../../.gitbook/assets/image%20%28117%29.png)
 
-![](../../.gitbook/assets/image%20%28269%29.png)
+![](../../.gitbook/assets/image%20%28275%29.png)
 
 **Show positions**. This option allows you to enable or disable the display of current positions on the chart.
 
@@ -125,7 +125,7 @@ These are the settings of the order entry panel. The most interesting thing here
 
 **multiple orders/positions**. Mouse trading mode will be active until it is deactivated.
 
-![](../../.gitbook/assets/image%20%28270%29.png)
+![](../../.gitbook/assets/image%20%28276%29.png)
 
 ## Info Window
 

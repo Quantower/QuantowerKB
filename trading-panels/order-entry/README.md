@@ -7,8 +7,17 @@ description: >-
 # Order Entry
 
 * \*\*\*\*[**Order Entry for CQG connection**](order-entry-for-cqg.md)\*\*\*\*
+* \*\*\*\*[**Order Entry for Bybit connection**](order-entry-for-bybit.md)\*\*\*\*
 * Order Entry for Rithmic connection
 * Order Entry for Binance Futures
+
+### How to open the Order Entry panel?
+
+Open the main menu by clicking the logo and in the **Trading section** click on the OE icon.
+
+![Open Order Entry panle in general menu](../../.gitbook/assets/oe-general.png)
+
+
 
 ### General info
 
@@ -22,13 +31,7 @@ The entire panel is conventionally divided into several zones:
 * setting the required order quantity and the order side \(Buy or Sell\);
 * choice of order type, its price and TIF condition;
 * setting of stop loss and take profit prices;
-* information on current Ask and Bid prices, spread size, VWAP prices, as well as an order placement button.
-
-### How to open the Order Entry panel?
-
-Open the main menu by clicking the logo and in the **Trading section** click on the OE icon.
-
-![Open Order Entry panle in general menu](../../.gitbook/assets/oe-general.png)
+* information on current Ask and Bid prices, spread size, VWAP prices, as well as an order placement button
 
 
 

@@ -14,7 +14,7 @@ description: >-
 
 Order Entry panel allows to create trading orders with different conditions, such as order quantity, price, side, order type, and submit them on the market. From the Order Entry panel, you can supply all of the necessary information for order and easily submit it by clicking the appropriate action button.
 
-![General view of Order Entry panel](../../.gitbook/assets/order-entry-panel-in-quantower-platfrom.png)
+![](../../.gitbook/assets/animaciya-6-.gif)
 
 The entire panel is conventionally divided into several zones:
 

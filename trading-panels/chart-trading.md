@@ -16,25 +16,21 @@ Trading with the quick trade toolbar The quick trade toolbar appears by clicking
 
 **Quantity** is the number of lots for a trade. Here you can set your custom values according to your risk and money management. See chart settings for how to do this.
 
-![](../.gitbook/assets/image%20%28230%29.png)
-
-By right-clicking on this panel you can set the default number of coins to trade. 
-
-{% hint style="info" %}
+{% hint style="warning" %}
 You can also set standard lots for trading and switch between them with hot keys - \(1-9\) on your keyboard
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%28233%29.png)
 
-Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
+**Hidden menu in quick order panel** 
 
-**Pricing automation**
+By right-clicking you can save the default order entry settings for each symbol
 
-Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
-
-Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
+![](../.gitbook/assets/image%20%28230%29.png)
 
 ### How to set up Profit and Stop orders
+
+Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
 {% hint style="info" %}
 Some brokers such as Binance do not allow stop orders for limit orders. \(Until the position is NOT open\) In this case, use limit orders of the opposite direction
@@ -58,4 +54,12 @@ If you execute an order at market, the specified stop parameters will retain the
 * Enter data for setting the first limit orders and how many lots or coins should be closed 
 * For the next stops, enter similar data on the next line.
 *  You can set orders in multiples of your total volume.
+
+
+
+
+
+Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
+
+Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
 

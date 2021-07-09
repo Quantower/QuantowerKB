@@ -10,10 +10,28 @@ Bybit - exchange for trading perpetual derivative contracts on cryptocurrencies 
 
 In this article we will show: 
 
-* General view of the OE \(Order Entry\) panel for Bybit 
-* How to create a Bybit order from the OE \(Order Entry\) panel 
-* Selecting a symbol and an account and a trading account; 
-* Select order volume Order parameters - type, TIF, price, TP \(take profit\) and SL \(stop limit\) of the order
+**How to create a Bybit order from the OE \(Order Entry\) panel** 
+
+* General view of the OE \(Order Entry\) panel for Bybit
+* Selecting a symbol and a trading account;
+*  Select order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) of the order
+
+**How to create a Bybit order from the quick trade panel from a chart** 
+
+* General view of Bybit quick trade panel from a chart 
+* Order volume selection 
+* Buttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders
+
+Entry of orders on the Quantower platform can be made in different ways, depending on the selected trading style: 
+
+* from the Order Entry panel \(OE \) from the Quick Trader's panel from the chart trading mode with a mouse, visual trading. 
+* Quick order placement through the chart area with a mouse. By setting up and trading from the hotkeys.
+
+
+
+
+
+
 
 ## General view of the OE \(Order Entry\) panel for the Bybit exchange
 

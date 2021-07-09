@@ -66,7 +66,7 @@ The entire panel is conventionally divided into several **zones**:
 
  Bybit exchange allows users to calculate possible risks even **before opening a transaction \(!\)** and users can set their goals - TP \(Take Profit\) and limit losses with SL order \(Stop Loss\), simultaneously with order entry into position. To do this, on the order entry panel at the same time as setting an order, you can immediately set the necessary parameters TP and SL
 
-![](../../.gitbook/assets/image%20%28283%29.png)
+![](../../.gitbook/assets/image%20%28284%29.png)
 
 ### How to create a Bybit order from the quick order entry panel from the chart 
 
@@ -103,5 +103,5 @@ You can select the order volume by specifying the amount in the quote currency a
 
 The quick change order amount buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
 
-
+![](../../.gitbook/assets/image%20%28283%29.png)
 

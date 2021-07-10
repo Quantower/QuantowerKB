@@ -118,7 +118,7 @@ Buttons can change not only to a given amount of position, but also apply any fo
 
 Time-in-Force \(TIF\) parameters determine the length of time an order will continue to run before it is canceled. Bybit provides a variety of TIFs:
 
-![](../../.gitbook/assets/image%20%28287%29.png)
+![](../../.gitbook/assets/image%20%28288%29.png)
 
 * GTC \(Good Until Cancelled\) - Orders will work until they are cancelled by the trader or the contract expires; 
 * FOK \(or Fill or Kill\) - the order will be canceled if it is not executed in full as soon as it becomes available; I

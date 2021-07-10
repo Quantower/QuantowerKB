@@ -103,3 +103,47 @@ The quick change order amount buttons will help you change the specified volume 
 
 ![](../../.gitbook/assets/chart-settings-2021-07-10-11.49.07%20%281%29.png)
 
+You can set standard values of the order amount, which corresponds to your risks. This is very convenient for manual trading.
+
+{% hint style="success" %}
+Buttons can change not only to a given amount of position, but also apply any formulas
+{% endhint %}
+
+![](../../.gitbook/assets/animaciya-10-.gif)
+
+### Order parameters - type, TIF, price, algorithmic settings
+
+Time-in-Force \(TIF\) parameters determine the length of time an order will continue to run before it is canceled. Bybit provides a variety of TIFs:
+
+![](../../.gitbook/assets/image%20%28287%29.png)
+
+* GTC \(Good Until Cancelled\) - Orders will work until they are cancelled by the trader or the contract expires; 
+* FOK \(or Fill or Kill\) - the order will be canceled if it is not executed in full as soon as it becomes available; I
+* OC \(Immediately or Cancel\) - requires that any part of the order that has not been executed as soon as it becomes available in the market will be canceled;
+
+### Post-Only
+
+ When the "Post-Only" option is checked, the order is not executed as a Taker operation, and therefore a Maker's fee is earned when the order is executed. The order "Post-Only" is automatically cancelled if it can be executed immediately against an existing order in the market.
+
+### Reduce-Only 
+
+Used to reduce the size of a position and does not increase its size. 
+
+### TP \(Take Profit\) and SL Stop Limit \(Stop Loss\) orders 
+
+Bybit allows users to calculate potential risks before opening a position \(!\) and users can set their objectives as TP \(Take Profit\) and SL \(Stop Loss\) orders, simultaneously with an order to enter the position. To do this, on the order entry panel at the same time as setting an order, you can immediately set the necessary parameters **TP and SL**
+
+![](../../.gitbook/assets/image%20%28286%29.png)
+
+{% hint style="success" %}
+After placing the position, TP and SL can be changed according to the situation directly from the chart by moving the mouse to new levels:
+{% endhint %}
+
+
+
+![](https://gblobscdn.gitbook.com/assets%2F-M__G3zsA7jr_pKwIdiz%2F-McD_QwL-lRHN-5um-7w%2F-McDfC-w_k3YXQVrVXEV%2F%D1%81%D1%82%D0%BE%D0%BF%20%D0%B8%20%D1%82%D0%B5%D0%B9%D0%BA%20%D0%B1%D0%B0%D0%B9%D0%B1%D0%B8%D1%82.gif?alt=media&token=daf20a92-ff2f-4aef-834a-cea4a36cedca)
+
+Next comes a large **block of functions for managing the current position**. You can delete or limit orders or stops. You can also reverse your position with a single button or set a lossless position. These are very functional buttons, do not miss them. 
+
+More detailed settings with trading examples and additional conditions in the ByBit exchange's own "order execution " section
+

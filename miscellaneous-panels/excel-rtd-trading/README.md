@@ -6,6 +6,8 @@ description: How to export Real-Time data to Exel
 
 Start from version 1.39 Quantower supports **Real-Time Data \(RTD\)** for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to better manage your workflow. 
 
+
+
 RTD is a newer protocol that offers several advantages over DDE, including more flexibility and better performance and reliability.
 
 We prepared the spreadsheet that outlines the basic syntax of RTD formulas with details more complex formulas. Included is a collection of popular RTD formulas, which you can simply copy and paste into your own spreadsheet. [**Download the sample file**](https://updates.quantower.com/misc/RTD/rtd_samples.xlsx)**.**
@@ -65,6 +67,16 @@ RTD formula uses the following basic structure:
 
 {% hint style="info" %}
 The second parameter is the name of the external server running the RTD Server. As the Quantower RTD Server always runs locally, you must omit a value for the second parameter or supply an empty string \(“”\). However, you must account for the parameter in the formula.
+{% endhint %}
+
+### Examples of the most popular RTD formulas with description 
+
+Examples of the most popular RTD formulas are described below with description of the basic syntax by the example of Binance exchange. Using them, you can get exactly the data you need for analysis and paste into your spreadsheet. You can also download these examples from this Excel file.
+
+### 1.GetSymbolInfo - information about a specific symbol
+
+{% hint style="success" %}
+Provides access to specific symbol information such as Description, ExchangeName, NettingType and others. You can simply copy/paste this formula for use in Excel files or get it directly from the Symbol Information panel for the selected symbol. Right-click on the panel and select the menu option: "Copy RTD Formula" -&gt; "Value".
 {% endhint %}
 
 ## **Frequently Asked Questions**

@@ -1,12 +1,15 @@
 ---
-description: Отличия и особенности панелей ввода ордеров для Bybit
+description: >-
+  How to create an order on Bybit exchange from the OE (order entry) panel and
+  the quick trade panel from the chart. Differences and features of order entry
+  panels for Bybit
 ---
 
 # Order entry for Bybit
 
 Bybit - exchange for trading perpetual derivative contracts on cryptocurrencies with a leverage up to x100. Minimum contract from $1
 
-In this article we will show: 
+**In this article we will show:** 
 
 **How to create a Bybit order from the OE \(Order Entry\) panel** 
 

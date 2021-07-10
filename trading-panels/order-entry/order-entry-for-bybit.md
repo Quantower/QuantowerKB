@@ -10,16 +10,16 @@ In this article we will show:
 
 **How to create a Bybit order from the OE \(Order Entry\) panel** 
 
-* How to open the Order Entry panel
-* General view of the OE \(Order Entry\) panel for Bybit
-* Selecting a symbol and a trading account;
-*  Select order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) of the order
+* [How to open the Order Entry panel](order-entry-for-bybit.md#how-to-open-the-order-entry-panel)
+* [General view of the OE \(Order Entry\) panel for Bybit](order-entry-for-bybit.md#general-view-of-the-oe-order-entry-panel-for-the-bybit-exchange)
+* [Selecting a symbol and a trading account;](order-entry-for-bybit.md#selecting-a-symbol-and-an-account-and-a-trading-account)
+*  [Select order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) of the order](order-entry-for-bybit.md#select-order-volume)
 
 **How to create a Bybit order from the quick trade panel from a chart** 
 
-* General view of Bybit quick trade panel from a chart 
-* Order volume selection 
-* Buttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders
+* [General view of Bybit quick trade panel from a chart ](order-entry-for-bybit.md#general-view-of-the-quick-trade-panel-from-the-chart-for-bybit)
+* [Order volume selection](order-entry-for-bybit.md#order-volume-selection) 
+* [Buttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders](order-entry-for-bybit.md#quick-change-order-amount-buttons)
 
 Entry of orders on the Quantower platform can be made in different ways, depending on the selected trading style: 
 

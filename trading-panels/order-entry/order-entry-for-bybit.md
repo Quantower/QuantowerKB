@@ -20,7 +20,7 @@ description: >-
 * \*\*\*\*[**Order volume selection**](order-entry-for-bybit.md#order-volume-selection)
 * \*\*\*\*[**Buttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders**](order-entry-for-bybit.md#quick-change-order-amount-buttons)\*\*\*\*
 
-Entry of orders on the Quantower platform can be made in different ways, depending on the selected trading style: 
+Placing orders on the Quantower platform can be done in two ways:
 
 * from the Order Entry panel \(OE \) from the Quick Trader's panel from the chart trading mode with a mouse, visual trading. 
 * Quick order placement through the chart area with a mouse. By setting up and trading from the hotkeys.

@@ -8,14 +8,26 @@ description: >-
 
 Entry of orders on the Quantower platform on the exchanges can be done in different ways, depending on the chosen trading style: 
 
-* From the quick trading panel 
+Quick trading panel 
+
 * How to open  quick trade toolbar
 * How to set up Account in quick trade toolbar
-* How to set volume
-* Mouse trading
+* How to set the position volume and volume input buttons
+* Buttons for fast change of order volume 
+* Order parameters - type, TIF, price, algorithmic,
+* Settings for set up TP \(take profit\) and SL stop limit \(stop loss\) orders
+
+Quick order entry
+
+Mouse trading
+
 * From the chart trading mode with the mouse, visual trading.
 * Quick order placement through the chart area with a mouse.
-* *  By setting up and trading from the hotkeys.
+* How to set up many limit orders
+
+Keyboard trading
+
+* Setting and trading from the hotkeys.
 
 ## Trading with the quick trade toolbar
 

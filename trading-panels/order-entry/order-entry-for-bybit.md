@@ -17,48 +17,46 @@ Placing of orders on the Quantower platform can be done in several ways:
 
 * \*\*\*\*[**How to open the Order Entry panel**](order-entry-for-bybit.md#how-to-open-the-order-entry-panel)\*\*\*\*
 * [**General view of the OE \(Order Entry\) panel for Bybit**](order-entry-for-bybit.md#general-view-of-the-oe-order-entry-panel-for-the-bybit-exchange)\*\*\*\*
-* \*\*\*\*[**Selecting a symbol and trading account**](order-entry-for-bybit.md#selecting-a-symbol-and-an-account-and-a-trading-account)\*\*\*\*
 * [**Order parameters — Type, Price, Quantity, TP \(take profit\) and SL \(stop loss\)**](order-entry-for-bybit.md#select-order-volume)\*\*\*\*
 
 ### **How to place an order from the Chart trading sidebar**
 
 * \*\*\*\*[**General view of Chart Trading Sidebar**](order-entry-for-bybit.md#general-view-of-the-quick-trade-panel-from-the-chart-for-bybit)\*\*\*\*
-* \*\*\*\*[**Order volume selection**](order-entry-for-bybit.md#order-volume-selection)
-* \*\*\*\*[**Buttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders**](order-entry-for-bybit.md#quick-change-order-amount-buttons)\*\*\*\*
+* [**Order quantity selection**](order-entry-for-bybit.md#order-volume-selection)
+* \*\*\*\*[**Quick order quantity buttons**](order-entry-for-bybit.md#quick-change-order-amount-buttons)
+* [**uttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders**](order-entry-for-bybit.md#quick-change-order-amount-buttons)\*\*\*\*
 
 ### How to open the Order Entry panel?
 
 Open the main menu by clicking the logo and in the **Trading section** click on the OE icon.
 
-![Open Order Entry panle in general menu](../../.gitbook/assets/oe-general.png)
+![Open Order Entry panel in general menu](../../.gitbook/assets/oe-general.png)
 
 ## General view of the OE \(Order Entry\) panel for the Bybit exchange
 
-![](../../.gitbook/assets/oe-baibit.jpg)
-
-The order entry panel allows you to create trade orders with different conditions, such as number of orders, price, side, order type, and send them to the market. On the order entry panel, you can provide all the necessary information for the order and easily submit it by clicking the appropriate action button
+![Order Entry panel for Bybit exchange](../../.gitbook/assets/image%20%28291%29.png)
 
 The entire panel is conventionally divided into several **zones**:
 
 * choice of trading instrument and trading account;
-* setting the required order quantity and the order side \(Buy or Sell\);
-* choice of order type, its price and TIF condition;
-* setting of stop loss and take profit prices;
-* information on current Ask and Bid prices, spread size, VWAP prices, as well as an order placement button
+* setting the required order type, TIF condition, order quantity, and the order side \(Buy or Sell\);
+* setting of the order price, stop loss and take profit prices;
+* order placing strategy for advanced trading algorithms
+* information on current Ask and Bid prices, spread size, as well as an order placement button
 
-### Selecting a symbol and an account and a trading account
+### Selection of Order Type, Time if Force and Order Quantity
 
- You can select a trading instrument manually through the Symbol Search or by linking a panel to other panels, such as a chart. Simply select the same color of link on the two panels and they will have a synchronized symbol option. 
+Bybit exchange provides 3 main order types: **Market, Limit, Conditional orders**.
 
-### Select Order Volume
+![](../../.gitbook/assets/image%20%28290%29.png)
 
- You can enter an order volume by specifying the amount in the currency of the quote and as a percentage of the available margin. There are three ways to do this, as described below:
+You can enter an order volume by specifying the amount in the currency of the quote and as a percentage of the available margin. There are three ways to do this, as described below:
 
 * Enter the desired amount of coins/lots based on the selected trading pair;
 * Enter the total amount of the order. This field is very useful when you need to quickly specify the amount of entry into the transaction immediately in the currency of the balance, without recalculating the number of coins on the exchange rate; 
 * Select with the slider the order amount in % of the total maximum available balance taking into account the set leverage.
 
-![](../../.gitbook/assets/image%20%28282%29.png)
+
 
 ### TP and SL orders from the OE panel \(order entry\)
 

@@ -7,6 +7,12 @@ description: >-
 
 # Order entry for Bybit
 
+Placing of orders on the Quantower platform can be done in several ways:
+
+* using the Order Entry panel \(OE\)
+* Quick order placement through the chart area with a mouse \(visual trading\)
+* via [**DOM Trader panel**](../dom-trader/)\*\*\*\*
+
 ### **How to place an order from the OE \(Order Entry\) panel**
 
 * \*\*\*\*[**How to open the Order Entry panel**](order-entry-for-bybit.md#how-to-open-the-order-entry-panel)\*\*\*\*
@@ -19,11 +25,6 @@ description: >-
 * \*\*\*\*[**General view of Chart Trading Sidebar**](order-entry-for-bybit.md#general-view-of-the-quick-trade-panel-from-the-chart-for-bybit)\*\*\*\*
 * \*\*\*\*[**Order volume selection**](order-entry-for-bybit.md#order-volume-selection)
 * \*\*\*\*[**Buttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders**](order-entry-for-bybit.md#quick-change-order-amount-buttons)\*\*\*\*
-
-Placing orders on the Quantower platform can be done in two ways:
-
-* from the Order Entry panel \(OE \) from the Quick Trader's panel from the chart trading mode with a mouse, visual trading. 
-* Quick order placement through the chart area with a mouse. By setting up and trading from the hotkeys.
 
 ### How to open the Order Entry panel?
 

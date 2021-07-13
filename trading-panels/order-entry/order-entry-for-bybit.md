@@ -104,7 +104,7 @@ You can select the order volume by specifying the amount in the quote currency a
 
 The quick change order amount buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
 
-![](../../.gitbook/assets/chart-settings-2021-07-10-11.49.07%20%281%29.png)
+![](../../.gitbook/assets/kolvo.jpg)
 
 You can set standard values of the order amount, which corresponds to your risks. This is very convenient for manual trading.
 
@@ -112,7 +112,7 @@ You can set standard values of the order amount, which corresponds to your risks
 Buttons can change not only to a given amount of position, but also apply any formulas
 {% endhint %}
 
-![](../../.gitbook/assets/animaciya-10-.gif)
+![](../../.gitbook/assets/vvod-baibit-ordera-kolvo.gif)
 
 ### Order parameters - type, TIF, price, algorithmic settings
 

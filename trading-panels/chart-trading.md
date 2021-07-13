@@ -8,11 +8,14 @@ description: >-
 
 Entry of orders on the Quantower platform on the exchanges can be done in different ways, depending on the chosen trading style: 
 
-* from the Order Entry Panel \(OE \) 
-* from the quick trading panel 
-* from the chart trading mode with the mouse, visual trading.
+* From the quick trading panel 
+* How to open  quick trade toolbar
+* How to set up Account in quick trade toolbar
+* How to set volume
+* Mouse trading
+* From the chart trading mode with the mouse, visual trading.
 * Quick order placement through the chart area with a mouse.
-*  By setting up and trading from the hotkeys.
+* *  By setting up and trading from the hotkeys.
 
 ## Trading with the quick trade toolbar
 

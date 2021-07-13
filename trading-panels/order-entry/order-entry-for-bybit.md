@@ -37,7 +37,7 @@ Open the main menu by clicking the logo and in the **Trading section** click on 
 
 ## General view of the OE \(Order Entry\) panel for the Bybit exchange
 
-![](../../.gitbook/assets/image%20%28273%29.png)
+![](../../.gitbook/assets/oe-baibit.jpg)
 
 The order entry panel allows you to create trade orders with different conditions, such as number of orders, price, side, order type, and send them to the market. On the order entry panel, you can provide all the necessary information for the order and easily submit it by clicking the appropriate action button
 

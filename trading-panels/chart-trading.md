@@ -15,6 +15,7 @@ Quick trading panel
 * **Slider to enter the volume of the position in dollars**
 * **How to set up Profit and Stop orders**
 * **How to set up  multiple Profit and Stop orders for one position**
+* A set of buttons for quick order and position management
 
 Quick order entry
 
@@ -96,11 +97,13 @@ If you execute an order at market, the specified stop parameters will retain the
 * To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
 * Enter data for setting the first limit orders and how many lots or coins should be closed 
 * For the next stops, enter similar data on the next line.
-*  You can set orders in multiples of your total volume.
+*  You can set orders in multiples of your total volume
 
+### A set of buttons for quick order and position management
 
+1. Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
 
-Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
+![](../.gitbook/assets/image%20%28292%29.png)
 
-Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
+2.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
 

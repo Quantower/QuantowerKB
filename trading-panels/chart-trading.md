@@ -128,8 +128,6 @@ To access the quick trade toolbar, click the button in the upper right corner. I
 
 ![](../.gitbook/assets/animaciya-1-%20%281%29.gif)
 
-
-
 ### How to set volume quantity
 
 {% hint style="warning" %}

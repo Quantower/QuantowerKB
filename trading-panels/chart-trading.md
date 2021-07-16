@@ -12,9 +12,9 @@ Quick trading panel
 
 * How to open  quick trade toolbar
 * Quick change order amount buttons and formulas in it
-* **Slider to enter the volume of the position in dollars**
-* **How to set up Profit and Stop orders**
-* **How to set up  multiple Profit and Stop orders for one position**
+* Slider to enter the volume of the position in dollars
+* How to set up Profit and Stop orders
+* How to set up  multiple Profit and Stop orders for one position
 * A set of buttons for quick order and position management
 
 Quick order entry

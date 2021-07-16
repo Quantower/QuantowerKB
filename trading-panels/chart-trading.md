@@ -162,5 +162,5 @@ To access the quick trade toolbar, click the button in the upper right corner. I
 
 ![](../.gitbook/assets/image%20%28293%29.png)
 
-
+You can set your own values for the hot buttons in the chart settings
 

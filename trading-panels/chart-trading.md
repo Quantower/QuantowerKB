@@ -11,7 +11,6 @@ Entry of orders on the Quantower platform on the exchanges can be done in differ
 Quick trading panel 
 
 * How to open  quick trade toolbar
-* How to set up Account in quick trade toolbar
 * How to set the position volume and volume input buttons
 * Buttons for fast change of order volume 
 * Order parameters - type, TIF, price, algorithmic,
@@ -36,12 +35,6 @@ Keyboard trading
 To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../analytics-panels/chart/chart-settings.md)
 
 ![](../.gitbook/assets/animaciya-.gif)
-
-## Trading with the quick trade toolbar
-
-Trading with the quick trade toolbar The quick trade toolbar appears by clicking on the button marked on the picture. If you don't have it you should enable it from the chart settings. See here how it is [done](../analytics-panels/chart/chart-settings.md).
-
-![](../.gitbook/assets/image%20%28243%29.png)
 
 ### **How to set quantity**
 

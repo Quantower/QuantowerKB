@@ -19,6 +19,10 @@ Quick trading panel
 
 Quick order entry
 
+* How to open Quick order entry
+* How to set volume quantity
+* Other features
+
 Mouse trading
 
 * From the chart trading mode with the mouse, visual trading.
@@ -106,4 +110,28 @@ If you execute an order at market, the specified stop parameters will retain the
 ![](../.gitbook/assets/image%20%28292%29.png)
 
 2.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
+
+## Quick order entry
+
+### How to open Quick order entry
+
+To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../analytics-panels/chart/chart-settings.md)
+
+![](../.gitbook/assets/animaciya-1-%20%281%29.gif)
+
+
+
+### How to set volume quantity
+
+{% hint style="warning" %}
+Note that in order to make a transaction from the Quick order entry panel, you must enter the lot volume. And this volume does not coincide with the Quick trading panel 
+{% endhint %}
+
+### Other features 
+
+You can set both limit and stop limit orders
+
+## Mouse trading
+
+
 

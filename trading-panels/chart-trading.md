@@ -11,8 +11,8 @@ Entry of orders on the Quantower platform on the exchanges can be done in differ
 Quick trading panel 
 
 * How to open  quick trade toolbar
-* How to set the position volume and volume input buttons
-* Buttons for fast change of order volume 
+* Quick change order amount buttons and formulas in it
+* **Slider to enter the volume of the position in dollars**
 * Order parameters - type, TIF, price, algorithmic,
 * Settings for set up TP \(take profit\) and SL stop limit \(stop loss\) orders
 
@@ -36,16 +36,6 @@ To access the quick trade toolbar, click the button in the upper right corner. I
 
 ![](../.gitbook/assets/animaciya-.gif)
 
-### **How to set quantity**
-
-**Quantity** is the number of lots for a trade. Here you can set your custom values according to your risk and money management. See chart settings for how to do this.
-
-{% hint style="warning" %}
-You can also set standard lots for trading and switch between them with hot keys - \(1-9\) on your keyboard
-{% endhint %}
-
-![](../.gitbook/assets/image%20%28233%29.png)
-
 ### Quick change order amount buttons 
 
 The quick change order amount buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
@@ -66,11 +56,9 @@ By right-clicking you can save the default order entry settings for all symbols
 
 ![](../.gitbook/assets/image%20%28230%29.png)
 
-### 
+### Slider to enter the volume of the position in dollars
 
-
-
-There are two ways to enter the size of a position 
+There are two ways to enter the quantity of a position 
 
 * Entering an order in lots of a traded symbol or coin. 
 * Entering the amount of money planned to purchase that asset.

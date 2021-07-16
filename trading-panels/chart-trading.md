@@ -29,6 +29,14 @@ Keyboard trading
 
 * Setting and trading from the hotkeys.
 
+## Quick trading panel
+
+### How to open  quick trade toolbar
+
+To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../analytics-panels/chart/chart-settings.md)
+
+![](../.gitbook/assets/animaciya-.gif)
+
 ## Trading with the quick trade toolbar
 
 Trading with the quick trade toolbar The quick trade toolbar appears by clicking on the button marked on the picture. If you don't have it you should enable it from the chart settings. See here how it is [done](../analytics-panels/chart/chart-settings.md).

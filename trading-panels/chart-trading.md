@@ -13,6 +13,8 @@ Quick trading panel
 * How to open  quick trade toolbar
 * Quick change order amount buttons and formulas in it
 * **Slider to enter the volume of the position in dollars**
+* **How to set up Profit and Stop orders**
+* **How to set up  multiple Profit and Stop orders for one position**
 * Order parameters - type, TIF, price, algorithmic,
 * Settings for set up TP \(take profit\) and SL stop limit \(stop loss\) orders
 
@@ -60,7 +62,7 @@ By right-clicking you can save the default order entry settings for all symbols
 
 There are two ways to enter the quantity of a position 
 
-* Entering an order in lots of a traded symbol or coin. 
+* Entering an order in lots of a traded symbol or coin - this was described above
 * Entering the amount of money planned to purchase that asset.
 
 {% hint style="danger" %}

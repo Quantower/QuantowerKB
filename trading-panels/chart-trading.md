@@ -8,28 +8,28 @@ description: >-
 
 Entry of orders on the Quantower platform on the exchanges can be done in different ways, depending on the chosen trading style: 
 
-Quick trading panel 
+[Quick trading panel](chart-trading.md#quick-trading-panel) 
 
-* How to open  quick trade toolbar
-* Quick change order amount buttons and formulas in it
-* Slider to enter the volume of the position in dollars
-* How to set up Profit and Stop orders
-* How to set up  multiple Profit and Stop orders for one position
-* A set of buttons for quick order and position management
+* [How to open  quick trade toolbar](chart-trading.md#how-to-open-quick-trade-toolbar)
+* [Quick change order amount buttons and formulas in it](chart-trading.md#quick-change-order-amount-buttons)
+* [Slider to enter the volume of the position in dollars](chart-trading.md#slider-to-enter-the-volume-of-the-position-in-dollars)
+* [How to set up Profit and Stop orders](chart-trading.md#how-to-set-up-profit-and-stop-orders)
+* [How to set up  several Take profit and Stop Loss orders for one position](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)
+* [A set of buttons for quick order and position management](chart-trading.md#a-set-of-buttons-for-quick-order-and-position-management)
 
-Quick order entry
+[Quick order entry](chart-trading.md#quick-order-entry)
 
-* How to open Quick order entry
-* How to set volume quantity
+* [How to open Quick order entry](chart-trading.md#how-to-open-quick-order-entry)
+* [How to set volume quantity](chart-trading.md#how-to-set-volume-quantity)
 * Other features
 
-Mouse visual trading
+[Mouse visual trading](chart-trading.md#mouse-trading)
 
 * Chart trading mode with the mouse
 * Quick order placement through the chart area with a mouse.
 * How to set up many limit orders
 
-Keyboard trading
+[Keyboard trading](chart-trading.md#keyboard-trading)
 
 * How to activate trading with hot keys
 * Setting and trading from the hotkeys.
@@ -99,7 +99,7 @@ Some brokers such as Binance do not allow stop orders for limit orders. \(Until 
 If you execute an order at market, the specified stop parameters will retain their values and will be set immediately.
 {% endhint %}
 
-### How to set up  Take profit and Stop Loss orders for one position
+### How to set up  several Take profit and Stop Loss orders for one position
 
 ![](../.gitbook/assets/animaciya-4-.gif)
 

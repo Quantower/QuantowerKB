@@ -46,11 +46,29 @@ You can also set standard lots for trading and switch between them with hot keys
 
 ![](../.gitbook/assets/image%20%28233%29.png)
 
-**Hidden menu in quick order panel** 
+### Quick change order amount buttons 
 
-By right-clicking you can save the default order entry settings for each symbol
+The quick change order amount buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
+
+![](../.gitbook/assets/kolvo.jpg)
+
+You can set standard values of the order amount, which corresponds to your risks. This is very convenient for manual trading.
+
+{% hint style="success" %}
+Buttons can change not only to a given amount of position, but also apply any formulas
+{% endhint %}
+
+![](../.gitbook/assets/vvod-baibit-ordera-kolvo.gif)
+
+### Default volume setting
+
+By right-clicking you can save the default order entry settings for all symbols
 
 ![](../.gitbook/assets/image%20%28230%29.png)
+
+### 
+
+
 
 There are two ways to enter the size of a position 
 

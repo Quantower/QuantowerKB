@@ -31,6 +31,7 @@ Mouse visual trading
 
 Keyboard trading
 
+* How to activate trading with hot keys
 * Setting and trading from the hotkeys.
 
 ## Quick trading panel
@@ -152,6 +153,14 @@ If position of the mouse is **under the current price** then
 
 * right click of the mouse will set **Sell stop market** 
 * right click of the mouse will set **Buy limit order**
+
+## Keyboard trading
+
+### How to activate trading with hot keys
+
+To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../analytics-panels/chart/chart-settings.md)
+
+![](../.gitbook/assets/image%20%28293%29.png)
 
 
 

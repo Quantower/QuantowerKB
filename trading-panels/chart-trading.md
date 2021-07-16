@@ -15,8 +15,6 @@ Quick trading panel
 * **Slider to enter the volume of the position in dollars**
 * **How to set up Profit and Stop orders**
 * **How to set up  multiple Profit and Stop orders for one position**
-* Order parameters - type, TIF, price, algorithmic,
-* Settings for set up TP \(take profit\) and SL stop limit \(stop loss\) orders
 
 Quick order entry
 

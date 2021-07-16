@@ -23,9 +23,9 @@ Quick order entry
 * How to set volume quantity
 * Other features
 
-Mouse trading
+Mouse visual trading
 
-* From the chart trading mode with the mouse, visual trading.
+* Chart trading mode with the mouse
 * Quick order placement through the chart area with a mouse.
 * How to set up many limit orders
 
@@ -132,6 +132,26 @@ Note that in order to make a transaction from the Quick order entry panel, you m
 You can set both limit and stop limit orders
 
 ## Mouse trading
+
+Allows you to set limit and stop limit orders directly on the chart. To activate this function, click on the button in the upper right corner of the panel with the image of a mouse icon
+
+
+
+![](../.gitbook/assets/animaciya-2-%20%281%29.gif)
+
+{% hint style="warning" %}
+To place several orders in a row hold down CTRL
+{% endhint %}
+
+If the mouse position i**s higher than the current price** then 
+
+* right click of the mouse will set a **limit order**  
+* left click of the mouse will set a **Buy stop marke**t order
+
+If position of the mouse is **under the current price** then
+
+* right click of the mouse will set **Sell stop market** 
+* right click of the mouse will set **Buy limit order**
 
 
 

@@ -75,7 +75,11 @@ It is important to remember that if you use margin trading, the result is counte
 
 ![](../.gitbook/assets/animaciya-5-.gif)
 
- For example, at the moment you have $82 on your account and 10 leverage is set. It means that you have $820 available balance for trade. This is what you can see in the example.
+{% hint style="info" %}
+This example is for crypto markets
+{% endhint %}
+
+For example, at the moment you have $82 on your account and 10 leverage is set. It means that you have $820 available balance for trade. This is what you can see in the example.
 
 ### How to set up Profit and Stop orders
 
@@ -95,9 +99,13 @@ Some brokers such as Binance do not allow stop orders for limit orders. \(Until 
 If you execute an order at market, the specified stop parameters will retain their values and will be set immediately.
 {% endhint %}
 
-### How to set up  multiple Profit and Stop orders for one position
+### How to set up  Take profit and Stop Loss orders for one position
 
 ![](../.gitbook/assets/animaciya-4-.gif)
+
+{% hint style="info" %}
+This example is for connecting a CQG/AMP
+{% endhint %}
 
 * To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
 * Enter data for setting the first limit orders and how many lots or coins should be closed 

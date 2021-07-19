@@ -65,7 +65,7 @@ If you enable Use RTrader plugin in Connection Settings and still can not connec
 
 This problem can be due to the fact that you do not have a subscription to this Level2 data. To check this, launch the **RTrader Pro platform** and open the **Order Book** panel.
 
-If you don't have Bid/Ask values in the RTrader platform, you need to subscribe to this data via Rithmic's support. After that, you will see level2 data in our platform as well.
+If you don't have Bid/Ask values in the RTrader platform, you need to subscribe to this data via Rithmic's support. After that, you will see level2 data in our platform as well. 
 
 ![](../.gitbook/assets/image%20%28297%29.png)
 

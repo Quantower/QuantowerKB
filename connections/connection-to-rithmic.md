@@ -41,7 +41,9 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 * Accept _**"Market Data Subscription Agreement"**_ and _"**Market Data Self-Certification"**_
 * Account will be activated within 30-60 minutes.
 
-### **Problems during the connection to Rithmic**
+## **Problems during the connection to Rithmic**
+
+### **Market Data Connection Closed**
 
 Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed".**_
 
@@ -58,4 +60,12 @@ This error message is most commonly encountered by _**new Rithmic users for vari
 If you enable Use RTrader plugin in Connection Settings and still can not connect to Rithmic, please check that you have more than 1 active session for Market data.
 
 ![](../.gitbook/assets/image%20%28100%29.png)
+
+### No Level2 data for some symbols
+
+This problem can be due to the fact that you do not have a subscription to this Level2 data. To check this, launch the **RTrader Pro platform** and open the **Order Book** panel.
+
+If you don't have Bid/Ask values in the RTrader platform, you need to subscribe to this data via Rithmic's support. After that, you will see level2 data in our platform as well.
+
+![](../.gitbook/assets/image%20%28297%29.png)
 

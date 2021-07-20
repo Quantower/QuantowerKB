@@ -47,5 +47,13 @@ The search engine in the Eikon platform allows you to search for stocks by text 
 
 For this reason, **it is important to use the exact stock ticker as presented on the Eikon platform**. Otherwise, you will not receive search results.
 
+![Use the exact stocks ticker to get market data in Quantower ](../.gitbook/assets/image%20%28300%29.png)
 
+![Use the exact stocks ticker to get market data in Quantower](../.gitbook/assets/image%20%28298%29.png)
+
+![Search by description does not find stocks](../.gitbook/assets/image%20%28299%29.png)
+
+![Search by exact ticker only](../.gitbook/assets/image%20%28301%29.png)
+
+![Search by exact ticker only](../.gitbook/assets/image%20%28302%29.png)
 

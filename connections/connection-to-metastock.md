@@ -9,6 +9,7 @@ description: >-
 
 * \*\*\*\*[**Download and install Metastock XENITH**](connection-to-metastock.md#download-and-install-metastock-xenith)\*\*\*\*
 * \*\*\*\*[**Launch Quantower with Metastock connection**](connection-to-metastock.md#launch-quantower-with-metastock-connection)\*\*\*\*
+* **How to add symbol to the chart or other panel**
 
 ### How to install Meta**S**tock XENITH / EIKON and create an account?
 
@@ -35,4 +36,12 @@ Select Metastock connection in the Quantower connection manager and press Connec
 ![Click on the Connect button and the platform will start Eikon platform automatically](../.gitbook/assets/connection-to-metastock.png)
 
 ![MetaStock XENITH Eikon lauching](../.gitbook/assets/thomson-reuters-eikon-connection.png)
+
+### **How to add symbol to the chart or other panel**
+
+{% hint style="warning" %}
+Connection to MetaStock Xenith can only find symbols by the exact ticker \(!\)
+{% endhint %}
+
+
 

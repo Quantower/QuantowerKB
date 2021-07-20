@@ -9,7 +9,7 @@ description: >-
 
 * \*\*\*\*[**Download and install Metastock XENITH**](connection-to-metastock.md#download-and-install-metastock-xenith)\*\*\*\*
 * \*\*\*\*[**Launch Quantower with Metastock connection**](connection-to-metastock.md#launch-quantower-with-metastock-connection)\*\*\*\*
-* **How to add symbol to the chart or other panel**
+* \*\*\*\*[**How to add symbol to the chart or other panel**](connection-to-metastock.md#how-to-add-symbol-to-the-chart-or-other-panel)\*\*\*\*
 
 ### How to install Meta**S**tock XENITH / EIKON and create an account?
 
@@ -40,8 +40,12 @@ Select Metastock connection in the Quantower connection manager and press Connec
 ### **How to add symbol to the chart or other panel**
 
 {% hint style="warning" %}
-Connection to MetaStock Xenith can only find symbols by the exact ticker \(!\)
+Due to API restrictions, connection to MetaStock Xenith can only **find symbols by the exact ticker \(!\)**
 {% endhint %}
+
+The search engine in the Eikon platform allows you to search for stocks by text description or using letters of any case. Unfortunately, this mechanism does not apply to other platforms through the API. 
+
+For this reason, **it is important to use the exact stock ticker as presented on the Eikon platform**. Otherwise, you will not receive search results.
 
 
 

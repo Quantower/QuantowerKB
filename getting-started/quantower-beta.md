@@ -10,7 +10,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=L21kFXQaWQ0" %}
 
-Activate the option **"Use Beta Version"** and [**update the platform**](application-updates.md) to the latest version.
+Activate the **"Use Beta Version"** option and [**update the platform**](application-updates.md) to the latest version.
 
 ![](../.gitbook/assets/image%20%28303%29.png)
 

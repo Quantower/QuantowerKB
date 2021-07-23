@@ -2,14 +2,12 @@
 
 The general view of the Order Entry panel for CQG connection is as follows, and is divided into the following categories:
 
-* Account and symbol selection -  [The same as for the general pane](./)
-* Order side and its quantity -         [**The same as for the general pane**](./)\*\*\*\*
-* \*\*\*\*[**How to set up traling order**](order-entry-for-cqg.md#how-to-set-up-traling-order)\*\*\*\*
-* [Order parameters — type, TIF, price](order-entry-for-cqg.md#cqg-ordertypes-time-in-force-tif-algorithmic-in-quantower)
-* \*\*\*\*[**How to set up Profit and Stop orders**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders)\*\*\*\*
-* \*\*\*\*[**How to set up  multiple Profit and Stop orders for one position**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-one-position)\*\*\*\*
+* Account and symbol selection
+* Order side, quantity, type, TIF, price, Algorithmic
+* **Brackets mode with Simple and Multiple setting of Stop Loss and Take profit**
+* **Order Placing Strategies**
 
-![](../../.gitbook/assets/image%20%28270%29.png)
+![General view of Order Entry panel with CQG connection](../../.gitbook/assets/image%20%28304%29.png)
 
 ### How to set up traling order
 

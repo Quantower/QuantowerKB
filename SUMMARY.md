@@ -6,6 +6,7 @@
   * [Installation](getting-started/installation.md)
   * [First start](getting-started/first-start.md)
   * [Platform update](getting-started/application-updates.md)
+  * [Quantower Beta](getting-started/quantower-beta.md)
   * [Quantower Account](getting-started/quantower-account.md)
   * [Quantower Licenses](getting-started/quantower-licenses.md)
   * [License Comparison](getting-started/license-comparison.md)

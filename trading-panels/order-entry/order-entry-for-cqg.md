@@ -29,12 +29,12 @@
 
 ### Quick order entry
 
-* How to open Quick order entry
-* How to set volume quantity
+* **How to open Quick order entry**
+* **How to set volume quantity**
 
 ### Keyboard trading
 
-* How to activate trading with hot keys
+* **How to activate trading with hot keys**
 
 ## **How to place an order from the OE \(Order Entry\) panel**
 

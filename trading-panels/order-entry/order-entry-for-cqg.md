@@ -29,16 +29,16 @@ description: Multiple ways to enter orders on the CQG connection
 * \*\*\*\*[**How to set up  several Take profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-the-limit-order)\*\*\*\*
 * \*\*\*\*[**How to set up many limit orders**](order-entry-for-cqg.md#how-to-set-up-many-limit-orders)\*\*\*\*
 
-### Quick order entry
+### [Quick order entry](order-entry-for-cqg.md#quick-order-entry)
 
-* **How to open Quick order entry**
-* **How to set volume quantity**
+* \*\*\*\*[**How to open Quick order entry**](order-entry-for-cqg.md#how-to-open-quick-order-entry)\*\*\*\*
+* \*\*\*\*[**How to set volume quantity**](order-entry-for-cqg.md#how-to-set-volume-quantity)\*\*\*\*
 
-### Keyboard trading
+### [Keyboard trading](order-entry-for-cqg.md#keyboard-trading)
 
-* **How to activate trading with hot keys**
+* \*\*\*\*[**How to activate trading with hot keys**](order-entry-for-cqg.md#how-to-activate-trading-with-hot-keys)\*\*\*\*
 
-### How to place an OCO order
+### [How to place an OCO order](order-entry-for-cqg.md#how-to-place-an-oco-order)
 
 ## **How to place an order from the OE \(Order Entry\) panel**
 

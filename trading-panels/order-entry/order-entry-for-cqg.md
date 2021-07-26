@@ -23,6 +23,8 @@ Placing of orders on the Quantower platform can be done in several ways:
 * **Quick change order amount buttons**
 * **How to set up Take Profit and Stop Loss orders**
 * **How to set up  several Take profit and Stop Loss orders for one position**
+* **How to set up many limit orders**
+* **Quickly placing order buttons**
 
 ## **How to place an order from the OE \(Order Entry\) panel**
 
@@ -105,8 +107,6 @@ AMP/CQG support **server-side trailing orders**. To set such an order you must S
 
 ![](../../.gitbook/assets/animaciya-8-.gif)
 
-
-
 ## **How to place an order from the Chart trading sidebar**
 
 ### **General view of Chart**
@@ -169,7 +169,33 @@ If you execute an order at market, the specified stop parameters will retain the
 * For the next stops, enter similar data on the next line.
 *  You can set orders in multiples of your total volume.
 
-Next comes a large **block of functions for managing the current position**. You can delete or limit orders or stops. You can also reverse your position with a single button or set a lossless position. These are very functional buttons, do not miss them. 
+### **How to set up many limit orders**
+
+![](../../.gitbook/assets/animaciya-4-%20%282%29.gif)
+
+{% hint style="warning" %}
+To place several orders in a row hold down CTRL
+{% endhint %}
+
+If the mouse position i**s higher than the current price** then 
+
+* right click of the mouse will set a **limit order**  
+* left click of the mouse will set a **Buy stop marke**t order
+
+If position of the mouse is **under the current price** then
+
+* right click of the mouse will set **Sell stop market** 
+* right click of the mouse will set **Buy limit order**
+
+### **Quickly placing orde**r buttons
+
+1. Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
+
+![](../../.gitbook/assets/image%20%28309%29.png)
+
+
+
+2.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
 
 
 

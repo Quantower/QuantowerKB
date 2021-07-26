@@ -27,7 +27,7 @@ description: Multiple ways to enter orders on the CQG connection
 
 * \*\*\*\*[**How to set up Take Profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders-for-limit-order)\*\*\*\*
 * \*\*\*\*[**How to set up  several Take profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-the-limit-order)\*\*\*\*
-* **How to set up many limit orders**
+* \*\*\*\*[**How to set up many limit orders**](order-entry-for-cqg.md#how-to-set-up-many-limit-orders)\*\*\*\*
 
 ### Quick order entry
 
@@ -200,7 +200,7 @@ You can set **automatic stop loss and profit** in pips. It's very convenient to 
 * Use the **mouse trading button** to activate the trade with the mouse to set a limit order
 
 {% hint style="warning" %}
-If you execute an order at market, the specified stop parameters will retain their values and will be set immediately.
+If you execute an order at market, the specified stop parameters will keep their values and will be set immediately.
 {% endhint %}
 
 ### How to set up several Profit and Stop orders for the limit order

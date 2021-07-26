@@ -111,9 +111,9 @@ If one of the orders Sl or Tp is executed, the opposite order will be automatica
 
 Тo set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
 
-* Enter data for setting the first limit orders and how many lots or coins should be closed 
+* Enter data for setting the first limit orders and how many lots  should be  
 * For the next stops, enter similar data on the next line.
-*  You can set orders in multiples of your total volume
+* You can set orders in multiples of your total volume
 
 ### How to set up traling order
 

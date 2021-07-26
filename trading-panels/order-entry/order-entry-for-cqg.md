@@ -4,29 +4,29 @@ description: Multiple ways to enter orders on the CQG connection
 
 # Order Entry for CQG
 
-### **How to place an order from the OE \(Order Entry\) panel**
+### \*\*\*\*[**How to place an order from the OE \(Order Entry\) panel**](order-entry-for-cqg.md#how-to-place-an-order-from-the-oe-order-entry-panel)\*\*\*\*
 
-* **How to open the Order Entry panel**
-* **General view of the OE \(Order Entry\) panel for AMP/CQG**
-* **Order parameters — Type, Price, Quantity,** 
-* **How te set TP \(take profit\) and SL \(stop loss\)**
-* **How to set up  several Take profit and Stop Loss orders for one position**
-* **How to set up Traling Stop**
+* \*\*\*\*[**How to open the Order Entry panel**](order-entry-for-cqg.md#how-to-open-position-with-sl-and-tp-from-order-entry)\*\*\*\*
+* [**General view of the OE \(Order Entry\) panel for AMP/CQG**](order-entry-for-cqg.md#the-general-view-of-the-order-entry-panel-for-cqg-connection)\*\*\*\*
+* \*\*\*\*[**Order parameters — Type, Price, Quantity**](order-entry-for-cqg.md#selection-of-order-type-time-if-force-and-order-quantity)\*\*\*\*
+* \*\*\*\*[**How to set TP \(take profit\) and SL \(stop loss\)**](order-entry-for-cqg.md#how-to-set-tp-take-profit-and-sl-stop-loss)\*\*\*\*
+* \*\*\*\*[**How to set up  several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)\*\*\*\*
+* \*\*\*\*[**How to set up Traling Stop**](order-entry-for-cqg.md#how-to-set-up-traling-order)\*\*\*\*
 
-### **How to place an order from the Chart quick trading sidebar**
+### \*\*\*\*[**How to place an order from the Chart quick trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)\*\*\*\*
 
-* **General view of Chart** 
-* **Order quantity selection**
-* **Quick order quantity buttons**
-* **Quick change order amount buttons**
-* **How to set up Take Profit and Stop Loss orders**
-* **How to set up  several Take profit and Stop Loss orders for one position**
-* **Quickly placing order buttons**
+* \*\*\*\*[**General view of Chart** ](order-entry-for-cqg.md#general-view-of-chart)\*\*\*\*
+* \*\*\*\*[**Order quantity selection**](order-entry-for-cqg.md#quick-order-quantity-buttons)\*\*\*\*
+* \*\*\*\*[**Quick order quantity buttons**](order-entry-for-cqg.md#quick-order-quantity-buttons)\*\*\*\*
+* \*\*\*\*[**Quick change order amount buttons**](order-entry-for-cqg.md#quick-change-order-amount-buttons)\*\*\*\*
+* \*\*\*\*[**How to set up Take Profit and Stop Loss orders**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders)\*\*\*\*
+* \*\*\*\*[**How to set up  several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-profit-and-stop-orders-foe-one-position)\*\*\*\*
+* \*\*\*\*[**Quickly placing order buttons**](order-entry-for-cqg.md#quickly-placing-order-buttons)\*\*\*\*
 
-### **Mouse trading**
+### \*\*\*\*[**Mouse trading**](order-entry-for-cqg.md#mouse-trading)\*\*\*\*
 
-* **How to set up Take Profit and Stop Loss orders for the limit order**
-* **How to set up  several Take profit and Stop Loss orders for the limit order**
+* \*\*\*\*[**How to set up Take Profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders-for-limit-order)\*\*\*\*
+* \*\*\*\*[**How to set up  several Take profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-the-limit-order)\*\*\*\*
 * **How to set up many limit orders**
 
 ### Quick order entry
@@ -93,7 +93,7 @@ CQG provides various order types for trading via the Order Entry panel:
 * **ATC \(At the Close Order\)** — order to buy or sell a stock at the closing price. One of the benefits of this type of order is that it can be placed prior to the actual end of the trading day requested. This would be the opposite of an at-the-open order.
 * **ATO \(At-The-Open Order\)** — order to buy or sell a stock at the opening price. ATO order is allowed during pre-open sessions \(morning and afternoon\) or even the night before.
 
-### How to open position with Sl and Tp from Order entry
+### **How to set TP \(take profit\) and SL \(stop loss\)**
 
 ![](../../.gitbook/assets/animaciya.gif)
 
@@ -166,7 +166,7 @@ Then you can set **automatic stop loss and profit** in pips. It's very convenien
 
 ![](../../.gitbook/assets/animaciya-5-%20%281%29.gif)
 
-### How to set up  multiple Profit and Stop orders foe one position
+### How to set up  **several** Profit and Stop orders foe one position
 
 ![](../../.gitbook/assets/animaciya-6-%20%281%29.gif)
 
@@ -203,7 +203,7 @@ You can set **automatic stop loss and profit** in pips. It's very convenient to 
 If you execute an order at market, the specified stop parameters will retain their values and will be set immediately.
 {% endhint %}
 
-### How to set up  multiple Profit and Stop orders for the limit order
+### How to set up several Profit and Stop orders for the limit order
 
 ![](../../.gitbook/assets/animaciya-4-.gif)
 

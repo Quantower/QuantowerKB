@@ -232,6 +232,22 @@ If position of the mouse is **under the current price** then
 * right click of the mouse will set **Sell stop market** 
 * right click of the mouse will set **Buy limit order**
 
+
+
+## Quick order entry
+
+### How to open Quick order entry
+
+To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../../analytics-panels/chart/chart-settings.md)
+
+![](../../.gitbook/assets/animaciya-8-%20%281%29.gif)
+
+### How to set volume quantity
+
+{% hint style="warning" %}
+Note that in order to make a transaction from the Quick order entry panel, you must enter the lot volume. And this volume does not coincide with the Quick trading panel 
+{% endhint %}
+
 ## Keyboard trading
 
 ### How to activate trading with hot keys

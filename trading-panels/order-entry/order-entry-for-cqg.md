@@ -9,12 +9,12 @@ Placing of orders on the Quantower platform can be done in several ways:
 ### **How to place an order from the OE \(Order Entry\) panel**
 
 * **How to open the Order Entry panel**
-* **General view of the OE \(Order Entry\) panel for Bybit**
+* **General view of the OE \(Order Entry\) panel for AMP/CQG**
 * **Order parameters — Type, Price, Quantity, TP \(take profit\) and SL \(stop loss\)**
 
 ### **How to place an order from the Chart trading sidebar**
 
-* **General view of Chart Trading Sidebar**
+* **General view of Chart** 
 * **Order quantity selection**
 * **Quick order quantity buttons**
 * B**uttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders**

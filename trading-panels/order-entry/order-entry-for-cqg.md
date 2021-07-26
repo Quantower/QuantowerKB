@@ -10,7 +10,10 @@ Placing of orders on the Quantower platform can be done in several ways:
 
 * **How to open the Order Entry panel**
 * **General view of the OE \(Order Entry\) panel for AMP/CQG**
-* **Order parameters — Type, Price, Quantity, TP \(take profit\) and SL \(stop loss\)**
+* **Order parameters — Type, Price, Quantity,** 
+* **How te set TP \(take profit\) and SL \(stop loss\)**
+* **How to set up  several Take profit and Stop Loss orders for one position**
+* **How to set up Tralong Stop**
 
 ### **How to place an order from the Chart trading sidebar**
 
@@ -65,7 +68,17 @@ To set a bracket order with Sl and Tp, follow these steps as shown in the pictur
 
 If one of the orders Sl or Tp is executed, the opposite order will be automatically deleted.
 
+### How to set up  several Take profit and Stop Loss orders for one position
 
+![](../../.gitbook/assets/animaciya-1-%20%282%29.gif)
+
+
+
+Тo set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
+
+* Enter data for setting the first limit orders and how many lots or coins should be closed 
+* For the next stops, enter similar data on the next line.
+*  You can set orders in multiples of your total volume
 
 
 

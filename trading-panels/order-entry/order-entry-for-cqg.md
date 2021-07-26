@@ -1,10 +1,6 @@
 # Order Entry for CQG
 
-Placing of orders on the Quantower platform can be done in several ways:
 
-* using the Order Entry panel \(OE\)
-* Quick order placement through the chart area with a mouse \(visual trading\)
-* via **DOM Trader panel**
 
 ### **How to place an order from the OE \(Order Entry\) panel**
 
@@ -23,8 +19,22 @@ Placing of orders on the Quantower platform can be done in several ways:
 * **Quick change order amount buttons**
 * **How to set up Take Profit and Stop Loss orders**
 * **How to set up  several Take profit and Stop Loss orders for one position**
-* **How to set up many limit orders**
 * **Quickly placing order buttons**
+
+### **Mouse trading**
+
+* **How to set up Take Profit and Stop Loss orders for the limit order**
+* **How to set up  several Take profit and Stop Loss orders for the limit order**
+* **How to set up many limit orders**
+
+### Quick order entry
+
+* How to open Quick order entry
+* How to set volume quantity
+
+### Keyboard trading
+
+* How to activate trading with hot keys
 
 ## **How to place an order from the OE \(Order Entry\) panel**
 
@@ -142,13 +152,40 @@ You can set standard values of the order amount, which corresponds to your risks
 Buttons can change not only to a given amount of position, but also apply any formulas
 {% endhint %}
 
-### How to set up Profit and Stop orders
+### How to set up Profit and Stop orders 
 
 Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
-{% hint style="info" %}
-Some brokers such as Binance do not allow stop orders for limit orders. \(Until the position is NOT open\) In this case, use limit orders of the opposite direction
-{% endhint %}
+* Use the Qquick Ttrade toolbar 
+* Set your values for stop loss or profit. You can also use any one parameter only. 
+* Execute an order on the market
+
+![](../../.gitbook/assets/animaciya-5-%20%281%29.gif)
+
+### How to set up  multiple Profit and Stop orders foe one position
+
+![](../../.gitbook/assets/animaciya-6-%20%281%29.gif)
+
+To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
+
+* Enter data for setting the first limit orders and how many lots  should be
+* For the next stops, enter similar data on the next line.
+* You can set orders in multiples of your total volume.
+* Execute an order on the market
+
+### **Quickly placing orde**r buttons
+
+1. Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
+
+![](../../.gitbook/assets/image%20%28309%29.png)
+
+2.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
+
+## Mouse trading
+
+### How to set up Profit and Stop orders for limit order
+
+Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
 ![](../../.gitbook/assets/animaciya-3-%20%281%29.gif)
 
@@ -160,11 +197,12 @@ Some brokers such as Binance do not allow stop orders for limit orders. \(Until 
 If you execute an order at market, the specified stop parameters will retain their values and will be set immediately.
 {% endhint %}
 
-### How to set up  multiple Profit and Stop orders for one position
+### How to set up  multiple Profit and Stop orders for the limit order
 
 ![](../../.gitbook/assets/animaciya-4-.gif)
 
-* To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
+To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
+
 * Enter data for setting the first limit orders and how many lots or coins should be closed 
 * For the next stops, enter similar data on the next line.
 *  You can set orders in multiples of your total volume.
@@ -187,15 +225,15 @@ If position of the mouse is **under the current price** then
 * right click of the mouse will set **Sell stop market** 
 * right click of the mouse will set **Buy limit order**
 
-### **Quickly placing orde**r buttons
+## Keyboard trading
 
-1. Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
+### How to activate trading with hot keys
 
-![](../../.gitbook/assets/image%20%28309%29.png)
+To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../../analytics-panels/chart/chart-settings.md)
 
+![](../../.gitbook/assets/image%20%28293%29.png)
 
-
-2.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
+You can set your own values for the hot buttons in the chart settings
 
 
 

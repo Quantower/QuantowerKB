@@ -13,26 +13,24 @@ Placing of orders on the Quantower platform can be done in several ways:
 * **Order parameters — Type, Price, Quantity,** 
 * **How te set TP \(take profit\) and SL \(stop loss\)**
 * **How to set up  several Take profit and Stop Loss orders for one position**
-* **How to set up Tralong Stop**
+* **How to set up Traling Stop**
 
-### **How to place an order from the Chart trading sidebar**
+### **How to place an order from the Chart quick trading sidebar**
 
 * **General view of Chart** 
 * **Order quantity selection**
 * **Quick order quantity buttons**
-* B**uttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders**
+* **Quick change order amount buttons**
+* **How to set up Take Profit and Stop Loss orders**
+* **How to set up  several Take profit and Stop Loss orders for one position**
+
+## **How to place an order from the OE \(Order Entry\) panel**
 
 ### How to open the Order Entry panel?
 
 Open the main menu by clicking the logo and in the **Trading section** click on the OE icon.
 
-
-
 ![](https://gblobscdn.gitbook.com/assets%2F-LD6FsRvQ3jgwJIg6O7r%2F-MD-SK9sGBjGPAf-tTT9%2F-MD-T9TmTXv89aeFt1Bc%2FOE%20general.png?alt=media&token=85f80f2b-ad97-4231-b9ff-89fe988a5466)
-
-
-
-
 
 ### The general view of the Order Entry panel for CQG connection 
 
@@ -50,47 +48,9 @@ The entire panel is conventionally divided into several **zones**:
 
 AMP/CQG exchange provides 2 main order types: **Market, Limit**
 
-![](../../.gitbook/assets/image%20%28305%29.png)
-
- 
+![](../../.gitbook/assets/image%20%28307%29.png)
 
 All contracts in AMP/CGQ are standardized with leverage. This means that to set the entry volume you need to specify in the **Quantity field** the required number of contracts. Specification of the contracts you can get on the AMP official website.
-
-### How to open position with Sl and Tp from Order entry
-
-![](../../.gitbook/assets/animaciya.gif)
-
-To set a bracket order with Sl and Tp, follow these steps as shown in the picture below: 
-
-* Set the necessary lot to enter 
-* Set Sl in pips 
-* Set Tp in pips
-
-If one of the orders Sl or Tp is executed, the opposite order will be automatically deleted.
-
-### How to set up  several Take profit and Stop Loss orders for one position
-
-![](../../.gitbook/assets/animaciya-1-%20%282%29.gif)
-
-
-
-Тo set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
-
-* Enter data for setting the first limit orders and how many lots or coins should be closed 
-* For the next stops, enter similar data on the next line.
-*  You can set orders in multiples of your total volume
-
-
-
-### How to set up traling order
-
-AMP/CQG support **server-side trailing orders**. To set such an order you must Select order type select TRAIL item in Algorithmic trading Specify the parameters of this Price and the offset for the movement
-
-
-
-![](../../.gitbook/assets/animaciya-8-.gif)
-
-
 
 ## CQG OrderTypes, Time in Force \(TIF\), Algorithmic in Quantower
 
@@ -117,7 +77,70 @@ CQG provides various order types for trading via the Order Entry panel:
 * **ATC \(At the Close Order\)** — order to buy or sell a stock at the closing price. One of the benefits of this type of order is that it can be placed prior to the actual end of the trading day requested. This would be the opposite of an at-the-open order.
 * **ATO \(At-The-Open Order\)** — order to buy or sell a stock at the opening price. ATO order is allowed during pre-open sessions \(morning and afternoon\) or even the night before.
 
+### How to open position with Sl and Tp from Order entry
 
+![](../../.gitbook/assets/animaciya.gif)
+
+To set a bracket order with Sl and Tp, follow these steps as shown in the picture below: 
+
+* Set the necessary lot to enter 
+* Set Sl in pips 
+* Set Tp in pips
+
+If one of the orders Sl or Tp is executed, the opposite order will be automatically deleted.
+
+### How to set up  several Take profit and Stop Loss orders for one position
+
+![](../../.gitbook/assets/animaciya-1-%20%282%29.gif)
+
+Тo set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
+
+* Enter data for setting the first limit orders and how many lots or coins should be closed 
+* For the next stops, enter similar data on the next line.
+*  You can set orders in multiples of your total volume
+
+### How to set up traling order
+
+AMP/CQG support **server-side trailing orders**. To set such an order you must Select order type select TRAIL item in Algorithmic trading Specify the parameters of this Price and the offset for the movement
+
+![](../../.gitbook/assets/animaciya-8-.gif)
+
+
+
+## **How to place an order from the Chart trading sidebar**
+
+### **General view of Chart**
+
+The general view of the order entry panel for AMP/CQG connection looks like the following and is divided into the following categories: 
+
+* Account and symbol selection 
+* Order volume selection and direction selection
+* Order parameters - type, TIF, price, algorithmic settings. 
+* Mode for Stop Loss and Take Profit. 
+* Order placement parameters \(strategy\)
+
+![](../../.gitbook/assets/image%20%28306%29.png)
+
+### **Quick order quantity buttons**
+
+To set an order, you need to specify the volume in lots according to the chosen symbol. You can do this in several ways. 
+
+* Specify the volume directly in the quantyti field 
+* Preset your normal trading volume in lots.
+
+![](../../.gitbook/assets/image%20%28308%29.png)
+
+### Quick change order amount buttons 
+
+The quick change order amount buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
+
+![](../../.gitbook/assets/animaciya-2-%20%282%29.gif)
+
+You can set standard values of the order amount, which corresponds to your risks. This is very convenient for manual trading.
+
+{% hint style="success" %}
+Buttons can change not only to a given amount of position, but also apply any formulas
+{% endhint %}
 
 ### How to set up Profit and Stop orders
 
@@ -145,6 +168,8 @@ If you execute an order at market, the specified stop parameters will retain the
 * Enter data for setting the first limit orders and how many lots or coins should be closed 
 * For the next stops, enter similar data on the next line.
 *  You can set orders in multiples of your total volume.
+
+Next comes a large **block of functions for managing the current position**. You can delete or limit orders or stops. You can also reverse your position with a single button or set a lossless position. These are very functional buttons, do not miss them. 
 
 
 

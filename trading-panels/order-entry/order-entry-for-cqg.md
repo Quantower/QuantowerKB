@@ -181,11 +181,11 @@ To set multiple **Stop loss and Take profit** **orders** for a single position, 
 
 ### **Quickly placing orde**r buttons
 
-1. Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
+1. Next comes a block of buttons for **quickly placing an orde**r
 
 ![](../../.gitbook/assets/image%20%28310%29.png)
 
-2.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
+2.  Next comes a large block of functions for managing the current position. You can cancel or limit orders or stops. You can also reverse your position with one button or set it to break even. These are very functional buttons, do not miss them.
 
 ## Mouse trading
 

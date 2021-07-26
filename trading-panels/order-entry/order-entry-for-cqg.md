@@ -1,23 +1,61 @@
 # Order Entry for CQG
 
+Placing of orders on the Quantower platform can be done in several ways:
+
+* using the Order Entry panel \(OE\)
+* Quick order placement through the chart area with a mouse \(visual trading\)
+* via **DOM Trader panel**
+
+### **How to place an order from the OE \(Order Entry\) panel**
+
+* **How to open the Order Entry panel**
+* **General view of the OE \(Order Entry\) panel for Bybit**
+* **Order parameters — Type, Price, Quantity, TP \(take profit\) and SL \(stop loss\)**
+
+### **How to place an order from the Chart trading sidebar**
+
+* **General view of Chart Trading Sidebar**
+* **Order quantity selection**
+* **Quick order quantity buttons**
+* B**uttons for fast change of order volume Order parameters - type, TIF, price, algorithmic settings TP \(take profit\) and SL stop limit \(stop loss\) orders**
+
+### How to open the Order Entry panel?
+
+Open the main menu by clicking the logo and in the **Trading section** click on the OE icon.
+
+
+
+![](https://gblobscdn.gitbook.com/assets%2F-LD6FsRvQ3jgwJIg6O7r%2F-MD-SK9sGBjGPAf-tTT9%2F-MD-T9TmTXv89aeFt1Bc%2FOE%20general.png?alt=media&token=85f80f2b-ad97-4231-b9ff-89fe988a5466)
 
 
 
 
 
-
-
-
-
-
-The general view of the Order Entry panel for CQG connection is as follows, and is divided into the following categories:
-
-* Account and symbol selection
-* Order side, quantity, type, TIF, price, Algorithmic
-* **Brackets mode with Simple and Multiple setting of Stop Loss and Take profit**
-* **Order Placing Strategies**
+### The general view of the Order Entry panel for CQG connection 
 
 ![General view of Order Entry panel with CQG connection](../../.gitbook/assets/image%20%28304%29.png)
+
+The entire panel is conventionally divided into several **zones**:
+
+* choice of trading instrument and trading account;
+* setting the required order type, TIF condition, order quantity, and the order side \(Buy or Sell\);
+* setting of the order price, stop loss and take profit prices;
+* order placing strategy for advanced trading algorithms
+* information on current Ask and Bid prices, spread size, as well as an order placement button
+
+### Selection of Order Type, Time if Force and Order Quantity
+
+AMP/CQG exchange provides 2 main order types: **Market, Limit**
+
+![](../../.gitbook/assets/image%20%28305%29.png)
+
+ 
+
+
+
+All contracts in AMP/CGQ are standardized with leverage. This means that to set the entry volume you need to specify in the Quantity field the required number of contracts. Specification of the contracts you can get on the AMP official website.
+
+
 
 ### How to set up traling order
 

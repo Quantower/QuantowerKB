@@ -38,6 +38,8 @@ description: Multiple ways to enter orders on the CQG connection
 
 * **How to activate trading with hot keys**
 
+### How to place an OCO order
+
 ## **How to place an order from the OE \(Order Entry\) panel**
 
 ### How to open the Order Entry panel?
@@ -168,11 +170,13 @@ Then you can set **automatic stop loss and profit** in pips. It's very convenien
 
 ![](../../.gitbook/assets/animaciya-6-%20%281%29.gif)
 
-To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
 
-* Enter data for setting the first limit orders and how many lots  should be
-* For the next stops, enter similar data on the next line.
-* You can set orders in multiples of your total volume.
+
+To set multiple **Stop loss and Take profit** **orders** for a single position, do the following :
+
+* Press the multi-mode button
+* Enter data for setting the first limit orders and how many lots should be
+* For the next Stop loss orders, enter similar data on the next line.
 * Execute an order on the market
 
 ### **Quickly placing orde**r buttons
@@ -187,13 +191,13 @@ To set multiple stop orders for a single position, do the following Switch the b
 
 ### How to set up Profit and Stop orders for limit order
 
-Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
+You can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
 ![](../../.gitbook/assets/animaciya-3-%20%281%29.gif)
 
-* Use the Qquick Ttrade toolbar 
-* Set your values for stop loss or profit. You can also use any one parameter only. 
-* Use the button to activate the trade with the mouse to set a limit order
+* Use the Quick trade toolbar 
+* Set your values for stop loss and profit. You can also use any one parameter only. 
+* Use the **mouse trading button** to activate the trade with the mouse to set a limit order
 
 {% hint style="warning" %}
 If you execute an order at market, the specified stop parameters will retain their values and will be set immediately.
@@ -203,11 +207,12 @@ If you execute an order at market, the specified stop parameters will retain the
 
 ![](../../.gitbook/assets/animaciya-4-.gif)
 
-To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
+To set multiple **Stop loss and Take profit** **orders** for a single position, do the following :
 
-* Enter data for setting the first limit orders and how many lots or coins should be closed 
-* For the next stops, enter similar data on the next line.
-*  You can set orders in multiples of your total volume.
+* Press the multi-mode button
+* Enter data for setting the first limit orders and how many lots should be
+* For the next Stop loss orders, enter similar data on the next line.
+* You can set orders in multiples of your total volume.
 
 ### **How to set up many limit orders**
 
@@ -236,6 +241,10 @@ To access the quick trade toolbar, click the button in the upper right corner. I
 ![](../../.gitbook/assets/image%20%28307%29.png)
 
 You can set your own values for the hot buttons in the chart settings
+
+## How to place an OCO order
+
+{% embed url="https://youtu.be/GrJBUYSxvHE" %}
 
 
 

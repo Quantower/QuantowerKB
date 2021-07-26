@@ -1,6 +1,8 @@
+---
+description: Multiple ways to enter orders on the CQG connection
+---
+
 # Order Entry for CQG
-
-
 
 ### **How to place an order from the OE \(Order Entry\) panel**
 
@@ -60,7 +62,7 @@ The entire panel is conventionally divided into several **zones**:
 
 AMP/CQG exchange provides 2 main order types: **Market, Limit**
 
-![](../../.gitbook/assets/image%20%28307%29.png)
+![](../../.gitbook/assets/image%20%28308%29.png)
 
 All contracts in AMP/CGQ are standardized with leverage. This means that to set the entry volume you need to specify in the **Quantity field** the required number of contracts. Specification of the contracts you can get on the AMP official website.
 
@@ -138,7 +140,7 @@ To set an order, you need to specify the volume in lots according to the chosen 
 * Specify the volume directly in the quantyti field 
 * Preset your normal trading volume in lots.
 
-![](../../.gitbook/assets/image%20%28308%29.png)
+![](../../.gitbook/assets/image%20%28309%29.png)
 
 ### Quick change order amount buttons 
 
@@ -177,7 +179,7 @@ To set multiple stop orders for a single position, do the following Switch the b
 
 1. Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
 
-![](../../.gitbook/assets/image%20%28309%29.png)
+![](../../.gitbook/assets/image%20%28310%29.png)
 
 2.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
 
@@ -231,7 +233,7 @@ If position of the mouse is **under the current price** then
 
 To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../../analytics-panels/chart/chart-settings.md)
 
-![](../../.gitbook/assets/image%20%28293%29.png)
+![](../../.gitbook/assets/image%20%28307%29.png)
 
 You can set your own values for the hot buttons in the chart settings
 

@@ -51,9 +51,21 @@ AMP/CQG exchange provides 2 main order types: **Market, Limit**
 
  
 
+All contracts in AMP/CGQ are standardized with leverage. This means that to set the entry volume you need to specify in the **Quantity field** the required number of contracts. Specification of the contracts you can get on the AMP official website.
+
+### How to open position with Sl and Tp from Order entry
+
+![](../../.gitbook/assets/animaciya.gif)
+
+To set a bracket order with Sl and Tp, follow these steps as shown in the picture below: 
+
+* Set the necessary lot to enter 
+* Set Sl in pips 
+* Set Tp in pips
+
+If one of the orders Sl or Tp is executed, the opposite order will be automatically deleted.
 
 
-All contracts in AMP/CGQ are standardized with leverage. This means that to set the entry volume you need to specify in the Quantity field the required number of contracts. Specification of the contracts you can get on the AMP official website.
 
 
 

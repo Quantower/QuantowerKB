@@ -1,5 +1,15 @@
 # Order Entry for CQG
 
+
+
+
+
+
+
+
+
+
+
 The general view of the Order Entry panel for CQG connection is as follows, and is divided into the following categories:
 
 * Account and symbol selection

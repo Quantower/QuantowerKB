@@ -21,7 +21,7 @@ Open the main menu by clicking the logo and in the **Trading section** click on 
 
 ### General info
 
-Order Entry panel allows to create trading orders with different conditions, such as order quantity, price, side, order type, and submit them on the market. From the Order Entry panel, you can supply all of the necessary information for order and easily submit it by clicking the appropriate action button.
+**Order Entry** panel allows to create trading orders with different conditions, such as order quantity, price, side, order type, and submit them on the market. From the Order Entry panel, you can supply all of the necessary information for order and easily submit it by clicking the appropriate action button.
 
 ![](../../.gitbook/assets/animaciya-6-.gif)
 
@@ -37,7 +37,7 @@ The entire panel is conventionally divided into several zones:
 
 ### Symbol and account selection
 
-The selection of a trading instrument can be performed manually through the [Symbol Lookup](https://help.quantower.com/getting-started/instruments-lookup) or via linking the panel to other panels, for example, to the chart. Just select one link color in two panels and they will have a synchronized symbol parameter.
+The selection of a trading instrument can be performed manually through the [**Symbol Lookup**](../../general-settings/instruments-lookup.md) or via linking the panel to other panels, for example, to the chart. Just select one link color in two panels and they will have a synchronized symbol parameter.
 
 If there are several trading accounts available within your connection, you can select the required account by clicking the **Select Account** button.
 

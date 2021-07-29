@@ -6,12 +6,10 @@ description: Multiple ways to enter orders on the CQG connection
 
 ### \*\*\*\*[**How to place an order from the OE \(Order Entry\) panel**](order-entry-for-cqg.md#how-to-place-an-order-from-the-oe-order-entry-panel)\*\*\*\*
 
-* \*\*\*\*[**How to open the Order Entry panel**](order-entry-for-cqg.md#how-to-open-position-with-sl-and-tp-from-order-entry)\*\*\*\*
-* [**General view of the OE \(Order Entry\) panel for AMP/CQG**](order-entry-for-cqg.md#the-general-view-of-the-order-entry-panel-for-cqg-connection)\*\*\*\*
 * \*\*\*\*[**Order parameters — Type, Price, Quantity**](order-entry-for-cqg.md#selection-of-order-type-time-if-force-and-order-quantity)\*\*\*\*
 * \*\*\*\*[**How to set TP \(take profit\) and SL \(stop loss\)**](order-entry-for-cqg.md#how-to-set-tp-take-profit-and-sl-stop-loss)\*\*\*\*
-* \*\*\*\*[**How to set up  several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)\*\*\*\*
-* \*\*\*\*[**How to set up Traling Stop**](order-entry-for-cqg.md#how-to-set-up-traling-order)\*\*\*\*
+* \*\*\*\*[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)\*\*\*\*
+* \*\*\*\*[**How to set up Trailing Order**](order-entry-for-cqg.md#how-to-set-up-traling-order)
 
 ### \*\*\*\*[**How to place an order from the Chart quick trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)\*\*\*\*
 
@@ -20,13 +18,13 @@ description: Multiple ways to enter orders on the CQG connection
 * \*\*\*\*[**Quick order quantity buttons**](order-entry-for-cqg.md#quick-order-quantity-buttons)\*\*\*\*
 * \*\*\*\*[**Quick change order amount buttons**](order-entry-for-cqg.md#quick-change-order-amount-buttons)\*\*\*\*
 * \*\*\*\*[**How to set up Take Profit and Stop Loss orders**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders)\*\*\*\*
-* \*\*\*\*[**How to set up  several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-profit-and-stop-orders-foe-one-position)\*\*\*\*
+* \*\*\*\*[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-profit-and-stop-orders-foe-one-position)\*\*\*\*
 * \*\*\*\*[**Quickly placing order buttons**](order-entry-for-cqg.md#quickly-placing-order-buttons)\*\*\*\*
 
 ### \*\*\*\*[**Mouse trading**](order-entry-for-cqg.md#mouse-trading)\*\*\*\*
 
 * \*\*\*\*[**How to set up Take Profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders-for-limit-order)\*\*\*\*
-* \*\*\*\*[**How to set up  several Take profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-the-limit-order)\*\*\*\*
+* \*\*\*\*[**How to set up several Take profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-the-limit-order)\*\*\*\*
 * \*\*\*\*[**How to set up many limit orders**](order-entry-for-cqg.md#how-to-set-up-many-limit-orders)\*\*\*\*
 
 ### [Quick order entry](order-entry-for-cqg.md#quick-order-entry)
@@ -36,19 +34,11 @@ description: Multiple ways to enter orders on the CQG connection
 
 ### [Keyboard trading](order-entry-for-cqg.md#keyboard-trading)
 
-* \*\*\*\*[**How to activate trading with hot keys**](order-entry-for-cqg.md#how-to-activate-trading-with-hot-keys)\*\*\*\*
+* \*\*\*\*[**How to activate trading with hotkeys**](order-entry-for-cqg.md#how-to-activate-trading-with-hot-keys)\*\*\*\*
 
 ### [How to place an OCO order](order-entry-for-cqg.md#how-to-place-an-oco-order)
 
 ## **How to place an order from the OE \(Order Entry\) panel**
-
-### How to open the Order Entry panel?
-
-Open the main menu by clicking the logo and in the **Trading section** click on the OE icon.
-
-![](https://gblobscdn.gitbook.com/assets%2F-LD6FsRvQ3jgwJIg6O7r%2F-MD-SK9sGBjGPAf-tTT9%2F-MD-T9TmTXv89aeFt1Bc%2FOE%20general.png?alt=media&token=85f80f2b-ad97-4231-b9ff-89fe988a5466)
-
-### The general view of the Order Entry panel for CQG connection 
 
 ![General view of Order Entry panel with CQG connection](../../.gitbook/assets/image%20%28304%29.png)
 
@@ -59,14 +49,6 @@ The entire panel is conventionally divided into several **zones**:
 * setting of the order price, stop loss and take profit prices;
 * order placing strategy for advanced trading algorithms
 * information on current Ask and Bid prices, spread size, as well as an order placement button
-
-### Selection of Order Type, Time if Force and Order Quantity
-
-AMP/CQG exchange provides 2 main order types: **Market, Limit**
-
-![](../../.gitbook/assets/image%20%28308%29.png)
-
-All contracts in AMP/CGQ are standardized with leverage. This means that to set the entry volume you need to specify in the **Quantity field** the required number of contracts. Specification of the contracts you can get on the AMP official website.
 
 ## CQG OrderTypes, Time in Force \(TIF\), Algorithmic in Quantower
 

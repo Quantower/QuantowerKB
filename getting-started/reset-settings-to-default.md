@@ -68,15 +68,17 @@ The file to be transferred must be placed in a similar folder on another compute
 
 Recall that in the Quantower platform, all created templates are stored in the Control Center sidebar in the **"Templates"** group. Thus, you can launch any template from this location at any time with a single click. You can place your saved templates in the Favorites panel in the Control Center, just like any other default panel.
 
-![](../.gitbook/assets/image%20%28311%29.png)
+![](../.gitbook/assets/image%20%28313%29.png)
 
 ### How to share your Workspaces with other traders
 
 {% hint style="info" %}
-This is done in exactly the same way as described above, except that we transfer a different file
+This is done in exactly the same way as described above, except that we transfer a different file **\Quantower\Settings\Workspaces**
+
+The file to be transferred must be placed in a similar folder on another computer
 {% endhint %}
 
-
+![](../.gitbook/assets/image%20%28311%29.png)
 
 
 

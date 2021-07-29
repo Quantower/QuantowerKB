@@ -11,9 +11,9 @@ description: Multiple ways to enter orders on the CQG connection
 * \*\*\*\*[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)\*\*\*\*
 * \*\*\*\*[**How to set up Trailing Order**](order-entry-for-cqg.md#how-to-set-up-traling-order)
 
-### \*\*\*\*[**How to place an order from the Chart quick trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)\*\*\*\*
+### \*\*\*\*[**How to place an order from the Chart trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)\*\*\*\*
 
-* \*\*\*\*[**General view of Chart** ](order-entry-for-cqg.md#general-view-of-chart)\*\*\*\*
+* \*\*\*\*[**General view of Char Trading Sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)\*\*\*\*
 * \*\*\*\*[**Order quantity selection**](order-entry-for-cqg.md#quick-order-quantity-buttons)\*\*\*\*
 * \*\*\*\*[**Quick order quantity buttons**](order-entry-for-cqg.md#quick-order-quantity-buttons)\*\*\*\*
 * \*\*\*\*[**Quick change order amount buttons**](order-entry-for-cqg.md#quick-change-order-amount-buttons)\*\*\*\*
@@ -30,7 +30,7 @@ description: Multiple ways to enter orders on the CQG connection
 ### [Quick order entry](order-entry-for-cqg.md#quick-order-entry)
 
 * \*\*\*\*[**How to open Quick order entry**](order-entry-for-cqg.md#how-to-open-quick-order-entry)\*\*\*\*
-* \*\*\*\*[**How to set volume quantity**](order-entry-for-cqg.md#how-to-set-volume-quantity)\*\*\*\*
+* \*\*\*\*[**How to set Order quantity**](order-entry-for-cqg.md#how-to-set-volume-quantity)\*\*\*\*
 
 ### [Keyboard trading](order-entry-for-cqg.md#keyboard-trading)
 
@@ -38,7 +38,7 @@ description: Multiple ways to enter orders on the CQG connection
 
 ### [How to place an OCO order](order-entry-for-cqg.md#how-to-place-an-oco-order)
 
-## **How to place an order from the OE \(Order Entry\) panel**
+## **General view of the Order Entry panel with CQG connection**
 
 ![General view of Order Entry panel with CQG connection](../../.gitbook/assets/image%20%28304%29.png)
 
@@ -77,8 +77,6 @@ CQG provides various order types for trading via the Order Entry panel:
 
 ### **How to set TP \(take profit\) and SL \(stop loss\)**
 
-![](../../.gitbook/assets/animaciya.gif)
-
 To set a bracket order with Sl and Tp, follow these steps as shown in the picture below: 
 
 * Set the necessary lot to enter 
@@ -87,7 +85,7 @@ To set a bracket order with Sl and Tp, follow these steps as shown in the pictur
 
 If one of the orders Sl or Tp is executed, the opposite order will be automatically deleted.
 
-### How to set up  several Take profit and Stop Loss orders for one position
+### How to set up several Take profit and Stop Loss orders for one position
 
 ![](../../.gitbook/assets/animaciya-1-%20%282%29.gif)
 
@@ -97,25 +95,17 @@ If one of the orders Sl or Tp is executed, the opposite order will be automatica
 * For the next stops, enter similar data on the next line.
 * You can set orders in multiples of your total volume
 
-### How to set up traling order
-
-AMP/CQG support **server-side trailing orders**. To set such an order you must Select order type select TRAIL item in Algorithmic trading Specify the parameters of this Price and the offset for the movement
-
-![](../../.gitbook/assets/animaciya-8-.gif)
-
 ## **How to place an order from the Chart trading sidebar**
 
-### **General view of Chart**
-
-The general view of the order entry panel for AMP/CQG connection looks like the following and is divided into the following categories: 
+The general view of the Chart trading sidebar for AMP/CQG connection looks like the following and is divided into the following categories: 
 
 * Account and symbol selection 
-* Order volume selection and direction selection
-* Order parameters - type, TIF, price, algorithmic settings. 
-* Mode for Stop Loss and Take Profit. 
+* Order volume selection, TIF, algorithmic settings
+* Brackets Mode for Stop Loss and Take Profit. 
 * Order placement parameters \(strategy\)
+* Quick buttons for managing existed orders and positions
 
-![](../../.gitbook/assets/image%20%28306%29.png)
+![Sidebar Order Entry on the chart ](../../.gitbook/assets/image%20%28314%29.png)
 
 ### **Quick order quantity buttons**
 

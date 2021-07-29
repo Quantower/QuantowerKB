@@ -12,6 +12,7 @@ In this guide, we will cover all the steps required to create a trading account 
 * \*\*\*\*[**Open an account on Bybit to get personal API keys**](connection-to-bybit.md#open-an-account-on-bybit-to-get-personal-api-keys)\*\*\*\*
 * \*\*\*\*[**Possible Errors with Bybit connection**](connection-to-bybit.md#possible-errors-with-bybit-connection)\*\*\*\*
 * [**Bybit trading**](../trading-panels/order-entry/order-entry-for-bybit.md)\*\*\*\*
+* **Errors**
 
 Note, that in the platform, you can connect to the exchange in two modes:
 
@@ -70,6 +71,12 @@ Use your personal API Keys to login into your trading account in Quantower platf
 To solve it, please, go to **Windows Settings &gt; Time & Language &gt;** and click on **Sync Now** button**.**
 
 ![](../.gitbook/assets/image%20%2892%29.png)
+
+### Errors with bybit Connection
+
+Refuse \(bybit\)- you don't have enough funds - fund your account
+
+![](../.gitbook/assets/image%20%28315%29.png)
 
 
 

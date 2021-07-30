@@ -199,10 +199,10 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="https://www.quantower.com/advancedfeatures"><b>ADVANCED FEATURES</b></a><b> *</b>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Free version</td>
+      <td style="text-align:left">Crypto package</td>
+      <td style="text-align:left">Multi-Asset</td>
+      <td style="text-align:left">All-in-One</td>
     </tr>
     <tr>
       <td style="text-align:left">Simultaneous connections</td>
@@ -332,10 +332,10 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="https://www.quantower.com/volumeanalysistools"><b>VOLUME ANALYSIS TOOLS</b></a><b> *</b>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Free version</td>
+      <td style="text-align:left">Crypto package</td>
+      <td style="text-align:left">Multi-Asset</td>
+      <td style="text-align:left">All-in-One</td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="../analytics-panels/chart/volume-analysis-tools/cluster-chart.md">Cluster chart (Footprint)</a>
@@ -405,11 +405,12 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">All licenses below can be
+        <br />purchased separately</td>
+      <td style="text-align:left">Free version</td>
+      <td style="text-align:left">Crypto package</td>
+      <td style="text-align:left">Multi-Asset</td>
+      <td style="text-align:left">All-in-One</td>
     </tr>
     <tr>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;<a href="../analytics-panels/tpo-chart.md"><b>TPO Chart</b></a><b> *</b>

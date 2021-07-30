@@ -405,6 +405,13 @@ Licenses that are marked with the symbol **\(\*\)** can be purchased separately.
       <td style="text-align:left">&#x2714;</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left">All licenses below can be
         <br />purchased separately</td>
       <td style="text-align:left">Free version</td>

@@ -6,22 +6,20 @@ description: >-
 
 # Chart Trading
 
-Entry of orders on the Quantower platform on the exchanges can be done in different ways, depending on the chosen trading style: 
+Placing orders on the Quantower platform can be done via different panels like Order Entry, DOM Trader, Chart. In this guide, we will show you how to place orders via Chart using the sidebar trading toolbar and mouse mode.
 
-[Quick trading panel](chart-trading.md#quick-trading-panel) 
+### **Chart Trading Toolbar**
 
-* [How to open  quick trade toolbar](chart-trading.md#how-to-open-quick-trade-toolbar)
-* [Quick change order amount buttons and formulas in it](chart-trading.md#quick-change-order-amount-buttons)
-* [Slider to enter the volume of the position in dollars](chart-trading.md#slider-to-enter-the-volume-of-the-position-in-dollars)
-* [How to set up Profit and Stop orders](chart-trading.md#how-to-set-up-profit-and-stop-orders)
+* [How to open chart trading toolbar](chart-trading.md#how-to-open-quick-trade-toolbar)
+* [How to manage Quick Order Quantity buttons](chart-trading.md#quick-change-order-amount-buttons)
+* [Slider to enter the volume of the position](chart-trading.md#slider-to-enter-the-volume-of-the-position-in-dollars)
+* [How to set up Take Profit and Stop Loss orders](chart-trading.md#how-to-set-up-profit-and-stop-orders)
 * [How to set up  several Take profit and Stop Loss orders for one position](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)
 * [A set of buttons for quick order and position management](chart-trading.md#a-set-of-buttons-for-quick-order-and-position-management)
 
 [Quick order entry](chart-trading.md#quick-order-entry)
 
 * [How to open Quick order entry](chart-trading.md#how-to-open-quick-order-entry)
-* [How to set volume quantity](chart-trading.md#how-to-set-volume-quantity)
-* Other features
 
 [Mouse visual trading](chart-trading.md#mouse-trading)
 
@@ -31,20 +29,25 @@ Entry of orders on the Quantower platform on the exchanges can be done in differ
 
 [Keyboard trading](chart-trading.md#keyboard-trading)
 
-* How to activate trading with hot keys
+* How to activate trading with hotkeys
 * Setting and trading from the hotkeys.
 
-## Quick trading panel
+## Chart Trading Toolbar
 
-### How to open  quick trade toolbar
+### How to open chart trading toolbar
 
-To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../analytics-panels/chart/chart-settings.md)
+To activate the quick trading toolbar, click on the button in the upper right corner.
 
-![](../.gitbook/assets/animaciya-.gif)
+{% hint style="info" %}
+The general view of Chart Trading Toolbar may differ depending on the available functions for each trade connection.  
+This panel will be slightly different for crypto connections, as well as for those that do not allow to create Brackets or server-side Stop Loss / Take Profit orders. For more details about available order types for each connection, please check the [**Order Types section**](order-entry/order-types.md)\*\*\*\*
+{% endhint %}
 
-### Quick change order amount buttons 
+![](../.gitbook/assets/chart-trading-toolbar.gif)
 
-The quick change order amount buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
+### How to manage Quick Order Quantity buttons
+
+Quick Order Quantity buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
 
 ![](../.gitbook/assets/kolvo.jpg)
 
@@ -124,19 +127,9 @@ This example is for connecting a CQG/AMP
 
 ### How to open Quick order entry
 
-To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../analytics-panels/chart/chart-settings.md)
+To access the quick trade toolbar, click the button in the upper right corner.
 
 ![](../.gitbook/assets/animaciya-1-%20%281%29.gif)
-
-### How to set volume quantity
-
-{% hint style="warning" %}
-Note that in order to make a transaction from the Quick order entry panel, you must enter the lot volume. And this volume does not coincide with the Quick trading panel 
-{% endhint %}
-
-### Other features 
-
-You can set both limit and stop limit orders
 
 ## Mouse trading
 

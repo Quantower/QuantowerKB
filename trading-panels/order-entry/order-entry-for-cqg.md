@@ -75,6 +75,8 @@ CQG provides various order types for trading via the Order Entry panel:
 * **ATC \(At the Close Order\)** — order to buy or sell a stock at the closing price. One of the benefits of this type of order is that it can be placed prior to the actual end of the trading day requested. This would be the opposite of an at-the-open order.
 * **ATO \(At-The-Open Order\)** — order to buy or sell a stock at the opening price. ATO order is allowed during pre-open sessions \(morning and afternoon\) or even the night before.
 
+Algorithmic orders for CQG
+
 ### **How to set TP \(take profit\) and SL \(stop loss\)**
 
 To set a bracket order with Sl and Tp, follow these steps as shown in the picture below: 

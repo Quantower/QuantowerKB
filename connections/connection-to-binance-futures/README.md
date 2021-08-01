@@ -39,6 +39,18 @@ Please activate it and after you can connect to Binance Futures in Quantower
 
 ![](../../.gitbook/assets/image%20%2890%29.png)
 
+{% hint style="danger" %}
+Go to the futures trading section and take the test to activate your futures account.
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%28316%29.png)
+
+
+
+
+
+
+
 ## How to connect to Binance Futures in Quantower platform
 
 * Launch Quantower platform and open [Connections Manager](../connections-manager.md). Select Binance Futures in the list and select the type of connections — **INFO** or **TRADING** mode.

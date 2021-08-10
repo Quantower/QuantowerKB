@@ -10,8 +10,9 @@ description: >-
 * \*\*\*\*[**Data Limitations**](./#data-limitations)\*\*\*\*
 * \*\*\*\*[**Necessary steps for successful connection to Quantower**](./#necessary-steps-for-successful-connection-to-quantower)\*\*\*\*
 * \*\*\*\*[**Problems during the connection to Interactive Brokers**](./#problems-during-the-connection-to-interactive-brokers)\*\*\*\*
+* \*\*\*\*[**How to subscribe to IB market data**](./#how-to-subscribe-to-ib-market-data)\*\*\*\*
 
-### Data Limitations
+## Data Limitations
 
 Interactive Brokers places the following limitations on real-time and historical data accessible to 3rd party applications
 
@@ -26,7 +27,7 @@ For more details on these limitations see [IB Data Limitations](https://interact
 * Market data updates are not frequent; therefore, we do not recommend using IB data \(instead we recommend using dxFeed or Iqfeed as market data provider\).
 {% endhint %}
 
-### Necessary steps for a successful connection to Quantower
+## Necessary steps for a successful connection to Quantower
 
 This guide will help you to configure the connection to the Interactive Brokers and start working on Quantower platform.
 
@@ -63,10 +64,10 @@ Also necessary in the **Settings** section deactivate the **Read-Only API** to p
 
 ![Click on the Connect button once you are logged in to TWS or IB Gateway](../../.gitbook/assets/connections-manager-for-ib.png)
 
-### Problems during the connection to Interactive Brokers
+## Problems during the connection to Interactive Brokers
 
 * _**Wrong Connection Parameters**_
-* _**Trader Workstation is not running \(below\)**_
+* _**Trader Workstation is not running**_
 * _**The Price Does Not Conform to the minimum price variation for this contract \(FOREX symbols\)**_
 
 There may be some problems during the connection to Interactive Brokers, for example, _**Wrong Connection Parameters**_
@@ -87,9 +88,7 @@ If the problem persists even after choosing the right application, you need to c
 
 Select the _**Custom**_ connection port type in the Connection settings of Quantower and set the _**Port Value**_
 
-![This Socket port in Quantower should be the same as in TWS \(or IB gateway\)](../../.gitbook/assets/custom-socket-port.png)
-
-    2. _**Trader Workstation is not running**_
+### _**Trader Workstation is not running**_
 
 ![Trader Workstation is not running. Please launch it to connect to IB](../../.gitbook/assets/connections-manager-for-ib_tws_error.png)
 
@@ -108,6 +107,24 @@ If you place orders in Quantower at prices between those specified, for example 
 To solve this problem and to be able to place orders at any desired prices, you need to activate the setting in the TWS platform \(or in IB Gateway\)
 
 ![](../../.gitbook/assets/image%20%2898%29.png)
+
+## How to subscribe to IB Market Data
+
+Requests for trading permissions and market data subscriptions are submitted through **Account Management** on the IB website.
+
+If market data is not subscribed, you will see error messages similar to the following:
+
+![](../../.gitbook/assets/image%20%28319%29.png)
+
+To subscribe to Market data with IB, please go to the Account Management section. Open the TWS platform and from the main TWS screen by clicking the **Account** menu at the top of the screen and then selecting **Account Management Home.**
+
+![](../../.gitbook/assets/image%20%28318%29.png)
+
+This will open the Account Management page without requiring that the account username / password be re-entered. 
+
+At the bottom of the Account Management page, you can find the link to the [**Market Data Subscriptions**](https://ndcdyn.interactivebrokers.com/AccountManagement/AmAuthentication?action=TA_MARKET_DATA). Click on the **Gear** icon to customize your subscription to the necessary market data. After that restart the TWS 
+
+![](../../.gitbook/assets/image%20%28320%29.png)
 
 
 

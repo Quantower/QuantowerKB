@@ -122,7 +122,9 @@ To subscribe to Market data with IB, please go to the Account Management section
 
 This will open the Account Management page without requiring that the account username / password be re-entered. 
 
-At the bottom of the Account Management page, you can find the link to the [**Market Data Subscriptions**](https://ndcdyn.interactivebrokers.com/AccountManagement/AmAuthentication?action=TA_MARKET_DATA). Click on the **Gear** icon to customize your subscription to the necessary market data. After that restart the TWS 
+At the bottom of the Account Management page, you can find the link to the [**Market Data Subscriptions**](https://ndcdyn.interactivebrokers.com/AccountManagement/AmAuthentication?action=TA_MARKET_DATA). Click on the **Gear** icon to customize your subscription to the necessary market data. 
+
+After this is done, **restart Trader Workstation platform**. Quantower will establish a new connection and you should then receive market data.
 
 ![](../../.gitbook/assets/image%20%28320%29.png)
 

@@ -22,6 +22,8 @@ In order to receive market data for charts and quote lines within Quantower, it 
 
 In this case you will need to **subscribe to market data** from the particular exchanges mentioned in these messages. After this is done, **restart Trader Workstation platform**. Quantower will establish a new connection and you should then receive market data.
 
+Please check our guide on [**How to subscribe to IB's Market Data**](./#how-to-subscribe-to-ib-market-data).
+
 
 
 

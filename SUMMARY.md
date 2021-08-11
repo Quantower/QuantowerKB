@@ -48,6 +48,7 @@
   * [Connection to Interactive Brokers](connections/connect-quantower-to-interactive-broker/README.md)
     * [Errors with Interactive Brokers](connections/connect-quantower-to-interactive-broker/errors-with-interactive-brokers.md)
   * [Connection to Bybit](connections/connection-to-bybit.md)
+  * [Connection to OKEx](connections/connection-to-okex.md)
   * [Connection to MetaStock](connections/connection-to-metastock.md)
   * [Connection to IQFeed](connections/connection-to-iqfeed.md)
   * [Connection to Exante](connections/connection-to-exante.md)

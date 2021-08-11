@@ -13,7 +13,6 @@ To start trading on Binance Futures through Quantower platform, you need to open
 * \*\*\*\*[**How to get Full License of Quantower for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
 * \*\*\*\*[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)\*\*\*\*
 * \*\*\*\*[**How to load the history of past trades \(for previous days\)**](./#how-to-load-the-history-of-past-trades-for-previous-days)\*\*\*\*
-* \*\*\*\*[**How to place Stop Loss and Take Profit for a position \(server-side\)**](./#how-to-place-stop-loss-and-take-profit-for-a-position-server-side)\*\*\*\*
 * \*\*\*\*[**How to change Hedge Mode \(One position & Multiple positions\)**](./#how-to-change-hedge-mode-one-position-and-multiple-positions)\*\*\*\*
 * \*\*\*\*[**Possible Errors with Binance Futures connection**](errors-with-binance-connection.md)\*\*\*\*
 
@@ -117,22 +116,6 @@ Due to Binance API limitations, it takes several minutes \(up to 5 minutes\) to 
 {% endhint %}
 
 ![](../../.gitbook/assets/image%20%28175%29.png)
-
-## **How to place Stop Loss and Take Profit for a position \(server-side\)**
-
-Binance Futures provides **server-side SL/TP orders only for the existed \(open\) position**. It means that you need to open your position first and after you can set server-side SL/TP.
-
-Server-side SL/TP orders are much safer because are sent directly to the exchange and in case of loss of the Internet or other force majeure, your position will be protected.
-
-{% hint style="info" %}
-Binance Futures doesn't allow placing server-side SL/TP for Limit orders!
-
-Our team will add client-side \(local\) SL/TP for limit orders later.
-{% endhint %}
-
-{% embed url="https://www.youtube.com/watch?v=FWVy9dyC1HQ" %}
-
-
 
 ## **How to change Hedge Mode \(One position & Multiple positions\)**
 

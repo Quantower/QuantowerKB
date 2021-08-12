@@ -70,7 +70,7 @@ As an example let's create a simple indicator, that will draw 2 lines in the sep
 using System;
 using System.Drawing;
 using TradingPlatform.BusinessLayer;
-using TradingPlatform.BusinessLayer.Modules.Indicators;
+
 
 namespace IndicatorVolumeAnalysis
 {   
@@ -90,6 +90,8 @@ namespace IndicatorVolumeAnalysis
             // By default indicator will be applied on main window of the chart
             SeparateWindow = true;
         }
+
+        public bool IsRequirePriceLevelsCalculation => false;
 
         public void VolumeAnalysisData_Loaded()
         {

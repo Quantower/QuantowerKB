@@ -87,7 +87,7 @@ The file to be transferred must be placed in a similar folder on another compute
 ### How to copy all settings to other PC
 
 {% hint style="info" %}
-[Copy the settings folder to another PC](reset-settings-to-default.md#how-to-provide-settings-for-developers-for-checking-an-issue)
+[Copy the settings folder to another PC](reset-settings-to-default.md#how-to-provide-settings-for-developers-for-checking-an-issue) or COPY all Quantower folder to other PC. It is totally portable.
 {% endhint %}
 
 

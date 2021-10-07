@@ -88,7 +88,7 @@ To create a new trading bot, click on the "+" button in the top left corner of t
 
 Next you need to select a parent account \(connection\), which is the main account where the main trade will be done. The parent account is the name of the connection, the exchange, the broker where you have multiple accounts. And add a child account\(s\) - These are the accounts where all trades will be copied.
 
-![](../.gitbook/assets/image%20%28343%29.png)
+![](../.gitbook/assets/image%20%28344%29.png)
 
 Each new line will add another account to which trades will be copied
 

@@ -11,15 +11,15 @@ One of the frequent questions from our community is: how to copy trades between 
 
 {% embed url="https://youtu.be/qIE2BxBvuJo" %}
 
-* How to open the "copy trades" panel and where it is located. 
-* How the "copy trades" panel works and how it differs from the "Multiorder" 
-  * panel Top - Manager for managing the list of bots to copy trades 
-  * Bottom - Log of all actions 
-* Parent and child connections 
-* How to create a trade copy bot 
-* QTY copy mode - two modes for selecting trading volume on child accounts
-  * Percentage - % trade from the balance in proportion to the parent account
-  * Multiplier - multiplier, K from the trade of the parent account
+* [How to open the "copy trades" panel and where it is located](copy-trading.md#how-to-open-the-copy-trades-panel-and-where-it-is-located). 
+* [How the "copy trades" panel works and how it differs from the "Multiorder](copy-trading.md#how-the-copy-trades-panel-works-and-how-it-differs-from-the-multiorder)" 
+  * [Top panel - Manager for managing the list of bots to copy trades](copy-trading.md#top-manager-for-managing-the-list-of-bots-to-copy-the-trade) 
+  * [Bottom panel - Log of all actions ](copy-trading.md#bottom-log-of-all-activities)
+* [Parent and child connections ](copy-trading.md#parent-and-child-connections)
+* [How to create a trade copy bot ](copy-trading.md#creating-a-trade-copying-bot)
+* [QTY copy mode - two modes for selecting trading volume on child accounts](copy-trading.md#qty-copy-mode-two-modes-for-selecting-the-amount-of-trading-in-subsidiary-accounts-connectors)
+  * [Percentage - % trade from the balance in proportion to the parent account](copy-trading.md#percentage-mode-per-transaction-from-child-account-balance-per-transaction-from-parent-account-balance)
+  * [Multiplier - multiplier, K from the trade of the parent account](copy-trading.md#multiplier-multiplier-k-of-the-parent-account-transaction)
 
 ### How to open the "copy trades" panel and where it is located.
 
@@ -78,7 +78,7 @@ To search for past events, if necessary, you can select over a period using the 
 2. Parent \(connection\) account - is an account on which the main trade will be executed 
 3. Parent \(Connect\) account - is an account or several accounts, where all trades will be copied.
 
-### Создание бота по копированию торговли
+### Creating a trade copying bot
 
 To create a new trading bot, click on the "+" button in the top left corner of the panel.
 

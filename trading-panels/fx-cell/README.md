@@ -10,7 +10,7 @@ description: >-
 
 FX cell panel provides the combination of two important features - quote data and trading controls for order placement. It was designed with FX traders in mind but it can be used with any symbols for any market.
 
-![ ](../.gitbook/assets/fx-cell-general-view.png)
+![ ](../../.gitbook/assets/fx-cell-general-view.png)
 
 The FX Cell panel menu contains:
 
@@ -22,7 +22,7 @@ The FX Cell panel menu contains:
 
 * **Select a trading instrument and an account.** You can select a trading symbol manually or through linking to a [Watchlist](https://help.quantower.com/analytics-panels/watchlist) or to other panels.
 
-![](../.gitbook/assets/fx-cell-select-the-symbol.png)
+![](../../.gitbook/assets/fx-cell-select-the-symbol.png)
 
 * **Set the order size.** Click the size field and either type a new value or use the mouse wheel to move to a new value.
 * **Set the order duration \(TIF\).** Depending on the selected connection, the TIF types may vary.

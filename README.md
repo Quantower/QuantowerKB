@@ -7,8 +7,6 @@ description: >-
 
 # Welcome to Quantower Help
 
-
-
 ![](.gitbook/assets/main-workspace-for-help.png)
 
 

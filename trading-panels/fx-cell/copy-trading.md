@@ -25,7 +25,7 @@ One of the frequent questions from our community is: how to copy trades between 
 
 The panel refers to the trading panels and can be found in the "trading panels" group in the main menu of the platform by clicking on the button in the top left corner.
 
-![](../../.gitbook/assets/image%20%28334%29.png)
+![](../../.gitbook/assets/image%20%28338%29.png)
 
 ### How the "copy trades" panel works and how it differs from the "Multiorder"
 
@@ -41,17 +41,17 @@ The Trade Copy panel supports the following connections: FTX, Binance, Binance F
 
 You can visually observe the complete synchronisation of trades by opening two charts at the same time. You can see the display of those trades on the chart that the bot creates automatically. Every movement of positions, SL/TP will automatically be duplicated on the second connection. Canceling an order on the parent account will also cancel the copied order on the child connection.
 
-![](../../.gitbook/assets/image%20%28333%29.png)
+![](../../.gitbook/assets/image%20%28336%29.png)
 
 The "copy trades" panel is divided into two parts:
 
-![](../../.gitbook/assets/image%20%28335%29.png)
+![](../../.gitbook/assets/image%20%28341%29.png)
 
 ### Top - manager for managing the list of bots to copy the trade
 
 This is the main bot control panel for copy trading. Here you can create new bots, stop and selectively start bots, and configure parameters for each individual bot to copy trades.
 
-![](../../.gitbook/assets/image%20%28332%29.png)
+![](../../.gitbook/assets/image%20%28335%29.png)
 
 * **Bot name** - each bot can be given its own unique name; 
 * **Parent account** \(connection\) - the name of the account where the trade will be made; 
@@ -61,6 +61,67 @@ This is the main bot control panel for copy trading. Here you can create new bot
 * **Action** - active button for starting and stopping bots from the list; 
 * **Settings** - the gear opens settings of the selected trading bot; 
 * **Delete** - deletes the trading bot
-* 
+
+### Bottom - Log of all activities
+
+All actions that have been performed on active bots will be shown in a list in the form of an event log at the bottom of the panel. Including information messages such as "stop" and "start" of each bot. This way you can monitor every action or event performed by the bots without the trader's intervention.
+
+![](../../.gitbook/assets/image%20%28333%29.png)
+
+To search for past events, if necessary, you can select over a period using the filter indicated in the image.
+
+### Parent and child connections
+
+![](../../.gitbook/assets/image%20%28339%29.png)
+
+1. Parent account is the name of the connection \(exchange, broker\) 
+2. Parent \(connection\) account - is an account on which the main trade will be executed 
+3. Parent \(Connect\) account - is an account or several accounts, where all trades will be copied.
+
+### Создание бота по копированию торговли
+
+To create a new trading bot, click on the "+" button in the top left corner of the panel.
+
+![](../../.gitbook/assets/image%20%28340%29.png)
+
+**Enter the bot's name** so that you can easily identify and locate it later in the list of trading bots.
+
+Next you need to select a parent account \(connection\), which is the main account where the main trade will be done. The parent account is the name of the connection, the exchange, the broker where you have multiple accounts. And add a child account\(s\) - These are the accounts where all trades will be copied.
+
+![](../../.gitbook/assets/image%20%28343%29.png)
+
+Each new line will add another account to which trades will be copied
+
+![](../../.gitbook/assets/image%20%28332%29.png)
+
+### QTY copy mode - two modes for selecting the amount of trading in subsidiary accounts \(connectors\)
+
+#### Percentage mode - % per transaction from child account balance = % per transaction from parent account balance
+
+{% hint style="warning" %}
+**-If this mode is selected the order size in % of the balance of the child accounts will be determined automatically.**
+
+  
+**-The % of the child account balance will be the same as the % of the parent account balance.**
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%28337%29.png)
+
+Example:
+
+Parent account has a balance of $1,000 The order amount is $100, which is 10% of the balance. The child account has a balance of $2000. When you place an order on the parent account equal to $100 \(10% of the total balance\), an order will be placed automatically on the child account, and the same order will be placed for 10% of the total balance, or 200$.
+
+#### Multiplier - multiplier, K of the parent account transaction
+
+When selecting this trade copying mode, you need to enter K-factor from the trade of the parent account. Each trade on the child account will be opened in the amount of the trade of the parent account multiplied by the specified K-coefficient Multiplier.
+
+![](../../.gitbook/assets/image%20%28342%29.png)
+
+![](../../.gitbook/assets/image%20%28334%29.png)
+
+Example: The parent account has an order in the amount of 100$, K- 0.5 At accommodation of the order on the parental account in size of 100$, the order will be automatically placed on the child account taking into account K- 0,5, i.e. 100$_0.5=50$ The sum of the warrant of 100$, K - 3 At accommodation of the order on the parental account in 100$, the order will be automatically placed on the child account taking into account K - 3, i.e. 100$_3=300
+
+Translated with www.DeepL.com/Translator \(free version\)
+
 
 

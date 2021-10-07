@@ -107,9 +107,7 @@ Each new line will add another account to which trades will be copied
 
 ![](../../.gitbook/assets/image%20%28337%29.png)
 
-Example:
-
-Parent account has a balance of $1,000 The order amount is $100, which is 10% of the balance. The child account has a balance of $2000. When you place an order on the parent account equal to $100 \(10% of the total balance\), an order will be placed automatically on the child account, and the same order will be placed for 10% of the total balance, or 200$.
+**Example**: Parent account has a balance of $1,000 The order amount is $100, which is 10% of the balance. The child account has a balance of $2000. When you place an order on the parent account equal to $100 \(10% of the total balance\), an order will be placed automatically on the child account, and the same order will be placed for 10% of the total balance, or 200$.
 
 #### Multiplier - multiplier, K of the parent account transaction
 
@@ -119,9 +117,11 @@ When selecting this trade copying mode, you need to enter K-factor from the trad
 
 ![](../../.gitbook/assets/image%20%28334%29.png)
 
-Example: The parent account has an order in the amount of 100$, K- 0.5 At accommodation of the order on the parental account in size of 100$, the order will be automatically placed on the child account taking into account K- 0,5, i.e. 100$_0.5=50$ The sum of the warrant of 100$, K - 3 At accommodation of the order on the parental account in 100$, the order will be automatically placed on the child account taking into account K - 3, i.e. 100$_3=300
+**Example**: The parent account has an order in the amount of **100$, K- 0.5** At accommodation of the order on the parental account in size of 100$, the order will be automatically placed on the child account taking into account K- 0,5, i.e. **100$**_**0.5=50$** The sum of the warrant of **100$, K - 3** At accommodation of the order on the parental account in 100$, the order will be automatically placed on the child account taking into account K - 3, i.e. **100$**_**3=300**
 
-Translated with www.DeepL.com/Translator \(free version\)
+{% hint style="info" %}
+**If the child account does not have enough balance to make a trade with the specified K, an error message can be seen at the bottom of the panel, in the event log.**
+{% endhint %}
 
 
 

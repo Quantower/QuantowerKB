@@ -27,3 +27,5 @@ The panel refers to the trading panels and can be found in the "trading panels" 
 
 ![](../../.gitbook/assets/image%20%28331%29.png)
 
+### How the "copy trades" panel works and how it differs from the "Multiorder"
+

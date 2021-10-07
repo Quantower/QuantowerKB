@@ -133,7 +133,6 @@
   * [Option Analytics](analytics-panels/option-analytics.md)
   * [TPO Profile Chart](analytics-panels/tpo-chart.md)
 * [Trading Panels](trading-panels/README.md)
-  * [Copy Trading](trading-panels/copy-trading.md)
   * [Chart Trading](trading-panels/chart-trading.md)
   * [Crypto Order Entry](trading-panels/crypto-order-entry.md)
   * [Multiple Order Entry](trading-panels/multiple-order-entry.md)

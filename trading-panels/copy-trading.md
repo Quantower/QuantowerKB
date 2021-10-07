@@ -72,11 +72,11 @@ To search for past events, if necessary, you can select over a period using the 
 
 ### Parent and child connections
 
-![](../.gitbook/assets/image%20%28339%29.png)
+![](../.gitbook/assets/connections-2021-10-07-13.57.25%20%281%29.png)
 
 1. Parent account is the name of the connection \(exchange, broker\) 
 2. Parent \(connection\) account - is an account on which the main trade will be executed 
-3. Parent \(Connect\) account - is an account or several accounts, where all trades will be copied.
+3. Affiliated \(Connect\) account - is an account or several accounts, where all trades will be copied.
 
 ### Creating a trade copying bot
 

@@ -142,6 +142,7 @@
     * [Order Types](trading-panels/order-entry/order-types.md)
   * [DOM Trader](trading-panels/dom-trader/README.md)
     * [How to set up Dom  for scalping](trading-panels/dom-trader/how-to-set-up-dom-for-scalping.md)
+  * [Copy Trading](trading-panels/copy-trading.md)
   * [Market depth](trading-panels/market-depth.md)
   * [Trading simulator](trading-panels/trading-simulator.md)
   * [Market Replay](trading-panels/history-player.md)

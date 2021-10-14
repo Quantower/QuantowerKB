@@ -8,18 +8,19 @@ description: >-
 
 To start trading on Binance Futures through Quantower platform, you need to open an account and create an **API Key** and **Secret Key**. In this guide, we will show you step-by-step how to set up the connection, change margin type and leverage size.
 
-* \*\*\*\*[**How to create a new Binance Futures account**](./#how-to-create-a-new-binance-futures-account)\*\*\*\*
-* \*\*\*\*[**How to connect to Binance Futures in Quantower platform**](./#how-to-connect-to-binance-futures-in-quantower-platform)\*\*\*\*
-* \*\*\*\*[**How to get Full License of Quantower for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)\*\*\*\*
-* \*\*\*\*[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)\*\*\*\*
-* \*\*\*\*[**How to load the history of past trades \(for previous days\)**](./#how-to-load-the-history-of-past-trades-for-previous-days)\*\*\*\*
-* \*\*\*\*[**How to place Stop Loss and Take Profit for a position \(server-side\)**](./#how-to-place-stop-loss-and-take-profit-for-a-position-server-side)\*\*\*\*
-* \*\*\*\*[**How to change Hedge Mode \(One position & Multiple positions\)**](./#how-to-change-hedge-mode-one-position-and-multiple-positions)\*\*\*\*
-* \*\*\*\*[**Possible Errors with Binance Futures connection**](errors-with-binance-connection.md)\*\*\*\*
+* ****[**How to create a new Binance Futures account**](./#how-to-create-a-new-binance-futures-account)****
+* ****[**How to connect to Binance Futures in Quantower platform**](./#how-to-connect-to-binance-futures-in-quantower-platform)****
+* ****[**How to get Full License of Quantower for free with Binance?**](./#how-to-get-full-license-of-quantower-for-free-with-binance)****
+* ****[**How to change Leverage and Margin Type**](./#how-to-change-leverage-and-margin-type)****
+* ****[**How to load the history of past trades (for previous days)**](./#how-to-load-the-history-of-past-trades-for-previous-days)****
+* ****[**How to place Stop Loss and Take Profit for a position (server-side)**](./#how-to-place-stop-loss-and-take-profit-for-a-position-server-side)****
+* ****[**How to change Hedge Mode (One position & Multiple positions)**](./#how-to-change-hedge-mode-one-position-and-multiple-positions)****
+* ****[**Possible Errors with Binance Futures connection**](errors-with-binance-connection.md)****
 
 ## How to create a new Binance Futures account
 
-* Go to the ****[**Binance Futures**](https://www.binance.com/en/futures) official website to open a _**live account**_.  If you want to create a _**demo account**_, you can open it on [**Testnet Binance Futures**](https://testnet.binancefuture.com/en/futures) website
+* Go to the** **[**Binance Futures**](https://www.binance.com/en/futures) official website to open a _**live account**_. \
+  If you want to create a _**demo account**_, you can open it on [**Testnet Binance Futures**](https://testnet.binancefuture.com/en/futures) website
 
 ![](../../.gitbook/assets/create-account-binance-futures.png)
 
@@ -28,7 +29,7 @@ To start trading on Binance Futures through Quantower platform, you need to open
 
 ![](../../.gitbook/assets/binance-futures-their-terminal.png)
 
-* Click on the logo of your account and in the _**Settings**_ section select _**API Management**_. Create a new API Key \(if you don't have it\) and save it.
+* Click on the logo of your account and in the _**Settings**_ section select _**API Management**_. Create a new API Key (if you don't have it) and save it.
 
 ![](../../.gitbook/assets/api-binance-futures.png)
 
@@ -36,19 +37,19 @@ Once you will create an API key, please click on the **Wallet** menu and select 
 
 Please activate it and after you can connect to Binance Futures in Quantower
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](<../../.gitbook/assets/image (87).png>)
 
-![](../../.gitbook/assets/image%20%2890%29.png)
+![](<../../.gitbook/assets/image (90).png>)
 
 {% hint style="danger" %}
 Go to the futures trading section and take the test to activate your futures account.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28316%29.png)
+![](<../../.gitbook/assets/image (316).png>)
 
 ## How to connect to Binance Futures in Quantower platform
 
-* Launch Quantower platform and open [Connections Manager](../connections-manager.md). Select Binance Futures in the list and select the type of connections — **INFO** or **TRADING** mode.
+* Launch Quantower platform and open [Connections Manager](../connections-manager.md). Select Binance Futures in the list and select the type of connections — **INFO** or** TRADING **mode.
 
 ![](../../.gitbook/assets/connection-binance-futures.gif)
 
@@ -57,7 +58,7 @@ Go to the futures trading section and take the test to activate your futures acc
 ## How to get Full License of Quantower for free with Binance?
 
 {% hint style="danger" %}
-If you already have a binance account and it is older than **1 FEBRUARY  2021**, then you need to create a new account in order to use all the paid quantower features
+If you already have a binance account and it is older than** 1 FEBRUARY  2021**, then you need to create a new account in order to use all the paid quantower features
 {% endhint %}
 
 First, you need to register a new account on Binance exchange, that wouldn’t be connected with any referral previously. In order to do this, please follow the [https://accounts.binance.com/en/register](https://accounts.binance.com/en/register) link and fill in the registration form.
@@ -66,25 +67,25 @@ First, you need to register a new account on Binance exchange, that wouldn’t b
 Please note! The Referral ID field must be empty. If you see any prefilled ID in this field you should CLEAR YOUR **REFERRAL ID** COOKIES in the browser before registration.
 {% endhint %}
 
-![Make sure that the Referral ID field is empty](../../.gitbook/assets/screenshot_1.png)
+![Make sure that the Referral ID field is empty](../../.gitbook/assets/screenshot\_1.png)
 
 ### Clearing Referral ID cookies
 
 To clear your saved cookies in the Chrome browser, you should proceed to the “Site information block” and follow the “Cookies section”
 
-![Page cookies can be found via the Page info](../../.gitbook/assets/screenshot_2.png)
+![Page cookies can be found via the Page info](../../.gitbook/assets/screenshot\_2.png)
 
 Now select each group of cookies and press the “Remove” button. When there will be no cookies in the list, please, press the “Done” button. Now you should refresh your registration page and make sure that the “Referral ID” field is empty. 
 
-![Binance stores referral data in cookies](../../.gitbook/assets/screenshot_3%20%283%29.png)
+![Binance stores referral data in cookies](<../../.gitbook/assets/screenshot\_3 (3).png>)
 
 When you’ve created a new account with the Binance exchange you may log in using your new credentials via the Quantower terminal and start using all of its premium features for free.
 
 ### How to check that your account has a Full license in Quantower?
 
-Once you created a new account with Binance Spot, Binance Futures, please login to the platform in trading mode with your API Keys. After that, open ****[**Account Info** panel](../../informational-panels/account-info.md) and check that the field **Full license is Enabled**.
+Once you created a new account with Binance Spot, Binance Futures, please login to the platform in trading mode with your API Keys. After that, open** **[**Account Info** panel](../../informational-panels/account-info.md) and check that the field** Full license is Enabled**.
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](<../../.gitbook/assets/image (167).png>)
 
 ## How to change Leverage and Margin Type
 
@@ -108,37 +109,36 @@ To enable these functions, you need to make at least 1 trade for current symbol.
 
 ![Make one trade to activate Leverage and Margin type for Binance Futures in Quantower](../../.gitbook/assets/symbol-info-binance-futures.png)
 
-## **How to load the history of past trades \(for previous days\)**
+## **How to load the history of past trades (for previous days)**
 
 All trades made during the active session of the platform can be displayed on the chart, as well as in the Trades panel. To display trades for previous days, you need to activate the option **"Load user trades history"** in the connection settings.
 
 {% hint style="info" %}
-Due to Binance API limitations, it takes several minutes \(up to 5 minutes\) to load data on past trades. In addition, only data from the last 7 days can be downloaded.
+Due to Binance API limitations, it takes several minutes (up to 5 minutes) to load data on past trades. In addition, only data from the last 7 days can be downloaded.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%28175%29.png)
+![](<../../.gitbook/assets/image (175).png>)
 
-## **How to place Stop Loss and Take Profit for a position \(server-side\)**
+## **How to place Stop Loss and Take Profit for a position (server-side)**
 
-Binance Futures provides **server-side SL/TP orders only for the existed \(open\) position**. It means that you need to open your position first and after you can set server-side SL/TP.
+Binance Futures provides **server-side SL/TP orders only for the existed (open) position**. It means that you need to open your position first and after you can set server-side SL/TP.
 
 Server-side SL/TP orders are much safer because are sent directly to the exchange and in case of loss of the Internet or other force majeure, your position will be protected.
 
 {% hint style="info" %}
 Binance Futures doesn't allow placing server-side SL/TP for Limit orders!
 
-Our team will add client-side \(local\) SL/TP for limit orders later.
+Our team will add client-side (local) SL/TP for limit orders later.
 {% endhint %}
 
 {% embed url="https://www.youtube.com/watch?v=FWVy9dyC1HQ" %}
 
 
 
-## **How to change Hedge Mode \(One position & Multiple positions\)**
+## **How to change Hedge Mode (One position & Multiple positions)**
 
-**One Position mode** means that traders can only hold positions in one direction under one contract. If you open a short position, anticipating that the price will go down in the longer timeframe, but in the meanwhile wanted to open a long to do a trade for a shorter time frame. You are unable to open positions in both directions at the same time. Opening positions in both directions would result in canceling one another out.
+**One Position mode **means that traders can only hold positions in one direction under one contract. If you open a short position, anticipating that the price will go down in the longer timeframe, but in the meanwhile wanted to open a long to do a trade for a shorter time frame. You are unable to open positions in both directions at the same time. Opening positions in both directions would result in canceling one another out.
 
 **Multiple Positions mode** means that traders can hold positions in both long and short directions at the same time under the same contract. For example, you could now hold both long and short positions of the BTCUSDT contract at the same time.
 
-![](../../.gitbook/assets/image%20%28176%29.png)
-
+![](<../../.gitbook/assets/image (176).png>)

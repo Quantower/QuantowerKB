@@ -21,21 +21,20 @@ The construction of the Renko chart is based on bricks, the size of which is set
 
 ![Renko chart ignores time factor](../../../.gitbook/assets/renko-chart-vs-regular-chart.png)
 
-### Calculation styles \(methods\)
+### Calculation styles (methods)
 
 In the Renko chart settings, you can choose one of several styles based on which the chart will be drawn:
 
-* **Classic**  —  using closing price \(or last price\) only
+* **Classic**  —  using closing price (or last price) only
 
 ![Settings for Renko Classic](../../../.gitbook/assets/renko-classic-settings.png)
 
 ![ The size of each brick equal 100 poins](../../../.gitbook/assets/renko-classic-view.png)
 
 * **High / Low**  — using high and low prices. If the previous brick was growing, then the current brick takes into account high prices first, and then low prices. If the price drops, the method takes into account the low prices first, and then high prices.
-* **Advanced Classic \(Advanced High / Low\)** — this method allows you to build non-standard Renko charts based on the closing price \(or high / low prices\). To do this, use additional chart settings —
+*   **Advanced Classic (Advanced High / Low)** — this method allows you to build non-standard Renko charts based on the closing price (or high / low prices). To do this, use additional chart settings —
 
-  _extension_ \(%\) and _inversion_ \(%\).
-
+    _extension_ (%) and _inversion_ (%).
 * **Show wicks** — allows you to add wicks to Renko bricks, indicating actual highs and lows within a brick.
 * **Build current bar** — is the option that shows/visualize the creation of the current brick in real-time. If you choose one minute for your time aggregation, all Renko bricks, that would have been created based on price movement, will be plotted at once after one minute.
 
@@ -53,11 +52,9 @@ In the Renko chart settings, you can choose one of several styles based on which
 
 ![Geometric Renko in Quantower](../../../.gitbook/assets/geometric-renko-quantower.png)
 
-**Turbo Renko** smooths out the majority of pullbacks and only shows high probability reversals. Turbo Renko is using the _extension 12%_ of the brick and the _inversion of 100%._ Price has to reverse by a complete brick to form a reversal, illustrated as the dashed bricks.
+**Turbo Renko** smooths out the majority of pullbacks and only shows high probability reversals. Turbo Renko is using the _extension 12%_ of the brick and the _inversion of 100%. _Price has to reverse by a complete brick to form a reversal, illustrated as the dashed bricks.
 
 ![Turbo Renko chart construction](../../../.gitbook/assets/turbo-renko_construction.png)
 
 ![Turbo Renko in Quantower](../../../.gitbook/assets/turbo-renko_quantower.png)
-
-
 

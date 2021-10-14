@@ -9,7 +9,7 @@ description: >-
 
 ### What is Synthetic Symbols
 
-**Synthetic Symbols** panel allows to create any non-standard instruments \(symbols\) or spreads that you can both trade and use as an indicator of the current market situation or market divergences.
+**Synthetic Symbols** panel allows to create any non-standard instruments (symbols) or spreads that you can both trade and use as an indicator of the current market situation or market divergences.
 
 {% embed url="https://youtu.be/D9MqY-M632U" %}
 
@@ -19,19 +19,19 @@ Spread trading is a strategy that simultaneously creates a long and short positi
 
 ### How to Create a Custom Spread in Quantower?
 
-For example, let's build an FX spread with multiple forex pairs \(we will use futures contracts on the CQG connection\).
+For example, let's build an FX spread with multiple forex pairs (we will use futures contracts on the CQG connection).
 
 * Open the Synthetic Symbols panel and click "**Create Synthetic**".
 
-![](../.gitbook/assets/image%20%28245%29.png)
+![](<../.gitbook/assets/image (245).png>)
 
 * Set the name for your spread and select a trading instrument.
 
-![](../.gitbook/assets/image%20%28260%29.png)
+![](<../.gitbook/assets/image (260).png>)
 
 * Click "**Add Leg**" to add another instrument. You can add an unlimited number of instruments by creating new "legs"
 
-![Click &quot;Add Leg&quot; to add another instrument for Synthetic symbol](../.gitbook/assets/image%20%28264%29.png)
+![Click "Add Leg" to add another instrument for Synthetic symbol](<../.gitbook/assets/image (264).png>)
 
 {% hint style="success" %}
 **Trade Ratio** these are the number of contracts for trading of each leg in a spread. They are responsible for trading only!
@@ -39,16 +39,21 @@ For example, let's build an FX spread with multiple forex pairs \(we will use fu
 **Price Multiplier** these are the coefficients for building the spread chart. They are responsible for the spread chart view only!
 {% endhint %}
 
-* Set the **Price Multiplier** for each leg to build a chart for our spread. In our example, we set the following ratios:   1 negative coefficient for JY6U21 \(Japanese Yen\)    1 positive coefficient for CA6U21 \(Canadian Dollar\)   1 positive coefficient for DA6U21 \(Australian Dollar\)   1 negative coefficient for SF6U21 \(Swiss Franc\) 
+* Set the **Price Multiplier** for each leg to build a chart for our spread. In our example, we set the following ratios:\
+    1 negative coefficient for JY6U21 (Japanese Yen) \
+    1 positive coefficient for CA6U21 (Canadian Dollar)\
+    1 positive coefficient for DA6U21 (Australian Dollar)\
+    1 negative coefficient for SF6U21 (Swiss Franc)\
+
 * Click the "**Save**" button to calculate the received spread.
 
-![](../.gitbook/assets/image%20%28262%29.png)
+![](<../.gitbook/assets/image (262).png>)
 
 * Open the Chart panel and select your spread from the list of instruments or open the spread directly from the Synthetic symbol panel.
 
-![Open the spread in the desired panel](../.gitbook/assets/image%20%28255%29.png)
+![Open the spread in the desired panel](<../.gitbook/assets/image (255).png>)
 
-![FX Spread of multiple forex pairs](../.gitbook/assets/image%20%28256%29.png)
+![FX Spread of multiple forex pairs](<../.gitbook/assets/image (256).png>)
 
 ### How to place orders for custom spread?
 
@@ -63,6 +68,4 @@ When you open a position for a selected synthetic spread, the platform will open
 {% hint style="success" %}
 **Trade Ratio** these are the number of contracts for trading of each leg in a spread. They are responsible for trading only!
 {% endhint %}
-
-
 

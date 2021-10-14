@@ -12,15 +12,15 @@ Quantower Alert Bot will send a message to your Telegram account about all event
 
 ## How to add Telegram Bot to your account?
 
-To add a bot to the Telegram, open the platform's **General Settings -&gt; Messengers -&gt; Duplicate alerts to Telegram**.
+To add a bot to the Telegram, open the platform's **General Settings -> Messengers -> Duplicate alerts to Telegram**.
 
-![Open General Setting for adding Quantower Telegram Bot](../.gitbook/assets/image%20%28171%29.png)
+![Open General Setting for adding Quantower Telegram Bot](<../.gitbook/assets/image (171).png>)
 
 1. Specify your personal chat ID, which you can find out by clicking on the **Get ID** button. 
-2. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx".**_ Enter your chat ID in the corresponding field
+2. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx". **_Enter your chat ID in the corresponding field
 3. Connect to the Quantower Alert Bot.
 
-![](../.gitbook/assets/image%20%28137%29.png)
+![](<../.gitbook/assets/image (137).png>)
 
 ## How to get notifications from Telegram Bot?
 
@@ -30,11 +30,10 @@ Once your alert is triggered, you will receive a telegram notification with the 
 
 _**"Alert on ENQM21: price 13,379.00 reached."**_
 
-![](../.gitbook/assets/image%20%28173%29.png)
+![](<../.gitbook/assets/image (173).png>)
 
-![](../.gitbook/assets/image%20%28172%29.png)
+![](<../.gitbook/assets/image (172).png>)
 
 If you activate the '**Duplicate Trading Notifications to Telegram'** option, all trading messages will be automatically forwarded to Telegram.
 
-![Duplicate trading notiffications to Telegram with Quantower Bot ](../.gitbook/assets/image%20%28169%29.png)
-
+![Duplicate trading notiffications to Telegram with Quantower Bot ](<../.gitbook/assets/image (169).png>)

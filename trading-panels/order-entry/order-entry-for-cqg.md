@@ -4,53 +4,53 @@ description: Multiple ways to enter orders on the CQG connection
 
 # Order Entry for CQG
 
-### \*\*\*\*[**How to place an order from the OE \(Order Entry\) panel**](order-entry-for-cqg.md#how-to-place-an-order-from-the-oe-order-entry-panel)\*\*\*\*
+### ****[**How to place an order from the OE (Order Entry) panel**](order-entry-for-cqg.md#how-to-place-an-order-from-the-oe-order-entry-panel)****
 
-* \*\*\*\*[**Order parameters — Type, Price, Quantity**](order-entry-for-cqg.md#selection-of-order-type-time-if-force-and-order-quantity)\*\*\*\*
-* \*\*\*\*[**How to set TP \(take profit\) and SL \(stop loss\)**](order-entry-for-cqg.md#how-to-set-tp-take-profit-and-sl-stop-loss)\*\*\*\*
-* \*\*\*\*[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)\*\*\*\*
-* \*\*\*\*[**How to set up Trailing Order**](order-entry-for-cqg.md#how-to-set-up-traling-order)
+* ****[**Order parameters — Type, Price, Quantity**](order-entry-for-cqg.md#selection-of-order-type-time-if-force-and-order-quantity)****
+* ****[**How to set TP (take profit) and SL (stop loss)**](order-entry-for-cqg.md#how-to-set-tp-take-profit-and-sl-stop-loss)****
+* ****[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)****
+* ****[**How to set up Trailing Order**](order-entry-for-cqg.md#how-to-set-up-traling-order)
 
-### \*\*\*\*[**How to place an order from the Chart trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)\*\*\*\*
+### ****[**How to place an order from the Chart trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)****
 
-* \*\*\*\*[**General view of Char Trading Sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)\*\*\*\*
-* \*\*\*\*[**Order quantity selection**](order-entry-for-cqg.md#quick-order-quantity-buttons)\*\*\*\*
-* \*\*\*\*[**Quick order quantity buttons**](order-entry-for-cqg.md#quick-order-quantity-buttons)\*\*\*\*
-* \*\*\*\*[**Quick change order amount buttons**](order-entry-for-cqg.md#quick-change-order-amount-buttons)\*\*\*\*
-* \*\*\*\*[**How to set up Take Profit and Stop Loss orders**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders)\*\*\*\*
-* \*\*\*\*[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-profit-and-stop-orders-foe-one-position)\*\*\*\*
-* \*\*\*\*[**Quickly placing order buttons**](order-entry-for-cqg.md#quickly-placing-order-buttons)\*\*\*\*
+* ****[**General view of Char Trading Sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)****
+* ****[**Order quantity selection**](order-entry-for-cqg.md#quick-order-quantity-buttons)****
+* ****[**Quick order quantity buttons**](order-entry-for-cqg.md#quick-order-quantity-buttons)****
+* ****[**Quick change order amount buttons**](order-entry-for-cqg.md#quick-change-order-amount-buttons)****
+* ****[**How to set up Take Profit and Stop Loss orders**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders)****
+* ****[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-profit-and-stop-orders-foe-one-position)****
+* ****[**Quickly placing order buttons**](order-entry-for-cqg.md#quickly-placing-order-buttons)****
 
-### \*\*\*\*[**Mouse trading**](order-entry-for-cqg.md#mouse-trading)\*\*\*\*
+### ****[**Mouse trading**](order-entry-for-cqg.md#mouse-trading)****
 
-* \*\*\*\*[**How to set up Take Profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders-for-limit-order)\*\*\*\*
-* \*\*\*\*[**How to set up several Take profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-the-limit-order)\*\*\*\*
-* \*\*\*\*[**How to set up many limit orders**](order-entry-for-cqg.md#how-to-set-up-many-limit-orders)\*\*\*\*
+* ****[**How to set up Take Profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders-for-limit-order)****
+* ****[**How to set up several Take profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-the-limit-order)****
+* ****[**How to set up many limit orders**](order-entry-for-cqg.md#how-to-set-up-many-limit-orders)****
 
 ### [Quick order entry](order-entry-for-cqg.md#quick-order-entry)
 
-* \*\*\*\*[**How to open Quick order entry**](order-entry-for-cqg.md#how-to-open-quick-order-entry)\*\*\*\*
-* \*\*\*\*[**How to set Order quantity**](order-entry-for-cqg.md#how-to-set-volume-quantity)\*\*\*\*
+* ****[**How to open Quick order entry**](order-entry-for-cqg.md#how-to-open-quick-order-entry)****
+* ****[**How to set Order quantity**](order-entry-for-cqg.md#how-to-set-volume-quantity)****
 
 ### [Keyboard trading](order-entry-for-cqg.md#keyboard-trading)
 
-* \*\*\*\*[**How to activate trading with hotkeys**](order-entry-for-cqg.md#how-to-activate-trading-with-hot-keys)\*\*\*\*
+* ****[**How to activate trading with hotkeys**](order-entry-for-cqg.md#how-to-activate-trading-with-hot-keys)****
 
 ### [How to place an OCO order](order-entry-for-cqg.md#how-to-place-an-oco-order)
 
 ## **General view of the Order Entry panel with CQG connection**
 
-![General view of Order Entry panel with CQG connection](../../.gitbook/assets/image%20%28304%29.png)
+![General view of Order Entry panel with CQG connection](<../../.gitbook/assets/image (304).png>)
 
-The entire panel is conventionally divided into several **zones**:
+The entire panel is conventionally divided into several** zones**:
 
 * choice of trading instrument and trading account;
-* setting the required order type, TIF condition, order quantity, and the order side \(Buy or Sell\);
+* setting the required order type, TIF condition, order quantity, and the order side (Buy or Sell);
 * setting of the order price, stop loss and take profit prices;
 * order placing strategy for advanced trading algorithms
 * information on current Ask and Bid prices, spread size, as well as an order placement button
 
-## CQG OrderTypes, Time in Force \(TIF\), Algorithmic in Quantower
+## CQG OrderTypes, Time in Force (TIF), Algorithmic in Quantower
 
 CQG provides various order types for trading via the Order Entry panel:
 
@@ -59,25 +59,25 @@ CQG provides various order types for trading via the Order Entry panel:
 * Stop order
 * Stop limit order
 
-![Order types in Quantower for CQG connection](../../.gitbook/assets/image%20%28218%29.png)
+![Order types in Quantower for CQG connection](<../../.gitbook/assets/image (218).png>)
 
-**Time-in-force \(TIF\)** instructions define the length of time over which an order will continue working before it is canceled. CQG provides various TIFs:
+**Time-in-force (TIF)** instructions define the length of time over which an order will continue working before it is canceled. CQG provides various TIFs:
 
-![Time in Force \(TIFs\) for CQG connection](../../.gitbook/assets/image%20%28217%29.png)
+![Time in Force (TIFs) for CQG connection](<../../.gitbook/assets/image (217).png>)
 
-* **GTC \(Good till canceled\)** — orders will remain working until they are canceled by trader or the contract expires;
-* **FOK \(or Fill or Kill\)** —  order will be canceled if it is not executed in the entire volume as soon as it becomes available;
-* **IOC \(Immediate or cancel\)** — requires that any portion of an order that is not filled as soon as it becomes available in the market is canceled;
-* **DAY** — order will be canceled if it is not executed within the current trading day;
-* **GTD \(Good till date\)** — order will remain working within the system and in the marketplace, until it executes or until the close of the market on the date specified.
-* **GTT \(Good till time\)** — order that remains open until a specified time. At that time, any unfilled lots are canceled.
-* **FAK** \(**Fill and Kill\)** — ****orders require that any remaining quantity after a partial fill be canceled.
-* **ATC \(At the Close Order\)** — order to buy or sell a stock at the closing price. One of the benefits of this type of order is that it can be placed prior to the actual end of the trading day requested. This would be the opposite of an at-the-open order.
-* **ATO \(At-The-Open Order\)** — order to buy or sell a stock at the opening price. ATO order is allowed during pre-open sessions \(morning and afternoon\) or even the night before.
+* **GTC (Good till canceled) **— orders will remain working until they are canceled by trader or the contract expires;
+* **FOK (or Fill or Kill)** —  order will be canceled if it is not executed in the entire volume as soon as it becomes available;
+* **IOC (Immediate or cancel)** — requires that any portion of an order that is not filled as soon as it becomes available in the market is canceled;
+* **DAY **— order will be canceled if it is not executed within the current trading day;
+* **GTD (Good till date)** — order will remain working within the system and in the marketplace, until it executes or until the close of the market on the date specified.
+* **GTT (Good till time)** — order that remains open until a specified time. At that time, any unfilled lots are canceled.
+* **FAK** (**Fill and Kill) **—** **orders require that any remaining quantity after a partial fill be canceled.
+* **ATC (At the Close Order)** — order to buy or sell a stock at the closing price. One of the benefits of this type of order is that it can be placed prior to the actual end of the trading day requested. This would be the opposite of an at-the-open order.
+* **ATO (At-The-Open Order)** — order to buy or sell a stock at the opening price. ATO order is allowed during pre-open sessions (morning and afternoon) or even the night before.
 
 Algorithmic orders for CQG
 
-### **How to set TP \(take profit\) and SL \(stop loss\)**
+### **How to set TP (take profit) and SL (stop loss)**
 
 To set a bracket order with Sl and Tp, follow these steps as shown in the picture below: 
 
@@ -89,9 +89,9 @@ If one of the orders Sl or Tp is executed, the opposite order will be automatica
 
 ### How to set up several Take profit and Stop Loss orders for one position
 
-![](../../.gitbook/assets/animaciya-1-%20%282%29.gif)
+![](<../../.gitbook/assets/animaciya-1- (2).gif>)
 
-Тo set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
+Тo set multiple stop orders for a single position, do the following Switch the bracket (stop) settings to multi mode 
 
 * Enter data for setting the first limit orders and how many lots  should be  
 * For the next stops, enter similar data on the next line.
@@ -104,10 +104,10 @@ The general view of the Chart trading sidebar for AMP/CQG connection looks like 
 * Account and symbol selection 
 * Order volume selection, TIF, algorithmic settings
 * Brackets Mode for Stop Loss and Take Profit. 
-* Order placement parameters \(strategy\)
+* Order placement parameters (strategy)
 * Quick buttons for managing existed orders and positions
 
-![Sidebar Order Entry on the chart ](../../.gitbook/assets/image%20%28314%29.png)
+![Sidebar Order Entry on the chart ](<../../.gitbook/assets/image (314).png>)
 
 ### **Quick order quantity buttons**
 
@@ -116,13 +116,13 @@ To set an order, you need to specify the volume in lots according to the chosen 
 * Specify the volume directly in the quantyti field 
 * Preset your normal trading volume in lots.
 
-![](../../.gitbook/assets/image%20%28309%29.png)
+![](<../../.gitbook/assets/image (309).png>)
 
 ### Quick change order amount buttons 
 
-The quick change order amount buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
+The quick change order amount buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any (!!!) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
 
-![](../../.gitbook/assets/animaciya-2-%20%282%29.gif)
+![](<../../.gitbook/assets/animaciya-2- (2).gif>)
 
 You can set standard values of the order amount, which corresponds to your risks. This is very convenient for manual trading.
 
@@ -132,21 +132,21 @@ Buttons can change not only to a given amount of position, but also apply any fo
 
 ### How to set up Profit and Stop orders 
 
-Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
+Then you can set** automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
 * Use the Qquick Ttrade toolbar 
 * Set your values for stop loss or profit. You can also use any one parameter only. 
 * Execute an order on the market
 
-![](../../.gitbook/assets/animaciya-5-%20%281%29.gif)
+![](<../../.gitbook/assets/animaciya-5- (1).gif>)
 
-### How to set up  **several** Profit and Stop orders foe one position
+### How to set up  **several **Profit and Stop orders foe one position
 
-![](../../.gitbook/assets/animaciya-6-%20%281%29.gif)
+![](<../../.gitbook/assets/animaciya-6- (1).gif>)
 
 
 
-To set multiple **Stop loss and Take profit** **orders** for a single position, do the following :
+To set multiple **Stop loss and Take profit** **orders **for a single position, do the following :
 
 * Press the multi-mode button
 * Enter data for setting the first limit orders and how many lots should be
@@ -157,17 +157,17 @@ To set multiple **Stop loss and Take profit** **orders** for a single position, 
 
 1. Next comes a block of buttons for **quickly placing an orde**r
 
-![](../../.gitbook/assets/image%20%28310%29.png)
+![](<../../.gitbook/assets/image (310).png>)
 
-2.  Next comes a large block of functions for managing the current position. You can cancel or limit orders or stops. You can also reverse your position with one button or set it to break even. These are very functional buttons, do not miss them.
+2\.  Next comes a large block of functions for managing the current position. You can cancel or limit orders or stops. You can also reverse your position with one button or set it to break even. These are very functional buttons, do not miss them.
 
 ## Mouse trading
 
 ### How to set up Profit and Stop orders for limit order
 
-You can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
+You can set** automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
-![](../../.gitbook/assets/animaciya-3-%20%281%29.gif)
+![](<../../.gitbook/assets/animaciya-3- (1).gif>)
 
 * Use the Quick trade toolbar 
 * Set your values for stop loss and profit. You can also use any one parameter only. 
@@ -181,7 +181,7 @@ If you execute an order at market, the specified stop parameters will keep their
 
 ![](../../.gitbook/assets/animaciya-4-.gif)
 
-To set multiple **Stop loss and Take profit** **orders** for a single position, do the following :
+To set multiple **Stop loss and Take profit** **orders **for a single position, do the following :
 
 * Press the multi-mode button
 * Enter data for setting the first limit orders and how many lots should be
@@ -190,7 +190,7 @@ To set multiple **Stop loss and Take profit** **orders** for a single position, 
 
 ### **How to set up many limit orders**
 
-![](../../.gitbook/assets/animaciya-4-%20%282%29.gif)
+![](<../../.gitbook/assets/animaciya-4- (2).gif>)
 
 {% hint style="warning" %}
 To place several orders in a row hold down CTRL
@@ -198,12 +198,12 @@ To place several orders in a row hold down CTRL
 
 If the mouse position i**s higher than the current price** then 
 
-* right click of the mouse will set a **limit order**  
+* right click of the mouse will set a **limit order ** 
 * left click of the mouse will set a **Buy stop marke**t order
 
-If position of the mouse is **under the current price** then
+If position of the mouse is **under the current price **then
 
-* right click of the mouse will set **Sell stop market** 
+* right click of the mouse will set **Sell stop market **
 * right click of the mouse will set **Buy limit order**
 
 
@@ -214,7 +214,7 @@ If position of the mouse is **under the current price** then
 
 To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../../analytics-panels/chart/chart-settings.md)
 
-![](../../.gitbook/assets/animaciya-8-%20%281%29.gif)
+![](<../../.gitbook/assets/animaciya-8- (1).gif>)
 
 ### How to set volume quantity
 
@@ -228,13 +228,11 @@ Note that in order to make a transaction from the Quick order entry panel, you m
 
 To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../../analytics-panels/chart/chart-settings.md)
 
-![](../../.gitbook/assets/image%20%28307%29.png)
+![](<../../.gitbook/assets/image (307).png>)
 
 You can set your own values for the hot buttons in the chart settings
 
 ## How to place an OCO order
 
 {% embed url="https://youtu.be/GrJBUYSxvHE" %}
-
-
 

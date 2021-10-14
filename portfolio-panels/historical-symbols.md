@@ -21,15 +21,15 @@ Let's take a brief look at how it works.
 ![Import trading history from file](../.gitbook/assets/historical-symbol-settings-import-from-file.gif)
 
 * Press “Import History” button, select “Import from file” and specify the path to the required file.
-* After you have imported the file, you need to parse it. In the settings, carefully select the Separator, Date / Time format, specify all the necessary columns \(OHLC, Volume\).
+* After you have imported the file, you need to parse it. In the settings, carefully select the Separator, Date / Time format, specify all the necessary columns (OHLC, Volume).
 
-![Main settings for parsing a file](../.gitbook/assets/settings-for-imported-file%20%281%29.png)
+![Main settings for parsing a file](<../.gitbook/assets/settings-for-imported-file (1).png>)
 
 {% hint style="success" %}
 You can modify **Date/Time** format manually according to format in the file.
 {% endhint %}
 
-* Select the aggregation \(Tick, Minute, Day\) and the data type \(Ask, Bid, Last\) at the bottom of the table.
+* Select the aggregation (Tick, Minute, Day) and the data type (Ask, Bid, Last) at the bottom of the table.
 * After the import is completed you can work with this history -  performing a backtesting through History Player or make your technical analysis.
 
 To view the chart of the imported history right from the Historical Symbols panel, right-click on the data line and open the chart.
@@ -52,21 +52,19 @@ To correctly perform the backtesting, you need to configure parameters of the sy
 
 ![Symbol settings](../.gitbook/assets/historical-symbol-settings-first-step.gif)
 
-| **Name** | The name of the loading symbol. It can be a ticker or a name that you understand. |
-| :--- | :--- |
-| **Description** | Brief description of a symbol or its full name |
-| **Asset Class** | Available asset types - Forex, CFD, Equities, Futures, Crypto |
-| **Tick size** | It’s a minimum price fluctuation of the selected trading symbol |
-| **Base currency name** | The name of the base currency for the loaded symbol \(USD, EUR, CHF\) |
-| **Base currency minimum change** | It’s a minimum price fluctuation of the selected trading symbol in money value per tick.  |
-| **Quoting currency name** | The name of the quoting currency for the loaded symbol \(USD, EUR, CHF\) |
-| **Quoting currency minimum change** | It’s a minimum price fluctuation of quoting currency for the selected trading symbol in money value per tick. |
-| **Quoting type** | Available quoting type - Lot size, Tick cost |
-| **Lot Size** | The minimum available trade size for placing an order. For example, for currencies the standard lot is equal to 100,000 units of the base currency. |
-| **Lot Step** | The minimal step of changing the trading lot. For FX market lot step = 0,01 or less. For futures lot step = 1 |
-| **Min Lot** | The minimum number of lots available for trading |
-| **Max Lot** | The maximum number of lots available for trading |
+| **Name**                            | The name of the loading symbol. It can be a ticker or a name that you understand.                                                                   |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Description**                     | Brief description of a symbol or its full name                                                                                                      |
+| **Asset Class**                     | Available asset types - Forex, CFD, Equities, Futures, Crypto                                                                                       |
+| **Tick size**                       | It’s a minimum price fluctuation of the selected trading symbol                                                                                     |
+| **Base currency name**              | The name of the base currency for the loaded symbol (USD, EUR, CHF)                                                                                 |
+| **Base currency minimum change**    | It’s a minimum price fluctuation of the selected trading symbol in money value per tick.                                                            |
+| **Quoting currency name**           | The name of the quoting currency for the loaded symbol (USD, EUR, CHF)                                                                              |
+| **Quoting currency minimum change** | It’s a minimum price fluctuation of quoting currency for the selected trading symbol in money value per tick.                                       |
+| **Quoting type**                    | Available quoting type - Lot size, Tick cost                                                                                                        |
+| **Lot Size**                        | The minimum available trade size for placing an order. For example, for currencies the standard lot is equal to 100,000 units of the base currency. |
+| **Lot Step**                        | The minimal step of changing the trading lot. For FX market lot step = 0,01 or less. For futures lot step = 1                                       |
+| **Min Lot**                         | The minimum number of lots available for trading                                                                                                    |
+| **Max Lot**                         | The maximum number of lots available for trading                                                                                                    |
 
-  
-
-
+\

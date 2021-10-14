@@ -12,13 +12,13 @@ description: >-
 
 There are three main key points in our vision of algorithmic scripts development:
 
-* C\# programming language
+* C# programming language
 * Integration with major Development Environments: Visual Studio, Visual Studio Code, Atom, etc.
 * Open and transparent API
 
-### C\# programming language
+### C# programming language
 
-C\# is simple, powerful, flexible and it is one of the most popular programming languages in The World. It means a large community and great support, many ready-to-use components and a lot of tutorials, video lessons in any language, and for any level of development skills - from starter to professional. In addition, most modern trading platforms support coding in C\#. It became a kind of standard in the trading industry, so you can be sure - you will always be able to use your knowledge later and not waste your time studying it.
+C# is simple, powerful, flexible and it is one of the most popular programming languages in The World. It means a large community and great support, many ready-to-use components and a lot of tutorials, video lessons in any language, and for any level of development skills - from starter to professional. In addition, most modern trading platforms support coding in C#. It became a kind of standard in the trading industry, so you can be sure - you will always be able to use your knowledge later and not waste your time studying it.
 
 ### Integration with major Development Environments
 
@@ -29,7 +29,7 @@ We are planning to provide our users the possibility to use all well-known produ
 We provide absolutely full access to all functionality of our trading core layer for developers. Moreover, we are developing Quantower using the same API, which means you always will have an up-to-date and powerful set of features, which allows you to create a script at any level script, from trivial indicators to complex strategies or trading/analytics panels.
 
 {% hint style="info" %}
-Quantower API documentation is available on: [http://api.quantower.com](http://api.quantower.com)  
+Quantower API documentation is available on: [http://api.quantower.com](http://api.quantower.com)\
 See examples of some strategies, integrations and indicators in our [Github repository](https://github.com/Quantower/Examples)
 
 [Quantower Algo extension](https://marketplace.visualstudio.com/items?itemName=Quantower.quantoweralgo) on Visual Studio Marketplace
@@ -41,5 +41,4 @@ You just need to spend some time to read our articles about Algo Solutions in Qu
 
 In the next topic, we will show you how to [install Visual Studio and Quantower Algo extension](https://help.quantower.com/quantower-algo/installing-visual-studio). If you are aware of how to do it or if you already have Visual Studio installed on your computer you can skip it and start writing your [first simple indicator](https://help.quantower.com/quantower-algo/simple-indicator).
 
-{% embed url="https://www.youtube.com/watch?v=CelIt\_F0Wuw" %}
-
+{% embed url="https://www.youtube.com/watch?v=CelIt_F0Wuw" %}

@@ -38,12 +38,12 @@ In the general settings, you can set the initial balance for the test account, s
 * **Initial balance** — the amount of money for the test account.
 
 {% hint style="info" %}
-Trading Simulator creates separate trading accounts for each base currency of the instrument. For example, if you chose EUR / USD currency pair, then the account name will be **Account \(USD\)**, if you select EUR / JPY, then the name will be **Account \(JPY\)** respectively.
+Trading Simulator creates separate trading accounts for each base currency of the instrument. For example, if you chose EUR / USD currency pair, then the account name will be **Account (USD)**, if you select EUR / JPY, then the name will be **Account (JPY) **respectively.
 {% endhint %}
 
-* **Execution Delay** — the length of time between the acceptance of an order and its execution. In the real market, this parameter affects on the slippage.  There are 3 options for the delay: _Range_, _Fix_ and _None_ \(instant execution\).
+* **Execution Delay** — the length of time between the acceptance of an order and its execution. In the real market, this parameter affects on the slippage. \
+  There are 3 options for the delay: _Range_, _Fix_ and _None_ (instant execution).
 
 ![General settings for symbols in Trading Simulator](../.gitbook/assets/settings-for-symbols.png)
 
 * **Netting type** — methods by which to summarize existing and new positions. There are 3 types of nettings: **One Position**, **Multiple Per Side**, **Multiple Positions**. Examples of using each method you can find in the description of the [History Player panel settings](https://help.quantower.com/trading-panels/history-player#general-and-instruments-settings).
-

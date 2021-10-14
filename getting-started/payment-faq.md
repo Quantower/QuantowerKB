@@ -8,7 +8,7 @@ description: >-
 
 ## Why isn't PayPal, Stripe, or similar international payment gateways available as payment methods for Quantower?
 
-As you might know, Quantower LLC is a Ukrainian company that is situated in Ukraine and operates under the Ukrainian legislation. As for now, PayPal and similar payment gateways don't provide business accounts in Ukraine, that is why we have to use one of the payment processors from Ukraine \([WayForPay](https://wayforpay.com/)\). Currently, we are working on having a representative in the USA that should allow us to process payments via the popular payment gateways.
+As you might know, Quantower LLC is a Ukrainian company that is situated in Ukraine and operates under the Ukrainian legislation. As for now, PayPal and similar payment gateways don't provide business accounts in Ukraine, that is why we have to use one of the payment processors from Ukraine ([WayForPay](https://wayforpay.com)). Currently, we are working on having a representative in the USA that should allow us to process payments via the popular payment gateways.
 
 ## Declined to card issuer
 
@@ -26,10 +26,8 @@ According to the international regulations, the WayForPay service requires a 3D 
 
 ## What is an alternative?
 
-In case you can’t or don’t want to deal with the WayForPay service, you may also try the [Coinpayments](https://www.coinpayments.net/) service, which is another option of payment for the Quantower license. This service is mostly for crypto-transactions but it also supports fiat payments. 
+In case you can’t or don’t want to deal with the WayForPay service, you may also try the [Coinpayments](https://www.coinpayments.net) service, which is another option of payment for the Quantower license. This service is mostly for crypto-transactions but it also supports fiat payments. 
 
 For those who are willing to purchase the [Lifetime license](https://www.quantower.com/pricing), there is another alternative of payment — the wire transfer.
 
-In conclusion, we must say that there are no dead ends in this question, and we are always open to assist you with getting yourself the premium features of Quantower. Just [contact us](https://www.quantower.com/contact-us) in any suitable way and we are sure that we will find the right payment solution for you.  
-
-
+In conclusion, we must say that there are no dead ends in this question, and we are always open to assist you with getting yourself the premium features of Quantower. Just [contact us](https://www.quantower.com/contact-us) in any suitable way and we are sure that we will find the right payment solution for you.\

@@ -11,7 +11,9 @@ description: >-
 
 This video describes the process of creation of a simple automated trading strategy as well as Strategy runner operation practices
 
-{% embed url="https://www.youtube.com/watch?v=SP\_7emOq0Fk" caption="Video manual on how to backtest your code in Strategy runner panel" %}
+{% embed url="https://www.youtube.com/watch?v=SP_7emOq0Fk" %}
+Video manual on how to backtest your code in Strategy runner panel
+{% endembed %}
 
 ## **General usage**
 
@@ -38,11 +40,11 @@ When you operate in Backtesting mode, the first selected for backtesting Symbol 
 
 ## Launch and stop
 
-The **Run** button in the footer of the panel initiates the selected strategy launch \(including historical data loading\) and other preparation steps. Once the strategy was started, the Run button converts to a **Stop** button, allowing it to stop the process.
+The **Run** button in the footer of the panel initiates the selected strategy launch (including historical data loading) and other preparation steps. Once the strategy was started, the Run button converts to a **Stop** button, allowing it to stop the process.
 
 ## Results
 
-This section displays the general statistics of strategy operation, such as **Run Date/Time** \(when it was launched\), **Working time** \(how much time it works\), and any additional parameters, that are specific per each different strategy. The lowest section of the Results block is the **Logs** list, where the strategy will output all of the actions that it performs while working. 
+This section displays the general statistics of strategy operation, such as **Run Date/Time** (when it was launched), **Working time** (how much time it works), and any additional parameters, that are specific per each different strategy. The lowest section of the Results block is the **Logs** list, where the strategy will output all of the actions that it performs while working. 
 
 ## Backtesting mode
 
@@ -55,9 +57,9 @@ First, specify the **Historical period** for testing. This is the period of hist
 Next, specify a **Symbol** to test on. This is a Symbol of some data provider that you are currently connected to. Additionally, you can select the following Symbol’s data parameters:
 
 * **Build from** option specifies how the historical data should be aggregated for testing purposes: 
-  * _Ticks_ allow emulating the most accurate data flow, similar to “real” market behavior. Best for daily period testing and high-frequency trading strategies.
+  * _Ticks _allow emulating the most accurate data flow, similar to “real” market behavior. Best for daily period testing and high-frequency trading strategies.
   * _1-minute_ aggregation is good for weekly testing. This aggregation allows us to reduce the historical data amount and speed up the backtesting process.
-  * _1-day_ aggregation is the best for testing a long-range of historical data \(months, years\) and seasonal market changes.
+  * _1-day_ aggregation is the best for testing a long-range of historical data (months, years) and seasonal market changes.
 * **Executing type** option specifies what data should be used for testing: Bid/Ask/Last or just Last market data. Depending on your data provider, you might not be able to get Bid/Ask/Last historical data.
 
 {% hint style="info" %}
@@ -72,22 +74,23 @@ In case your strategy requires some additional data for analysis, you may specif
 
 There is also an **additional settings screen** allowing to set up some Exchange or Market-specific parameters in order to emulate the most accurate and “real” testing environment. There is a View tab, for general parameters, and Per-selected-symbol tabs, for specifying symbol-specific parameters.
 
-* **Initial balance.** This field allows you to set an initial balance of your testing account.
-* **Modeling scheme.** Here you can specify how backtester should generate quotes from source bars history:
+* **Initial balance. **This field allows you to set an initial balance of your testing account.
+* **Modeling scheme. **Here you can specify how backtester should generate quotes from source bars history:
   * OHLC. For each bar 4 quotes will be generated using Open, High, Low and Close prices.
   * Open. Only one quote per bar, using Open price, will be generated.
-  * Close. Only one quote per bar, using Close price, will be generated. _Please note, that these rules can be applied only when you provide bar history as source data for backtester. When you provide tick data, the backtester will generate a quote for each tick._
+  * Close. Only one quote per bar, using Close price, will be generated.\
+    _Please note, that these rules can be applied only when you provide bar history as source data for backtester. When you provide tick data, the backtester will generate a quote for each tick._
 * **Netting type.** This option specifies how your backtester should behave when you open multiple positions per one symbol
   * One position. All new positions will be combined with the one first opened.
   * Multiple per side. All new positions will be combined with the one first opened but separately per each trading Side.
   * Multiple positions. All new positions will be opened separately.
-* **Fee per side.** You can set the value of the fee that will be added to each trade that your strategy will make. This value should be set in quoting currency \(e.g. currency of your testing account\).
+* **Fee per side. **You can set the value of the fee that will be added to each trade that your strategy will make. This value should be set in quoting currency (e.g. currency of your testing account).
 
 ### **Backtesting controllers**
 
 Another feature of the "Strategy runner" panel is an **Interactive mode**. It is situated in the footer of the panel and is enabled by default. This mode allows us to track the testing process more precisely and even control its speed. 
 
-The interactive mode gives a possibility to visualize the strategy’s actions using various panels of the Quantower terminal. The **Speed slider** slows down or makes faster the process of historical data playback. The lowest value of Speed pauses the strategy and activates the “per-tick” \(actually per “Build from” value\) playback button.
+The interactive mode gives a possibility to visualize the strategy’s actions using various panels of the Quantower terminal. The **Speed slider** slows down or makes faster the process of historical data playback. The lowest value of Speed pauses the strategy and activates the “per-tick” (actually per “Build from” value) playback button.
 
 {% hint style="info" %}
 Please note, when you click the Stop button in backtesting mode, your strategy’s results will be erased and you won’t be able to access them anymore.
@@ -97,7 +100,7 @@ Please note, when you click the Stop button in backtesting mode, your strategy�
 
 When you launch your strategy in backtesting mode, the backtesting environment section converts to the Progress section. Here you can see the history playback progress bar and **Visualizer button** on the right side of each symbol row. 
 
-The Visualizer button allows us to open some Quantower panels and visually track the strategy operation during the history playback. The most interesting panels are Account performance, showing the trading results of your strategy, and Chart panel, which will display trades using a visual trading interface. You can also visualize the backtesting process in various panels such as Time&Sales, DOM Surface, and TPO Chart, etc. 
+The Visualizer button allows us to open some Quantower panels and visually track the strategy operation during the history playback. The most interesting panels are Account performance, showing the trading results of your strategy, and Chart panel, which will display trades using a visual trading interface. You can also visualize the backtesting process in various panels such as Time\&Sales, DOM Surface, and TPO Chart, etc. 
 
 ![Backtesting playback process](../.gitbook/assets/playback.png)
 
@@ -114,4 +117,3 @@ All automated trading strategies carry risk, even if the long-term profitability
 Quantower trading platform performs the execution of orders, sent by ATS for User’s account on a "not held" basis, meaning Quantower shall not be held responsible for the execution of the order at the price indicated or otherwise; and shall not be responsible for the performance of the ATS, including any potential trading losses the user may sustain as a result of the use of the ATS.
 
 In particular, Quantower is not responsible for any damages that may result from incorrect functioning of the ATS as well as any technical problem external to the Quantower trading platform.
-

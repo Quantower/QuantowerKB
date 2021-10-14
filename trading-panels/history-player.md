@@ -6,8 +6,8 @@ description: >-
 
 # Market Replay
 
-\*\*\*\*[**First launch of the Market Replay**](history-player.md#first-launch-of-the-market-replay)  
-****[**General and instruments settings**](history-player.md#general-and-instruments-settings)\*\*\*\*
+****[**First launch of the Market Replay**](history-player.md#first-launch-of-the-market-replay)****\
+****[**General and instruments settings**](history-player.md#general-and-instruments-settings)****
 
 ### What is Market Replay
 
@@ -17,9 +17,11 @@ Therefore Quantower provides the **Market Replay panel** for simple manual backt
 
 ![Testing process with Market Replay panel](../.gitbook/assets/history-player.png)
 
-Market Replay allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders \(quotation date feeds like IQFeed or crypto exchange\).
+Market Replay allows you to test on any trading instruments with any vendor or broker. This is especially useful when you have access to the data feed that does not allow execution of orders (quotation date feeds like IQFeed or crypto exchange).
 
-{% embed url="https://www.youtube.com/watch?v=za-eE8ZSmV8" caption="How to backtest a trading strategy with Market Replay panel" %}
+{% embed url="https://www.youtube.com/watch?v=za-eE8ZSmV8" %}
+How to backtest a trading strategy with Market Replay panel
+{% endembed %}
 
 ### First launch of the Market Replay
 
@@ -45,7 +47,7 @@ When the testing is started you can open all the necessary panels for testing by
 
 ### General and instruments settings
 
-Before you start testing the strategy, you need to set up an initial trading balance, a simulation \(or modeling\) scheme for downloaded data, a commission size for a trading instrument, and the netting type.
+Before you start testing the strategy, you need to set up an initial trading balance, a simulation (or modeling) scheme for downloaded data, a commission size for a trading instrument, and the netting type.
 
 ![Set up the initial trading balance and modeling scheme](../.gitbook/assets/backtesting-environment-settings.png)
 
@@ -61,19 +63,18 @@ Strategy testing can be performed by one of three schemes to choose from:
 
 Now let's look at the main settings of the selected trading instrument
 
-![Basic settings for trading instrument &#x2014; Netting type and Additional Fees](../.gitbook/assets/netting-types.png)
+![Basic settings for trading instrument — Netting type and Additional Fees](../.gitbook/assets/netting-types.png)
 
 In the **Netting type** section, you can choose the method by which to summarize existing and new positions:
 
 * **One position** - it is possible to open one position for one instrument in one direction in this mode. If you previously opened a position to buy 1 lot, adding a position to sell 1 lot will close the previous position. New trades for buy will be summed by volume, and the entry price will be averaged.
 
-![Positions are overlapped by the netting type called &quot;One Position&quot;](../.gitbook/assets/orders-matching-mode-one-position.gif)
+![Positions are overlapped by the netting type called "One Position"](../.gitbook/assets/orders-matching-mode-one-position.gif)
 
-* **Multiple per Side** - this mode allows you to open many different positions in one direction.  For example, opening several positions in the sequence, they will be opened separately. Opposite trades \(for sale\) will close them.
+* **Multiple per Side** - this mode allows you to open many different positions in one direction.  For example, opening several positions in the sequence, they will be opened separately. Opposite trades (for sale) will close them.
 
-![Positions are overlapped by the netting type called &quot;Multiple Per Side&quot;](../.gitbook/assets/orders-matching-mode-multiple-per-side.gif)
+![Positions are overlapped by the netting type called "Multiple Per Side"](../.gitbook/assets/orders-matching-mode-multiple-per-side.gif)
 
 * **Multiple Positions** - each new trade will be opened as a separate item, including the opposite trades.
 
-![Positions are overlapped by the netting type called &quot;Multiple Position&quot;](../.gitbook/assets/orders-matching-mode-multiple-positions.gif)
-
+![Positions are overlapped by the netting type called "Multiple Position"](../.gitbook/assets/orders-matching-mode-multiple-positions.gif)

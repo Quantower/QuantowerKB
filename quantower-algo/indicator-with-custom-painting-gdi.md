@@ -2,15 +2,15 @@
 description: Draw any graphical objects on the chart using the GDI+ library
 ---
 
-# Indicator with custom painting \(GDI\)
+# Indicator with custom painting (GDI)
 
 ## Introduction
 
-In this topic, we will show you how to use a really great possibility of scripts in Quantower — a custom painting on the Chart. You can draw anything you need via GDI+ — a graphical subsystem of Windows. In C\# all features from GDI+ are encapsulated in class Graphics. It is a set of functions allowing to create graphical primitives and splines using brushes and pens, Images, etc. More information you can find on the [Microsoft documentation site](https://docs.microsoft.com/ru-ru/dotnet/api/system.drawing.graphics?redirectedfrom=MSDN&view=netframework-4.7.2).
+In this topic, we will show you how to use a really great possibility of scripts in Quantower — a custom painting on the Chart. You can draw anything you need via GDI+ — a graphical subsystem of Windows. In C# all features from GDI+ are encapsulated in class Graphics. It is a set of functions allowing to create graphical primitives and splines using brushes and pens, Images, etc. More information you can find on the [Microsoft documentation site](https://docs.microsoft.com/ru-ru/dotnet/api/system.drawing.graphics?redirectedfrom=MSDN\&view=netframework-4.7.2).
 
 ## Access Graphics object
 
-Let's start. To get access to Graphics object of the chart you need to override **OnPaint** method and use **Hdc** value from its parameters:
+Let's start. To get access to Graphics object of the chart you need to override **OnPaint **method and use **Hdc **value from its parameters:
 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
@@ -22,7 +22,7 @@ public override void OnPaintChart(PaintChartEventArgs args)
 }
 ```
 
-That's all - now you have full access to chart's canvas and can draw anything you want. For drawing in C\# you need to call special methods with graphical parameters: coordinates, color, width, etc.:
+That's all - now you have full access to chart's canvas and can draw anything you want. For drawing in C# you need to call special methods with graphical parameters: coordinates, color, width, etc.:
 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
@@ -101,6 +101,4 @@ And this is how our chart looks now. You can compare results with Market Depth p
 
 ![Display bids and asks on the chart](../.gitbook/assets/level2.png)
 
-It is a great possibility of chart features extending, isn't it? You can add your own Info Window, Track Cursor or even Volume Analysis visualization. There are no limitations in our API, only your fantasy.  
-
-
+It is a great possibility of chart features extending, isn't it? You can add your own Info Window, Track Cursor or even Volume Analysis visualization. There are no limitations in our API, only your fantasy.\

@@ -8,6 +8,5 @@ Each update of Quantower includes the addition of new features, bug fixes and pe
 
 For a detailed overview of what has changed in each update, please see the Release Notes on our website:
 
-* \*\*\*\*[**Quantower Release Notes**](https://www.quantower.com/release-notes)\*\*\*\*
-* \*\*\*\*[**Quantower Blog**](https://www.quantower.com/blog)\*\*\*\*
-
+* ****[**Quantower Release Notes**](https://www.quantower.com/release-notes)****
+* ****[**Quantower Blog**](https://www.quantower.com/blog)****

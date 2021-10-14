@@ -14,7 +14,7 @@ public class IndicatorVolumeAnalysis : Indicator, IVolumeAnalysisIndicator
     ...
 ```
 
-It contains only one method **VolumeAnalysisData\_Loaded** and it will be called, when all required data finish loading:
+It contains only one method **VolumeAnalysisData_Loaded** and it will be called, when all required data finish loading:
 
 ```csharp
 public void VolumeAnalysisData_Loaded()
@@ -23,7 +23,7 @@ public void VolumeAnalysisData_Loaded()
 }
 ```
 
-If you need to know current state of loading, you may use **VolumeAnalysisCalculationProgress** from **HistoricalData**. If loading was started, this object will be set and you may know current state or even percent of loaded data:
+If you need to know current state of loading, you may use **VolumeAnalysisCalculationProgress **from **HistoricalData**. If loading was started, this object will be set and you may know current state or even percent of loaded data:
 
 ```csharp
 if (HistoricalData.VolumeAnalysisCalculationProgress.State != VolumeAnalysisCalculationState.Finished
@@ -40,25 +40,25 @@ HistoricalData[0].VolumeAnalysisData.Total.AverageBuySize
 
 List of all available data types:
 
-| Data type | Description |
-| :--- | :--- |
-| Volume | The total size of all positions that executed at each price level or price range  |
-| BuyVolume | The total size of all Buy positions that executed at each price level or price range |
-| SellVolume | The total size of all Sell positions that executed at each price level or price range |
-| Trades | The number of contracts \(trades\) that executed at each price level. |
-| BuyTrades | The number of Buy trades that executed at each price level |
-| SellTrades | The number of Sell trades that executed at each price level |
-| BuyVolumePercent | Shows how many percent of the total volume relates to Buy trades |
-| SellVolumePercent | Shows how many percent of the total volume relates to Sell trades |
-| Delta | Shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time |
-| DeltaPercent | Shows the difference \(%\) in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time |
-| AverageSize | The average volume of the position that was executed at a certain price or price range |
-| AverageBuySize | The average volume of a Buy position that was executed at a specific price or price range |
-| AverageSellSize | The average volume of a Sell position that was executed at a specific price or price range |
-| MaxOneTradeVolume | Shows the maximum volume of a single trade that has executed at a certain price or price range |
-| MaxOneTradeVolumePercent | Shows the maximum \(%\) volume of a single trade that has executed at a certain price or price range |
+| Data type                | Description                                                                                                                                     |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Volume                   | The total size of all positions that executed at each price level or price range                                                                |
+| BuyVolume                | The total size of all Buy positions that executed at each price level or price range                                                            |
+| SellVolume               | The total size of all Sell positions that executed at each price level or price range                                                           |
+| Trades                   | The number of contracts (trades) that executed at each price level.                                                                             |
+| BuyTrades                | The number of Buy trades that executed at each price level                                                                                      |
+| SellTrades               | The number of Sell trades that executed at each price level                                                                                     |
+| BuyVolumePercent         | Shows how many percent of the total volume relates to Buy trades                                                                                |
+| SellVolumePercent        | Shows how many percent of the total volume relates to Sell trades                                                                               |
+| Delta                    | Shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time     |
+| DeltaPercent             | Shows the difference (%) in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time |
+| AverageSize              | The average volume of the position that was executed at a certain price or price range                                                          |
+| AverageBuySize           | The average volume of a Buy position that was executed at a specific price or price range                                                       |
+| AverageSellSize          | The average volume of a Sell position that was executed at a specific price or price range                                                      |
+| MaxOneTradeVolume        | Shows the maximum volume of a single trade that has executed at a certain price or price range                                                  |
+| MaxOneTradeVolumePercent | Shows the maximum (%) volume of a single trade that has executed at a certain price or price range                                              |
 
-Except **Total** \(aggregated\) information you have access to Volume analysis data for each price from the bar. It is available in PriceLevels dictionary and contains same data types as Total:
+Except **Total** (aggregated) information you have access to Volume analysis data for each price from the bar. It is available in PriceLevels dictionary and contains same data types as Total:
 
 ```csharp
 this.HistoricalData[0].VolumeAnalysisData.PriceLevels[1.2564].Volume
@@ -122,4 +122,3 @@ When we build this indicator and add on the chart we can see next result:
 ![Indicator lines show average buy size and average sell size](../.gitbook/assets/volumeanalysisindicator.png)
 
 In this topic, we showed you the simple example of indicator based on volume analysis data. You may improve it and create really advanced and complex indicator, similar to Volume Analysis tools from Quantower, for example Cluster Chart. In our next topics we will provide an example of drawing volume profiles on the chart.
-

@@ -66,7 +66,7 @@ protected override void OnInit()
 }
 ```
 
-All calculations will occur when we receive a new quote, to process it we need to override **OnUpdate** function
+All calculations will occur when we receive a new quote, to process it we need to override **OnUpdate **function
 
 ```csharp
 protected override void OnUpdate(UpdateArgs args)
@@ -194,4 +194,3 @@ namespace MovingAverages
 }
 
 ```
-

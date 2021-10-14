@@ -51,10 +51,10 @@ public class CustomIndicator : Indicator
 }
 ```
 
-## Use class constructor \(Beginner\)
+## Use class constructor (Beginner)
 
-The easiest way to create and pass parameters is to use the class constructor. At this moment, our custom indicator has сonstructor that takes no parameters \(parameterless constructor\). Each indicator must have such a constructor.  
-  
+The easiest way to create and pass parameters is to use the class constructor. At this moment, our custom indicator has сonstructor that takes no parameters (parameterless constructor). Each indicator must have such a constructor.\
+\
 Let's add a new constructor for the **"CustomIndicator"** class in which we will override the default input parameters.
 
 ```csharp
@@ -111,7 +111,7 @@ class BestIndicator : Indicator
 }
 ```
 
-## **Use indicator settings collection \(Advance\)**
+## **Use indicator settings collection (Advance)**
 
 This method can be used if you are unable to add the required constructor. For example, you imported a dll-library with an indicator. Each indicator has a "Settings" property that contains all input parameters converted into objects of “[SettignItem](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.SettingItemAction.html)” type.
 
@@ -155,4 +155,3 @@ class BestIndicator : Indicator
 }
 
 ```
-

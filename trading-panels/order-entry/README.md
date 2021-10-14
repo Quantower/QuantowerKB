@@ -6,8 +6,8 @@ description: >-
 
 # Order Entry
 
-* \*\*\*\*[**Order Entry for CQG connection**](order-entry-for-cqg.md)\*\*\*\*
-* \*\*\*\*[**Order Entry for Bybit connection**](order-entry-for-bybit.md)\*\*\*\*
+* ****[**Order Entry for CQG connection**](order-entry-for-cqg.md)****
+* ****[**Order Entry for Bybit connection**](order-entry-for-bybit.md)****
 * Order Entry for Rithmic connection
 * Order Entry for Binance Futures
 
@@ -28,7 +28,7 @@ Open the main menu by clicking the logo and in the **Trading section** click on 
 The entire panel is conventionally divided into several zones:
 
 * choice of trading instrument and trading account;
-* setting the required order quantity and the order side \(Buy or Sell\);
+* setting the required order quantity and the order side (Buy or Sell);
 * choice of order type, its price and TIF condition;
 * setting of stop loss and take profit prices;
 * information on current Ask and Bid prices, spread size, VWAP prices, as well as an order placement button
@@ -47,19 +47,19 @@ If there are several trading accounts available within your connection, you can 
 
 Order Entry automatically lists all exchange-supported order types available for the associated instrument under the selected connection. Within our existed connections we support:
 
-* **Market order** is an order placed without a price with the intention of hitting the best Bid or taking the best Offer currently available in the market. The order fills at the current best price.
-* **Limit order** allows submitting an order at a specific limit price or better.
-* **Stop order** allows submitting a buy or sell market order if and when the stop trigger price is touched.
+* **Market order **is an order placed without a price with the intention of hitting the best Bid or taking the best Offer currently available in the market. The order fills at the current best price.
+* **Limit order **allows submitting an order at a specific limit price or better.
+* **Stop order **allows submitting a buy or sell market order if and when the stop trigger price is touched.
 
 ![Order types](../../.gitbook/assets/order-types.png)
 
-**Time-in-force** \(TIF\) instructions define the length of time over which an order will continue working before it is canceled. Within our existed connections we support many TIFs:
+**Time-in-force **(TIF) instructions define the length of time over which an order will continue working before it is canceled. Within our existed connections we support many TIFs:
 
-* **DAY** is an order will be canceled if it is not executed within the current trading day;
-* **FOK** \(or Fill or Kill\) -  an order will be canceled if it is not executed in the entire volume as soon as it becomes available;
-* **GTC** \(Good till canceled\) orders will remain working until they are canceled by trader or the contract expires;
-* **IOC** \(Immediate or cancel\) requires that any portion of an order that is not filled as soon as it becomes available in the market is canceled;
-* **GTD** \(Good till date\) order will remain working within the system and in the marketplace, until it executes or until the close of the market on the date specified.
+* **DAY **is an order will be canceled if it is not executed within the current trading day;
+* **FOK **(or Fill or Kill) -  an order will be canceled if it is not executed in the entire volume as soon as it becomes available;
+* **GTC **(Good till canceled) orders will remain working until they are canceled by trader or the contract expires;
+* **IOC **(Immediate or cancel) requires that any portion of an order that is not filled as soon as it becomes available in the market is canceled;
+* **GTD **(Good till date) order will remain working within the system and in the marketplace, until it executes or until the close of the market on the date specified.
 
 ![The list of TIF conditions](../../.gitbook/assets/tif-types.png)
 
@@ -102,6 +102,4 @@ This window contains summary information about your order, which will allow you 
 {% hint style="info" %}
 If you activate the "_**Do not show again**_" checkbox, the confirmation will not be displayed and the order will be immediately sent to the order book. In order to return these notifications, it is necessary to activate the "_**Confirm order placement**_" checkbox in the [General settings](https://help.quantower.com/getting-started/general-settings#confirmations) of the application
 {% endhint %}
-
-
 

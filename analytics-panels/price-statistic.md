@@ -18,7 +18,7 @@ The main difference and advantage of the Price Statistic is that the table prese
 
 ![Price Statistic and Volume Profile](../.gitbook/assets/chart-and-price-statistic.png)
 
-Volume profile and data in the Price Statistic table are built for the current day. If you sort the volume column in descending order, the price in the table \($2,766\) will correspond to the POC line on the volume profile.
+Volume profile and data in the Price Statistic table are built for the current day. If you sort the volume column in descending order, the price in the table ($2,766) will correspond to the POC line on the volume profile.
 
 ### How to enable it?
 
@@ -32,16 +32,16 @@ Each column in the table corresponds to a specific data type that you can show /
 
 ![Adding columns to the Price Statistic table ](../.gitbook/assets/add-columns-to-price-statistic.gif)
 
-* **Trades** — it's the number of contracts \(trades\) that executed at each price level.
-* **Buy \(or Sell\) trades** — it's the number of Buy \(or Sell\) trades that executed at each price level.
+* **Trades** — it's the number of contracts (trades) that executed at each price level.
+* **Buy (or Sell) trades** — it's the number of Buy (or Sell) trades that executed at each price level.
 * **Volume** — the total size of all positions that executed at each price level or price range.
-* **Buy \(or Sell\) Volume** — the total size of all Buy \(or sell\) positions that executed at each price level or price range.
-* **Buy \(or Sell\) Volume, %** — shows how many percent of the total volume relates to Buy \(or Sell\) trades
-* **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time.  Delta % = Delta / Volume \* 100
+* **Buy (or Sell) Volume** — the total size of all Buy (or sell) positions that executed at each price level or price range.
+* **Buy (or Sell) Volume, %** — shows how many percent of the total volume relates to Buy (or Sell) trades
+* **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time. \
+  Delta % = Delta / Volume \* 100
 * **Average size** — the average volume of the position that was executed at a certain price or price range.
 * **Average Buy size** — the average volume of a Buy position that was executed at a specific price or price range.
 * **Average Sell size** — the average volume of a Sell position that was executed at a specific price or price range.
-* **Max one trade volume \(value and %\)** — shows the maximum volume of a single trade that has executed at a certain price or price range \(depending on the Custom Step \(ticks\) setting\).
-* **Filtered volume \(value and %\)** — this parameter displays volumes that exceed the size specified in the filter. If the volume size is smaller than the one specified in the filter, then the values will be zero.
-* **Buy \(or Sell\) filtered volume** — the parameter displays Buy \(or Sell\) volumes that exceed the size specified in the filter.
-
+* **Max one trade volume (value and %)** — shows the maximum volume of a single trade that has executed at a certain price or price range (depending on the Custom Step (ticks) setting).
+* **Filtered volume (value and %)** — this parameter displays volumes that exceed the size specified in the filter. If the volume size is smaller than the one specified in the filter, then the values will be zero.
+* **Buy (or Sell) filtered volume** — the parameter displays Buy (or Sell) volumes that exceed the size specified in the filter.

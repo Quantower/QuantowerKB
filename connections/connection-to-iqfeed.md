@@ -9,13 +9,13 @@ description: >-
 
 You can benefit from market data provided by IQFeed while trading on Quantower platform. All you need to create IQFeed account and to connect it to Quantower. Having registered with IQFeed, a Free Trial Demo Account is automatically opened and you can use it during the determined trial time period for free. After the trial period expires, you will be offered to proceed with real account.
 
-* \*\*\*\*[**How to register and open demo account with IQFeed?**](connection-to-iqfeed.md#how-to-register-and-open-demo-account-with-iqfeed)\*\*\*\*
-* \*\*\*\*[**DTN Calculated Indicators & Market Statistics**](connection-to-iqfeed.md#dtn-calculated-indicators-and-market-statistics)  **\(**[**link to document**](http://www.iqfeed.net/symbolguide/DTNCalculatedIndicators.pdf)**\)**
+* ****[**How to register and open demo account with IQFeed?**](connection-to-iqfeed.md#how-to-register-and-open-demo-account-with-iqfeed)****
+* ****[**DTN Calculated Indicators & Market Statistics**](connection-to-iqfeed.md#dtn-calculated-indicators-and-market-statistics)**  (**[**link to document**](http://www.iqfeed.net/symbolguide/DTNCalculatedIndicators.pdf)**)**
 
 ### How to connect IQFeed to Quantower
 
 * Create a [**demo account**](https://www.iqfeed.net/index.cfm?displayaction=start) on the IQFeed official website. If you already have an account, skip this step.
-* Download and install the latest version of [**IQFeed client**](http://www.iqfeed.net/index.cfm?displayaction=support&section=download) on your PC.
+* Download and install the latest version of [**IQFeed client**](http://www.iqfeed.net/index.cfm?displayaction=support\&section=download) on your PC.
 * Launch Quantower trading platform, select the IQFeed connection in the [**connection manager**](connections-manager.md) and enter your **Login** and **Password of IQFeed** account. Press Connect and you will see that IQFeed client start automatically.
 
 ![Enter your credintials for conneting to IQFeed](../.gitbook/assets/iqfeed-connection.png)
@@ -24,22 +24,22 @@ You can benefit from market data provided by IQFeed while trading on Quantower p
 
 It may seem some confused issue for newbies to open demo account with IQFeed data provider. Nevertheless it becomes considerably easier when doing that with the usage of our instructions!
 
-* Go to [IQFeed official website](https://www.iqfeed.net) and follow  ‘[**Get Free Trial Now**](https://www.iqfeed.net/index.cfm?displayaction=start)’ link in the **About IQFeed** section. In the opened window select the first offered option \(DTN IQFeed\) and click on the **Continue to DTN Registration Site** button.
+* Go to [IQFeed official website](https://www.iqfeed.net) and follow  ‘[**Get Free Trial Now**](https://www.iqfeed.net/index.cfm?displayaction=start)’ link in the** About IQFeed** section. In the opened window select the first offered option (DTN IQFeed) and click on the **Continue to DTN Registration Site** button.
 
 ![Create a demo account on IQFeed website](../.gitbook/assets/dtn-iqfeed.png)
 
-* Once you click **Continue to DTN Registration Site** button, the following window will apper in which you need to tick off the items as it is shown on the picture below, place a check mark in the **I have read and answered the questions** case and **Continue Sign Up**:
+* Once you click **Continue to DTN Registration Site **button, the following window will apper in which you need to tick off the items as it is shown on the picture below, place a check mark in the **I have read and answered the questions **case and **Continue Sign Up**:
 
 ![Fill in the declaration to determine the status of the participant](../.gitbook/assets/fill-the-declaration.png)
 
 * Select your country and proceed.
 
-![](../.gitbook/assets/screenshot_20%20%281%29.png)
+![](<../.gitbook/assets/screenshot\_20 (1).png>)
 
 * Select the data you are willing to be provided with by IQFeed.
 
 {% hint style="info" %}
-Only data with NO dollar sign \(as it is indicated in the left side of the screen\) is free of charge during the trial period. If you are willing to use free trial version,select the items without dollar sign. In case you selec the items with dollar sign, the respective payment will be charged from your bank card.
+Only data with NO dollar sign (as it is indicated in the left side of the screen) is free of charge during the trial period. If you are willing to use free trial version,select the items without dollar sign. In case you selec the items with dollar sign, the respective payment will be charged from your bank card.
 {% endhint %}
 
 ![](../.gitbook/assets/select-the-data.png)
@@ -58,7 +58,7 @@ Only data with NO dollar sign \(as it is indicated in the left side of the scree
 
 ![](../.gitbook/assets/check-the-fees.png)
 
-* A window with bank card credentials to fill in is opened. Enter data of the bank card you will be using for IQFeed services \(in case you have followed all the above mentioned steps, you will be using Free Trial Demo Account by IQFeed and no money will be charged from your card\) and click on the **Add card** button.
+* A window with bank card credentials to fill in is opened. Enter data of the bank card you will be using for IQFeed services (in case you have followed all the above mentioned steps, you will be using Free Trial Demo Account by IQFeed and no money will be charged from your card) and click on the **Add card** button.
 
 ![](../.gitbook/assets/dtn.-process-order.png)
 
@@ -77,9 +77,8 @@ Only data with NO dollar sign \(as it is indicated in the left side of the scree
 
 ### DTN Calculated Indicators & Market Statistics
 
-DTN’s Ticker Plant gives traders an edge by calculating thousands of indicators not available elsewhere that provide insight into historical trends and real-time market dynamics. [**How to request these stats in the platform?**](http://www.iqfeed.net/symbolguide/DTNCalculatedIndicators.pdf)\*\*\*\*
+DTN’s Ticker Plant gives traders an edge by calculating thousands of indicators not available elsewhere that provide insight into historical trends and real-time market dynamics. [**How to request these stats in the platform?**](http://www.iqfeed.net/symbolguide/DTNCalculatedIndicators.pdf)****
 
 ![](../.gitbook/assets/dtn-market-stat.png)
 
 ![](../.gitbook/assets/premiums.png)
-

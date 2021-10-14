@@ -23,11 +23,11 @@ public class TestStrategy : Strategy
 }
 ```
 
-But what about crypto balances? For example, if we have some crypto connection and we need to get all available balances of ‘BTC’ currency, or ‘ETH’ currency or both. How do we get these values? The answer is ‘Easy”\)
+But what about crypto balances? For example, if we have some crypto connection and we need to get all available balances of ‘BTC’ currency, or ‘ETH’ currency or both. How do we get these values? The answer is ‘Easy”)
 
 ## **CryptoAccount class**
 
-Quantower API supports a special [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) class for most crypto connections.  This class is derived from the base [Account](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html) class and extends its functionality with additional property - [**Balances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_Balances) and special [**BalanceUpdated**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_BalanceUpdated) event. In your code, you need to make sure the account you choose implements the [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) ****class.
+Quantower API supports a special [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html) class for most crypto connections.  This class is derived from the base [Account](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html) class and extends its functionality with additional property - [**Balances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_Balances) and special [**BalanceUpdated**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html#TradingPlatform_BusinessLayer_CryptoAccount_BalanceUpdated) event. In your code, you need to make sure the account you choose implements the [**CryptoAccount**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html)** **class.
 
 ```csharp
 public class TestStrategy : Strategy
@@ -101,21 +101,21 @@ The [**Balances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.
 
 Let's take a look at the main properties of [**CryptoAssetBalances**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAssetBalances.html) class:
 
-* **AssetId** - base currency identifier
-* **TotalBalance** - total amount of currency
-* **ReservedBalance** - amount of reserved currency \(submitting limit orders etc.\)
-* **AvailableBalance** - amount of available currency \(TotalBalance - ReservedBalance\)
-* **TotalInBTC** - converted total amount of currency in ‘BTC’
-* **TotalInUSD** - converted total amount of currency in ‘USD’
+* **AssetId **- base currency identifier
+* **TotalBalance **- total amount of currency
+* **ReservedBalance **- amount of reserved currency (submitting limit orders etc.)
+* **AvailableBalance **- amount of available currency (TotalBalance - ReservedBalance)
+* **TotalInBTC **- converted total amount of currency in ‘BTC’
+* **TotalInUSD **- converted total amount of currency in ‘USD’
 
 ## If crypto connection doesn't support CryptoAccount class
 
-Unfortunately, not all crypto connections support [**CryptoAccount** ](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html)class. The main reason for this is imperfection current broker API. For such connections, information about crypto balances is stored in a special **AdditionalInfo** collection.
+Unfortunately, not all crypto connections support [**CryptoAccount **](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.CryptoAccount.html)class. The main reason for this is imperfection current broker API. For such connections, information about crypto balances is stored in a special **AdditionalInfo **collection.
 
 All you need to do:
 
-1. Run **Debug**-mode and find the required element in **AdditionalInfo** collection.
-2. Store identifier\(**Id** property\) of this element as a constant. 
+1. Run **Debug**-mode and find the required element in **AdditionalInfo **collection.
+2. Store identifier(**Id **property) of this element as a constant. 
 3. Use '**TryGetItem**' method with stored identifier to get required element.
 
 Below is an example how to find the "BTC wallet balance" element for an **Bybit**-account.
@@ -167,4 +167,3 @@ public class TestStrategy : Strategy
     }
 }
 ```
-

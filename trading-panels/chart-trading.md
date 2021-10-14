@@ -39,15 +39,15 @@ Placing orders on the Quantower platform can be done via different panels like O
 To activate the quick trading toolbar, click on the button in the upper right corner.
 
 {% hint style="info" %}
-The general view of Chart Trading Toolbar may differ depending on the available functions for each trade connection.  
-This panel will be slightly different for crypto connections, as well as for those that do not allow to create Brackets or server-side Stop Loss / Take Profit orders. For more details about available order types for each connection, please check the [**Order Types section**](order-entry/order-types.md)\*\*\*\*
+The general view of Chart Trading Toolbar may differ depending on the available functions for each trade connection.\
+This panel will be slightly different for crypto connections, as well as for those that do not allow to create Brackets or server-side Stop Loss / Take Profit orders. For more details about available order types for each connection, please check the [**Order Types section**](order-entry/order-types.md)****
 {% endhint %}
 
 ![](../.gitbook/assets/chart-trading-toolbar.gif)
 
 ### How to manage Quick Order Quantity buttons
 
-Quick Order Quantity buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any \(!!!\) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
+Quick Order Quantity buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any (!!!) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
 
 ![](../.gitbook/assets/kolvo.jpg)
 
@@ -63,7 +63,7 @@ Buttons can change not only to a given amount of position, but also apply any fo
 
 By right-clicking you can save the default order entry settings for all symbols
 
-![](../.gitbook/assets/image%20%28230%29.png)
+![](<../.gitbook/assets/image (230).png>)
 
 ### Slider to enter the volume of the position in dollars
 
@@ -86,13 +86,13 @@ For example, at the moment you have $82 on your account and 10 leverage is set. 
 
 ### How to set up Profit and Stop orders
 
-Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
+Then you can set** automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
 {% hint style="info" %}
-Some brokers such as Binance do not allow stop orders for limit orders. \(Until the position is NOT open\) In this case, use limit orders of the opposite direction
+Some brokers such as Binance do not allow stop orders for limit orders. (Until the position is NOT open) In this case, use limit orders of the opposite direction
 {% endhint %}
 
-![](../.gitbook/assets/animaciya-3-%20%281%29.gif)
+![](<../.gitbook/assets/animaciya-3- (1).gif>)
 
 * Use the Qquick Ttrade toolbar 
 * Set your values for stop loss or profit. You can also use any one parameter only. 
@@ -110,7 +110,7 @@ If you execute an order at market, the specified stop parameters will retain the
 This example is for connecting a CQG/AMP
 {% endhint %}
 
-* To set multiple stop orders for a single position, do the following Switch the bracket \(stop\) settings to multi mode 
+* To set multiple stop orders for a single position, do the following Switch the bracket (stop) settings to multi mode 
 * Enter data for setting the first limit orders and how many lots or coins should be closed 
 * For the next stops, enter similar data on the next line.
 *  You can set orders in multiples of your total volume
@@ -119,9 +119,9 @@ This example is for connecting a CQG/AMP
 
 1. Next comes a block of buttons for **quickly placing an orde**r into the betting slots at the appropriate price.
 
-![](../.gitbook/assets/image%20%28292%29.png)
+![](<../.gitbook/assets/image (292).png>)
 
-2.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
+2\.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
 
 ## Quick order entry
 
@@ -129,7 +129,7 @@ This example is for connecting a CQG/AMP
 
 To access the quick trade toolbar, click the button in the upper right corner.
 
-![](../.gitbook/assets/animaciya-1-%20%281%29.gif)
+![](<../.gitbook/assets/animaciya-1- (1).gif>)
 
 ## Mouse trading
 
@@ -137,7 +137,7 @@ Allows you to set limit and stop limit orders directly on the chart. To activate
 
 
 
-![](../.gitbook/assets/animaciya-2-%20%281%29.gif)
+![](<../.gitbook/assets/animaciya-2- (1).gif>)
 
 {% hint style="warning" %}
 To place several orders in a row hold down CTRL
@@ -145,12 +145,12 @@ To place several orders in a row hold down CTRL
 
 If the mouse position i**s higher than the current price** then 
 
-* right click of the mouse will set a **limit order**  
+* right click of the mouse will set a **limit order ** 
 * left click of the mouse will set a **Buy stop marke**t order
 
-If position of the mouse is **under the current price** then
+If position of the mouse is **under the current price **then
 
-* right click of the mouse will set **Sell stop market** 
+* right click of the mouse will set **Sell stop market **
 * right click of the mouse will set **Buy limit order**
 
 ## Keyboard trading
@@ -159,7 +159,6 @@ If position of the mouse is **under the current price** then
 
 To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../analytics-panels/chart/chart-settings.md)
 
-![](../.gitbook/assets/image%20%28293%29.png)
+![](<../.gitbook/assets/image (293).png>)
 
 You can set your own values for the hot buttons in the chart settings
-

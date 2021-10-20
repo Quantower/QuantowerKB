@@ -18,11 +18,11 @@ description: >-
 
 Interactive Brokers places the following limitations on real-time and historical data accessible to 3rd party applications
 
-* **Pacing Violations** – TWS limits the number of requests for data. If too many requests for data occur in a short period of time, you may see error messages indicating “Pacing Violation”. If this happens you may need to wait a few minutes before trying to load data again. 
-* **Real-Time Quotes** – TWS does impose limits on the number of active tickers (typically around 100). Additional booster packs can be purchased from IB to work around this issue: [Booster Packs](https://www.interactivebrokers.com/en/index.php?f=14193). 
-* **Delayed Data Not Supported** – TWS does not provide access to delayed historical data and quotes. 
+* **Pacing Violations** – TWS limits the number of requests for data. If too many requests for data occur in a short period of time, you may see error messages indicating “Pacing Violation”. If this happens you may need to wait a few minutes before trying to load data again.&#x20;
+* **Real-Time Quotes** – TWS does impose limits on the number of active tickers (typically around 100). Additional booster packs can be purchased from IB to work around this issue: [Booster Packs](https://www.interactivebrokers.com/en/index.php?f=14193).&#x20;
+* **Delayed Data Not Supported** – TWS does not provide access to delayed historical data and quotes.&#x20;
 
-For more details on these limitations see [IB Data Limitations](https://interactivebrokers.github.io/tws-api/historical_limitations.html#gsc.tab=0).
+For more details on these limitations see [IB Data Limitations](https://interactivebrokers.github.io/tws-api/historical\_limitations.html#gsc.tab=0).
 
 {% hint style="warning" %}
 * IB does not currently offer full depth market data for futures.
@@ -43,10 +43,10 @@ Video connection guide to Interactive Brokers
 
 ![](<../../.gitbook/assets/image (327).png>)
 
-* Download and install IB Software — [**TWS (Trader Workstation)**](https://www.interactivebrokers.co.uk/en/index.php?f=14099#tws-software) or [**IB Gateway**](https://www.interactivebrokers.co.uk/en/index.php?f=16454) on their website. 
+* Download and install IB Software — [**TWS (Trader Workstation)**](https://www.interactivebrokers.co.uk/en/index.php?f=14099#tws-software) or [**IB Gateway**](https://www.interactivebrokers.co.uk/en/index.php?f=16454) on their website.&#x20;
 
 {% hint style="success" %}
-The difference between IB Gateway and TWS is that IB Gateway has a lighter and less sophisticated graphical user interface (GUI) than TWS. 
+The difference between IB Gateway and TWS is that IB Gateway has a lighter and less sophisticated graphical user interface (GUI) than TWS.&#x20;
 {% endhint %}
 
 ![Download Trader Workstation (TWS) or IB Gateway](<../../.gitbook/assets/image (328).png>)
@@ -71,7 +71,7 @@ The difference between IB Gateway and TWS is that IB Gateway has a lighter and l
 
 * Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check** **[**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com), via email info@quantower.com.
 
-##  How to connect to Interactive Brokers using IB Gateway
+## &#x20;How to connect to Interactive Brokers using IB Gateway
 
 * Launch IB Gateway and enter your **Username** and **Password** into it, that you received from the broker and click on **Log In **button.
 
@@ -85,7 +85,7 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
 ![Activate all checkboxes in the IB Gateway API settings](<../../.gitbook/assets/image (322).png>)
 
-     Also necessary in the **Settings** section deactivate the **Read-Only API **to perform trading operations.
+&#x20;    Also necessary in the **Settings** section deactivate the **Read-Only API **to perform trading operations.
 
 ![](<../../.gitbook/assets/image (329).png>)
 
@@ -103,11 +103,11 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
 There may be some problems during the connection to Interactive Brokers, for example, _**Wrong Connection Parameters**_
 
-![Wrong parameteres during connection to Interactive Brokers](../../.gitbook/assets/connections-manager-for-ib_error.png)
+![Wrong parameteres during connection to Interactive Brokers](../../.gitbook/assets/connections-manager-for-ib\_error.png)
 
 In this case, you need to check the connection settings in our platform and in the TWS platform (or IB Gateway). In our platform, go to the **Connection Settings.**
 
-![Connection settings in Quantower for Interactive Brokers](../../.gitbook/assets/connections-manager-for-ib_settings.png)
+![Connection settings in Quantower for Interactive Brokers](../../.gitbook/assets/connections-manager-for-ib\_settings.png)
 
 Select the application through which you are connecting  — TWS platform or IB Gateway.
 
@@ -121,7 +121,7 @@ Select the _**Custom**_ connection port type in the Connection settings of Quant
 
 ### _**Trader Workstation is not running**_
 
-![Trader Workstation is not running. Please launch it to connect to IB](../../.gitbook/assets/connections-manager-for-ib_tws_error.png)
+![Trader Workstation is not running. Please launch it to connect to IB](../../.gitbook/assets/connections-manager-for-ib\_tws\_error.png)
 
 Connection to Interactive Brokers is made through their TWS trading platform or the IB Gateway application. To successfully connect to IB you need to run their applications.
 
@@ -151,9 +151,9 @@ To subscribe to Market data with IB, please go to the Account Management section
 
 ![](<../../.gitbook/assets/image (318).png>)
 
-This will open the Account Management page without requiring that the account username / password be re-entered. 
+This will open the Account Management page without requiring that the account username / password be re-entered.&#x20;
 
-At the bottom of the Account Management page, you can find the link to the [**Market Data Subscriptions**](https://ndcdyn.interactivebrokers.com/AccountManagement/AmAuthentication?action=TA_MARKET_DATA). Click on the **Gear** icon to customize your subscription to the necessary market data. 
+At the bottom of the Account Management page, you can find the link to the [**Market Data Subscriptions**](https://ndcdyn.interactivebrokers.com/AccountManagement/AmAuthentication?action=TA\_MARKET\_DATA). Click on the **Gear** icon to customize your subscription to the necessary market data.&#x20;
 
 After this is done, **restart Trader Workstation platform**. Quantower will establish a new connection and you should then receive market data.
 

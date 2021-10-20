@@ -36,7 +36,7 @@ Once you open a Copy trading panel, you will find the Bots management screen, di
 
 ![New copy bot creation screen](../.gitbook/assets/frame-10.png)
 
-Here you should name your bot and specify Parent connection (account) to set up where to copy trades from. Now we should add dependent connections by pressing the Plus button next to the “Child connections” label. Each new item line in the following table represents a Child connection that will copy all trading activities from the Parent. 
+Here you should name your bot and specify Parent connection (account) to set up where to copy trades from. Now we should add dependent connections by pressing the Plus button next to the “Child connections” label. Each new item line in the following table represents a Child connection that will copy all trading activities from the Parent.&#x20;
 
 ### Add multi accounts for the same connect&#xD;
 
@@ -62,7 +62,8 @@ In a **Percentage mode**, the bot will calculate the quantity relative to the Pa
 
 Once we set up all of the Bot settings, click the Save button. Now we see that the new Copy trading bot appeared in the Bots list section.
 
-## Copy-Bots management&#xD;
+Copy-Bots management
+
 
 Once created, any Bot is stopped and not monitoring Parent’s trading activities. To activate it, click the Start button. Now it is Working and ready to copy your orders to Child accounts.
 
@@ -78,7 +79,8 @@ Bot management table contains the following information and controls:
 * **Settings.** This "gear" icon opens settings of the selected trading bot;
 * **Delete.** Removes the trading bot.
 
-## Visual control&#xD;
+Visual control
+
 
 You can visually observe the complete synchronization of trades by opening two charts at the same time. Just after you send an order, the Bot will copy it to a Child account. If you modify your order — the Child account order will be modified also. Canceled orders will be canceled for the dependent account also. By the way, Stop Loss and Take profit orders for our position are also successfully mirroring to the dependent account.
 

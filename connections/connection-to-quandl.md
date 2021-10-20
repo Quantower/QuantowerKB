@@ -20,14 +20,14 @@ As we can see the very extended financial market data is provided and Quandl is 
 
 After filling the registration form you'll get an email with the confirmation link on your email address indicated in the registration form, please follow the link in order to confirm your registration.
 
-    2\. Enter your account on Quandl website, _click on your Profile_ on the right upper corner of the page and follow to the **Account Settings**.
+&#x20;   2\. Enter your account on Quandl website, _click on your Profile_ on the right upper corner of the page and follow to the **Account Settings**.
 
-![](../.gitbook/assets/quandl_get-an-api-key.png)
+![](../.gitbook/assets/quandl\_get-an-api-key.png)
 
-    3\. Copy your personal **API key** (see pic. below) that is needed for connecting Quandl to Quantower.
+&#x20;   3\. Copy your personal **API key** (see pic. below) that is needed for connecting Quandl to Quantower.
 
 ![](../.gitbook/assets/quandl-copy-api-key.png)
 
-    4\. When launching Quantower platform, select Quandl connection and enter the API key copied from the Quandl personal cabinet in the **"Token"** field of the Connection manager, then press **CONNECT**.
+&#x20;   4\. When launching Quantower platform, select Quandl connection and enter the API key copied from the Quandl personal cabinet in the **"Token"** field of the Connection manager, then press **CONNECT**.
 
 ![](../.gitbook/assets/connect-to-quandl-via-quantower.png)

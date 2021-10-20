@@ -15,8 +15,8 @@ To connect Quantower to a broker that uses Rithmic technology, it is sufficient 
 
 ### Connection for Existed Accounts
 
-* ****[**Download and install R Trader Pro**](http://yyy3.rithmic.com/?page_id=16) from Rithmic official website.
-* Open connection manager, select **Rithmic** and specify the type of connection (**Demo / Real**). 
+* ****[**Download and install R Trader Pro**](http://yyy3.rithmic.com/?page\_id=16) from Rithmic official website.
+* Open connection manager, select **Rithmic** and specify the type of connection (**Demo / Real**).&#x20;
 * Click on **Connection Settings** and **activate Use RTrader** option to avoid additonal fees for subscription to market data. If necessary, trader can change the server. By default, the Rithmic Paper Chicago server is set for demo accounts and the Rithmic Aurora Chicago server is set for real accounts.
 * Enter your login and password and click **Connect.**
 
@@ -43,17 +43,53 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 
 ## **Problems during the connection to Rithmic**
 
-### **Market Data Connection Closed**
+### **Market Data Connection Closed (Broken)**
 
-Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed".**_
+Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed (Broken)". **_Below we will describe possible reasons and solutions.
+
+{% hint style="warning" %}
+This error message is most commonly encountered by _**new Rithmic users for various reasons**_ and is not within the control of the Quantower platform.&#x20;
+{% endhint %}
 
 ![Rithmic error "Market Data Connection Closed" in Quantower](../.gitbook/assets/connections-error-with-rithmic.png)
 
-This error message is most commonly encountered by _**new Rithmic users for various reasons**_ and is not within the control of Quantower platform. More often it occurs for the following reasons:
+![Rithmic error "Market Data Connection Broken" in Quantower](<../.gitbook/assets/image (348).png>)
 
-* You didn't accept aggrements "_Market Data Subscription Agreement"_ and _"Market Data Self-Certification"  _during the registration on Rithmic's website or in R Trader platform. _We recommend connecting through **R Trader** or **R Trader Pro** platforms to check your account._
-* A new account was created less than an hour ago. Usually the **full activation of a new account takes from 30 minutes to 1 hour**.
-* The error can be encountered because the Rithmic server is unavailable to be connected to. This error commonly can be encountered over the weekend. In this case it is best to wait until Sunday evening to see if you can connect to determine if this is the problem or there is some other problem.
+#### Connection to Rithmic can be done in two ways:
+
+* directly, without using RTrader Pro platform. This approach allows only one platform to be connected.
+
+![](<../.gitbook/assets/image (349).png>)
+
+* through their RTrader Pro platform. This connection uses Plugin Mode and **allows you to connect multiple platforms at the same time (!)**
+
+![Use Rithmic plugin mode for multiple access](<../.gitbook/assets/image (352).png>)
+
+More often such error occurs for the following reasons:
+
+*   You didn't accept agreements "_Market Data Subscription Agreement"_ and _"Market Data Self-Certification"  _during the registration on Rithmic's website or in R Trader platform. _We recommend connecting through **R Trader** or **R Trader Pro** platforms to check your account._
+
+    _**Solution:** accept agreements in RTrader Pro platform_
+*   A new account was created less than an hour ago. Usually, the **full activation of a new account takes from 30 minutes to 1 hour**.
+
+    _**Solution:**_ _open RTrader Pro platform and connect with your login. If the connection is successful, then your account is active in Rithmic system_
+*   Make sure that your login matches the Demo or Real connection&#x20;
+
+    _**Solution:**_ try both connection options in Quantower
+
+![](<../.gitbook/assets/image (355).png>)
+
+*   If Quantower was connected to Rithmic before via the RTrader Plugin (i.e. the checkbox Use RTrader is active), and at the moment the RTrader Pro platform is not connected or the **Allow Plugins **option is not active there, then Quantower will not be able to connect.
+
+    _**Solution (several different options, not step-by-step):**_
+
+    _1) start RTrader Pro platform with **Allow Plugins** mode and connect again to your account in Quantower_
+
+    _2) try to connect to Rithmic as a direct connection: close RTrader Pro platform, disable **Use Rtrader** option in Quantower settings and restart Quantower. After start Quantower again and connect to your account as a direct connection_
+
+![Plugin Mode in RTrader Pro is disabled but active in Quantower](<../.gitbook/assets/image (351).png>)
+
+* The error can be encountered because the Rithmic server is unavailable to be connected to. This error commonly can be encountered over the weekend. In this case, it is best to wait until Sunday evening to see if you can connect to determine if this is the problem or there is some other problem.
 * Rithmic demo accounts are limited to 14 days per exchange guidelines on providing live, streaming data. If you have used a Rithmic demo previously you will _not_ be able to login with a new Rithmic demo Username.
 * If you are unable to connect within a few days, you need to contact your broker about this issue.
 
@@ -65,6 +101,6 @@ If you enable Use RTrader plugin in Connection Settings and still can not connec
 
 This problem can be due to the fact that you do not have a subscription to this Level2 data. To check this, launch the **RTrader Pro platform** and open the **Order Book** panel.
 
-If you don't have Bid/Ask values in the RTrader platform, you need to subscribe to this data via Rithmic's support. After that, you will see level2 data in our platform as well. 
+If you don't have Bid/Ask values in the RTrader platform, you need to subscribe to this data via Rithmic's support. After that, you will see level2 data in our platform as well.&#x20;
 
 ![](<../.gitbook/assets/image (297).png>)

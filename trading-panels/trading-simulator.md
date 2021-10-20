@@ -18,8 +18,17 @@ For whom it will be useful? For any trader - from beginner to pros, trading in w
 ### How to start trading simulation?
 
 * Launch the **Trading Simulator** from the Control Center. The panel is located in the _Trading_ category.
+
+![](<../.gitbook/assets/image (350).png>)
+
 * Add desired symbols on which the trading simulation will take place.
-* Set the initial balance for trading accounts, execution delay, type of netting for selected symbols, and commission size. 
+
+![Adding the trading symbol to Trading Simulator panel](<../.gitbook/assets/trading simulator.gif>)
+
+* Set the initial balance for trading accounts, execution delay, type of netting for selected symbols, and commission size.&#x20;
+
+![Set initial balance for trading](<../.gitbook/assets/image (352).png>)
+
 * Run the simulation by clicking the "**Start**" button. The status of the panel changes to _**Simulation is active.**_
 * Open required panels for analysis and trading. On the header of each panel which participates in the trading simulation, shows the corresponding inscription — **Simulator**.
 

@@ -89,6 +89,14 @@ More often such error occurs for the following reasons:
 
 ![Plugin Mode in RTrader Pro is disabled but active in Quantower](<../.gitbook/assets/image (351).png>)
 
+*   In the case of a direct connection (without RTrader Plugin mode), you cannot use the same login on different platforms at the same time. The connection can be only one login on one platform (!).&#x20;
+
+    When trying to connect with one login on different platforms, it can log out from the first platform (which was connected), but the login on the second platform will not be successfully connected (on which we are trying to log in).
+
+    _**Solution: **use RTrader Plugin mode for multiple connections or close all platforms and connect via Quantower as direct connection (without Rtrader plugin mode)_
+
+![](<../.gitbook/assets/image (345).png>)
+
 * The error can be encountered because the Rithmic server is unavailable to be connected to. This error commonly can be encountered over the weekend. In this case, it is best to wait until Sunday evening to see if you can connect to determine if this is the problem or there is some other problem.
 * Rithmic demo accounts are limited to 14 days per exchange guidelines on providing live, streaming data. If you have used a Rithmic demo previously you will _not_ be able to login with a new Rithmic demo Username.
 * If you are unable to connect within a few days, you need to contact your broker about this issue.

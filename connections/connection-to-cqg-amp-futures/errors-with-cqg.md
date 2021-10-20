@@ -74,4 +74,4 @@ This error can occur for several reasons:\
 
 Usually such error appears when the market is closed and CQG can not process the order
 
-![](<../../.gitbook/assets/image (345) (1).png>)
+![](<../../.gitbook/assets/image (345) (1) (1).png>)

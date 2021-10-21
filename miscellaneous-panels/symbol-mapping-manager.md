@@ -22,5 +22,7 @@ The panel is a table where the trader adds symbols for trading, and also selects
 
 ![](<../.gitbook/assets/image (347).png>)
 
-* Add&#x20;
+* Add a symbol where all trade operations (orders, positions) will be sent
+
+![](<../.gitbook/assets/image (356).png>)
 

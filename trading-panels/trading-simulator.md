@@ -17,7 +17,7 @@ For whom it will be useful? For any trader - from beginner to pros, trading in w
 Note that each start and stop of the simulator creates a new trading account.
 {% endhint %}
 
-![General view of Trading Simulator panel](../.gitbook/assets/trading-simulator.png)
+![General view of Trading Simulator panel](../.gitbook/assets/simulator.png)
 
 ### How to start trading simulation?
 

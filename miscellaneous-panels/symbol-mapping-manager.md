@@ -14,7 +14,7 @@ For example, Interactive Brokers doesn't provide the necessary data for using Cl
 
 The panel is a table where the trader adds symbols for trading, and also selects from which connection and which symbol to receive quotes for analysis. After creating a mapping, the trader must open the chart of the symbol that he will trade (for example, from Interactive Brokers connection). In this case, all data for this symbol will come from the second connection (for example from IQFeed or from dxFeed).
 
-![](../.gitbook/assets/Screenshot\_7.png)
+![General view of Symbol Mapping panel](../.gitbook/assets/symbolMapping.png)
 
 ### How to create a mapping between two symbols?
 
@@ -22,7 +22,22 @@ The panel is a table where the trader adds symbols for trading, and also selects
 
 ![](<../.gitbook/assets/image (347).png>)
 
-* Add a symbol where all trade operations (orders, positions) will be sent
+* Add a symbol where all trade operations (orders, positions) will be sent.
 
-![](<../.gitbook/assets/image (356).png>)
+![](<../.gitbook/assets/image (356) (1).png>)
 
+* Select the symbol for getting historical and real-time data (Level1 and Level2)
+
+![](<../.gitbook/assets/image (357).png>)
+
+{% hint style="info" %}
+_**Mapping Type has two modes:**_
+
+**Simple mode** where you can select 1 symbol for all real-time quotes (Level1 and Leve2 data) + Historical data (bars and volume)
+
+**Custom mode** where you can select different symbols for different quotes and historical data. For example, you can set the real-time data from one data provider, but historical data from another source.
+
+![](<../.gitbook/assets/image (356).png>)p
+{% endhint %}
+
+* After the mapping of symbols is set up, you need to open the trading panel with the desired symbol to start trading

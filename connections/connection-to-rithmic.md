@@ -59,7 +59,7 @@ This error message is most commonly encountered by _**new Rithmic users for vari
 
 * directly, without using RTrader Pro platform. This approach allows only one platform to be connected.
 
-![](<../.gitbook/assets/image (349) (1).png>)
+![](<../.gitbook/assets/image (349) (1) (1).png>)
 
 * through their RTrader Pro platform. This connection uses Plugin Mode and **allows you to connect multiple platforms at the same time (!)**
 

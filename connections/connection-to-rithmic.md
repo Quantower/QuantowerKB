@@ -53,13 +53,13 @@ This error message is most commonly encountered by _**new Rithmic users for vari
 
 ![Rithmic error "Market Data Connection Closed" in Quantower](../.gitbook/assets/connections-error-with-rithmic.png)
 
-![Rithmic error "Market Data Connection Broken" in Quantower](<../.gitbook/assets/image (348) (1).png>)
+![Rithmic error "Market Data Connection Broken" in Quantower](<../.gitbook/assets/image (348) (1) (1).png>)
 
 #### Connection to Rithmic can be done in two ways:
 
 * directly, without using RTrader Pro platform. This approach allows only one platform to be connected.
 
-![](<../.gitbook/assets/image (349) (1) (1).png>)
+![](<../.gitbook/assets/image (349) (1) (1) (1).png>)
 
 * through their RTrader Pro platform. This connection uses Plugin Mode and **allows you to connect multiple platforms at the same time (!)**
 
@@ -77,7 +77,7 @@ More often such error occurs for the following reasons:
 
     _**Solution:**_ try both connection options in Quantower
 
-![](<../.gitbook/assets/image (355).png>)
+![](<../.gitbook/assets/image (355) (1).png>)
 
 *   If Quantower was connected to Rithmic before via the RTrader Plugin (i.e. the checkbox Use RTrader is active), and at the moment the RTrader Pro platform is not connected or the **Allow Plugins **option is not active there, then Quantower will not be able to connect.
 

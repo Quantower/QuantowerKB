@@ -42,4 +42,4 @@ _**Mapping Type has two modes:**_
 
 * After the mapping of symbols is set up, you need to open the trading panel with the desired symbol to start trading
 
-![Select the symbol on the chart where you want to make trading operations](<../.gitbook/assets/image (349).png>)
+![Select the symbol on the chart where you want to make trading operations](<../.gitbook/assets/image (349) (1).png>)

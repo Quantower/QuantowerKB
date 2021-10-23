@@ -1,36 +1,38 @@
 ---
-description: 'A market heat map, is a real-time visual representation of market conditions.'
+description: >-
+  A market heat map represents real-time data in the form of tiles that are
+  automatically sorted by volume or price change
 ---
 
 # Market Heat map
 
-### What is the quantower Heat map
+### General overview of Market Heatmap panel in Quantower
 
-You can use these maps as an investment research tool to view the performance of various market indices, sectors, asset classes or individual stocks. You can compare the stock market of a particular country with that of another country.
+A trader can use this panel as a research tool to view the performance of various assets (stocks, cryptos, futures). Due to the fact that the data is presented in different colors, you can quickly assess the state of assets relative to each other or benchmark.
 
-Given the wide variety of data these maps provide, the data values are presented in different colors to help you quickly understand the information.
+![General vie of Market Heatmap panel](<../.gitbook/assets/image (349).png>)
 
-In addition to their attractive appearance, Quantower market heat maps have features that make investment research both informative and interesting
+### How to work with the Market heat map panel?
 
-![](../.gitbook/assets/image%20%28190%29.png)
+* Launch the **Marker heat map** panel from the Control Center. The panel is located in the _Misc_ category.
 
-### How Quantower heat map works.
+![](<../.gitbook/assets/image (348).png>)
 
+* Add the necessary symbols by clicking on the icon "+".
 
+![](<../.gitbook/assets/image (355).png>)
 
-![](../.gitbook/assets/image%20%28194%29.png)
+*   The panel allows displaying data in two modes:
 
-To get started, you need to specify which symbols or markets you are going to work with. You can choose a single symbol or all of the symbols at a given broker. I chose a few symbols at random to show you how it works.
+    _**Treemap**_ mode in which the size of the tiles depends on the value of the price or volume change.
 
-![](../.gitbook/assets/123%20%281%29.gif)
+    _**Cells**_ show tiles of symbols from largest to smallest value (price or volume change).
 
-You can change the Quantower heat map display. Setup - Threemap shows the fastest symbols with the largest size. The Sells setting sorts the symbols from largest to smallest value
+![](<../.gitbook/assets/market heatmap.gif>)
+
+* You can choose the type of sorting by largest volume or percentage change.
 
 ![](../.gitbook/assets/123.gif)
-
-You can choose the type of sorting by largest volume or percentage change.
-
-
 
 
 

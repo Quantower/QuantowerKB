@@ -36,7 +36,7 @@ Note that each start and stop of the simulator creates a new trading account.
 * Run the simulation by clicking the "**Start**" button. The status of the panel changes to _**Simulation is active.**_
 * Open required panels for analysis and trading. On the header of each panel that participates in the trading simulation, shows the corresponding inscription — **Simulator**.
 
-![You can open panels that linked to the simulation process](<../.gitbook/assets/image (348).png>)
+![You can open panels that linked to the simulation process](<../.gitbook/assets/image (348) (1).png>)
 
 {% hint style="warning" %}
 "**Stop**" button will abort the simulation process as well as cancel all positions and orders.
@@ -54,6 +54,6 @@ In the general settings, you can set the initial balance for the test account, s
 Trading Simulator creates separate trading accounts for each base currency of the instrument. For example, if you chose EUR / USD currency pair, then the account name will be **Account (USD)**, if you select EUR / JPY, then the name will be **Account (JPY) **respectively.
 {% endhint %}
 
-![General settings for symbols in Trading Simulator](<../.gitbook/assets/image (349) (1).png>)
+![General settings for symbols in Trading Simulator](<../.gitbook/assets/image (349) (1) (1).png>)
 
 * **Netting type** — methods by which to summarize existing and new positions. There are 3 types of nettings: **One Position**, **Multiple Per Side**, **Multiple Positions**. Examples of using each method you can find in the description of the [History Player panel settings](https://help.quantower.com/trading-panels/history-player#general-and-instruments-settings).

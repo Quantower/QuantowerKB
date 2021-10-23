@@ -54,6 +54,6 @@ In the general settings, you can set the initial balance for the test account, s
 Trading Simulator creates separate trading accounts for each base currency of the instrument. For example, if you chose EUR / USD currency pair, then the account name will be **Account (USD)**, if you select EUR / JPY, then the name will be **Account (JPY) **respectively.
 {% endhint %}
 
-![General settings for symbols in Trading Simulator](<../.gitbook/assets/image (349) (1) (1).png>)
+![General settings for symbols in Trading Simulator](<../.gitbook/assets/image (349) (2).png>)
 
 * **Netting type** — methods by which to summarize existing and new positions. There are 3 types of nettings: **One Position**, **Multiple Per Side**, **Multiple Positions**. Examples of using each method you can find in the description of the [History Player panel settings](https://help.quantower.com/trading-panels/history-player#general-and-instruments-settings).

@@ -8,7 +8,7 @@ description: >-
 
 ### General overview of Market Heatmap panel in Quantower
 
-A trader can use this panel as a research tool to view the performance of various assets (stocks, cryptos, futures). Due to the fact that the data is presented in different colors, you can quickly assess the state of assets relative to each other or benchmark.
+A trader can use this panel as a research tool to view the performance of various assets (stocks, cryptos, futures). Different colors will help you to quickly assess the state of assets relative to each other.
 
 ![General vie of Market Heatmap panel](<../.gitbook/assets/image (349).png>)
 

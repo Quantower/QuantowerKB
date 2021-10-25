@@ -30,9 +30,19 @@ A trader can use this panel as a research tool to view the performance of variou
 
 ![](<../.gitbook/assets/market heatmap.gif>)
 
-* You can choose the type of sorting by largest volume or percentage change.
+* You can switch between two sorting modes — **Change, %** (daily price change), **Volume**
 
-![](../.gitbook/assets/123.gif)
+![](<../.gitbook/assets/market heatmap changes.gif>)
 
+*   You can save and switch between different lists of assets. For example, create a list of popular cryptocurrencies or a list of major US futures. After saving, you can select the desired actions:
 
+    &#x20; — **Add to Watchlist** allows you to add a previously saved list to the current
+
+    &#x20; — **Replace Watchlist** allows you to delete the current list and add all instruments from the previously saved one
+
+![](<../.gitbook/assets/market heatmap lists.gif>)
+
+* The panel allows you to compare volume and price changes over the past day. Select the required date in the past, and the panel will load data for the analysis.
+
+![](<../.gitbook/assets/market heatmap history.gif>)
 

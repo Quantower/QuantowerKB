@@ -8,7 +8,7 @@ description: Multiple ways to enter orders on the CQG connection
 
 * ****[**Order parameters — Type, Price, Quantity**](order-entry-for-cqg.md#selection-of-order-type-time-if-force-and-order-quantity)****
 * ****[**How to set TP (take profit) and SL (stop loss)**](order-entry-for-cqg.md#how-to-set-tp-take-profit-and-sl-stop-loss)****
-* ****[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)****
+* ****[**How to set up multiple TP (take profit) and SL (stop loss) orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)****
 
 ### ****[**How to place an order from the Chart trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)****
 

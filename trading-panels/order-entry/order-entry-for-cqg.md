@@ -9,7 +9,6 @@ description: Multiple ways to enter orders on the CQG connection
 * ****[**Order parameters — Type, Price, Quantity**](order-entry-for-cqg.md#selection-of-order-type-time-if-force-and-order-quantity)****
 * ****[**How to set TP (take profit) and SL (stop loss)**](order-entry-for-cqg.md#how-to-set-tp-take-profit-and-sl-stop-loss)****
 * ****[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)****
-* ****[**How to set up Trailing Order**](order-entry-for-cqg.md#how-to-set-up-traling-order)
 
 ### ****[**How to place an order from the Chart trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)****
 
@@ -79,31 +78,31 @@ Algorithmic orders for CQG
 
 ### **How to set TP (take profit) and SL (stop loss)**
 
-To set a bracket order with Sl and Tp, follow these steps as shown in the picture below: 
+To set a bracket order with Sl and Tp, follow these steps as shown in the picture below:&#x20;
 
-* Set the necessary lot to enter 
-* Set Sl in pips 
+* Set the necessary lot to enter&#x20;
+* Set Sl in pips&#x20;
 * Set Tp in pips
 
 If one of the orders Sl or Tp is executed, the opposite order will be automatically deleted.
 
-### How to set up several Take profit and Stop Loss orders for one position
+### How to set up multiple TP and SL orders for one position
 
 ![](<../../.gitbook/assets/animaciya-1- (2).gif>)
 
-Тo set multiple stop orders for a single position, do the following Switch the bracket (stop) settings to multi mode 
+Тo set multiple stop orders or take profit for a single position, you need to switch the **Brackets **to the **Multiple mode**:
 
-* Enter data for setting the first limit orders and how many lots  should be  
+* Set the quantity of the initial position.&#x20;
 * For the next stops, enter similar data on the next line.
 * You can set orders in multiples of your total volume
 
 ## **How to place an order from the Chart trading sidebar**
 
-The general view of the Chart trading sidebar for AMP/CQG connection looks like the following and is divided into the following categories: 
+The general view of the Chart trading sidebar for AMP/CQG connection looks like the following and is divided into the following categories:&#x20;
 
-* Account and symbol selection 
+* Account and symbol selection&#x20;
 * Order volume selection, TIF, algorithmic settings
-* Brackets Mode for Stop Loss and Take Profit. 
+* Brackets Mode for Stop Loss and Take Profit.&#x20;
 * Order placement parameters (strategy)
 * Quick buttons for managing existed orders and positions
 
@@ -111,14 +110,14 @@ The general view of the Chart trading sidebar for AMP/CQG connection looks like 
 
 ### **Quick order quantity buttons**
 
-To set an order, you need to specify the volume in lots according to the chosen symbol. You can do this in several ways. 
+To set an order, you need to specify the volume in lots according to the chosen symbol. You can do this in several ways.&#x20;
 
-* Specify the volume directly in the quantyti field 
+* Specify the volume directly in the quantyti field&#x20;
 * Preset your normal trading volume in lots.
 
 ![](<../../.gitbook/assets/image (309).png>)
 
-### Quick change order amount buttons 
+### Quick change order amount buttons&#x20;
 
 The quick change order amount buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any (!!!) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
 
@@ -130,12 +129,12 @@ You can set standard values of the order amount, which corresponds to your risks
 Buttons can change not only to a given amount of position, but also apply any formulas
 {% endhint %}
 
-### How to set up Profit and Stop orders 
+### How to set up Profit and Stop orders&#x20;
 
 Then you can set** automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
-* Use the Qquick Ttrade toolbar 
-* Set your values for stop loss or profit. You can also use any one parameter only. 
+* Use the Qquick Ttrade toolbar&#x20;
+* Set your values for stop loss or profit. You can also use any one parameter only.&#x20;
 * Execute an order on the market
 
 ![](<../../.gitbook/assets/animaciya-5- (1).gif>)
@@ -169,8 +168,8 @@ You can set** automatic stop loss and profit** in pips. It's very convenient to 
 
 ![](<../../.gitbook/assets/animaciya-3- (1).gif>)
 
-* Use the Quick trade toolbar 
-* Set your values for stop loss and profit. You can also use any one parameter only. 
+* Use the Quick trade toolbar&#x20;
+* Set your values for stop loss and profit. You can also use any one parameter only.&#x20;
 * Use the **mouse trading button** to activate the trade with the mouse to set a limit order
 
 {% hint style="warning" %}
@@ -196,9 +195,9 @@ To set multiple **Stop loss and Take profit** **orders **for a single position, 
 To place several orders in a row hold down CTRL
 {% endhint %}
 
-If the mouse position i**s higher than the current price** then 
+If the mouse position i**s higher than the current price** then&#x20;
 
-* right click of the mouse will set a **limit order ** 
+* right click of the mouse will set a **limit order **&#x20;
 * left click of the mouse will set a **Buy stop marke**t order
 
 If position of the mouse is **under the current price **then
@@ -219,7 +218,7 @@ To access the quick trade toolbar, click the button in the upper right corner. I
 ### How to set volume quantity
 
 {% hint style="warning" %}
-Note that in order to make a transaction from the Quick order entry panel, you must enter the lot volume. And this volume does not coincide with the Quick trading panel 
+Note that in order to make a transaction from the Quick order entry panel, you must enter the lot volume. And this volume does not coincide with the Quick trading panel&#x20;
 {% endhint %}
 
 ## Keyboard trading

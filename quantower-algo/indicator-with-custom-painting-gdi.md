@@ -10,24 +10,24 @@ In this topic, we will show you how to use a really great possibility of scripts
 
 ## Access Graphics object
 
-Let's start. To get access to Graphics object of the chart you need to override **OnPaint **method and use **Hdc **value from its parameters:
+Let's start. You receive Graphics object of the chart in PaintChartEventArgs parameters:
 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
 {
-    // Use args.Hdc to create Graphics which give us acces to chart canvas
-    Graphics gr = Graphics.FromHdc(args.Hdc);                        
+    // Use received Graphics object which give us acces to chart canvas
+    Graphics gr = args.Graphics;                       
     
     // Add your custom drawings here...
 }
 ```
 
-That's all - now you have full access to chart's canvas and can draw anything you want. For drawing in C# you need to call special methods with graphical parameters: coordinates, color, width, etc.:
+With Graphics object you have full access to chart's canvas and can draw anything you want. For drawing in C# you need to call special methods with graphical parameters: coordinates, color, width, etc.:
 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
 {
-    Graphics gr = Graphics.FromHdc(args.Hdc);
+    Graphics gr = args.Graphics;
             
     // Draw a line using predefined Red pen
     gr.DrawLine(Pens.Red, 100,100,200,200);
@@ -55,7 +55,7 @@ Let's try to draw a text — it is very similar. We need to specify text, font, 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)
 {
-    Graphics gr = Graphics.FromHdc(args.Hdc);
+    Graphics gr = args.Graphics;
 
     // Draw the text with specified font and color
     gr.DrawString("An examle if drawing text...", new Font("Arial", 20), Brushes.Red, 100, 100);    
@@ -79,7 +79,7 @@ protected override void OnInit()
         
 public override void OnPaintChart(PaintChartEventArgs args)
 {
-    Graphics gr = Graphics.FromHdc(args.Hdc);
+    Graphics gr = args.Graphics;
 
     // Create a font
     Font font = new Font("Arial", 10);

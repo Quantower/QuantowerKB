@@ -16,7 +16,9 @@ Besides, traders get the opportunity to work with a wide range of analytical too
 
 ### How to start trading via AMP/CQG connection?
 
-By [**following this link**](https://vip.ampfutures.com/quantower-cqg) you can register a demo account for 28 days and try all the functionality of the platform at work. If you already have a live trading account, you can start your trading directly via Quantower.
+Below there is the link where you can register a demo account for 28 days and try all the functionality of the platform at work. If you already have a live trading account, you can start your trading directly via Quantower.
+
+{% embed url="https://vip.ampfutures.com/quantower-cqg" %}
 
 Fill out the form on the AMP website and within several minutes you will get an email from CQG with your credentials (Login and Password).
 

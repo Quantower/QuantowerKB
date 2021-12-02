@@ -11,7 +11,7 @@ description: >-
 
 ![Time histogram on the chart — general view](../../../.gitbook/assets/time-histogram-general-view.png)
 
-Click on the **Time Histogram** and switch the button **"Enable" **to activate the functionality on the chart. Time Histogram supports an extensive list of Data types that you can change either in the settings or directly in the activation mode.
+Click on the **Time Histogram** and switch the button **"Enable"** to activate the functionality on the chart. Time Histogram supports an extensive list of Data types that you can change either in the settings or directly in the activation mode.
 
 ![Main settings of Time Histogram tool](../../../.gitbook/assets/time-histogram-settings.png)
 
@@ -35,7 +35,7 @@ Click on the **Time Histogram** and switch the button **"Enable" **to activate t
 * **Buy (or Sell) Volume, %** — shows how many percent of the total volume relates to Buy (or Sell) trades
 * **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time. \
   Delta % = Delta / Volume \* 100
-* **Cumulative Delta** — the data is built by adding the current delta value with each subsequent delta value for the certain period of time (or number of bars). 
+* **Cumulative Delta** — the data is built by adding the current delta value with each subsequent delta value for the certain period of time (or number of bars).&#x20;
 * **Average size** — the average volume of the position that was executed at a certain price or price range.
 * **Average Buy size** — the average volume of a Buy position that was executed at a specific price or price range.
 * **Average Sell size** — the average volume of a Sell position that was executed at a specific price or price range.

@@ -6,7 +6,7 @@ description: >-
 
 # Positions
 
-Positions panel displays all currently opened positions. Once you open a new position, it appears in this panel and becomes available to be managed. Positions panel is related to Portfolio group of Control Center sidebar. 
+Positions panel displays all currently opened positions. Once you open a new position, it appears in this panel and becomes available to be managed. Positions panel is related to Portfolio group of Control Center sidebar.&#x20;
 
 ![The common look of Positions panel](../.gitbook/assets/positions.png)
 
@@ -14,12 +14,12 @@ Positions panel displays all currently opened positions. Once you open a new pos
 
 | **Account**                        | login name of an account that opened a position                                                            |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Symbol **                        | a traded symbol                                                                                            |
+| **Symbol**                         | a traded symbol                                                                                            |
 | **Description**                    | comments for symbol                                                                                        |
 | **Symbol type**                    | a symbol's market category (CFD, spot, stocks, etc.)                                                       |
 | **Expiration date**                | date of contract expiration                                                                                |
 | **Position ID**                    | a unique number that the trading system assigns to each position                                           |
-| **Side **                          | type of trade (BUY or SELL)                                                                                |
+| **Side**                           | type of trade (BUY or SELL)                                                                                |
 | **Open price**                     | price at which a position was opened                                                                       |
 | **Current price**                  | a market price obtainable from a broker                                                                    |
 | **Quantity**                       | amount of a position, either in lots or in units, depending on what is selected in the Settings dialog box |
@@ -31,7 +31,7 @@ Positions panel displays all currently opened positions. Once you open a new pos
 | **Position value (open price)**    | open value of a position. Calculated on base of an open market price                                       |
 | **Position value (current price)** | current value of a position. Calculated on base of a current market price                                  |
 | **Fee**                            | shows total commission amount taken for a position                                                         |
-| **Swaps **                         | amounts collected/paid out by a broker when a position is rolled over to a new value date                  |
+| **Swaps**                          | amounts collected/paid out by a broker when a position is rolled over to a new value date                  |
 | **Expiration date**                | date of contract expiration                                                                                |
 | **Strike price**                   | price of option contract performance                                                                       |
 | **Stop loss**                      | Stop loss price set for a position                                                                         |
@@ -41,7 +41,7 @@ Positions panel displays all currently opened positions. Once you open a new pos
 
 By right-clicking on each row of Positions panel, you will get a context menu with the following functions:
 
-![Context functions](../.gitbook/assets/positions_context.png)
+![Context functions](../.gitbook/assets/positions\_context.png)
 
 ### Selected position(s) actions
 
@@ -60,7 +60,7 @@ By right-clicking on each row of Positions panel, you will get a context menu wi
 
 ## Hot buttons toolbar
 
-In order to manage your position efficiently, there is a Hot buttons toolbar in Positions panel. It allows trader to perform the most crucial actions with each, several or all available opened positions in one click. 
+In order to manage your position efficiently, there is a Hot buttons toolbar in Positions panel. It allows trader to perform the most crucial actions with each, several or all available opened positions in one click.&#x20;
 
 {% hint style="danger" %}
 Depending on the panel settings, hot buttons can proceed without confirmation screen. Please be careful while using them.

@@ -8,7 +8,7 @@ description: Modify your indicators or strategies behavior using a set of Input 
 
 In the previous topic, we showed you [how to create a basic indicator](simple-indicator.md) using Visual Studio with Quantower Algo extension and use it on the chart in the trading platform. We created a Simple Moving Average indicator with hardcoded parameters. But what if we need to change these parameters? For example, we want to use Open prices instead of Close or use another Period. It is not very convenient to recompile your indicator each time and we provide you a possibility of easy tuning your scripts via so-called Input Parameters.
 
-## **What is input parameter? **
+## **What is input parameter?**&#x20;
 
 After adding an indicator on the chart you can find Setting menu item on it displaying "Settings" window. Indicators usually have some common settings, for customizing lines, and specific settings, that related to their algorithm or calculations.
 
@@ -31,7 +31,7 @@ public string text;
 
 If you call settings screen you will see text box, which you can use to enter a value. That's all - your first input parameter is ready:
 
-![An example of text input parameter in indicator "Settings" screen](<../.gitbook/assets/text_example (1).png>)
+![An example of text input parameter in indicator "Settings" screen](<../.gitbook/assets/text\_example (1).png>)
 
 If you have a few input parameters and want to arrange them in an appropriate order, you can apply SortIndex parameter for each InputParameter:
 
@@ -49,7 +49,7 @@ public string thirdText;
 \
 As you can see, parameters displayed in specified order:
 
-![Sorted Input Parameters](../.gitbook/assets/few-text_example.png)
+![Sorted Input Parameters](../.gitbook/assets/few-text\_example.png)
 
 ### **Boolean**
 
@@ -62,7 +62,7 @@ public bool boolean;
 
 ### **Number**
 
-One of the most important types of input parameters is numbers. Input parameters can be applied to **int**, **double**, **long **and **decimal **variables:
+One of the most important types of input parameters is numbers. Input parameters can be applied to **int**, **double**, **long** and **decimal** variables:
 
 ```csharp
 [InputParameter("Integer")]
@@ -78,7 +78,7 @@ public double doubleNumber;
 
 ### **Symbol**
 
-Sometimes you may need possibility so select symbol, for example in case of calculation of correlation between symbol from the chart and another symbol. And again - all you need just declare variable and mark in with **InputParameter **attribute:
+Sometimes you may need possibility so select symbol, for example in case of calculation of correlation between symbol from the chart and another symbol. And again - all you need just declare variable and mark in with **InputParameter** attribute:
 
 ```csharp
 [InputParameter("Symbol")]
@@ -114,7 +114,7 @@ public Color color;
 
 ### **List with options**
 
-List with options Input parameter allows to select the value from the predefined list of possible states   
+List with options Input parameter allows to select the value from the predefined list of possible states  &#x20;
 
 ```csharp
 [InputParameter("Simple price types list", 1, variants: new object[]{

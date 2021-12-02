@@ -20,7 +20,7 @@ If you specify exactly left and right border — you will receive the required h
 IHistoricalData historicalData = Symbol.GetHistory(Period.MIN15, HistoryType.Bid, DateTime.UtcNow.AddDays(-1));
 ```
 
-The main object that represents history is **IHistoricalData **interface. It contains a collection of bars or ticks and main information about downloaded history: symbol, history type, a total count of items, period, etc. You can access particular item from the collection and receive **IHistoryItem **object, which provides you information about bar or tick: prices, time, volume and other. We use different classes for bars, ticks and lasts history presentation, so to get access to full data you need to convert your object to appropriate class:
+The main object that represents history is **IHistoricalData** interface. It contains a collection of bars or ticks and main information about downloaded history: symbol, history type, a total count of items, period, etc. You can access particular item from the collection and receive **IHistoryItem** object, which provides you information about bar or tick: prices, time, volume and other. We use different classes for bars, ticks and lasts history presentation, so to get access to full data you need to convert your object to appropriate class:
 
 ```csharp
 // Downloading bars history
@@ -44,9 +44,9 @@ double bidPrice = ((HistoryItemTick)historicalData[0]).Bid;
 double askPrice = ((HistoryItemTick)historicalData[0]).Ask;
 ```
 
-If you need to download history from a current symbol of indicator, you can use its property Symbol. If you need history from another symbol, that should be specified in settings - you can use **InputParameter **attribute and our article describing this. 
+If you need to download history from a current symbol of indicator, you can use its property Symbol. If you need history from another symbol, that should be specified in settings - you can use **InputParameter** attribute and our article describing this.&#x20;
 
-It is a time to create some practical example using knowledge from the current topic. Let's assume we need an indicator that downloads 5min,15 min and 30 min history for the main symbol and for an additional one, that can be specified by the user. Then calculates simple moving average on this history and displays results on the chart. 
+It is a time to create some practical example using knowledge from the current topic. Let's assume we need an indicator that downloads 5min,15 min and 30 min history for the main symbol and for an additional one, that can be specified by the user. Then calculates simple moving average on this history and displays results on the chart.&#x20;
 
 At first, we need to specify variables for required indicators and Symbol variable and mark it with **InputParameter**:
 
@@ -65,7 +65,7 @@ Indicator sma30MinAdditional;
 Symbol AdditionalSymbol;
 ```
 
-In **OnInit **of the indicator method we will download all required history and add indicators:
+In **OnInit** of the indicator method we will download all required history and add indicators:
 
 ```csharp
 protected override void OnInit()
@@ -103,7 +103,7 @@ protected override void OnInit()
 }
 ```
 
-In **OnPaint **method we simply display result using GDI+:
+In **OnPaint** method we simply display result using GDI+:
 
 ```csharp
 public override void OnPaintChart(PaintChartEventArgs args)

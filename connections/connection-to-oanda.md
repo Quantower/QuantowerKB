@@ -30,7 +30,7 @@ In case you have forgotten or lost your API key, you can create a new one at any
 
 ![Generate and copy your API key](../.gitbook/assets/copy-api-key.png)
 
-&#x20;   5\. Launch** **[**Quantower platform**](https://www.quantower.com)** **and select OANDA from the connection list. Choose demo or real connection and insert the API key.
+&#x20;   5\. Launch **** [**Quantower platform**](https://www.quantower.com) **** and select OANDA from the connection list. Choose demo or real connection and insert the API key.
 
 ![Connect to OANDA using your API key](../.gitbook/assets/connection-to-oanda-via-quantower.png)
 

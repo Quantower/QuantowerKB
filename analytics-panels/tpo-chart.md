@@ -13,9 +13,9 @@ description: >-
 
 ![TPO Profile Chart (Market Profile) general view in Quantower platform](../.gitbook/assets/tpo-profile-chart-general-view.png)
 
-To open new TPO panel, go to _**Main menu**_ (Logo icon) and select _**TPO Chart **_in the Analytics section.
+To open new TPO panel, go to _**Main menu**_ (Logo icon) and select _**TPO Chart**_ in the Analytics section.
 
-![Open TPO Chart panel via Main menu](../.gitbook/assets/tpo_start.png)
+![Open TPO Chart panel via Main menu](../.gitbook/assets/tpo\_start.png)
 
 ### Key Elements of TPO Profile Chart
 
@@ -61,7 +61,7 @@ Choose any color scheme for better representation and analysis of the TPO profil
 
 ![Display TPO Profile as Filled Boxes or Letters](../.gitbook/assets/display-boxes-or-letters.png)
 
-* **Coloring Mode — **choose any color scheme for better representation and analysis of the TPO profile. Currently, there are 10 different coloring modes available — **Single Color, Up/Down Profile, Up/Down Bars, Heatmap, Delta Profile, Delta Price, Delta Bars, Volume Profile, Volume Price, Volume Bars**.\
+* **Coloring Mode —** choose any color scheme for better representation and analysis of the TPO profile. Currently, there are 10 different coloring modes available — **Single Color, Up/Down Profile, Up/Down Bars, Heatmap, Delta Profile, Delta Price, Delta Bars, Volume Profile, Volume Price, Volume Bars**.\
 
 * **POC Type** — price level of the greatest market activity or trading volume on the chart. Available two types:\
   \
@@ -70,7 +70,7 @@ Choose any color scheme for better representation and analysis of the TPO profil
 
 ![](../.gitbook/assets/migrating-poc.gif)
 
-* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a** **[**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
+* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a **** [**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
 
 ![](../.gitbook/assets/overlaying-chart.gif)
 
@@ -108,19 +108,19 @@ Use TPO splitting for a detailed analysis of profile formation. There are two sp
 
 **Merge** is a feature that combines several profiles into one. Right-click on the selected profile to open the context menu and select **Merge Left** or **Merge Right**. To return profiles to their original positions, press the Reset button.
 
-![](../.gitbook/assets/merging-tpo-profile_market-profile.gif)
+![](../.gitbook/assets/merging-tpo-profile\_market-profile.gif)
 
 ## Session Time
 
 Set the custom time range for the necessary trading session and the profile will be built within this range. The rest of the time the profile will not take into account.
 
-To set the time of the necessary session, go to the **TPO Chart settings -> View -> Custom session. **Set the time according the time zone.
+To set the time of the necessary session, go to the **TPO Chart settings -> View -> Custom session.** Set the time according the time zone.
 
 ![Set custom sessions for TPO Profile](../.gitbook/assets/custom-session-time.gif)
 
 ## Additional settings of TPO Profile
 
-Right-click on the chart area -> **Settings** to open the general settings of the TPO Chart panel. 
+Right-click on the chart area -> **Settings** to open the general settings of the TPO Chart panel.&#x20;
 
 ![General settings of TPO Profile Chart in Quantower platform](../.gitbook/assets/tpo-chart-settings.png)
 

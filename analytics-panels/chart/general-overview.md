@@ -29,7 +29,7 @@ The top toolbar allows you to select a trading instrument, set the chart type an
 * **Keyboard Trading mode** — activates the keyboard trading mode for quick trading. You can change trading hotkeys in the chart settings
 * **Mouse Trading mode** for placing orders via chart area using the mouse.
 * **Quick Order Entry** with Best Bid & Offer (Ask) prices where you can place orders or open a new position by the market price
-* **Sidebar Order Entry with Trading Buttons **where you can set Order Quantity, TIF for different order types
+* **Sidebar Order Entry with Trading Buttons** where you can set Order Quantity, TIF for different order types
 
 ![Primary or Top toolbar with the main controls](<../../.gitbook/assets/image (130).png>)
 

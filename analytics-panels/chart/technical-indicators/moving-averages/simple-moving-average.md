@@ -8,7 +8,7 @@ Moving averages are one of the core indicators in technical analysis, and there 
 
 Most useful cases
 
-* **Trend following **- group of SMA allows you to determing a new wave of trend or correction. Also it gives you information about the strenght of current trend wave, to do it trader needs to look at the distance between every SMA** **
+* **Trend following** - group of SMA allows you to determing a new wave of trend or correction. Also it gives you information about the strenght of current trend wave, to do it trader needs to look at the distance between every SMA ****&#x20;
 
 ![](<../../../../.gitbook/assets/image (24).png>)
 

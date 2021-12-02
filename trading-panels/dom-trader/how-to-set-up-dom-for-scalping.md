@@ -34,7 +34,7 @@ Set up font arial and size of it 12 for Bid and Ask column
 
 ![](<../../.gitbook/assets/image (229).png>)
 
-Now your Dom Trader should look like on the picture.** Stretch the height** of your Dom trader to the whole monitor and you will see all available information
+Now your Dom Trader should look like on the picture. **Stretch the height** of your Dom trader to the whole monitor and you will see all available information
 
 ### How to set bid ask in one column
 
@@ -52,14 +52,14 @@ Note that after applying this setting, you must close the PANEL with settings an
 
 ![](<../../.gitbook/assets/image (211).png>)
 
-The essence of scalping is to see **large orders in the stack** and act in the context of the market situation. Let's take a look at how I set up the Dom. And so for that let's go to the column settings and select Bids and Asks. At first I remove the gradient setting it is a little uncomfortable for my eyes.  I want to see contrasting volumes. Observe the Dom and choose really **big volumes **and specify that value in the settings
+The essence of scalping is to see **large orders in the stack** and act in the context of the market situation. Let's take a look at how I set up the Dom. And so for that let's go to the column settings and select Bids and Asks. At first I remove the gradient setting it is a little uncomfortable for my eyes.  I want to see contrasting volumes. Observe the Dom and choose really **big volumes** and specify that value in the settings
 
 ### How to set coins quantity
 
 ![](<../../.gitbook/assets/image (212).png>)
 
-Next, I specify my** standard volumes** for the trade. According to my money management I take the following shoulders 1, 2, 5,10, 20. It is very convenient to quickly change volume based on market situation.
+Next, I specify my **standard volumes** for the trade. According to my money management I take the following shoulders 1, 2, 5,10, 20. It is very convenient to quickly change volume based on market situation.
 
 ![](<../../.gitbook/assets/image (213).png>)
 
-For** instant order management** I use quick response panel and hotkeys/ I learned some hotkeys and use keyboard to trade. For example, I quickly close a position or flip a position from buying to selling.
+For **instant order management** I use quick response panel and hotkeys/ I learned some hotkeys and use keyboard to trade. For example, I quickly close a position or flip a position from buying to selling.

@@ -16,5 +16,5 @@ By right-clicking on the table, a context menu will appear with several options:
 
 * **Clear table**. Delete all data from the table
 * **Export data** to external .csv or .html file
-* **Column visibility. **Enable or disable columns in the table
+* **Column visibility.** Enable or disable columns in the table
 

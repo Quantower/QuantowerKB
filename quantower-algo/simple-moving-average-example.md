@@ -30,7 +30,7 @@ public PriceType SourcePrice = PriceType.Close;
 #endregion Parameters
 ```
 
-Ok, done let's go ahead 
+Ok, done let's go ahead&#x20;
 
 ### Indicator's general info
 
@@ -66,7 +66,7 @@ protected override void OnInit()
 }
 ```
 
-All calculations will occur when we receive a new quote, to process it we need to override **OnUpdate **function
+All calculations will occur when we receive a new quote, to process it we need to override **OnUpdate** function
 
 ```csharp
 protected override void OnUpdate(UpdateArgs args)
@@ -87,7 +87,7 @@ protected override void OnUpdate(UpdateArgs args)
 }
 ```
 
-Pay your attention at: 
+Pay your attention at:&#x20;
 
 ```csharp
 if (Count <= Period)

@@ -14,9 +14,9 @@ The indicator is calculated for any period of time according to the following al
 
 * the average price (AP) is calculated for each bar or candle. The calculation is made for each price change for the current candle.  AP = (H+L+C)/3
 * the average price is multiplied by the volume that has passed in the current candlestick or bar. For example, in real time new trade will increase the volume and thus weigh the price. Thus, for each price or volume change we will get value AP \* V.
-* the above values are summed up and divided by the total volume for the specified period. 
+* the above values are summed up and divided by the total volume for the specified period.&#x20;
 
-**                            VWAP = (Sum of Average Price \* Traded Volume) / Cumulative Volume**
+&#x20;                           **VWAP = (Sum of Average Price \* Traded Volume) / Cumulative Volume**
 
 ## **How to add VWAP to the chart?**
 
@@ -31,19 +31,19 @@ The quick settings menu contains:
 
 ### Advanced indicator settings
 
-By clicking on the "**Gear"** icon, additional settings will open. 
+By clicking on the "**Gear"** icon, additional settings will open.&#x20;
 
 ![Additional settings for VWAP Indicator](<../../.gitbook/assets/image (107).png>)
 
-**1. Switch between different VWAPs** and set the settings for each of them 
+**1. Switch between different VWAPs** and set the settings for each of them&#x20;
 
 Quantower platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
 
 **2.** Set the **Main Settings** for the VWAP line:
 
 * **Data type** — set the data for VWAP calculation: **Ticks** or **Current TF.**\
-  **   Ticks **will use tick data for VWAP calculation and will take much more time for loading\
-     **Current TF **will use Bar data from the current selected Timeframe of your chart. It will use Price type data and multiple it to Bar Volume.
+  &#x20;  **Ticks** will use tick data for VWAP calculation and will take much more time for loading\
+  &#x20;  **Current TF** will use Bar data from the current selected Timeframe of your chart. It will use Price type data and multiple it to Bar Volume.
 * **Price Type** — select the price for the Current TF data type (Open, High, Low, Close, HL/2, HLC/3, OHLC/4)
 * **Period and Value** — defines the number of bars (duration) on which VWAP will be calculated
 * **Forward Extensions** (type and number)
@@ -71,7 +71,7 @@ VWAP has numerous application in the trading world. It is helpful for both insti
 
 ### #1 Return to 1 Hour VWAP
 
-For intraday trading we have found that it is possible to trade the return of the price to VWAP on small timeframes. For example, let's consider ES (e-mini S\&P500) futures on 5-minute chart with an hourly VWAP. 
+For intraday trading we have found that it is possible to trade the return of the price to VWAP on small timeframes. For example, let's consider ES (e-mini S\&P500) futures on 5-minute chart with an hourly VWAP.&#x20;
 
 ![Trading with VWAP in Quantower platform](../../.gitbook/assets/vwap-trading.png)
 
@@ -81,7 +81,7 @@ An important point in this tactic is that the distance between the VWAP value an
 
 ### #2 Trading with STD bands
 
-**Standard deviations** are an objective statistical measurement that quantify variance in a data set, with a small value indicating that most data points are close to the average and a larger value indicating a wider spread. 
+**Standard deviations** are an objective statistical measurement that quantify variance in a data set, with a small value indicating that most data points are close to the average and a larger value indicating a wider spread.&#x20;
 
 By applying this tool to trading with VWAP serving as our average, we can plot these deviations as bands to create a visible unit of measurement to characterize market movement and gauge volatility
 

@@ -41,7 +41,7 @@ description: Multiple ways to enter orders on the CQG connection
 
 ![General view of Order Entry panel with CQG connection](<../../.gitbook/assets/image (304).png>)
 
-The entire panel is conventionally divided into several** zones**:
+The entire panel is conventionally divided into several **zones**:
 
 * choice of trading instrument and trading account;
 * setting the required order type, TIF condition, order quantity, and the order side (Buy or Sell);
@@ -64,13 +64,13 @@ CQG provides various order types for trading via the Order Entry panel:
 
 ![Time in Force (TIFs) for CQG connection](<../../.gitbook/assets/image (217).png>)
 
-* **GTC (Good till canceled) **— orders will remain working until they are canceled by trader or the contract expires;
+* **GTC (Good till canceled)** — orders will remain working until they are canceled by trader or the contract expires;
 * **FOK (or Fill or Kill)** —  order will be canceled if it is not executed in the entire volume as soon as it becomes available;
 * **IOC (Immediate or cancel)** — requires that any portion of an order that is not filled as soon as it becomes available in the market is canceled;
-* **DAY **— order will be canceled if it is not executed within the current trading day;
+* **DAY** — order will be canceled if it is not executed within the current trading day;
 * **GTD (Good till date)** — order will remain working within the system and in the marketplace, until it executes or until the close of the market on the date specified.
 * **GTT (Good till time)** — order that remains open until a specified time. At that time, any unfilled lots are canceled.
-* **FAK** (**Fill and Kill) **—** **orders require that any remaining quantity after a partial fill be canceled.
+* **FAK** (**Fill and Kill)** — **** orders require that any remaining quantity after a partial fill be canceled.
 * **ATC (At the Close Order)** — order to buy or sell a stock at the closing price. One of the benefits of this type of order is that it can be placed prior to the actual end of the trading day requested. This would be the opposite of an at-the-open order.
 * **ATO (At-The-Open Order)** — order to buy or sell a stock at the opening price. ATO order is allowed during pre-open sessions (morning and afternoon) or even the night before.
 
@@ -90,7 +90,7 @@ If one of the orders Sl or Tp is executed, the opposite order will be automatica
 
 ![](<../../.gitbook/assets/animaciya-1- (2).gif>)
 
-Тo set multiple stop orders or take profit for a single position, you need to switch the **Brackets **to the **Multiple mode**:
+Тo set multiple stop orders or take profit for a single position, you need to switch the **Brackets** to the **Multiple mode**:
 
 * Set the quantity of the initial position.&#x20;
 * For the next stops, enter similar data on the next line.
@@ -131,7 +131,7 @@ Buttons can change not only to a given amount of position, but also apply any fo
 
 ### How to set up Profit and Stop orders&#x20;
 
-Then you can set** automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
+Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
 * Use the Qquick Ttrade toolbar&#x20;
 * Set your values for stop loss or profit. You can also use any one parameter only.&#x20;
@@ -139,13 +139,13 @@ Then you can set** automatic stop loss and profit** in pips. It's very convenien
 
 ![](<../../.gitbook/assets/animaciya-5- (1).gif>)
 
-### How to set up  **several **Profit and Stop orders foe one position
+### How to set up  **several** Profit and Stop orders foe one position
 
 ![](<../../.gitbook/assets/animaciya-6- (1).gif>)
 
 
 
-To set multiple **Stop loss and Take profit** **orders **for a single position, do the following :
+To set multiple **Stop loss and Take profit** **orders** for a single position, do the following :
 
 * Press the multi-mode button
 * Enter data for setting the first limit orders and how many lots should be
@@ -164,7 +164,7 @@ To set multiple **Stop loss and Take profit** **orders **for a single position, 
 
 ### How to set up Profit and Stop orders for limit order
 
-You can set** automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
+You can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
 ![](<../../.gitbook/assets/animaciya-3- (1).gif>)
 
@@ -180,7 +180,7 @@ If you execute an order at market, the specified stop parameters will keep their
 
 ![](../../.gitbook/assets/animaciya-4-.gif)
 
-To set multiple **Stop loss and Take profit** **orders **for a single position, do the following :
+To set multiple **Stop loss and Take profit** **orders** for a single position, do the following :
 
 * Press the multi-mode button
 * Enter data for setting the first limit orders and how many lots should be
@@ -197,12 +197,12 @@ To place several orders in a row hold down CTRL
 
 If the mouse position i**s higher than the current price** then&#x20;
 
-* right click of the mouse will set a **limit order **&#x20;
+* right click of the mouse will set a **limit order**&#x20;
 * left click of the mouse will set a **Buy stop marke**t order
 
-If position of the mouse is **under the current price **then
+If position of the mouse is **under the current price** then
 
-* right click of the mouse will set **Sell stop market **
+* right click of the mouse will set **Sell stop market**&#x20;
 * right click of the mouse will set **Buy limit order**
 
 

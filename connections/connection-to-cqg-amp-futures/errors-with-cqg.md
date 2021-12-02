@@ -11,7 +11,7 @@ Here is the list of the most common errors and issues with CQG connection:
 * ****[**Error "Index was outside the bounds of the array"**](errors-with-cqg.md#error-index-was-outside-the-bounds-of-the-array)****
 * ****[**Error "This account is only allowed to liquidate open positions"**](errors-with-cqg.md#error-this-account-is-only-allowed-to-liquidate-open-positions)****
 * ****[**Chart Data is incorrect or has gaps**](errors-with-cqg.md#chart-data-is-incorrect-or-has-gaps)****
-*   **    **
+*    ****
 
     ****[**Can not find a symbol**](errors-with-cqg.md#can-not-find-a-symbol)****
 * ****[**Error "Refuse: End of Day is not allowed for given data type"**](errors-with-cqg.md#error-end-of-day-is-not-allowed-for-given-data-type)****

@@ -42,19 +42,19 @@ In the Renko chart settings, you can choose one of several styles based on which
 
 **Medium Renko** smoothes out the chart more than Classic Renko because an open price is in the middle of a brick. They will show fewer pullbacks and trend reversals are easier to spot. An _extension and inversion value of 50%_ would create Median Renko bricks.
 
-![Medium Renko chart construction](../../../.gitbook/assets/median-renko_construction.png)
+![Medium Renko chart construction](../../../.gitbook/assets/median-renko\_construction.png)
 
-![Medium Renko in Quantower](../../../.gitbook/assets/median-renko_quantower.png)
+![Medium Renko in Quantower](../../../.gitbook/assets/median-renko\_quantower.png)
 
 **Geometric Renko** will give you very smooth reversals, and the charts are smooth out more than with Median Renko.  One special property of these Renko form is, that when using an _extension and inversion percentage of 12.5%_, the slope of up-bricks will be 45° and for down bricks -45°
 
-![Geometric Renko chart construction](../../../.gitbook/assets/geometric-renko_construction.png)
+![Geometric Renko chart construction](../../../.gitbook/assets/geometric-renko\_construction.png)
 
 ![Geometric Renko in Quantower](../../../.gitbook/assets/geometric-renko-quantower.png)
 
-**Turbo Renko** smooths out the majority of pullbacks and only shows high probability reversals. Turbo Renko is using the _extension 12%_ of the brick and the _inversion of 100%. _Price has to reverse by a complete brick to form a reversal, illustrated as the dashed bricks.
+**Turbo Renko** smooths out the majority of pullbacks and only shows high probability reversals. Turbo Renko is using the _extension 12%_ of the brick and the _inversion of 100%._ Price has to reverse by a complete brick to form a reversal, illustrated as the dashed bricks.
 
-![Turbo Renko chart construction](../../../.gitbook/assets/turbo-renko_construction.png)
+![Turbo Renko chart construction](../../../.gitbook/assets/turbo-renko\_construction.png)
 
-![Turbo Renko in Quantower](../../../.gitbook/assets/turbo-renko_quantower.png)
+![Turbo Renko in Quantower](../../../.gitbook/assets/turbo-renko\_quantower.png)
 

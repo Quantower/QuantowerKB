@@ -44,7 +44,7 @@ The Watchlist panel supports the indicators value display in separate columns. I
 
 ![Indicators in watchlist are very useful](../.gitbook/assets/indicators-watchlist-first-way.png)
 
-* through the icon _**"Add indicator" **_in the upper right corner of the Watchlist panel
+* through the icon _**"Add indicator"**_ in the upper right corner of the Watchlist panel
 
 ![There are two ways to add indicators in the panel](../.gitbook/assets/indicators-watchlist-second-way.png)
 

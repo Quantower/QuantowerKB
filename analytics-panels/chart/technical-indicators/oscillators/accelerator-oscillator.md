@@ -2,7 +2,7 @@
 
 ## Description
 
-Accelerator Oscillator was introduced by Bill Williams in his book "Trading Chaos", according Bill Williams theory market price is latest element which will be changed and prior to this change the market driven forces will change its direction.  The AC indicator measures acceleration and deceleration of these forces.  If indicator rises it means that market is inbalanced now and buy power is greater than sell one and vice versa.  
+Accelerator Oscillator was introduced by Bill Williams in his book "Trading Chaos", according Bill Williams theory market price is latest element which will be changed and prior to this change the market driven forces will change its direction.  The AC indicator measures acceleration and deceleration of these forces.  If indicator rises it means that market is inbalanced now and buy power is greater than sell one and vice versa. &#x20;
 
 ![](<../../../../.gitbook/assets/image (30).png>)
 
@@ -24,8 +24,8 @@ AO — Awesome Oscillator.
 
 ## Most useful cases
 
-* **Divergence/Convergence **- Divergence/Convergence pattern is a form of price action when new high(low) of the price not confirmed with a new high/low of  AC. Such price and indicator’s behavior can be interpreted as the weakness of current existing trend.
+* **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high(low) of the price not confirmed with a new high/low of  AC. Such price and indicator’s behavior can be interpreted as the weakness of current existing trend.
 
 ![](<../../../../.gitbook/assets/image (32).png>)
 
-* **Crossing zero line **- this is a trend reversing signal and it can be very useful in case of determining a correction of existing trend, beginning of a new trend wave or starting a new trend.
+* **Crossing zero line** - this is a trend reversing signal and it can be very useful in case of determining a correction of existing trend, beginning of a new trend wave or starting a new trend.

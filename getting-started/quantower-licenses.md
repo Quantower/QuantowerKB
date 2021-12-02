@@ -20,7 +20,7 @@ To use any paid License, the trader needs to have an active [Quantower Account](
 
 ## License types
 
-We offer a user with a Free license, three packages as well as licenses for separate features. 
+We offer a user with a Free license, three packages as well as licenses for separate features.&#x20;
 
 ![](../.gitbook/assets/pricing-page.png)
 
@@ -30,10 +30,10 @@ We offer a user with a Free license, three packages as well as licenses for sepa
 * 2 indicators per chart
 * 1 symbol overlay per chart
 
-**Crypto Package** contains the necessary functionality for professional analysis and trading in the cryptocurrency market. For this package are available: 
+**Crypto Package** contains the necessary functionality for professional analysis and trading in the cryptocurrency market. For this package are available:&#x20;
 
-* all connected crypto exchanges, 
-* simultaneous connection to several exchanges, 
+* all connected crypto exchanges,&#x20;
+* simultaneous connection to several exchanges,&#x20;
 * [volume analysis tools](https://www.quantower.com/volumeanalysistools) — Cluster chart, Volume Profile, Time Statistics, Time Histogram, VWAP
 * [advanced features](https://www.quantower.com/advancedfeatures) — Renko, Kagi, P\&F and Heikin-Ashi chart types, Unlimited Overlays, Unlimited Indicators, Trading Simulator, Chart and Indicator Alerts
 
@@ -60,7 +60,7 @@ We offer a user with a Free license, three packages as well as licenses for sepa
 
 ## License purchase
 
-If you would like to upgrade your Free license, go to our [Pricing page](https://www.quantower.com/pricing), choose the necessary license, it's period and click on the **BUY **button.
+If you would like to upgrade your Free license, go to our [Pricing page](https://www.quantower.com/pricing), choose the necessary license, it's period and click on the **BUY** button.
 
 The purchase process starts with the authorization in the Quantower service. Use your email and password to Sign in to the account. If you don’t have one yet, follow the instructions on [Quantower Account manual](quantower-account.md). Just after you successfully Log in, you will be redirected to the purchase Cart.
 

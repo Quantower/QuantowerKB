@@ -10,7 +10,7 @@ description: >-
 
 ![Quantower Main toolbar](<../.gitbook/assets/image (73).png>)
 
-Main Toolbar technically is a panel, but behaves something differently: it can be dragged among your screens (if you have more than one) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it. 
+Main Toolbar technically is a panel, but behaves something differently: it can be dragged among your screens (if you have more than one) and it will be always stuck at the top of the screen. It adapts own width up to the screen width and it participates in the workspace, meaning, that other panels can be stuck to it.&#x20;
 
 ![](../.gitbook/assets/main-toolbar.png)
 
@@ -38,7 +38,7 @@ For optimal use of the space on the Main Toolbar, we have added the ability to d
 
 ### Main Menu with all panels
 
-All of the panels are placed in the _“Sidebar” _screen, which is popping out once you click the** Logo icon** on the toolbar. The Main Menu consists of panel icons, grouped by functionality. Actually, in this menu, you can find all panels.
+All of the panels are placed in the _“Sidebar”_ screen, which is popping out once you click the **Logo icon** on the toolbar. The Main Menu consists of panel icons, grouped by functionality. Actually, in this menu, you can find all panels.
 
 ![Main menu in the Quantower platform](../.gitbook/assets/main-manu.png)
 
@@ -65,7 +65,7 @@ The way to use it very simple — hover over the right top corner of any panel t
 
 If you would like to prevent manual trading operations occur, you may use the “_**Lock trading**_” button on Main Toolbar. Once clicked it displays the confirmation message that trading being locked and all of the functions, related to the opening or closing orders and positions will be disabled. Unlock trading can be done the vice-versa way.
 
-![Lock Trading Icon](../.gitbook/assets/lock_trading.png)
+![Lock Trading Icon](../.gitbook/assets/lock\_trading.png)
 
 This feature is useful in case you would like to only analyze the market or while editing your workspace (mostly to avoid misclicks).
 
@@ -82,18 +82,18 @@ Create and save your workspace in Quantower
 The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of the available items from the list. The bottom part of the list (after separator) consists of actions, referred to the currently active workspace and allows to:
 
 * **Lock** — disables an ability to add, remove, move or resize any panel in current workspace;
-* **Rename... **— invokes a pop-up screen where you can set up a new name for the current workspace;
+* **Rename...** — invokes a pop-up screen where you can set up a new name for the current workspace;
 * **Create new** — opens a pop-up screen with the new workspace creation form.
 
 ![New workspace creation window](../.gitbook/assets/ccnewworkspace.png)
 
-When creating the new workspace, you have an ability to specify its future name and select whether it should be Blank, once created, or should contain some predefined panels set. 
+When creating the new workspace, you have an ability to specify its future name and select whether it should be Blank, once created, or should contain some predefined panels set.&#x20;
 
 You can also remove any of Workspaces by clicking the “_**Trash**_” icon on the right side from Workspace name (icon appears while hovering the name).
 
 ### Favorite connections
 
-The list of active connections can be seen on Main Toolbar in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of the items in Favorite connections block. 
+The list of active connections can be seen on Main Toolbar in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of the items in Favorite connections block.&#x20;
 
 ![Add favorite connections by clicking the "Star" icon](../.gitbook/assets/favorite-connections.png)
 
@@ -109,17 +109,17 @@ You can remove a connection from Favorites by right-clicking on it and selecting
 
 ### Notifications center
 
-Most actions during the platform use generate various notifications. There can be system notifications (some connection problems or errors) and Deal tickets. 
+Most actions during the platform use generate various notifications. There can be system notifications (some connection problems or errors) and Deal tickets.&#x20;
 
-The **Deal tickets** — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this. (you can [disable deat tickets in general settings](general-settings-1.md#confirmations))
+The **Deal tickets** — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this.&#x20;(you can [disable deat tickets in general settings](general-settings-1.md#confirmations))
 
-While some trading actions may be done in one click at the first sight, they usually consist of several related operations, each of them will be displayed via the Deal tickets. That is why you can see much more items in Notifications center than you did actions. 
+While some trading actions may be done in one click at the first sight, they usually consist of several related operations, each of them will be displayed via the Deal tickets. That is why you can see much more items in Notifications center than you did actions.&#x20;
 
-The **Notifications center** — is the place where all notifications are stored in one list. You can open that list by clicking the Notifications icon in Control center. 
+The **Notifications center** — is the place where all notifications are stored in one list. You can open that list by clicking the Notifications icon in Control center.&#x20;
 
 ![Notifications center](<../.gitbook/assets/image (77).png>)
 
-When you have a set of new notifications, the small number will appear in the left top corner of Notification center icon. It displays how many unread notifications you have. Once you open the list — it understands that you have read them and the number will disappear. 
+When you have a set of new notifications, the small number will appear in the left top corner of Notification center icon. It displays how many unread notifications you have. Once you open the list — it understands that you have read them and the number will disappear.&#x20;
 
 You will see all notifications just from the platform start. You may also clear this list by clicking the “_**Clear all**_” link. This action will hide all of the currently seen notifications from this list (but they will be still available in Event Log panel).
 

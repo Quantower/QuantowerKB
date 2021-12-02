@@ -16,8 +16,8 @@ To add a bot to the Telegram, open the platform's **General Settings -> Messenge
 
 ![Open General Setting for adding Quantower Telegram Bot](<../.gitbook/assets/image (171).png>)
 
-1. Specify your personal chat ID, which you can find out by clicking on the **Get ID** button. 
-2. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx". **_Enter your chat ID in the corresponding field
+1. Specify your personal chat ID, which you can find out by clicking on the **Get ID** button.&#x20;
+2. A new Chat ID Echo bot will open and it will show _**"Your Telegram Chat ID is: xxxxxxx".**_ Enter your chat ID in the corresponding field
 3. Connect to the Quantower Alert Bot.
 
 ![](<../.gitbook/assets/image (137).png>)
@@ -26,7 +26,7 @@ To add a bot to the Telegram, open the platform's **General Settings -> Messenge
 
 Telegram Bot sends notifications about alerts that you have set on active Charts or through a Watchlist. If you don't have any alerts yet, the bot will be in standby mode.
 
-Once your alert is triggered, you will receive a telegram notification with the following text: 
+Once your alert is triggered, you will receive a telegram notification with the following text:&#x20;
 
 _**"Alert on ENQM21: price 13,379.00 reached."**_
 

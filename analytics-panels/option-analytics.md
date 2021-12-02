@@ -6,11 +6,11 @@ description: >-
 
 # Option Analytics
 
-Option Analytics is a professional panel for options traders that allows making strong options analysis and send orders in one click. 
+Option Analytics is a professional panel for options traders that allows making strong options analysis and send orders in one click.&#x20;
 
 ![](../.gitbook/assets/options.png)
 
-To open a new Options Analytics panel, go to the _**Main menu**_ (Logo icon) and select _**Options Analytics **_in the Analytics section.
+To open a new Options Analytics panel, go to the _**Main menu**_ (Logo icon) and select _**Options Analytics**_ in the Analytics section.
 
 ![Open Options Analytics panel via Main menu](../.gitbook/assets/options-analytics-how-to-launch.png)
 
@@ -18,7 +18,7 @@ To open a new Options Analytics panel, go to the _**Main menu**_ (Logo icon) and
 
 ![](../.gitbook/assets/optionanalytics.png)
 
-**Underlying Asset & Account **for selecting a trading instrument that has an option series and selecting  trading account (in case of multiple accounts)
+**Underlying Asset & Account** for selecting a trading instrument that has an option series and selecting  trading account (in case of multiple accounts)
 
 **"Mode"** controls the visibility of additional panels — _**Options Desk, Options Risk Analyzer, Volatility Smile (Skew)**_
 
@@ -50,11 +50,11 @@ Analyzer allows users to see the profile of existing portfolio. The profile illu
 ![](<../.gitbook/assets/image (33).png>)
 
 (1) - This controll allows to select a chart's data type. Possible options are: P/L, Delta, Gamma, Theta, Vega, Rho \
-(2) - This controll allows to add an overlay to main chart 
+(2) - This controll allows to add an overlay to main chart&#x20;
 
 ![Add overlays on options profile chart](../.gitbook/assets/options-overlay.gif)
 
-(3) - By clicking on this button user can apply "What if" scenarios. 
+(3) - By clicking on this button user can apply "What if" scenarios.&#x20;
 
 ![Use What-If scenario analysis to assess the impact of volatility or time decay on the position](../.gitbook/assets/what-if-analysis.png)
 
@@ -66,7 +66,7 @@ The bottom part of the panel contains combined table with paper positions, real 
 
 ![](<../.gitbook/assets/image (39).png>)
 
- (1) - Add underlier button allows to add a paper position of underlying symbol to the list of existing positions.\
+&#x20;(1) - Add underlier button allows to add a paper position of underlying symbol to the list of existing positions.\
 (2) - Hot buttons provide a possibility to make group actions with portfolio suh as: place papers, cancel papers or close real existing positions.\
 (3) - Right click on table's header will show a context menu where trader can select visible columns.\
 (4) - By clicking on Anayse checkboxes user can include or exclude certain positions from portfolio.\

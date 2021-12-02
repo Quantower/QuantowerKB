@@ -15,7 +15,7 @@ FX cell panel provides the combination of two important features - quote data an
 The FX Cell panel menu contains:
 
 * **Edit**  — allows you to change the account or trading symbol;
-* **Link ** —  allows linking several panels by common symbol using the Color definition. Just select one link color in FX Cell and other panel and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
+* **Link** —  allows linking several panels by common symbol using the Color definition. Just select one link color in FX Cell and other panel and they will have a synchronized symbol parameter. Once linkage is applied, the panel’s title will be colored to the respective color.
 * **Duplicate panel** — allows you to create a copy of the panel with the same settings.
 
 ### Trading with FX Cell
@@ -24,8 +24,8 @@ The FX Cell panel menu contains:
 
 ![](../.gitbook/assets/fx-cell-select-the-symbol.png)
 
-* **Set the order size. **Click the size field and either type a new value or use the mouse wheel to move to a new value.
-* **Set the order duration (TIF). **Depending on the selected connection, the TIF types may vary.
+* **Set the order size.** Click the size field and either type a new value or use the mouse wheel to move to a new value.
+* **Set the order duration (TIF).** Depending on the selected connection, the TIF types may vary.
 * **Place the order**. Orders are placed by clicking the buy or sell buttons. You must confirm the order before it is placed.
 
 You can manage your open positions with the [Position panel](https://help.quantower.com/portfolio-panels/positions).

@@ -46,7 +46,7 @@ The following settings are involved in the calculation of the indicator, and dir
 * **Zone Height, ticks** — this parameter will show only those zones where the height is less than or equal to the specified value (in ticks).
 * **Level2 level count** — the number of levels that are involved in the calculation of **Imbalance** and the _Level 2 Ratio_ column in the table of results.
 * **Filter by Delta,%** — the parameter will show zones that have a delta value greater than or equal to that specified in the setting. The value must be specified by module, so the table will show both positive and negative delta values. _We recommend to **pay attention to the zones with the delta above/below 50%**_ (taking into account the specifics of each trading instrument).
-* **Filter by Basis Ratio, %** — the parameter will show zones that have a **Basis Volume (%) **value greater than or equal to that specified in the setting.
+* **Filter by Basis Ratio, %** — the parameter will show zones that have a **Basis Volume (%)** value greater than or equal to that specified in the setting.
 
 Settings that do not affect the indicator calculation. These are mostly visual and sound settings
 

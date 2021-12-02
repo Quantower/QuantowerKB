@@ -31,7 +31,7 @@ For **DEMO Trading** please create an account on Testnet.Bybit.com [https://test
 
 Go to the [**Bybit official website** using this link](https://www.bybit.com/en-US/invite?ref=n9X0D) and go through the procedure for registering a new account on the exchange.
 
-For email registration, please enter your email, preferred password and (!) referral code **n9X0D **\
+For email registration, please enter your email, preferred password and (!) referral code **n9X0D** \
 ****Swipe the verification page then enter the verification code sent to your email inbox.
 
 ![](<../.gitbook/assets/image (82).png>)
@@ -45,12 +45,12 @@ Click on **'Create New Key'** located on the right side of the **'API Management
 ![](<../.gitbook/assets/image (86).png>)
 
 {% hint style="warning" %}
- **You need to configure two-factor authorization on Bybit. It is necessary for creating keys.**
+&#x20;**You need to configure two-factor authorization on Bybit. It is necessary for creating keys.**
 {% endhint %}
 
 The following pop-out window will appear. Please configure your API key according to your trading needs. Enter your Google Authenticator 2FA and click on 'Confirm' to proceed
 
-Enter your API information, such as a reference name for your API key under **'Name'** and select **'Active Order and Positions'** in the section **'Key Permission', **and proceed to enter your Google authenticator 2FA code before you click on “Confirm”
+Enter your API information, such as a reference name for your API key under **'Name'** and select **'Active Order and Positions'** in the section **'Key Permission',** and proceed to enter your Google authenticator 2FA code before you click on “Confirm”
 
 ![](<../.gitbook/assets/image (85).png>)
 
@@ -68,7 +68,7 @@ Use your personal API Keys to login into your trading account in Quantower platf
 
 ![](<../.gitbook/assets/image (81).png>)
 
-To solve it, please, go to **Windows Settings > Time & Language > **and click on** Sync Now **button**.**
+To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** button**.**
 
 ![](<../.gitbook/assets/image (92).png>)
 

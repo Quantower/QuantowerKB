@@ -58,4 +58,4 @@ After clicking the **Export data** option, a setting window will appear in front
 
 ![](<../.gitbook/assets/image (205).png>)
 
-Once all the necessary data is selected, click on the** Export file** button and specify a name and location for saving the file.
+Once all the necessary data is selected, click on the **Export file** button and specify a name and location for saving the file.

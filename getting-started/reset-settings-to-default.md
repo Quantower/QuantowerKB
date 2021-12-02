@@ -9,7 +9,7 @@ Settings folder contains all the workspaces, saved templates, as well as all the
 * ****[**How to Reset All Settings to default**](reset-settings-to-default.md#how-to-reset-all-settings-to-default)****
 * ****[**How to provide Settings and Logs for developers (for checking an issue)**](reset-settings-to-default.md#how-to-provide-settings-for-developers-for-checking-an-issue)****
 * How to share your Templates with other traders
-* How to share your ** **Workspaces with other traders
+* How to share your **** Workspaces with other traders
 * How to copy all settings to other PC
 
 
@@ -25,7 +25,7 @@ Quantower Settings. How to Save, Copy, Restore, Reset
 Sometimes all platform's settings need to be reset to default. To do this, close the platform, **Right-click** on Quantower icon and select **Open File Location** from the context menu.
 
 {% hint style="success" %}
-You can save the current settings if you want to return to them later. Just rename your **Settings** folder to something else, like _**Settings_My**_ etc.
+You can save the current settings if you want to return to them later. Just rename your **Settings** folder to something else, like _**Settings\_My**_ etc.
 {% endhint %}
 
 ![](../.gitbook/assets/screenshot\_39.png)
@@ -35,7 +35,7 @@ _**Go to the main folder of the platform.**_
 
 ![](../.gitbook/assets/screenshot\_40.png)
 
-_Rename the **Settings** folder_ (for example, Settings1 or Settings_old). After you rename the folder, run the platform. The new Settings folder will automatically appear with default settings.
+_Rename the **Settings** folder_ (for example, Settings1 or Settings\_old). After you rename the folder, run the platform. The new Settings folder will automatically appear with default settings.
 
 ![The new Settings folder will automatically appear with default settings](../.gitbook/assets/settings-folder.gif)
 
@@ -60,7 +60,7 @@ Add the entire Settings folder to the archive and send this archive to us to che
 
 #### How to provide Log files?
 
-Moreover, for checking issues our developers can request Log Files. Please go to the **platform's main folder -> Logs -> Log4Net -> send the latest file** or several latest files. 
+Moreover, for checking issues our developers can request Log Files. Please go to the **platform's main folder -> Logs -> Log4Net -> send the latest file** or several latest files.&#x20;
 
 ![](<../.gitbook/assets/image (267).png>)
 

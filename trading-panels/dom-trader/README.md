@@ -22,7 +22,7 @@ To place an order via Mouse Trading mode:
 * Enter an order quantity;
 * Left-click at a specific price in the left column will place a Buy Limit order (below the current market price);
 * Left-click at specific prices in the right column will place a Sell Limit order (above the current market price). If you place the order below the current price it will be executed by market price;
-* _To place a **Stop order**_ is necessary to press and hold down the _**Shift **_key and click at a required price.
+* _To place a **Stop order**_ is necessary to press and hold down the _**Shift**_ key and click at a required price.
 
 ![Mouse trading mode in DOM Trader](../../.gitbook/assets/dom-trader-via-mouse.gif)
 
@@ -56,27 +56,27 @@ The general view of DOM Trader settings menu has the following subsections. Let'
 
 ![](<../../.gitbook/assets/image (147).png>)
 
-* **Custom title. **You can rename the DOM Trader panel as you wish.
+* **Custom title.** You can rename the DOM Trader panel as you wish.
 * **Refresh rate (ms)** controls the rate at which market data is updated. This determines how often the platform processes changes in depth of market. With a value of 1, all changes to the level2 data will be processed immediately. We recommend using value 50.\
 
-* **Use custom tick size. **
+* **Use custom tick size.**&#x20;
 
-There are two ways to change the aggregation of ticks in the DOM trader 
+There are two ways to change the aggregation of ticks in the DOM trader&#x20;
 
-1. Press CTRL + and spin the mouse wheel 
+1. Press CTRL + and spin the mouse wheel&#x20;
 2. Set the parameter manually in the panel settings
 
 ![](../../.gitbook/assets/animaciya-7-.gif)
 
 * **Short price format**
-* **Split size columns. **A mode that allows you to place Ask and Bid volume on one or different sides of the Size column;
+* **Split size columns.** A mode that allows you to place Ask and Bid volume on one or different sides of the Size column;
 * **Custom session.** This item is for selecting trading sessions for Volume Analysis data primarily.
-* **Full-size cells. **Color scheme for Size column;
-* **Show order entry. **This option shows/hides an Order Entry on the panel for quick order placement;
-* **Collapse spread. **Hide or show the spread between the current Bid / Ask prices on the price ladder;
-* **Show day map. **Display the upper horizontal scale, which shows the current price position relative to the High and Low of the day;
-* **Show toolbar.  **This option shows/hides the top toolbar with the trading symbol and expands the "useful" area of the panel. It is recommended to use this option with the symbol link.
-* **Show Level 1 bar. **Shows/hides the header pane, which contains Level 1 market data for the selected instrument.
+* **Full-size cells.** Color scheme for Size column;
+* **Show order entry.** This option shows/hides an Order Entry on the panel for quick order placement;
+* **Collapse spread.** Hide or show the spread between the current Bid / Ask prices on the price ladder;
+* **Show day map.** Display the upper horizontal scale, which shows the current price position relative to the High and Low of the day;
+* **Show toolbar.**  This option shows/hides the top toolbar with the trading symbol and expands the "useful" area of the panel. It is recommended to use this option with the symbol link.
+* **Show Level 1 bar.** Shows/hides the header pane, which contains Level 1 market data for the selected instrument.
 
 ### Position Bar settings
 
@@ -88,7 +88,7 @@ At the bottom of the DOM Trader is the Position Bar, which displays brief info a
 
 ### Hotkeys
 
-The quick change order amount buttons will help you to change the specified amount in one click, based on your trading strategy. ** It is  starts from 1 to 9 numbers on keybord. **You can set by default any parameters you need for quick change of values. And the buttons can change not only the specified position volume, but also apply any (!!!) formulas to calculate the order volume. To set personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons" 
+The quick change order amount buttons will help you to change the specified amount in one click, based on your trading strategy. **It is  starts from 1 to 9 numbers on keybord.** You can set by default any parameters you need for quick change of values. And the buttons can change not only the specified position volume, but also apply any (!!!) formulas to calculate the order volume. To set personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"&#x20;
 
 This tab is for configuring your keyboard shortcuts. Here you can configure the order size with one button and place it to the market. Cancel orders and many other useful functions.
 

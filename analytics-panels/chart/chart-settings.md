@@ -33,16 +33,16 @@ General view of Chart settings menu has the following subsections. Let's take a 
 
 ## View settings
 
-* **Custom title. **You can rename your chart panel as you wish.\
+* **Custom title.** You can rename your chart panel as you wish.\
 
 * **Use custom tick size**\
   ****This is probably one of the most important settings in this chart. It is most often used for cluster charts. When you have a highly volatile instrument such as BTC or any other instrument in the course of its trading there will be volumes on each cluster level. Sometimes they have gaps in them. Clusters can be vertically compressed to display information better. The compression ratio must be specified in this menu item. Below you can see a bitcoin chart with compression of $10
 
 ![](<../../.gitbook/assets/image (116).png>)
 
-* **Time Zome. **These are the time zone settings of the chart\
+* **Time Zome.** These are the time zone settings of the chart\
 
-* **Mouse wheel action. **It's an action for the mouse wheel when a user will rotate the wheel. There are two options available — **Scroll** or **Zoom** of the chart area.
+* **Mouse wheel action.** It's an action for the mouse wheel when a user will rotate the wheel. There are two options available — **Scroll** or **Zoom** of the chart area.
 
 ![](<../../.gitbook/assets/image (128).png>)
 
@@ -56,7 +56,7 @@ General view of Chart settings menu has the following subsections. Let's take a 
 
 * **Custom session.** This item is for displaying trading sessions.
 * **Window colors.**  Settings for the background color on the chart.
-* **Crosshair. **These are settings of the cursor and its visibility on charts with one symbol (asset).
+* **Crosshair.** These are settings of the cursor and its visibility on charts with one symbol (asset).
 * **Grid.** Settings for the grid lines on the chart (horizontal and vertical grid).
 * **Time to next bar.** These are settings for displaying time to the next bar and changing its color.
 * **Additional.** It is used to enable/disable toolbars and misc data on a chart.
@@ -91,7 +91,7 @@ These settings allow you to customize the price scale. There are 3 important poi
 
 ![](<../../.gitbook/assets/image (110).png>)
 
-## Visual trading 
+## Visual trading&#x20;
 
 This tab allows you to include settings to display the current position on the chart and display already completed trades.
 
@@ -103,13 +103,13 @@ This tab allows you to include settings to display the current position on the c
 
 ![](<../../.gitbook/assets/animaciya-4- (1).gif>)
 
-The **Pnl **type allows you to choose the display of profit/loss on an open position in ticks or currency.
+The **Pnl** type allows you to choose the display of profit/loss on an open position in ticks or currency.
 
 {% hint style="info" %}
 The **Pnl** type allows you to choose to display the position in currency only for those connections where this option exists.
 {% endhint %}
 
-**Show orders**. The option allows you to enable or disable the display of work orders on the chart. 
+**Show orders**. The option allows you to enable or disable the display of work orders on the chart.&#x20;
 
 **Trade through Order entry panel**. If this option is enabled, mouse trade mode will be disabled, and when the mouse clicks on the chart, the associated order entry panel for this quote will automatically open. The mouse trade mode is the same as : clicking the right mouse button will open a panel for entering a limit order for a "Sell" deal at the marked price on the chart; click the left mouse button to open the panel for entering a limit order for a "Buy" deal at the marked price on the chart;
 
@@ -117,7 +117,7 @@ The **Pnl** type allows you to choose to display the position in currency only f
 
 ## Order entry
 
-These are the settings of the order entry panel. The most interesting thing here is that you can set the standard number of entry orders which correspond to your risks. This is very convenient for manual trading. 
+These are the settings of the order entry panel. The most interesting thing here is that you can set the standard number of entry orders which correspond to your risks. This is very convenient for manual trading.&#x20;
 
 [How to use the order entry panel read here](../../trading-panels/order-entry/)
 

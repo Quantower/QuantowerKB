@@ -8,28 +8,28 @@ description: Access to collection of additional fields
 
 Quantower terminal contains lot of useful panels. There are complex panels that display data and allow you to manipulate it. But also, there are simple panels that simply display data. For example, **Symbol Info** and **Account info** panels. Their goal is to provide all available information on the selected symbol and account.
 
-The Quantower API divides the information they display into two categories - **basic** information and **additional **information.
+The Quantower API divides the information they display into two categories - **basic** information and **additional** information.
 
 ### Basic information
 
-The basic information includes fields without which the selected object cannot exist. For successfull integration with Quntower each broker must provide these fields. For example, each symbol must have **Id**, **Name**, **Tick size**, **Product/Quoting currencies,** **Min lot **etc. Also each account must have **Id**, **Name**, **Balance**, **Asset **etc.
+The basic information includes fields without which the selected object cannot exist. For successfull integration with Quntower each broker must provide these fields. For example, each symbol must have **Id**, **Name**, **Tick size**, **Product/Quoting currencies,** **Min lot** etc. Also each account must have **Id**, **Name**, **Balance**, **Asset** etc.
 
-Quantower API supports [**Symbol **](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Symbol.html)and [**Account**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html)** **classes and you can get all the basic information using their properties members.
+Quantower API supports [**Symbol** ](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Symbol.html)and [**Account**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Account.html) **** classes and you can get all the basic information using their properties members.
 
 ### Additional information
 
-The additional information includes fields which are specific for selected broker/data feed. At any time, the broker can stop sending these fields, and if it happens, you can continue to use this connection without any problems. For examle, **Bybit **crypto-connection provides for each symbols **Maker **and **Taker fees **fields. 
+The additional information includes fields which are specific for selected broker/data feed. At any time, the broker can stop sending these fields, and if it happens, you can continue to use this connection without any problems. For examle, **Bybit** crypto-connection provides for each symbols **Maker** and **Taker fees** fields.&#x20;
 
-Since these fields may be unique to concrete broker, we don’t add new properties to our objects, but we store them in a special collection. 
+Since these fields may be unique to concrete broker, we don’t add new properties to our objects, but we store them in a special collection.&#x20;
 
 Each Account and Symbol object contains an **AdditionalInfo** collection, which stores instances of the **AdditionalInfoItem** class. Let's take a look at the main properties of this class.
 
-* **Id **- unique identifier
+* **Id** - unique identifier
 * **NameKey** - display name
 * **Value** - value of this field
 * **DataType** - enum, defines value type (Int, String, Double etc.)
 * **GroupInfo** - name of group
-* **Visible **- if true, it can be displayed in plugins
+* **Visible** - if true, it can be displayed in plugins
 
 So, If you find required field in Symbol Info panel and you want to use it in your code:
 
@@ -38,7 +38,7 @@ So, If you find required field in Symbol Info panel and you want to use it in yo
 
 ## Practice
 
-In this part of acticle we will create a strategy script which will show all additional fields of selected symbol and account. As example we will use **cTrader **connection.
+In this part of acticle we will create a strategy script which will show all additional fields of selected symbol and account. As example we will use **cTrader** connection.
 
 ![](../.gitbook/assets/printadditionalfields.png)
 
@@ -56,7 +56,7 @@ public Symbol symbol;
 
 ### OnRun method
 
-Here we check the input parameters and display the elements of the **AdditionalInfo **collections.
+Here we check the input parameters and display the elements of the **AdditionalInfo** collections.
 
 ```csharp
 protected override void OnRun()
@@ -109,21 +109,21 @@ protected override void OnRun()
 
 ### OnGetMetrics method
 
-In metrics, let's output one additional field for each input objects. But, here we have a problem. Well, if we want to get concrete element form **AdditionalInfo **collection we need to know its correct identifier.
+In metrics, let's output one additional field for each input objects. But, here we have a problem. Well, if we want to get concrete element form **AdditionalInfo** collection we need to know its correct identifier.
 
 At this moment, the easiest way to do this:
 
-1. Run script in **Debug**-mode and find the required element in **AdditionalInfo **collection.
-2. Store identifier(**Id **property) of this element as a constant. 
+1. Run script in **Debug**-mode and find the required element in **AdditionalInfo** collection.
+2. Store identifier(**Id** property) of this element as a constant.&#x20;
 3. Use '**TryGetItem**' method with stored identifier to get required element.
 
-Ok, let's find '**Broker**' and '**Swap short**' elements in **AdditionalInfo **collections.
+Ok, let's find '**Broker**' and '**Swap short**' elements in **AdditionalInfo** collections.
 
 {% hint style="info" %}
-Pay attention. These elements are provided by **cTrader **connection. Another words, we will find them only if we will use symbol and account from cTrader connection as script input parameters.
+Pay attention. These elements are provided by **cTrader** connection. Another words, we will find them only if we will use symbol and account from cTrader connection as script input parameters.
 {% endhint %}
 
-![](../.gitbook/assets/debug_additional_fields2.png)
+![](../.gitbook/assets/debug\_additional\_fields2.png)
 
 We found them. Now we need save this identifiers as string constants.
 

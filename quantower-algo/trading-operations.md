@@ -10,7 +10,7 @@ A key part of each strategy is a trading algorithm it implements. In most cases 
 
 ## Placing orders
 
-As we wrote in the previous topic, [**Core**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html) class is the main entry point for all major functions and placing orders (as well as all other trading operations) are not the exception. The most flexible way of placing orders is using the [**PlaceOrder**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform_BusinessLayer_Core_PlaceOrder_TradingPlatform_BusinessLayer_PlaceOrderRequestParameters\_) method, that accepts [**PlaceOrderRequestParameters**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.PlaceOrderRequestParameters.html) object as input parameter. This object provides you with more than 15 parameters and using them you can customize your order request according to your needs. It is not necessary to fill all, usually, you will need only main, such as:
+As we wrote in the previous topic, [**Core**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html) class is the main entry point for all major functions and placing orders (as well as all other trading operations) are not the exception. The most flexible way of placing orders is using the [**PlaceOrder**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform\_BusinessLayer\_Core\_PlaceOrder\_TradingPlatform\_BusinessLayer\_PlaceOrderRequestParameters\_) method, that accepts [**PlaceOrderRequestParameters**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.PlaceOrderRequestParameters.html) object as input parameter. This object provides you with more than 15 parameters and using them you can customize your order request according to your needs. It is not necessary to fill all, usually, you will need only main, such as:
 
 | Parameter    | Description                                                                                                                                                                                 |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,7 +24,7 @@ As we wrote in the previous topic, [**Core**](https://api.quantower.com/docs/Tra
 | TakeProfit   | An instance of SlTpHolder object, where you can specify price or offset for Take Profit order                                                                                               |
 | OrderTypeID  | An ID of required order type. For most cases you will need only basic types, so you can use predefined constants: OrderType.Limit, OrderType.Stop, OrderType.Market and OrderType.StopLimit |
 
-   And code example of using this method:
+&#x20;  And code example of using this method:
 
 ```csharp
 // Full form, allows you to specify all parameters
@@ -42,7 +42,7 @@ Core.Instance.PlaceOrder(new PlaceOrderRequestParameters()
 });
 ```
 
-Another option to send order request is using the overloaded [**PlaceOrder**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform_BusinessLayer_Core_PlaceOrder_TradingPlatform_BusinessLayer_Symbol_TradingPlatform_BusinessLayer_Account_TradingPlatform_BusinessLayer_Side_TradingPlatform_BusinessLayer_TimeInForce_System_Double_System_Double_System_Double_System_Double\_) method, which accepts only basic order parameters. The shortest form will send Short or Long 1 lot position using a specified symbol and account:
+Another option to send order request is using the overloaded [**PlaceOrder**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform\_BusinessLayer\_Core\_PlaceOrder\_TradingPlatform\_BusinessLayer\_Symbol\_TradingPlatform\_BusinessLayer\_Account\_TradingPlatform\_BusinessLayer\_Side\_TradingPlatform\_BusinessLayer\_TimeInForce\_System\_Double\_System\_Double\_System\_Double\_System\_Double\_) method, which accepts only basic order parameters. The shortest form will send Short or Long 1 lot position using a specified symbol and account:
 
 ```csharp
 Core.Instance.PlaceOrder(this.symbol, this.account, Side.Buy);
@@ -62,7 +62,7 @@ Core.Instance.PlaceOrder(this.symbol, this.account, Side.Buy, triggerPrice: this
 
 ## Modifying orders
 
-Once you created your order you can modify its parameters - use [ModifyOrder](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform_BusinessLayer_Core_ModifyOrder_TradingPlatform_BusinessLayer_Order_TradingPlatform_BusinessLayer_TimeInForce_System_Double_System_Double_System_Double_System_Double\_) function in Core class for this. You can specify only parameter you want to change, for example, if you want to change Quantity of order:
+Once you created your order you can modify its parameters - use [ModifyOrder](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform\_BusinessLayer\_Core\_ModifyOrder\_TradingPlatform\_BusinessLayer\_Order\_TradingPlatform\_BusinessLayer\_TimeInForce\_System\_Double\_System\_Double\_System\_Double\_System\_Double\_) function in Core class for this. You can specify only parameter you want to change, for example, if you want to change Quantity of order:
 
 ```csharp
 Core.Instance.ModifyOrder(orderToModify, quantity: 5);
@@ -82,7 +82,7 @@ Core.Instance.ModifyOrder(orderToModify, quantity: 5, timeInForce: TimeInForce.G
 
 ## Cancelling orders
 
-As expected there is a function for canceling Order - [**CancelOrder**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform_BusinessLayer_Core_CancelOrder_TradingPlatform_BusinessLayer_Order\_). All you need to specify is Order object:
+As expected there is a function for canceling Order - [**CancelOrder**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform\_BusinessLayer\_Core\_CancelOrder\_TradingPlatform\_BusinessLayer\_Order\_). All you need to specify is Order object:
 
 ```csharp
 Core.Instance.CancelOrder(orderToCancel);
@@ -96,13 +96,13 @@ orderToCancel.Cancel();
 
 ## Closing positions
 
-The closing of positions is very similar to canceling orders. Use [**ClosePosition**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform_BusinessLayer_Core_ClosePosition_TradingPlatform_BusinessLayer_Position_System_Double\_) method from [**Core**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html):
+The closing of positions is very similar to canceling orders. Use [**ClosePosition**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html#TradingPlatform\_BusinessLayer\_Core\_ClosePosition\_TradingPlatform\_BusinessLayer\_Position\_System\_Double\_) method from [**Core**](https://api.quantower.com/docs/TradingPlatform.BusinessLayer.Core.html):
 
 ```csharp
 Core.Instance.ClosePosition(positionToClose);
 ```
 
-Or method **Close **from **Position **class:
+Or method **Close** from **Position** class:
 
 ```csharp
 positionToClose.Close();
@@ -114,7 +114,7 @@ If allowed by your current connection, you can request partial closing of positi
 
 ## Result of trading operations
 
-All trading operations return special object **TradingOperationResult** which contains information about the result of the processing request: 
+All trading operations return special object **TradingOperationResult** which contains information about the result of the processing request:&#x20;
 
 | Parameter | Description                                                                          |
 | --------- | ------------------------------------------------------------------------------------ |

@@ -13,7 +13,7 @@ The default throttle interval is set at 2000 milliseconds. To change it in the E
    \
    **`Application.RTD.ThrottleInterval=0`**\
    \
-   (**Note**: If the **Immediate Window **is not open, press **CTRL + G** to display the window.)
+   (**Note**: If the **Immediate Window** is not open, press **CTRL + G** to display the window.)
 3. Make sure your cursor is on the line that you just typed and then press **ENTER**.\
    (**Note**:  The '**(0)**' can be amended to adjust the desired rate.)
 4.  To verify that it is set correctly, type this line of code on the **Immediate Window**:\

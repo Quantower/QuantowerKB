@@ -4,7 +4,7 @@ description: Mark some specific point or set of points on indicator's line
 
 # Using markers with indicators
 
-During indicators development, you may need to mark some specific point or set of points on indicator's line. For example, you want to mark the place, where two lines are crossing or place, where your algorithm find some bar pattern. Yes, you can use GDI+ drawings and **OnPaintChart **method, as we've shown [in our previous topic](indicator-with-custom-painting-gdi.md), but Quantower API provides a more simple way to accomplish this.
+During indicators development, you may need to mark some specific point or set of points on indicator's line. For example, you want to mark the place, where two lines are crossing or place, where your algorithm find some bar pattern. Yes, you can use GDI+ drawings and **OnPaintChart** method, as we've shown [in our previous topic](indicator-with-custom-painting-gdi.md), but Quantower API provides a more simple way to accomplish this.
 
 Each indicator line contains method **SetMarker**, which allows you to assign some special style for the particular element in your indicator's line buffer. The most simple way is marking it via a specified color. This is an example of usage:
 
@@ -73,4 +73,4 @@ And its visualization:
 
 ![An indicator that use markers for trends](../.gitbook/assets/full-code.png)
 
-Using **SetMarker **functions you can simply mark important moments on your indicator. We are going to extend markers possibilities: add more new icons, add text and custom painting. And remember - you can always propose us your own ideas.
+Using **SetMarker** functions you can simply mark important moments on your indicator. We are going to extend markers possibilities: add more new icons, add text and custom painting. And remember - you can always propose us your own ideas.

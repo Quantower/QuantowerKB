@@ -34,7 +34,7 @@ Provides you an access to all symbols from all connections. Each [symbol ](http:
 
 ### **Positions**
 
-Provides you an access to all positions from all connections. If you need to get positions only from specific connections you can filter them using ConnectionID property, which each position provides among [other data](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Position.html): Quantity, Fee, NetPnl, etc. You can also search for a particular position by its id using **GetPositionById **method.
+Provides you an access to all positions from all connections. If you need to get positions only from specific connections you can filter them using ConnectionID property, which each position provides among [other data](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Position.html): Quantity, Fee, NetPnl, etc. You can also search for a particular position by its id using **GetPositionById** method.
 
 ### **Orders**
 
@@ -48,7 +48,7 @@ This is only the main properties from [Core](http://api.quantower.com/docs/Tradi
 
 ## An example of using trading data
 
-And as usual, let's create a simple example to show possibilities of an API. We will display the main information about your active connections and main objects: accounts, symbols, and positions. It will be quite easy to implement using our explanations above. We need only to iterate through all connections and retrieve the required data. Just, for example, we will use **Log **function to display this data, but you can use it in any way you need in your scripts. This is source code for our example:
+And as usual, let's create a simple example to show possibilities of an API. We will display the main information about your active connections and main objects: accounts, symbols, and positions. It will be quite easy to implement using our explanations above. We need only to iterate through all connections and retrieve the required data. Just, for example, we will use **Log** function to display this data, but you can use it in any way you need in your scripts. This is source code for our example:
 
 ```csharp
 protected override List<StrategyMetric> OnGetMetrics()

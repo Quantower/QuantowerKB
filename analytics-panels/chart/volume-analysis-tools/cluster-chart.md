@@ -23,7 +23,7 @@ Using this information, a trader can evaluate:
 
 ### How to enable cluster chart?
 
-Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the "_**Magnifier**_" icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart — _Cluster, _[_Step Profile, Left Profile, Right Profile_](volume-profiles.md)_, _[_Time Statistics_](time-statistics.md)_, _[_Time Histogram_](time-histogram.md)_, _[_Historical Time & Sales_](historical-time-and-sales.md)_, _[_Custom Volume Profile_](volume-profiles.md#custom-volume-profile).
+Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the "_**Magnifier**_" icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart — _Cluster,_ [_Step Profile, Left Profile, Right Profile_](volume-profiles.md)_,_ [_Time Statistics_](time-statistics.md)_,_ [_Time Histogram_](time-histogram.md)_,_ [_Historical Time & Sales_](historical-time-and-sales.md)_,_ [_Custom Volume Profile_](volume-profiles.md#custom-volume-profile).
 
 1. Click on the **Cluster** and Enable it
 2. Select the Data type (you can select one or two different data types at once)
@@ -74,6 +74,6 @@ Select **Filtered Volume** as the data type in clusters to display them on the c
 
 ### What is Custom step and how to set it properly?
 
-Cluster chart shows volume data at each price level for a specified period. But with a large number of levels, the cluster chart becomes difficult to read. 
+Cluster chart shows volume data at each price level for a specified period. But with a large number of levels, the cluster chart becomes difficult to read.&#x20;
 
 **Custom step** summarizes the volume data of as many price levels as specified in the setting. By default, the value of the custom step is set to 1 tick, which means the volume data are shown at each price level.

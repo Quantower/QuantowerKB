@@ -8,7 +8,7 @@ description: >-
 
 ### **What is Quandl?**
 
-[**Quandl**](https://www.quandl.com)** **is international financial and economic data provider that offers access to a lot of databases — _stocks, futures, commodities, currencies, interest rates, options, indexes, as well as data on industries, assent management and economics._
+[**Quandl**](https://www.quandl.com) **** is international financial and economic data provider that offers access to a lot of databases — _stocks, futures, commodities, currencies, interest rates, options, indexes, as well as data on industries, assent management and economics._
 
 The databases cover not only prices on different financial products but a non-price data, such as fundamentals, forecasts, sentiment, traders commitment, production, consumption, employment, inflation, macro indicators, investment and their flows.
 

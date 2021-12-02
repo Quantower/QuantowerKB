@@ -30,9 +30,9 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 * **Step period & Step coefficient** – determines the step to build the profile. Step period has four types –_Minute, Hour, Day, Week_.
 * **Data type** – choose any of the [**20+ data types**](./#data-types-of-volume-analysis-tools) to build a step profile
 * **Histogram position** – places the profile on the left or right side relative to the starting point.
-* **Histogram label position **– determines the position of the data value: _left, right or none_
+* **Histogram label position** – determines the position of the data value: _left, right or none_
 * **Show Value Area** – shows the price area with 70% of trading activity for the specified time range. The value of 70% is set by default, but the user can change it at his discretion.
-* **Show Value Area borders **– shows the outer limits of the Value Area as dotted lines
+* **Show Value Area borders** – shows the outer limits of the Value Area as dotted lines
 * **Highlight maximum value** – levels with the maximum value are highlighted with the specified color
 * **Show totals** – this option summarizes the data based on which the profile is built.
 
@@ -42,7 +42,7 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 
 **Left** and **Right volume profile** can be placed on the left and right side of the chart respectively. For example, you can set the delta data on one profile, and on the other the total volume for the same period of time. You can **combine several profiles** that are built on different time periods into one combo profile and put it on left or right chart position.
 
-![Quantower allows to place multiple volume profiles with different data types](../../../.gitbook/assets/left_right-profile.png)
+![Quantower allows to place multiple volume profiles with different data types](../../../.gitbook/assets/left\_right-profile.png)
 
 ### Custom Volume Profile
 

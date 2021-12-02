@@ -20,7 +20,7 @@ A trader can use this panel as a research tool to view the performance of variou
 
 * Add the necessary symbols by clicking on the icon "+".
 
-![](<../.gitbook/assets/image (355).png>)
+![](<../.gitbook/assets/image (355) (1).png>)
 
 *   The panel allows displaying data in two modes:
 

@@ -37,7 +37,7 @@ This guide will help you to configure the connection to the Interactive Brokers 
 Video connection guide to Interactive Brokers
 {% endembed %}
 
-* [**Download**](https://www.quantower.com)** **and install Quantower trading platform (if you haven’t it yet) of an appropriate version (32 bit or 64 bit), and make sure that your PC complies with the [**minimum requirements**](../../getting-started/installation.md#pc-requirements)****\
+* [**Download**](https://www.quantower.com) **** and install Quantower trading platform (if you haven’t it yet) of an appropriate version (32 bit or 64 bit), and make sure that your PC complies with the [**minimum requirements**](../../getting-started/installation.md#pc-requirements)****\
   ****
 * To connect to IB, you need to have (or create) a [**demo**](https://www.interactivebrokers.co.uk/en/index.php?f=1286) or [**real account**](https://www.interactivebrokers.com/en/home.php) by clicking the appropriate links on the Interactive Brokers official website.
 
@@ -53,11 +53,11 @@ The difference between IB Gateway and TWS is that IB Gateway has a lighter and l
 
 ## How to connect to Interactive Brokers using TWS platform
 
-* Launch TWS and enter your **Username** and **Password** into it, that you received from the broker and click on **Log In **button.
+* Launch TWS and enter your **Username** and **Password** into it, that you received from the broker and click on **Log In** button.
 
 ![](<../../.gitbook/assets/image (325).png>)
 
-* Once you are logged in, open the additional settings in TWS:  **Configure**. Select **API** section - >  **Settings** and check to **Enable ActiveX and Socket Clients** box as well** **uncheck** Read-Only API**
+* Once you are logged in, open the additional settings in TWS:  **Configure**. Select **API** section - >  **Settings** and check to **Enable ActiveX and Socket Clients** box as well **** uncheck **Read-Only API**
 
 ![Diactivate Read-Only API and check Socket Clients in TWS platform](<../../.gitbook/assets/image (324).png>)
 
@@ -69,11 +69,11 @@ The difference between IB Gateway and TWS is that IB Gateway has a lighter and l
 
 ![](<../../.gitbook/assets/image (326).png>)
 
-* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check** **[**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com), via email info@quantower.com.
+* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check **** [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com), via email info@quantower.com.
 
 ## &#x20;How to connect to Interactive Brokers using IB Gateway
 
-* Launch IB Gateway and enter your **Username** and **Password** into it, that you received from the broker and click on **Log In **button.
+* Launch IB Gateway and enter your **Username** and **Password** into it, that you received from the broker and click on **Log In** button.
 
 {% hint style="warning" %}
 For **IB Gateway** in the API Type section select **IB API** only!
@@ -81,11 +81,11 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
 ![Select API type and enter Login and password for IB Gateway](../../.gitbook/assets/ib-gateway-credentials.png)
 
-* Once you are logged in, open the additional settings in IB Gateway:  **Configure**->** Settings**. Select **API** section - >  **Precautions** and activate all checkboxes.
+* Once you are logged in, open the additional settings in IB Gateway:  **Configure**-> **Settings**. Select **API** section - >  **Precautions** and activate all checkboxes.
 
 ![Activate all checkboxes in the IB Gateway API settings](<../../.gitbook/assets/image (322).png>)
 
-&#x20;    Also necessary in the **Settings** section deactivate the **Read-Only API **to perform trading operations.
+&#x20;    Also necessary in the **Settings** section deactivate the **Read-Only API** to perform trading operations.
 
 ![](<../../.gitbook/assets/image (329).png>)
 
@@ -93,7 +93,7 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
 ![Check connection settings and Click on the Connect button once you are logged in to IB Gateway](<../../.gitbook/assets/image (330).png>)
 
-* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check** **[**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com), via email info@quantower.com.
+* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check **** [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com), via email info@quantower.com.
 
 ## Problems during the connection to Interactive Brokers
 
@@ -113,7 +113,7 @@ Select the application through which you are connecting  — TWS platform or IB 
 
 ![Select the necessary connection port type](../../.gitbook/assets/connection-settings-for-ib.png)
 
-If the problem persists even after choosing the right application, you need to configure the _**Socket port** _in TWS (or IB Gateway) and Quantower.
+If the problem persists even after choosing the right application, you need to configure the _**Socket port** _ in TWS (or IB Gateway) and Quantower.
 
 ![This Socket port in TWS (or IB gateway) should be the same as in Quantower](../../.gitbook/assets/socket-port.png)
 
@@ -133,7 +133,7 @@ By default, placing orders on Forex pairs in IB is carried out at prices equal t
 
 ![](<../../.gitbook/assets/image (99).png>)
 
-If you place orders in Quantower at prices between those specified, for example 1.19382, you will get a message: _**The Price Does Not Conform to the minimum price variation for this contract (FOREX symbols). **_
+If you place orders in Quantower at prices between those specified, for example 1.19382, you will get a message: _**The Price Does Not Conform to the minimum price variation for this contract (FOREX symbols).**_&#x20;
 
 To solve this problem and to be able to place orders at any desired prices, you need to activate the setting in the TWS platform (or in IB Gateway)
 

@@ -4,13 +4,13 @@ description: How to export Real-Time data to Exel
 
 # Excel and RTD function
 
-Start from version 1.39 Quantower supports **Real-Time Data (RTD)** for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to better manage your workflow. 
+Start from version 1.39 Quantower supports **Real-Time Data (RTD)** for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to better manage your workflow.&#x20;
 
 
 
 RTD is a newer protocol that offers several advantages over DDE, including more flexibility and better performance and reliability.
 
-We prepared the spreadsheet that outlines the basic syntax of RTD formulas with details more complex formulas. Included is a collection of popular RTD formulas, which you can simply copy and paste into your own spreadsheet. [**Download the sample file**](https://updates.quantower.com/misc/RTD/rtd_samples.xlsx)**.**
+We prepared the spreadsheet that outlines the basic syntax of RTD formulas with details more complex formulas. Included is a collection of popular RTD formulas, which you can simply copy and paste into your own spreadsheet. [**Download the sample file**](https://updates.quantower.com/misc/RTD/rtd\_samples.xlsx)**.**
 
 Here is the General Syntax for getting symbol info via RTD function:
 
@@ -30,7 +30,7 @@ Launch Excel and after open the Task Manager to check the version of Excel (32-b
 
 Go to the [**General Settings**](../../general-settings/general-settings-1.md) of the platform, then to _section **Excel RTD**_ and tick off _**"Enable Microsoft Excel RTD"**_
 
-![Activation of RTD function in Quantower](../../.gitbook/assets/assets\_-ld6fsrvq3jgwjig6o7r\_-lme4wbmrbk0ai3rafld\_-lmeyazmdvqpbsftpr9b_rtd.png)
+![Activation of RTD function in Quantower](../../.gitbook/assets/assets\_-ld6fsrvq3jgwjig6o7r\_-lme4wbmrbk0ai3rafld\_-lmeyazmdvqpbsftpr9b\_rtd.png)
 
 Also in the settings, there are two important settings:
 
@@ -69,7 +69,7 @@ RTD formula uses the following basic structure:
 The second parameter is the name of the external server running the RTD Server. As the Quantower RTD Server always runs locally, you must omit a value for the second parameter or supply an empty string (“”). However, you must account for the parameter in the formula.
 {% endhint %}
 
-### Examples of the most popular RTD formulas with description 
+### Examples of the most popular RTD formulas with description&#x20;
 
 Examples of the most popular RTD formulas are described below with description of the basic syntax by the example of Binance exchange. Using them, you can get exactly the data you need for analysis and paste into your spreadsheet. You can also download these examples from this Excel file.
 
@@ -95,11 +95,11 @@ Provides access to specific symbol information such as Description, **ExchangeNa
 | **"SymbolType"**      | Specifies the type of data you want to receive. For example: Name, Description.                                                                     |
 | **"Binance"**         | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
 
-![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr_pKwIdiz%2F-MdD7Xd-0rMcvc9PCdnw%2F-MdDAb\_29\__xMcMGoTaX%2F%D0%B5%D0%BA%D1%81%D0%B5%D0%BB%D1%8C%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE1.gif?alt=media\&token=f409533f-8cb3-4ed5-b7dd-1fd04a677bdf)
+![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdD7Xd-0rMcvc9PCdnw%2F-MdDAb\_29\_\_xMcMGoTaX%2F%D0%B5%D0%BA%D1%81%D0%B5%D0%BB%D1%8C%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE1.gif?alt=media\&token=f409533f-8cb3-4ed5-b7dd-1fd04a677bdf)
 
-![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr_pKwIdiz%2F-MdDEfWoJWngCgyWqWIJ%2F-MdDFjuvLdNdsY-i1mSp%2F%D0%B5%D0%BA%D1%81%D0%B5%D0%BB%D1%8C%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81.gif?alt=media\&token=113f6eba-d2c3-4fa4-888a-63275f006a1b)
+![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdDEfWoJWngCgyWqWIJ%2F-MdDFjuvLdNdsY-i1mSp%2F%D0%B5%D0%BA%D1%81%D0%B5%D0%BB%D1%8C%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81.gif?alt=media\&token=113f6eba-d2c3-4fa4-888a-63275f006a1b)
 
-### 2. GetAccounInfo - information about a particular account <a href="2-getaccouninfo-informaciya-o-konkretnoi-uchetnoi-zapisi" id="2-getaccouninfo-informaciya-o-konkretnoi-uchetnoi-zapisi"></a>
+### 2. GetAccounInfo - information about a particular account <a href="#2-getaccouninfo-informaciya-o-konkretnoi-uchetnoi-zapisi" id="2-getaccouninfo-informaciya-o-konkretnoi-uchetnoi-zapisi"></a>
 
 {% hint style="success" %}
 Provides access to specific account information such as name, balance, NettingType, and others. You can simply copy/paste this formula for use in Excel files or get it directly from the Account Information panel for the selected account. Right-click on the pane and select the menu option: "Copy RTD Formula" -> "Value".
@@ -119,9 +119,9 @@ _**Options**_
 | **"Bid"**             | Specifies the type of data you want to receive. For example: Bid, Ask, Last, Open, High                                                             |
 | **"Binance Futures"** | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
 
-![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr_pKwIdiz%2F-MdDYvNg3fltYBR\_\_rmI%2F-MdDdK5vki\_349k34zfM%2FGetMarketData%20-%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0.gif?alt=media\&token=b7653eb0-9b6d-42d6-8f99-df221d76a6ad)
+![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdDYvNg3fltYBR\_\_rmI%2F-MdDdK5vki\_349k34zfM%2FGetMarketData%20-%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0.gif?alt=media\&token=b7653eb0-9b6d-42d6-8f99-df221d76a6ad)
 
-###  GetLevel2Data - Level2   <a href="4-getlevel-2-data-level2-dannye-glubiny-rynka" id="4-getlevel-2-data-level2-dannye-glubiny-rynka"></a>
+### &#x20;GetLevel2Data - Level2   <a href="#4-getlevel-2-data-level2-dannye-glubiny-rynka" id="4-getlevel-2-data-level2-dannye-glubiny-rynka"></a>
 
 Provides access to Tier 2 data for a specific symbol. You can simply copy/paste this formula and use it in your Excel files.
 
@@ -140,9 +140,9 @@ _**Options**_
 | **"0"**               | The sequence number of the level in the Depth of Market. Starts with 0.                                                                             |
 | **"Binance"**         | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
 
-![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr_pKwIdiz%2F-MdDeP1om5YlPw02mvCy%2F-MdDpQrD1zm6GSE_ZR-C%2FGetLevel2Data%20-%20Level2%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D1%8B%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20.gif?alt=media\&token=b50021c3-179a-49e1-b8d0-6294abce718f)
+![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdDeP1om5YlPw02mvCy%2F-MdDpQrD1zm6GSE\_ZR-C%2FGetLevel2Data%20-%20Level2%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D1%8B%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20.gif?alt=media\&token=b50021c3-179a-49e1-b8d0-6294abce718f)
 
-### 5. GetHistory - history for the specified symbol <a href="5-gethistory-istoriya-dlya-ukazannogo-simvola" id="5-gethistory-istoriya-dlya-ukazannogo-simvola"></a>
+### 5. GetHistory - history for the specified symbol <a href="#5-gethistory-istoriya-dlya-ukazannogo-simvola" id="5-gethistory-istoriya-dlya-ukazannogo-simvola"></a>
 
 Returns the history for the specified character, aggregation and date range. You can simply copy/paste this formula and use it in your Excel files.
 
@@ -172,7 +172,7 @@ _**Options**_
 | **"Last"**            | Bid, Ask, Last history type. Leave the field empty to get the default history for the specified character.                                          |
 | **"Binance"**         | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
 
-![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr_pKwIdiz%2F-MdE86l5W8HjMUupdd2P%2F-MdE8AgutchiL75g8edf%2FGetHistory%20-%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0.png?alt=media\&token=e8008edd-a627-47b0-81c2-060c6963014f)
+![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdE86l5W8HjMUupdd2P%2F-MdE8AgutchiL75g8edf%2FGetHistory%20-%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0.png?alt=media\&token=e8008edd-a627-47b0-81c2-060c6963014f)
 
 ****
 
@@ -180,12 +180,12 @@ _**Options**_
 
 ### **How to check argument separator?**
 
-For Windows 10: 
+For Windows 10:&#x20;
 
 * go to **Start >type Control Panel  and press enter > Region**
 * click **Additional Settings**
-* for **List Separator **check the argument.** **It must be the same as in RTD settings.
+* for **List Separator** check the argument. **** It must be the same as in RTD settings.
 
-![](../../.gitbook/assets/regional_settings.png)
+![](../../.gitbook/assets/regional\_settings.png)
 
 ![](../../.gitbook/assets/regional2.jpg)

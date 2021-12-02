@@ -10,7 +10,7 @@ description: >-
 You can benefit from market data provided by IQFeed while trading on Quantower platform. All you need to create IQFeed account and to connect it to Quantower. Having registered with IQFeed, a Free Trial Demo Account is automatically opened and you can use it during the determined trial time period for free. After the trial period expires, you will be offered to proceed with real account.
 
 * ****[**How to register and open demo account with IQFeed?**](connection-to-iqfeed.md#how-to-register-and-open-demo-account-with-iqfeed)****
-* ****[**DTN Calculated Indicators & Market Statistics**](connection-to-iqfeed.md#dtn-calculated-indicators-and-market-statistics)**  (**[**link to document**](http://www.iqfeed.net/symbolguide/DTNCalculatedIndicators.pdf)**)**
+* ****[**DTN Calculated Indicators & Market Statistics**](connection-to-iqfeed.md#dtn-calculated-indicators-and-market-statistics)  **(**[**link to document**](http://www.iqfeed.net/symbolguide/DTNCalculatedIndicators.pdf)**)**
 
 ### How to connect IQFeed to Quantower
 
@@ -24,11 +24,11 @@ You can benefit from market data provided by IQFeed while trading on Quantower p
 
 It may seem some confused issue for newbies to open demo account with IQFeed data provider. Nevertheless it becomes considerably easier when doing that with the usage of our instructions!
 
-* Go to [IQFeed official website](https://www.iqfeed.net) and follow  ‘[**Get Free Trial Now**](https://www.iqfeed.net/index.cfm?displayaction=start)’ link in the** About IQFeed** section. In the opened window select the first offered option (DTN IQFeed) and click on the **Continue to DTN Registration Site** button.
+* Go to [IQFeed official website](https://www.iqfeed.net) and follow  ‘[**Get Free Trial Now**](https://www.iqfeed.net/index.cfm?displayaction=start)’ link in the **About IQFeed** section. In the opened window select the first offered option (DTN IQFeed) and click on the **Continue to DTN Registration Site** button.
 
 ![Create a demo account on IQFeed website](../.gitbook/assets/dtn-iqfeed.png)
 
-* Once you click **Continue to DTN Registration Site **button, the following window will apper in which you need to tick off the items as it is shown on the picture below, place a check mark in the **I have read and answered the questions **case and **Continue Sign Up**:
+* Once you click **Continue to DTN Registration Site** button, the following window will apper in which you need to tick off the items as it is shown on the picture below, place a check mark in the **I have read and answered the questions** case and **Continue Sign Up**:
 
 ![Fill in the declaration to determine the status of the participant](../.gitbook/assets/fill-the-declaration.png)
 

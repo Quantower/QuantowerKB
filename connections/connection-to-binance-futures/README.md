@@ -19,7 +19,7 @@ To start trading on Binance Futures through Quantower platform, you need to open
 
 ## How to create a new Binance Futures account
 
-* Go to the** **[**Binance Futures**](https://www.binance.com/en/futures) official website to open a _**live account**_. \
+* Go to the **** [**Binance Futures**](https://www.binance.com/en/futures) official website to open a _**live account**_. \
   If you want to create a _**demo account**_, you can open it on [**Testnet Binance Futures**](https://testnet.binancefuture.com/en/futures) website
 
 ![](../../.gitbook/assets/create-account-binance-futures.png)
@@ -49,7 +49,7 @@ Go to the futures trading section and take the test to activate your futures acc
 
 ## How to connect to Binance Futures in Quantower platform
 
-* Launch Quantower platform and open [Connections Manager](../connections-manager.md). Select Binance Futures in the list and select the type of connections — **INFO** or** TRADING **mode.
+* Launch Quantower platform and open [Connections Manager](../connections-manager.md). Select Binance Futures in the list and select the type of connections — **INFO** or **TRADING** mode.
 
 ![](../../.gitbook/assets/connection-binance-futures.gif)
 
@@ -58,7 +58,7 @@ Go to the futures trading section and take the test to activate your futures acc
 ## How to get Full License of Quantower for free with Binance?
 
 {% hint style="danger" %}
-If you already have a binance account and it is older than** 1 FEBRUARY  2021**, then you need to create a new account in order to use all the paid quantower features
+If you already have a binance account and it is older than **1 FEBRUARY  2021**, then you need to create a new account in order to use all the paid quantower features
 {% endhint %}
 
 First, you need to register a new account on Binance exchange, that wouldn’t be connected with any referral previously. In order to do this, please follow the [https://accounts.binance.com/en/register](https://accounts.binance.com/en/register) link and fill in the registration form.
@@ -75,7 +75,7 @@ To clear your saved cookies in the Chrome browser, you should proceed to the “
 
 ![Page cookies can be found via the Page info](../../.gitbook/assets/screenshot\_2.png)
 
-Now select each group of cookies and press the “Remove” button. When there will be no cookies in the list, please, press the “Done” button. Now you should refresh your registration page and make sure that the “Referral ID” field is empty. 
+Now select each group of cookies and press the “Remove” button. When there will be no cookies in the list, please, press the “Done” button. Now you should refresh your registration page and make sure that the “Referral ID” field is empty.&#x20;
 
 ![Binance stores referral data in cookies](<../../.gitbook/assets/screenshot\_3 (3).png>)
 
@@ -83,7 +83,7 @@ When you’ve created a new account with the Binance exchange you may log in usi
 
 ### How to check that your account has a Full license in Quantower?
 
-Once you created a new account with Binance Spot, Binance Futures, please login to the platform in trading mode with your API Keys. After that, open** **[**Account Info** panel](../../informational-panels/account-info.md) and check that the field** Full license is Enabled**.
+Once you created a new account with Binance Spot, Binance Futures, please login to the platform in trading mode with your API Keys. After that, open **** [**Account Info** panel](../../informational-panels/account-info.md) and check that the field **Full license is Enabled**.
 
 ![](<../../.gitbook/assets/image (167).png>)
 
@@ -95,14 +95,14 @@ Once you created a new account with Binance Spot, Binance Futures, please login 
 
 Binance offers two types of margin for futures trading:
 
-**Cross Margin Mode**: Share your margin balance across all open positions to avoid liquidation. In the event of liquidation you risk losing your full margin balance along with any remaining open positions. 
+**Cross Margin Mode**: Share your margin balance across all open positions to avoid liquidation. In the event of liquidation you risk losing your full margin balance along with any remaining open positions.&#x20;
 
 **Isolated Margin Mode**: Manage your risk on individual positions by restricting the amount of margin allocated to each. If the margin ratio of a position reached 100%, the position will be liquidated. Margin can be added or removed to positions using this mode.
 
 ![](../../.gitbook/assets/margin-type-binance-futures.png)
 
 {% hint style="danger" %}
-For new accounts on which no trades were made, it is **not possible to change the leverage and margin type**. 
+For new accounts on which no trades were made, it is **not possible to change the leverage and margin type**.&#x20;
 
 To enable these functions, you need to make at least 1 trade for current symbol. After that, please restart the platform and these features will be available.
 {% endhint %}
@@ -137,7 +137,7 @@ Our team will add client-side (local) SL/TP for limit orders later.
 
 ## **How to change Hedge Mode (One position & Multiple positions)**
 
-**One Position mode **means that traders can only hold positions in one direction under one contract. If you open a short position, anticipating that the price will go down in the longer timeframe, but in the meanwhile wanted to open a long to do a trade for a shorter time frame. You are unable to open positions in both directions at the same time. Opening positions in both directions would result in canceling one another out.
+**One Position mode** means that traders can only hold positions in one direction under one contract. If you open a short position, anticipating that the price will go down in the longer timeframe, but in the meanwhile wanted to open a long to do a trade for a shorter time frame. You are unable to open positions in both directions at the same time. Opening positions in both directions would result in canceling one another out.
 
 **Multiple Positions mode** means that traders can hold positions in both long and short directions at the same time under the same contract. For example, you could now hold both long and short positions of the BTCUSDT contract at the same time.
 

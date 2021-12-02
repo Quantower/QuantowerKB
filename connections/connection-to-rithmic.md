@@ -36,7 +36,7 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 
 {% embed url="https://youtu.be/3kpiOCiqE5Q" %}
 
-* To register [**Rithmic Demo**](https://rithmic.com/demo.html#sign-up)** **go to their official website or** **follow this [link](https://rithmic.com/demo.html#sign-up)
+* To register [**Rithmic Demo**](https://rithmic.com/demo.html#sign-up) **** go to their official website or **** follow this [link](https://rithmic.com/demo.html#sign-up)
 * Fill in all the required fields
 * Accept _**"Market Data Subscription Agreement"**_ and _"**Market Data Self-Certification"**_
 * Account will be activated within 30-60 minutes.
@@ -45,7 +45,7 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 
 ### **Market Data Connection Closed (Broken)**
 
-Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed (Broken)". **_Below we will describe possible reasons and solutions.
+Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed (Broken)".**_ Below we will describe possible reasons and solutions.
 
 {% hint style="warning" %}
 This error message is most commonly encountered by _**new Rithmic users for various reasons**_ and is not within the control of the Quantower platform.&#x20;
@@ -67,7 +67,7 @@ This error message is most commonly encountered by _**new Rithmic users for vari
 
 More often such error occurs for the following reasons:
 
-*   You didn't accept agreements "_Market Data Subscription Agreement"_ and _"Market Data Self-Certification"  _during the registration on Rithmic's website or in R Trader platform. _We recommend connecting through **R Trader** or **R Trader Pro** platforms to check your account._
+*   You didn't accept agreements "_Market Data Subscription Agreement"_ and _"Market Data Self-Certification"_  during the registration on Rithmic's website or in R Trader platform. _We recommend connecting through **R Trader** or **R Trader Pro** platforms to check your account._
 
     _**Solution:** accept agreements in RTrader Pro platform_
 *   A new account was created less than an hour ago. Usually, the **full activation of a new account takes from 30 minutes to 1 hour**.
@@ -77,9 +77,9 @@ More often such error occurs for the following reasons:
 
     _**Solution:**_ try both connection options in Quantower
 
-![](<../.gitbook/assets/image (355) (1).png>)
+![](<../.gitbook/assets/image (355) (1) (1).png>)
 
-*   If Quantower was connected to Rithmic before via the RTrader Plugin (i.e. the checkbox Use RTrader is active), and at the moment the RTrader Pro platform is not connected or the **Allow Plugins **option is not active there, then Quantower will not be able to connect.
+*   If Quantower was connected to Rithmic before via the RTrader Plugin (i.e. the checkbox Use RTrader is active), and at the moment the RTrader Pro platform is not connected or the **Allow Plugins** option is not active there, then Quantower will not be able to connect.
 
     _**Solution (several different options, not step-by-step):**_
 
@@ -93,7 +93,7 @@ More often such error occurs for the following reasons:
 
     When trying to connect with one login on different platforms, it can log out from the first platform (which was connected), but the login on the second platform will not be successfully connected (on which we are trying to log in).
 
-    _**Solution: **use RTrader Plugin mode for multiple connections or close all platforms and connect via Quantower as direct connection (without Rtrader plugin mode)_
+    _**Solution:** use RTrader Plugin mode for multiple connections or close all platforms and connect via Quantower as direct connection (without Rtrader plugin mode)_
 
 ![](<../.gitbook/assets/image (345).png>)
 

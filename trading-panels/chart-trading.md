@@ -67,7 +67,7 @@ By right-clicking you can save the default order entry settings for all symbols
 
 ### Slider to enter the volume of the position in dollars
 
-There are two ways to enter the quantity of a position 
+There are two ways to enter the quantity of a position&#x20;
 
 * Entering an order in lots of a traded symbol or coin - this was described above
 * Entering the amount of money planned to purchase that asset.
@@ -86,7 +86,7 @@ For example, at the moment you have $82 on your account and 10 leverage is set. 
 
 ### How to set up Profit and Stop orders
 
-Then you can set** automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
+Then you can set **automatic stop loss and profit** in pips. It's very convenient to set the lot size and protect it. Specify your values in the appropriate fields.
 
 {% hint style="info" %}
 Some brokers such as Binance do not allow stop orders for limit orders. (Until the position is NOT open) In this case, use limit orders of the opposite direction
@@ -94,8 +94,8 @@ Some brokers such as Binance do not allow stop orders for limit orders. (Until t
 
 ![](<../.gitbook/assets/animaciya-3- (1).gif>)
 
-* Use the Qquick Ttrade toolbar 
-* Set your values for stop loss or profit. You can also use any one parameter only. 
+* Use the Qquick Ttrade toolbar&#x20;
+* Set your values for stop loss or profit. You can also use any one parameter only.&#x20;
 * Use the button to activate the trade with the mouse to set a limit order
 
 {% hint style="warning" %}
@@ -110,10 +110,10 @@ If you execute an order at market, the specified stop parameters will retain the
 This example is for connecting a CQG/AMP
 {% endhint %}
 
-* To set multiple stop orders for a single position, do the following Switch the bracket (stop) settings to multi mode 
-* Enter data for setting the first limit orders and how many lots or coins should be closed 
+* To set multiple stop orders for a single position, do the following Switch the bracket (stop) settings to multi mode&#x20;
+* Enter data for setting the first limit orders and how many lots or coins should be closed&#x20;
 * For the next stops, enter similar data on the next line.
-*  You can set orders in multiples of your total volume
+* &#x20;You can set orders in multiples of your total volume
 
 ### A set of buttons for quick order and position management
 
@@ -143,14 +143,14 @@ Allows you to set limit and stop limit orders directly on the chart. To activate
 To place several orders in a row hold down CTRL
 {% endhint %}
 
-If the mouse position i**s higher than the current price** then 
+If the mouse position i**s higher than the current price** then&#x20;
 
-* right click of the mouse will set a **limit order ** 
+* right click of the mouse will set a **limit order**&#x20;
 * left click of the mouse will set a **Buy stop marke**t order
 
-If position of the mouse is **under the current price **then
+If position of the mouse is **under the current price** then
 
-* right click of the mouse will set **Sell stop market **
+* right click of the mouse will set **Sell stop market**&#x20;
 * right click of the mouse will set **Buy limit order**
 
 ## Keyboard trading

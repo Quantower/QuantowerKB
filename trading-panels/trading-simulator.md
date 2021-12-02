@@ -51,7 +51,7 @@ In the general settings, you can set the initial balance for the test account, s
 * **Initial balance** — the amount of money for the test account.
 
 {% hint style="info" %}
-Trading Simulator creates separate trading accounts for each base currency of the instrument. For example, if you chose EUR / USD currency pair, then the account name will be **Account (USD)**, if you select EUR / JPY, then the name will be **Account (JPY) **respectively.
+Trading Simulator creates separate trading accounts for each base currency of the instrument. For example, if you chose EUR / USD currency pair, then the account name will be **Account (USD)**, if you select EUR / JPY, then the name will be **Account (JPY)** respectively.
 {% endhint %}
 
 ![General settings for symbols in Trading Simulator](<../.gitbook/assets/image (349) (2).png>)

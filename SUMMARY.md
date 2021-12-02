@@ -162,7 +162,7 @@
   * [Symbol Info](informational-panels/symbol-info.md)
   * [Currencies Exposure](informational-panels/currencies-exposure.md)
   * [Event Log](informational-panels/event-log.md)
-  * [RSS](informational-panels/rss.md)
+  * [RSS (News panel)](informational-panels/rss.md)
   * [Reports](informational-panels/reports.md)
 * [Miscellaneous](miscellaneous-panels/README.md)
   * [History Exporter](miscellaneous-panels/history-exporter.md)

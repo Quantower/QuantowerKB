@@ -51,7 +51,7 @@ The quantity copy mode option tells the bot how to calculate the quantity for co
 In a **Percentage mode**, the bot will calculate the quantity relative to the Parent account balance in percent and then apply this percentage to the Child account balance to set the Copy order quantity.
 
 {% hint style="success" %}
-**Percentage Example: **Parent account has a balance of $1000. The Child account has a balance of $2000. When you place an order on the parent account equal to $100 (10% of the total balance), an order will be placed automatically on the child account for 10% of its total balance, or 200$.
+**Percentage Example:** Parent account has a balance of $1000. The Child account has a balance of $2000. When you place an order on the parent account equal to $100 (10% of the total balance), an order will be placed automatically on the child account for 10% of its total balance, or 200$.
 {% endhint %}
 
 In a **Multiplier mode**, the bot will take a quantity from the Parent order and multiply it with the Multiplier coefficient, thus getting a quantity value for a Child copy order.

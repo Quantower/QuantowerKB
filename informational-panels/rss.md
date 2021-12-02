@@ -18,25 +18,19 @@ If necessary, you can add any news source. To do this, specify a link to this so
 
 ![Add multiple News feeds to RSS connection](<../.gitbook/assets/image (358).png>)
 
-This panel can be easily bound with others and also can be modified and saved as a Template for further usage.
-
-![](<../.gitbook/assets/image (226).png>)
-
-## Feeds manager
-
-In case you want to set up your personally favored feeds — use the Feeds manager (it is situated on the corresponding tab of RSS panel settings).
-
-![](<../.gitbook/assets/image (227).png>)
-
-
-
 {% hint style="warning" %}
-If you set up the incorrect feed URL, you will not see its news. Please be careful with providing the correct URL to RSS 2.0 feed.
+If you set up the incorrect feed URL, you will not see its news. Please be careful with providing the correct URL.
 {% endhint %}
 
 {% hint style="success" %}
 You can import Twitter feed in RSS format via various converters (for example [https://twitrss.me](https://twitrss.me))
 {% endhint %}
+
+This panel can be easily bound with others and also can be modified and saved as a Template for further usage.
+
+![](<../.gitbook/assets/image (226).png>)
+
+
 
 ## Manage news list
 

@@ -141,6 +141,8 @@
     * [Order entry for Bybit](trading-panels/order-entry/order-entry-for-bybit.md)
     * [Order Entry for CQG](trading-panels/order-entry/order-entry-for-cqg.md)
     * [Order Types](trading-panels/order-entry/order-types.md)
+    * [Order placing strategies](trading-panels/order-entry/order-placing-strategies/README.md)
+      * [Local SL/TP](trading-panels/order-entry/order-placing-strategies/local-sl-tp.md)
   * [DOM Trader](trading-panels/dom-trader/README.md)
     * [How to set up Dom  for scalping](trading-panels/dom-trader/how-to-set-up-dom-for-scalping.md)
   * [Copy Trading](trading-panels/copy-trading.md)

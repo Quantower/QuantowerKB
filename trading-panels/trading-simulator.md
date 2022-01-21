@@ -46,7 +46,7 @@ Note that each start and stop of the simulator creates a new trading account.
 
 In the general settings, you can set the initial balance for the test account, set the delay in execution, and configure the settings of netting for each instrument.
 
-![General settings for accounts and symbols](<../.gitbook/assets/image (346).png>)
+![General settings for accounts and symbols](<../.gitbook/assets/image (346) (1).png>)
 
 * **Initial balance** — the amount of money for the test account.
 

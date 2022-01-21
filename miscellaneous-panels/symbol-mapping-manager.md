@@ -24,7 +24,7 @@ The panel is a table where the trader adds symbols for trading, and also selects
 
 * Add a symbol where all trade operations (orders, positions) will be sent.
 
-![](<../.gitbook/assets/image (356) (1).png>)
+![](<../.gitbook/assets/image (356) (1) (1).png>)
 
 * Select the symbol for getting historical and real-time data (Level1 and Level2)
 
@@ -37,7 +37,7 @@ _**Mapping Type has two modes:**_
 
 **Custom mode** where you can select different symbols for different quotes and historical data. For example, you can set the real-time data from one data provider, but historical data from another source.
 
-![](<../.gitbook/assets/image (356).png>)
+![](<../.gitbook/assets/image (356) (1).png>)
 {% endhint %}
 
 * After the mapping of symbols is set up, you need to open the trading panel with the desired symbol to start trading

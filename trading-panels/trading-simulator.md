@@ -23,7 +23,7 @@ Note that each start and stop of the simulator creates a new trading account.
 
 * Launch the **Trading Simulator** from the Control Center. The panel is located in the _Trading_ category.
 
-![](<../.gitbook/assets/image (350) (1).png>)
+![](<../.gitbook/assets/image (350) (1) (1).png>)
 
 * Add desired symbols on which the trading simulation will take place.
 
@@ -31,7 +31,7 @@ Note that each start and stop of the simulator creates a new trading account.
 
 * Set the initial balance for trading accounts, execution delay, type of netting for selected symbols, and commission size.&#x20;
 
-![Set initial balance for trading](<../.gitbook/assets/image (352).png>)
+![Set initial balance for trading](<../.gitbook/assets/image (352) (1).png>)
 
 * Run the simulation by clicking the "**Start**" button. The status of the panel changes to _**Simulation is active.**_
 * Open required panels for analysis and trading. On the header of each panel that participates in the trading simulation, shows the corresponding inscription — **Simulator**.
@@ -46,7 +46,7 @@ Note that each start and stop of the simulator creates a new trading account.
 
 In the general settings, you can set the initial balance for the test account, set the delay in execution, and configure the settings of netting for each instrument.
 
-![General settings for accounts and symbols](<../.gitbook/assets/image (346) (1).png>)
+![General settings for accounts and symbols](<../.gitbook/assets/image (346) (1) (1).png>)
 
 * **Initial balance** — the amount of money for the test account.
 

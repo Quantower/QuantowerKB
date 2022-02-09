@@ -8,19 +8,53 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=vnMvHggnYv0" %}
 
+{% tabs %}
+{% tab title="Channels" %}
+![](<../../../.gitbook/assets/image (350).png>)
+{% endtab %}
 
+{% tab title="Movings" %}
+![](<../../../.gitbook/assets/image (351).png>)
+{% endtab %}
 
-{% page-ref page="channels/" %}
+{% tab title="Oscillators" %}
+![](<../../../.gitbook/assets/image (356).png>)![](<../../../.gitbook/assets/image (353).png>)
+{% endtab %}
 
-{% page-ref page="moving-averages/" %}
+{% tab title="Trend" %}
 
-{% page-ref page="oscillators/" %}
+{% endtab %}
 
-{% page-ref page="trend/" %}
+{% tab title="Volatility" %}
 
-{% page-ref page="volatility/" %}
+{% endtab %}
 
-{% page-ref page="volume/" %}
+{% tab title="Volume" %}
 
+{% endtab %}
+{% endtabs %}
 
+{% content-ref url="channels/" %}
+[channels](channels/)
+{% endcontent-ref %}
+
+{% content-ref url="moving-averages/" %}
+[moving-averages](moving-averages/)
+{% endcontent-ref %}
+
+{% content-ref url="oscillators/" %}
+[oscillators](oscillators/)
+{% endcontent-ref %}
+
+{% content-ref url="trend/" %}
+[trend](trend/)
+{% endcontent-ref %}
+
+{% content-ref url="volatility/" %}
+[volatility](volatility/)
+{% endcontent-ref %}
+
+{% content-ref url="volume/" %}
+[volume](volume/)
+{% endcontent-ref %}
 

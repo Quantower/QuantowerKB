@@ -59,11 +59,11 @@ This error message is most commonly encountered by _**new Rithmic users for vari
 
 * directly, without using RTrader Pro platform. This approach allows only one platform to be connected.
 
-![](<../.gitbook/assets/image (349) (1) (1).png>)
+![](<../.gitbook/assets/image (349) (1) (1) (1).png>)
 
 * through their RTrader Pro platform. This connection uses Plugin Mode and **allows you to connect multiple platforms at the same time (!)**
 
-![Use Rithmic plugin mode for multiple access](<../.gitbook/assets/image (352) (1).png>)
+![Use Rithmic plugin mode for multiple access](<../.gitbook/assets/image (352) (1) (1).png>)
 
 More often such error occurs for the following reasons:
 
@@ -87,7 +87,7 @@ More often such error occurs for the following reasons:
 
     _2) try to connect to Rithmic as a direct connection: close RTrader Pro platform, disable **Use Rtrader** option in Quantower settings and restart Quantower. After start Quantower again and connect to your account as a direct connection_
 
-![Plugin Mode in RTrader Pro is disabled but active in Quantower](<../.gitbook/assets/image (351) (1).png>)
+![Plugin Mode in RTrader Pro is disabled but active in Quantower](<../.gitbook/assets/image (351) (1) (1).png>)
 
 *   In the case of a direct connection (without RTrader Plugin mode), you cannot use the same login on different platforms at the same time. The connection can be only one login on one platform (!).&#x20;
 

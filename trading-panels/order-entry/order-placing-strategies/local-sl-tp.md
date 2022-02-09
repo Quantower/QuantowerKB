@@ -34,11 +34,11 @@ Quantower provides this functionality using the Orders placing strategy feature,
 
 To add a local Stop loss and Take profit orders, you should find the Placing automation control in any Order entry (separate panel or in the sidebars) and choose the "Local SL/TP" option. During the first selection, the platform will notify you about the possibility to read the documentation on this feature and agree to the risks to trading that may occur.
 
-![Select Local SL/TP strategy from the drop-down menu](<../../../.gitbook/assets/image (346).png>)
+![Select Local SL/TP strategy from the drop-down menu](<../../../.gitbook/assets/image (346) (1).png>)
 
 Next, you should open the Local SL/TP settings and set them up as you require.&#x20;
 
-![Open the Local SL/TP settings](<../../../.gitbook/assets/image (356).png>)
+![Open the Local SL/TP settings](<../../../.gitbook/assets/image (356) (1).png>)
 
 Here you will find the following parameters:
 

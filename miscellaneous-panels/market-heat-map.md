@@ -10,7 +10,7 @@ description: >-
 
 A trader can use this panel as a research tool to view the performance of various assets (stocks, cryptos, futures). Different colors will help you to quickly assess the state of assets relative to each other.
 
-![General vie of Market Heatmap panel](<../.gitbook/assets/image (349).png>)
+![General vie of Market Heatmap panel](<../.gitbook/assets/image (349) (1).png>)
 
 ### How to work with the Market heat map panel?
 

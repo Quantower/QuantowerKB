@@ -14,19 +14,19 @@ description: >-
 {% endtab %}
 
 {% tab title="Movings" %}
-![](<../../../.gitbook/assets/image (351).png>)
+![](<../../../.gitbook/assets/image (352).png>)
 {% endtab %}
 
 {% tab title="Oscillators" %}
-![](<../../../.gitbook/assets/image (356).png>)![](<../../../.gitbook/assets/image (353).png>)
+![](<../../../.gitbook/assets/image (356).png>)![](<../../../.gitbook/assets/image (354).png>)
 {% endtab %}
 
 {% tab title="Trend" %}
-
+![](<../../../.gitbook/assets/image (355).png>)
 {% endtab %}
 
 {% tab title="Volatility" %}
-
+![](<../../../.gitbook/assets/image (351).png>)
 {% endtab %}
 
 {% tab title="Volume" %}

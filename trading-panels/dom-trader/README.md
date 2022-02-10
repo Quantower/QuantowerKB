@@ -24,7 +24,7 @@ To place an order via Mouse Trading mode:
 * Left-click at specific prices in the right column will place a Sell Limit order (above the current market price). If you place the order below the current price it will be executed by market price;
 * _To place a **Stop order**_ is necessary to press and hold down the _**Shift**_ key and click at a required price.
 
-![Mouse trading mode in DOM Trader](../../.gitbook/assets/dom-trader-via-mouse.gif)
+![Mouse trading mode in DOM Trader](<../../.gitbook/assets/DOM trader trading.gif>)
 
 To place an order via Order Entry:
 
@@ -34,7 +34,7 @@ To place an order via Order Entry:
 * Set Stop Loss and Take Profit orders (Bracket Orders)
 * Confirm your placement by first checking all the parameters.
 
-![Placing a new position via Order Entry in DOM Trader ](../../.gitbook/assets/oco-dom.gif)
+![Placing a new position via Order Entry in DOM Trader](<../../.gitbook/assets/DOM trader trading OE.gif>)
 
 {% embed url="https://www.youtube.com/watch?v=8a19rPvy2nQ" %}
 DOM Trader panel in Quantower

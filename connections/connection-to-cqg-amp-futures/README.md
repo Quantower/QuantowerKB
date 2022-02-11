@@ -7,7 +7,8 @@ description: >-
 # Connection to CQG (AMP Futures)
 
 * ****[**How to Create a New Demo Account?**](./#how-to-start-trading-via-amp-cqg-connection)****
-* [**How to Find a Trading Symbol in Quantower for CQG connection?**](./#how-to-add-trading-symbols-from-the-cqg-connection)****
+* ****[**How to Find a Trading Symbol in Quantower for CQG connection?**](./#how-to-add-trading-symbols-from-the-cqg-connection)****
+* ****[**How to add TRIN, TICK market indicators into Quantower?**](./#how-to-add-trin-tick-market-indicators-into-quantower)****
 * ****[**Possible Errors with CQG connection**](errors-with-cqg.md)****
 * ****[**Amp trading**](../../trading-panels/order-entry/order-entry-for-cqg.md)****
 
@@ -26,7 +27,7 @@ Fill out the form on the AMP website and within several minutes you will get an 
 
 
 
-### How to add trading symbols from the CQG connection?
+### How to find trading symbols for the CQG connection?
 
 By default, we do not provide a predefined list of symbols (maybe in the next updates we will add default symbols). To find the desired symbol, go to the [**Tradable Symbols**](https://www.cqg.com/partners/exchanges/tradable-symbols) page on the CQG site where you can find a correct ticker. Also, we’ve prepared a list of the most frequent trading symbols for the futures market.
 

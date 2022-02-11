@@ -22,7 +22,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Trend" %}
-![](<../../../.gitbook/assets/image (355).png>)
+![](<../../../.gitbook/assets/image (355) (1).png>)
 {% endtab %}
 
 {% tab title="Volatility" %}

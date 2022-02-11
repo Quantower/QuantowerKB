@@ -65,3 +65,20 @@ By default, we do not provide a predefined list of symbols (maybe in the next up
 | Micro Gold Futures                    | MGC    |                                  |
 | Silver Futures                        | SIE    | ✔                                |
 | Copper Futures                        | CPE    |                                  |
+
+### How to add TRIN, TICK market indicators into Quantower?
+
+CQG provides access to market indicators that allow you to assess the overall sentiment of the market. **TRIN** and **TICK** are the most popular indicators that can be used to determine the short-term price movement.
+
+**TRIN** shows the ratio between the number of advancing and declining stocks (AD Ratio) to advancing and declining volume (AD volume).
+
+**TICK** shows the difference between the number of stocks trading on upticks and downticks. It uses as an intraday indicator.
+
+#### To get access to these indicators:
+
+* a subscription to this data is required (contact your broker to activate)
+* if you already have a subscription, open the connection settings and activate the **CQG Comp** exchange to download these symbols
+
+![Activate the exchange for getting TRIN, TICK indicators in Quantower](<../../.gitbook/assets/image (355).png>)
+
+* Connect to CQG and start typing the name of the required indicator in the symbol search field

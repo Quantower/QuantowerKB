@@ -76,9 +76,13 @@ CQG provides access to market indicators that allow you to assess the overall se
 
 #### To get access to these indicators:
 
-* a subscription to this data is required (contact your broker to activate)
+* a [**subscription**](https://www.ampfutures.com/trading-info/exchange-data-fees) to this data is required (contact your broker to activate)
 * if you already have a subscription, open the connection settings and activate the **CQG Comp** exchange to download these symbols
 
-![Activate the exchange for getting TRIN, TICK indicators in Quantower](<../../.gitbook/assets/image (355).png>)
+![Activate the exchange for getting TRIN, TICK indicators in Quantower](<../../.gitbook/assets/image (355) (1).png>)
 
 * Connect to CQG and start typing the name of the required indicator in the symbol search field
+
+![Type the name of required market indicator](<../../.gitbook/assets/image (355).png>)
+
+![Searching of necessary market indicator](../../.gitbook/assets/TRIN.gif)

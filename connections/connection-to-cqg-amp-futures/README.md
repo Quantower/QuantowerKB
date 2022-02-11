@@ -69,7 +69,7 @@ By default, we do not provide a predefined list of symbols (maybe in the next up
 
 ### How to add TRIN, TICK market indicators into Quantower?
 
-CQG provides access to market indicators that allow you to assess the overall sentiment of the market. **TRIN** and **TICK** are the most popular indicators that can be used to determine the short-term price movement.
+CQG provides access to [market indicators via AMP Futures](https://www.ampfutures.com/trading-info/cqg-supported-indexes) that allow you to assess the overall sentiment of the market. **TRIN** and **TICK** are the most popular indicators that can be used to determine the short-term price movement.
 
 **TRIN** shows the ratio between the number of advancing and declining stocks (AD Ratio) to advancing and declining volume (AD volume).
 

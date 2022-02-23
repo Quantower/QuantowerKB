@@ -12,3 +12,5 @@
 
 **Filter 1, Filter 2, Filter 3** — allows you to highlight the level with the necessary color if its value exceeds the set value.
 
+![Filters in Level2 indicator](<../../../../.gitbook/assets/image (356).png>)
+

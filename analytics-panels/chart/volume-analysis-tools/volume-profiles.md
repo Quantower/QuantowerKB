@@ -31,9 +31,12 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 * **Data type** – choose any of the [**20+ data types**](./#data-types-of-volume-analysis-tools) to build a step profile
 * **Histogram position** – places the profile on the left or right side relative to the starting point.
 * **Histogram label position** – determines the position of the data value: _left, right or none_
+* **Width of histogram, %** – determines the maximum width of the profile histogram.
+* **Show profile** – toggles the visibility of the profile, while the POC level (Point of Control) and Value area borders can be left on the chart
+* **Show POC** – Point of Control is the level with the maximum value that will be highlighted with the specified color.
+* **Extend POC until intersection** – the Point of Control line will be extended until it intersects with the future price. If an intersection is not encountered, then the Point of Control Line is extended to the right side of the chart.
 * **Show Value Area** – shows the price area with 70% of trading activity for the specified time range. The value of 70% is set by default, but the user can change it at his discretion.
-* **Show Value Area borders** – shows the outer limits of the Value Area as dotted lines
-* **Highlight maximum value** – levels with the maximum value are highlighted with the specified color
+* **Value Area borders** – shows the outer limits of the Value Area as dotted lines
 * **Show totals** – this option summarizes the data based on which the profile is built.
 
 ![Step profile with various data types](../../../.gitbook/assets/step-profile-data-types.gif)

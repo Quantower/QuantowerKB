@@ -21,7 +21,7 @@ Step profile displays volume profiles with a certain time step. For example, set
 
 You can enable Step Profile through the volume analysis toolbar or their settings.
 
-![Here is how you can activate Step Profile in Quantower platform](../../../.gitbook/assets/step-profile.gif)
+![Here is how you can activate Step Profile in Quantower platform](<../../../.gitbook/assets/step profile activation.gif>)
 
 #### **General settings of step profile**
 

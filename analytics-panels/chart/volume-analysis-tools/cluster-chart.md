@@ -26,35 +26,58 @@ Using this information, a trader can evaluate:
 Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the "_**Magnifier**_" icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart — _Cluster,_ [_Step Profile, Left Profile, Right Profile_](volume-profiles.md)_,_ [_Time Statistics_](time-statistics.md)_,_ [_Time Histogram_](time-histogram.md)_,_ [_Historical Time & Sales_](historical-time-and-sales.md)_,_ [_Custom Volume Profile_](volume-profiles.md#custom-volume-profile).
 
 1. Click on the **Cluster** and Enable it
-2. Select the Data type (you can select one or two different data types at once)
-3. Customize data visualization
-4. Use advanced settings (gear icon) for more detailed chart customization.
+2. Select the Type of visualization (Single, Double, or Imbalance view)
+3. Select the Data type (you can select one or two different data types at once)
+4. Customize data visualization
+5. Use advanced settings (gear icon) for more detailed chart customization.
 
-![Here is how you can activate Cluster chart in Quantower platform](../../../.gitbook/assets/how-to-enable-cluster-chart.gif)
+![Here is how you can activate Cluster chart in Quantower platform](<../../../.gitbook/assets/cluster activation.gif>)
 
 {% hint style="info" %}
 For more efficient analysis with cluster chart, you can display two different data types on one bar at once.
 {% endhint %}
 
+### Types of Cluster chart in Quantower
+
+Quantower provides 3 types of cluster charts for better data visualization:
+
+![Types of cluster charts (footprint) in Quantower](<../../../.gitbook/assets/image (360).png>)
+
+* **Single cluster** shows only one data type per bar. The list of main [**Data types**](cluster-chart.md#data-types-for-cluster-chart) you will find below
+
+![Cluster chart in Quantower with single type visualization](<../../../.gitbook/assets/image (357).png>)
+
+* **Double cluster** allows you to select two data types that will be shown in each bar. For example, you can select Volume for the first data type and Delta for the second data type.
+
+![Cluster chart in Quantower with a double type visualization](<../../../.gitbook/assets/image (361).png>)
+
+* **Imbalance** in the footprint chart highlights the price levels where a buy trade volume is excess over a sell trade volume. Diagonal Bid/Ask imbalance displays aggressive buy market orders lifting the offer and aggressive sell market orders hitting the bid.
+
+![Cluster chart in Quantower with an Imbalance view](<../../../.gitbook/assets/image (359).png>)
+
+{% hint style="info" %}
+In the Imbalance mode, by default, the **Sell volume (Bid)** is selected on the left side of the bar, and the **Buy volume (Ask)** on the right side. Other data types cannot be selected in this mode.
+{% endhint %}
+
 ### General settings of cluster chart
 
-Cluster chart has various settings allowing to display volume data from different sides. For example, you can choose different types of data for each bar, as well as configure colors, which will simplify the perception and analysis of volumes, trades, etc.
+Cluster chart has various settings allowing to display of volume data from different sides. For example, you can choose different types of data for each bar, as well as configure colors, which will simplify the perception and analysis of volumes, trades, etc.
 
 ![Select different data types for Cluster chart](../../../.gitbook/assets/cluster-data-type.gif)
 
-The main Data Types for cluster chart:
+### Data Types for cluster chart
 
-* **Trades** — it's the number of contracts (trades) that executed at each price level.
-* **Buy (or Sell) trades** — it's the number of Buy (or Sell) trades that executed at each price level.
-* **Volume** — the total size of all positions that executed at each price level or price range.
-* **Buy (or Sell) Volume** — the total size of all Buy (or sell) positions that executed at each price level or price range.
+* **Trades** — it's the number of contracts (trades) that are executed at each price level.
+* **Buy (or Sell) trades** — it's the number of Buy (or Sell) trades that are executed at each price level.
+* **Volume** — the total size of all positions that are executed at each price level or price range.
+* **Buy (or Sell) Volume** — the total size of all Buy (or sell) positions that are executed at each price level or price range.
 * **Buy (or Sell) Volume, %** — shows how many percent of the total volume relates to Buy (or Sell) trades
 * **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time. \
   Delta % = Delta / Volume \* 100
 * **Average size** — the average volume of the position that was executed at a certain price or price range.
 * **Average Buy size** — the average volume of a Buy position that was executed at a specific price or price range.
 * **Average Sell size** — the average volume of a Sell position that was executed at a specific price or price range.
-* **Max one trade volume (value and %)** — shows the maximum volume of a single trade that has executed at a certain price or price range (depending on the Custom Step (ticks) setting).
+* **Max one trade volume (value and %)** — shows the maximum volume of a single trade that has been executed at a certain price or price range (depending on the Custom Step (ticks) setting).
 * **Filtered volume (value and %)** — this parameter displays volumes that exceed the size specified in the filter. If the volume size is smaller than the one specified in the filter, then the values will be zero.
 * **Buy (or Sell) filtered volume** — the parameter displays Buy (or Sell) volumes that exceed the size specified in the filter.
 

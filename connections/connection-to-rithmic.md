@@ -11,6 +11,7 @@ To connect Quantower to a broker that uses Rithmic technology, it is sufficient 
 
 * ****[**Connection for Existed Accounts**](connection-to-rithmic.md#connection-for-existed-accounts)****
 * ****[**Connection for New Accounts**](connection-to-rithmic.md#connection-for-new-accounts)****
+* **How to activate Market by Order (MBO) data**
 * ****[**Problems during the connection to Rithmic**](connection-to-rithmic.md#problems-during-the-connection-to-rithmic)****
 
 ### Connection for Existed Accounts
@@ -40,6 +41,16 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 * Fill in all the required fields
 * Accept _**"Market Data Subscription Agreement"**_ and _"**Market Data Self-Certification"**_
 * Account will be activated within 30-60 minutes.
+
+## **How to activate Market by Order (MBO) data**
+
+**Market by Order (MBO) data** shows the order size of an individual position inside the level2 data for a certain price. To activate the displaying of this data, open the Connection settings and tick on "**Enable 'Market by Order' (MBO) mode**".
+
+![Enable Market by Order MBO data for Rithmic in Quantower platform](<../.gitbook/assets/image (353).png>)
+
+After activation, you can see this data in the DOM Trader panel.
+
+![Visual comparison between Market by Oder (MBO) and Market by Price (MBP)](<../.gitbook/assets/MBO vs MBP.png>)
 
 ## **Problems during the connection to Rithmic**
 

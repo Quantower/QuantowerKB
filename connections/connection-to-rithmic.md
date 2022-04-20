@@ -11,7 +11,7 @@ To connect Quantower to a broker that uses Rithmic technology, it is sufficient 
 
 * ****[**Connection for Existed Accounts**](connection-to-rithmic.md#connection-for-existed-accounts)****
 * ****[**Connection for New Accounts**](connection-to-rithmic.md#connection-for-new-accounts)****
-* **How to activate Market by Order (MBO) data**
+* ****[**How to activate Market by Order (MBO) data**](connection-to-rithmic.md#how-to-activate-market-by-order-mbo-data)****
 * ****[**Problems during the connection to Rithmic**](connection-to-rithmic.md#problems-during-the-connection-to-rithmic)****
 
 ### Connection for Existed Accounts
@@ -46,9 +46,13 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 
 **Market by Order (MBO) data** shows the order size of an individual position inside the level2 data for a certain price. To activate the displaying of this data, open the Connection settings and tick on "**Enable 'Market by Order' (MBO) mode**".
 
-![Enable Market by Order MBO data for Rithmic in Quantower platform](<../.gitbook/assets/image (353).png>)
+![Enable Market by Order MBO data for Rithmic in Quantower platform](<../.gitbook/assets/image (354).png>)
 
-After activation, you can see this data in the DOM Trader panel.
+After activation, you can see this data in the DOM Trader panel.&#x20;
+
+Open **Settings** in the DOM trader panel -> **Columns** -> **Bids/Ask** (if you use split mode or **Bids** and **Asks** as single columns) -> **Size coloring scheme** -> **MBO.**  Also, you can set **Filter orders more than (MBO)** if you want to see orders with a certain size.
+
+![Activating MBO data in Quantower platform](<../.gitbook/assets/image (353).png>)
 
 ![Visual comparison between Market by Oder (MBO) and Market by Price (MBP)](<../.gitbook/assets/MBO vs MBP.png>)
 

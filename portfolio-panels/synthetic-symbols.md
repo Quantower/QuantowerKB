@@ -31,7 +31,7 @@ For example, let's build an FX spread with multiple forex pairs (we will use fut
 
 * Click "**Add Leg**" to add another instrument. You can add an unlimited number of instruments by creating new "legs"
 
-![Click "Add Leg" to add another instrument for Synthetic symbol](<../.gitbook/assets/image (264).png>)
+![Click "Add Leg" to add another instrument for Synthetic symbol](<../.gitbook/assets/image (356).png>)
 
 {% hint style="success" %}
 **Trade Ratio** these are the number of contracts for trading of each leg in a spread. They are responsible for trading only!
@@ -40,18 +40,18 @@ For example, let's build an FX spread with multiple forex pairs (we will use fut
 {% endhint %}
 
 * Set the **Price Multiplier** for each leg to build a chart for our spread. In our example, we set the following ratios:\
-    1 negative coefficient for JY6U21 (Japanese Yen) \
-    1 positive coefficient for CA6U21 (Canadian Dollar)\
-    1 positive coefficient for DA6U21 (Australian Dollar)\
-    1 negative coefficient for SF6U21 (Swiss Franc)\
+  &#x20; 1 negative coefficient for JY6U22 (Japanese Yen) \
+  &#x20; 1 positive coefficient for CA6U22 (Canadian Dollar)\
+  &#x20; 1 positive coefficient for DA6U22 (Australian Dollar)\
+  &#x20; 1 negative coefficient for SF6U22 (Swiss Franc)\
 
 * Click the "**Save**" button to calculate the received spread.
 
-![](<../.gitbook/assets/image (262).png>)
+![](<../.gitbook/assets/image (357).png>)
 
 * Open the Chart panel and select your spread from the list of instruments or open the spread directly from the Synthetic symbol panel.
 
-![Open the spread in the desired panel](<../.gitbook/assets/image (255).png>)
+![Open the spread in the desired panel](<../.gitbook/assets/image (355).png>)
 
 ![FX Spread of multiple forex pairs](<../.gitbook/assets/image (256).png>)
 

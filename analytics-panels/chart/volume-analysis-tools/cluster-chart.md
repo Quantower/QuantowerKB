@@ -45,7 +45,7 @@ Quantower provides 3 types of cluster charts for better data visualization:
 
 * **Single cluster** shows only one data type per bar. The list of main [**Data types**](cluster-chart.md#data-types-for-cluster-chart) you will find below
 
-![Cluster chart in Quantower with single type visualization](<../../../.gitbook/assets/image (357).png>)
+![Cluster chart in Quantower with single type visualization](<../../../.gitbook/assets/image (357) (1).png>)
 
 * **Double cluster** allows you to select two data types that will be shown in each bar. For example, you can select Volume for the first data type and Delta for the second data type.
 

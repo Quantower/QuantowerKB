@@ -92,7 +92,7 @@ More often such error occurs for the following reasons:
 
     _**Solution:**_ try both connection options in Quantower
 
-![](<../.gitbook/assets/image (355) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (355) (1) (1) (1) (1) (1) (1).png>)
 
 *   If Quantower was connected to Rithmic before via the RTrader Plugin (i.e. the checkbox Use RTrader is active), and at the moment the RTrader Pro platform is not connected or the **Allow Plugins** option is not active there, then Quantower will not be able to connect.
 

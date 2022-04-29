@@ -57,16 +57,17 @@ The general view of DOM Trader settings menu has the following subsections. Let'
 ![](<../../.gitbook/assets/image (147).png>)
 
 * **Custom title.** You can rename the DOM Trader panel as you wish.
-* **Refresh rate (ms)** controls the rate at which market data is updated. This determines how often the platform processes changes in depth of market. With a value of 1, all changes to the level2 data will be processed immediately. We recommend using value 50.\
+* **Refresh rate (ms)** controls the rate at which market data is updated. This determines how often the platform processes changes in depth of market. With a value of 1, all changes to the level2 data will be processed immediately. We recommend using value 50.
+* **Use custom tick size.** This setting changes the price step by aggregating the level2 data.&#x20;
 
-* **Use custom tick size.**&#x20;
+There are two ways to change the aggregation of ticks in the DOM trader:
 
-There are two ways to change the aggregation of ticks in the DOM trader&#x20;
+1. By holding CTRL button and spinning the mouse wheel
+2. Set the parameter manually in the panel's settings
 
-1. Press CTRL + and spin the mouse wheel&#x20;
-2. Set the parameter manually in the panel settings
+![Applying of custom tick size by holding CTRL button](<../../.gitbook/assets/DOM Trader aggregation of ticks.gif>)
 
-![](../../.gitbook/assets/animaciya-7-.gif)
+![Applying of custom tick size via DOM trader settings](<../../.gitbook/assets/image (356).png>)
 
 * **Short price format**
 * **Split size columns.** A mode that allows you to place Ask and Bid volume on one or different sides of the Size column;

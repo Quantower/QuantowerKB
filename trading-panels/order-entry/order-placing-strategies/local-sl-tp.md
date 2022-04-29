@@ -38,7 +38,7 @@ To add a local Stop loss and Take profit orders, you should find the Placing aut
 
 Next, you should open the Local SL/TP settings and set them up as you require.&#x20;
 
-![Open the Local SL/TP settings](<../../../.gitbook/assets/image (356) (1) (1) (1).png>)
+![Open the Local SL/TP settings](<../../../.gitbook/assets/image (356) (1) (1) (1) (1).png>)
 
 Here you will find the following parameters:
 

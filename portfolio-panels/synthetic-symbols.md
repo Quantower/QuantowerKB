@@ -31,7 +31,7 @@ For example, let's build an FX spread with multiple forex pairs (we will use fut
 
 * Click "**Add Leg**" to add another instrument. You can add an unlimited number of instruments by creating new "legs"
 
-![Click "Add Leg" to add another instrument for Synthetic symbol](<../.gitbook/assets/image (356).png>)
+![Click "Add Leg" to add another instrument for Synthetic symbol](<../.gitbook/assets/image (356) (1).png>)
 
 {% hint style="success" %}
 **Trade Ratio** these are the number of contracts for trading of each leg in a spread. They are responsible for trading only!

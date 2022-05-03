@@ -26,7 +26,7 @@ This action is available in the General settings screen hotkeys. It lets you pre
 Once added, this action requires to be pre-configured first. By clicking the **\[Gear]** button, you will get an [Order Entry panel](../trading-panels/order-entry/) where you should specify the order details and then click the **\[Save]** button. Now assign some hotkey for this action, and you are ready to go.
 
 {% hint style="info" %}
-Please note that if you have turned off the order placement confirmation, the platform won't notify you when doing this using the hotkey also. You can enable notifications before order placement in the Confirmation & Warnings section of the General settings screen.
+Please note that if you have turned off the order placement confirmation, the platform won't notify you when doing this using the hotkey also. You can enable notifications before order placement in the [Confirmation & Warnings](general-settings-1.md#confirmations) section of the General settings screen.
 {% endhint %}
 
 ### Run strategy&#x20;

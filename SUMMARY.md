@@ -31,6 +31,7 @@
   * [Setup Actions & Advanced filters](general-settings/setup-actions-and-advanced-filters.md)
   * [Alerts](general-settings/alerts.md)
   * [General settings](general-settings/general-settings-1.md)
+  * [Custom hotkeys](general-settings/custom-hotkeys.md)
 * [Connections](connections/README.md)
   * [Connections manager](connections/connections-manager.md)
   * [Connection to Binance Futures](connections/connection-to-binance-futures/README.md)

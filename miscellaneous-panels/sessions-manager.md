@@ -12,7 +12,7 @@ You can find a new Sessions manager screen in a Miscellaneous section of the Qua
 
 ## Create sessions template
 
-![Sessions ate creation screen](<../.gitbook/assets/image3 (1).png>)
+![Sessions ate creation screen](<../.gitbook/assets/image3 (1) (1).png>)
 
 Click the <mark style="background-color:blue;">**Sessions templates**</mark> button on the toolbar and <mark style="background-color:blue;">**Create new**</mark> to open the Session template creation screen. Here you can set up a new template's parameters, such as:&#x20;
 
@@ -50,7 +50,7 @@ Next, select the Sessions template to assign and click the "Assign" button. From
 
 ## Apply template via the panel settings
 
-![Apply custom sessions template in panel settings](../.gitbook/assets/image1.png)
+![Apply custom sessions template in panel settings](<../.gitbook/assets/image1 (1).png>)
 
 While the above workflow is about the centralized session's assignment, we left a possibility to quickly assign some sessions templates on a panel basis. Just open the panel's settings and find the Custom session parameter (usually in the General section). Initially, it is set up to Default mode, meaning that the panel will use the Sessions manager setting or the defaults provided by the vendor. Still, you can easily override it and use any available sessions template (use the Sessions manager to manage your templates).
 

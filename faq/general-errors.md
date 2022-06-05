@@ -1,10 +1,16 @@
 # General Errors
 
+* **How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?**
+* **Error 'Application is already running'**
+* **An error occurred during platform initialization: Exception has been thrown by the target of an invocation**
+* **An error occurred during platform initialization: Fail to load dll signatures**
+* **Trendlines are moving on tick charts. How to resolve it?**
+
 ## How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?
 
 ![](<../.gitbook/assets/image (164).png>)
 
-The easiest method is starting troubleshooting with simply **disabling Game Bar**. This could be helpful to remove the key combination and use it for other purposes. Now, you can take these steps:
+The easiest method is starting troubleshooting with simply **disabling Game Bar**. This could be helpful to remove the key combination and use it for other purposes.&#x20;Now, you can take these steps:
 
 * Press the **Win + I** combination key to open Windows Settings
 * Go to **Gaming > Gaming bar**.
@@ -26,7 +32,7 @@ More details you can find here [https://www.minitool.com/news/ms-gaming-overlay-
 
 ## An error occurred during platform initialization: Exception has been thrown by the target of an invocation
 
-This error occurs due to the removal of the file by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform. 
+This error occurs due to the removal of the file by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform.&#x20;
 
 ![](<../.gitbook/assets/image (196).png>)
 
@@ -40,7 +46,7 @@ To be 100% sure, that this file is not dangerous, you can check it manually usin
 
 As a solution, we recommend you remove Avast or AVG antiviruses (completely) and reinstall the platform.
 
-Some times Kaspersky delete our files. 
+Some times Kaspersky delete our files.&#x20;
 
 ![](<../.gitbook/assets/image (223).png>)
 
@@ -54,3 +60,6 @@ This error can occur for several reasons:
 * The platform has **not fully installed the files** to work correctly. Please reinstall the platform.
 
 ![Full list of folders and files for Quantower](<../.gitbook/assets/image (216).png>)
+
+## Trendlines are moving on tick charts. How to resolve it?
+

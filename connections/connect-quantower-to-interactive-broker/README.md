@@ -37,7 +37,7 @@ This guide will help you to configure the connection to the Interactive Brokers 
 Video connection guide to Interactive Brokers
 {% endembed %}
 
-* [**Download**](https://www.quantower.com) **** and install Quantower trading platform (if you haven’t it yet) of an appropriate version (32 bit or 64 bit), and make sure that your PC complies with the [**minimum requirements**](../../getting-started/installation.md#pc-requirements)****\
+* [**Download**](https://www.quantower.com/) **** and install Quantower trading platform (if you haven’t it yet) of an appropriate version (32 bit or 64 bit), and make sure that your PC complies with the [**minimum requirements**](../../getting-started/installation.md#pc-requirements)****\
   ****
 * To connect to IB, you need to have (or create) a [**demo**](https://www.interactivebrokers.co.uk/en/index.php?f=1286) or [**real account**](https://www.interactivebrokers.com/en/home.php) by clicking the appropriate links on the Interactive Brokers official website.
 
@@ -69,7 +69,7 @@ The difference between IB Gateway and TWS is that IB Gateway has a lighter and l
 
 ![](<../../.gitbook/assets/image (326).png>)
 
-* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check **** [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com), via email info@quantower.com.
+* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check **** [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com/), via email info@quantower.com.
 
 ## &#x20;How to connect to Interactive Brokers using IB Gateway
 
@@ -93,7 +93,7 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
 ![Check connection settings and Click on the Connect button once you are logged in to IB Gateway](<../../.gitbook/assets/image (330).png>)
 
-* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check **** [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com), via email info@quantower.com.
+* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check **** [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com/), via email info@quantower.com.
 
 ## Problems during the connection to Interactive Brokers
 

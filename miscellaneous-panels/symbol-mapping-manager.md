@@ -28,7 +28,7 @@ The panel is a table where the trader adds symbols for trading, and also selects
 
 * Select the symbol for getting historical and real-time data (Level1 and Level2)
 
-![](<../.gitbook/assets/image (357) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (357) (1) (1) (1) (1).png>)
 
 {% hint style="info" %}
 _**Mapping Type has two modes:**_

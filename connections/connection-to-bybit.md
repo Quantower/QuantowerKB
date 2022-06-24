@@ -26,7 +26,7 @@ Note, that in the platform, you can connect to the exchange in two modes:
 {% hint style="info" %}
 For **REAL Trading** please create an account on Bybit.com [https://www.bybit.com/en-US/invite/?ref=n9X0D](https://www.bybit.com/en-US/invite/?ref=n9X0D)
 
-For **DEMO Trading** please create an account on Testnet.Bybit.com [https://testnet.bybit.com/](https://testnet.bybit.com)
+For **DEMO Trading** please create an account on Testnet.Bybit.com [https://testnet.bybit.com/](https://testnet.bybit.com/)
 {% endhint %}
 
 Go to the [**Bybit official website** using this link](https://www.bybit.com/en-US/invite?ref=n9X0D) and go through the procedure for registering a new account on the exchange.

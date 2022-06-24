@@ -26,7 +26,7 @@ To connect Quantower platform to FxPro broker and send trading orders, you need 
 To enter the Quantower platform, use the **cTrader ID** and **password** that you set in the previous step.
 {% endhint %}
 
-* Before connecting for the first time through Quantower platform, you need to activate your account in the cTrader system. You can do it via FxPro **cTrader Web-based** platform [https://ct.fxpro.com/](https://ct.fxpro.com)
+* Before connecting for the first time through Quantower platform, you need to activate your account in the cTrader system. You can do it via FxPro **cTrader Web-based** platform [https://ct.fxpro.com/](https://ct.fxpro.com/)
 
 ![](../../.gitbook/assets/fxpro-ctrader-activation.png)
 

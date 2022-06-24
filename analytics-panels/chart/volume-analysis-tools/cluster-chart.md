@@ -45,7 +45,7 @@ Quantower provides 3 types of cluster charts for better data visualization:
 
 * **Single cluster** shows only one data type per bar. The list of main [**Data types**](cluster-chart.md#data-types-for-cluster-chart) you will find below
 
-![Cluster chart in Quantower with single type visualization](<../../../.gitbook/assets/image (357) (1).png>)
+![Cluster chart in Quantower with single type visualization](<../../../.gitbook/assets/image (357) (1) (1).png>)
 
 * **Double cluster** allows you to select two data types that will be shown in each bar. For example, you can select Volume for the first data type and Delta for the second data type.
 
@@ -53,7 +53,7 @@ Quantower provides 3 types of cluster charts for better data visualization:
 
 * **Imbalance** in the footprint chart highlights the price levels where a buy trade volume is excess over a sell trade volume. Diagonal Bid/Ask imbalance displays aggressive buy market orders lifting the offer and aggressive sell market orders hitting the bid.
 
-![Cluster chart in Quantower with an Imbalance view](<../../../.gitbook/assets/image (359).png>)
+![Cluster chart in Quantower with an Imbalance view](<../../../.gitbook/assets/image (359) (1).png>)
 
 {% hint style="info" %}
 In the Imbalance mode, by default, the **Sell volume (Bid)** is selected on the left side of the bar, and the **Buy volume (Ask)** on the right side. Other data types cannot be selected in this mode.

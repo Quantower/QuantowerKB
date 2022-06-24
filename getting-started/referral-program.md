@@ -19,7 +19,7 @@ How does Quantower Referral Program work?
 
 ### **There are 4 simple steps to start earning by inviting your friends to Quantower:**
 
-* **Get a link with your code.** Any registered customer of Quantower can find its referral code from within the personal account page ([https://accounts.quantower.com](https://accounts.quantower.com)) \
+* **Get a link with your code.** Any registered customer of Quantower can find its referral code from within the personal account page ([https://accounts.quantower.com](https://accounts.quantower.com/)) \
   You will be able to **copy the complete referral link to start sharing immediately**.
 
 ![](<../.gitbook/assets/image (153).png>)

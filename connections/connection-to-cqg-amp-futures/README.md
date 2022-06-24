@@ -11,6 +11,7 @@ description: >-
 * ****[**How to add TRIN, TICK market indicators into Quantower?**](./#how-to-add-trin-tick-market-indicators-into-quantower)****
 * ****[**Possible Errors with CQG connection**](errors-with-cqg.md)****
 * ****[**Trading with AMP/CQG (key points) — OCO, Brackets, Multi-Brackets**](../../trading-panels/order-entry/order-entry-for-cqg.md)****
+* **How to set custom trading sessions for futures on CQG, Rithmic?**
 
 CQG provides access to more than [75 world exchanges](https://www.cqg.com/partners/exchanges), allowing you to trade futures, options, stocks, bonds, commodity spreads, and much more.\
 Besides, traders get the opportunity to work with a wide range of analytical tools, like [volume profiles](../../analytics-panels/chart/volume-analysis-tools/volume-profiles.md), [footprint (cluster chart)](../../analytics-panels/chart/volume-analysis-tools/cluster-chart.md), [VWAP](../../analytics-panels/chart/vwap.md), [Power Trades](../../analytics-panels/chart/power-trades.md), [TPO chart](../../analytics-panels/tpo-chart.md), [DOM Trader](../../trading-panels/dom-trader/), [Option Analytics](../../analytics-panels/option-analytics.md) and [DOM Surface](../../analytics-panels/dom-surface.md) panels.
@@ -87,3 +88,21 @@ CQG provides access to [market indicators via AMP Futures](https://www.ampfuture
 ![Type the name of required market indicator](<../../.gitbook/assets/image (355) (1).png>)
 
 ![Searching of necessary market indicator](../../.gitbook/assets/TRIN.gif)
+
+### **How to set custom trading sessions for futures on CQG, Rithmic?**
+
+Due to the fact that data providers do not provide information about trading sessions for trading assets, traders may face the problem of incorrect display of [volume analysis data](../../analytics-panels/chart/volume-analysis-tools/) for **Regular trading hours (RTH)** and for **Electronic trading hours (ETH)**. To solve this problem, a trader can set up the necessary sessions for an individual instrument, exchange, or the entire connection to the provider.
+
+As an example, let's set the time of RTH and ETH sessions for CME Indexes:
+
+* Open [<mark style="background-color:blue;">**Sessions Manager**</mark>](../../miscellaneous-panels/sessions-manager.md) panel in the Misc section
+
+![Sessions Manager panel in Quantower](<../../.gitbook/assets/image (359).png>)
+
+* Click the <mark style="background-color:blue;">**Sessions templates**</mark> button on the toolbar and <mark style="background-color:blue;">**Create new**</mark> to open the Session template creation screen.
+
+![](<../../.gitbook/assets/image (357).png>)
+
+* Set up a new template's parameters, such as: **Template's name, Timezone, Session's name, Time** and **Days.** Once you finish setting the sessions template, click the <mark style="background-color:blue;">**Save**</mark> button.
+
+![](<../../.gitbook/assets/image (358).png>)

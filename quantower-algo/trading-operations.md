@@ -6,7 +6,7 @@ description: >-
 
 # Trading operations
 
-A key part of each strategy is a trading algorithm it implements. In most cases it requires possibilities of placing a different type of orders, modifying and canceling them. In this topic, we will show you how to get access to this operations via [**Quantower API**](https://api.quantower.com).
+A key part of each strategy is a trading algorithm it implements. In most cases it requires possibilities of placing a different type of orders, modifying and canceling them. In this topic, we will show you how to get access to this operations via [**Quantower API**](https://api.quantower.com/).
 
 ## Placing orders
 

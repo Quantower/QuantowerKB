@@ -11,7 +11,7 @@ description: >-
 * ****[**How to add TRIN, TICK market indicators into Quantower?**](./#how-to-add-trin-tick-market-indicators-into-quantower)****
 * ****[**Possible Errors with CQG connection**](errors-with-cqg.md)****
 * ****[**Trading with AMP/CQG (key points) — OCO, Brackets, Multi-Brackets**](../../trading-panels/order-entry/order-entry-for-cqg.md)****
-* **How to set custom trading sessions for futures on CQG, Rithmic?**
+* ****[**How to set custom trading sessions for futures on CQG, Rithmic?**](./#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic)****
 
 CQG provides access to more than [75 world exchanges](https://www.cqg.com/partners/exchanges), allowing you to trade futures, options, stocks, bonds, commodity spreads, and much more.\
 Besides, traders get the opportunity to work with a wide range of analytical tools, like [volume profiles](../../analytics-panels/chart/volume-analysis-tools/volume-profiles.md), [footprint (cluster chart)](../../analytics-panels/chart/volume-analysis-tools/cluster-chart.md), [VWAP](../../analytics-panels/chart/vwap.md), [Power Trades](../../analytics-panels/chart/power-trades.md), [TPO chart](../../analytics-panels/tpo-chart.md), [DOM Trader](../../trading-panels/dom-trader/), [Option Analytics](../../analytics-panels/option-analytics.md) and [DOM Surface](../../analytics-panels/dom-surface.md) panels.
@@ -105,4 +105,20 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 
 * Set up a new template's parameters, such as: **Template's name, Timezone, Session's name, Time** and **Days.** Once you finish setting the sessions template, click the <mark style="background-color:blue;">**Save**</mark> button.
 
-![](<../../.gitbook/assets/image (358).png>)
+{% hint style="info" %}
+Trading hours for RTH / ETH sessions of CME Indexes (ES, NQ, RTY etc.) you can find on [CME Group website](https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500.contractSpecs.html).
+{% endhint %}
+
+{% tabs %}
+{% tab title="Time for RTH session" %}
+![Custom trading session for CME Indexes for Regular trading Hours](<../../.gitbook/assets/image (347).png>)
+{% endtab %}
+
+{% tab title="Time for ETH session" %}
+![Custom trading session for CME Indexes for Electronic trading Hours](<../../.gitbook/assets/image (352).png>)
+{% endtab %}
+
+{% tab title="Time for full day (RTH+ETH)" %}
+![Custom trading session for CME Indexes for full day (ETH+RTH)](<../../.gitbook/assets/image (360).png>)
+{% endtab %}
+{% endtabs %}

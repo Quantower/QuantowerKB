@@ -20,7 +20,7 @@ The panel is a table where the trader adds symbols for trading, and also selects
 
 * Launch the **Symbol Mapping** panel from the Control Center. The panel is located in the _Misc_ category.
 
-![](<../.gitbook/assets/image (347) (1).png>)
+![](<../.gitbook/assets/image (347) (1) (1).png>)
 
 * Add a symbol where all trade operations (orders, positions) will be sent.
 

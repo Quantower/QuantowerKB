@@ -78,7 +78,7 @@ This error message is most commonly encountered by _**new Rithmic users for vari
 
 * through their RTrader Pro platform. This connection uses Plugin Mode and **allows you to connect multiple platforms at the same time (!)**
 
-![Use Rithmic plugin mode for multiple access](<../.gitbook/assets/image (352) (1) (1).png>)
+![Use Rithmic plugin mode for multiple access](<../.gitbook/assets/image (352) (1) (1) (1).png>)
 
 More often such error occurs for the following reasons:
 

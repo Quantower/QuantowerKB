@@ -14,7 +14,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Movings" %}
-![](<../../../.gitbook/assets/image (352).png>)
+![](<../../../.gitbook/assets/image (352) (1).png>)
 {% endtab %}
 
 {% tab title="Oscillators" %}

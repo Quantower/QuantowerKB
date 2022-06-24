@@ -41,7 +41,7 @@ For more efficient analysis with cluster chart, you can display two different da
 
 Quantower provides 3 types of cluster charts for better data visualization:
 
-![Types of cluster charts (footprint) in Quantower](<../../../.gitbook/assets/image (360).png>)
+![Types of cluster charts (footprint) in Quantower](<../../../.gitbook/assets/image (360) (1).png>)
 
 * **Single cluster** shows only one data type per bar. The list of main [**Data types**](cluster-chart.md#data-types-for-cluster-chart) you will find below
 

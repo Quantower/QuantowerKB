@@ -46,7 +46,7 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 
 **Market by Order (MBO) data** shows the order size of an individual position inside the level2 data for a certain price. To activate the displaying of this data, open the Connection settings and tick on "**Enable 'Market by Order' (MBO) mode**".
 
-![Enable Market by Order MBO data for Rithmic in Quantower platform](<../.gitbook/assets/image (354).png>)
+![Enable Market by Order MBO data for Rithmic in Quantower platform](<../.gitbook/assets/image (354) (1).png>)
 
 After activation, you can see this data in the DOM Trader panel.&#x20;
 

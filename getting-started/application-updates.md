@@ -10,7 +10,7 @@ Our team strives to release the new updates as soon as possible, usually at leas
 
 Quantower automatically checks for updates on start and re-checks them every 10 minutes in the background. It helps you to get to know about the latest updates just after we release them.
 
-![The green arrow on the logo indicates that a new update is available](../.gitbook/assets/screenshot_128.png)
+![The green arrow on the logo indicates that a new update is available](../.gitbook/assets/screenshot\_128.png)
 
 A green arrow will appear near the logo when a new version is available. Сlick on the "_**Logo**_" icon and open the sidebar, then press the “_**NEW VERSION**_” button at the bottom and get on the About screen.
 
@@ -26,15 +26,11 @@ All of your local settings will be saved and applied for future updates because 
 
 If you use the platform with a too old version, it will ask you to update it to the latest version to avoid any issues with connections and trading operation.
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](<../.gitbook/assets/image (96).png>)
 
 ## Rollback to the previous version
 
 The rollback function allows you to go back to any previously supported version and switch to it in a few clicks.
 
-![Rollback to previous Quantower version \(new version\)](../.gitbook/assets/rollback.gif)
-
-![Rollback to previous Quantower version \(here is how the old version of this window looked like\)](../.gitbook/assets/rollbackto-previous-version.png)
-
-
+![Rollback to previous Quantower version (new version)](../.gitbook/assets/rollback.gif)
 

@@ -16,7 +16,7 @@ At first go to connection manager and find RSS connection
 
 If necessary, you can add any news source. To do this, specify a link to this source in the connection settings. Here you can see the list of currently available feeds. You can change the name or URL per each feed item. In case you would like to add a new feed, press the **\[ + ]** button on the right top corner of connection settings. This action will add a blank row to the feeds list, where you can set up the required feed access settings.
 
-![Add multiple News feeds to RSS connection](<../.gitbook/assets/image (358) (1) (1).png>)
+![Add multiple News feeds to RSS connection](<../.gitbook/assets/image (358) (1) (1) (1).png>)
 
 {% hint style="warning" %}
 If you set up the incorrect feed URL, you will not see its news. Please be careful with providing the correct URL.

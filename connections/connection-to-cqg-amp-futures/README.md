@@ -97,7 +97,7 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 
 * Open [<mark style="background-color:blue;">**Sessions Manager**</mark>](../../miscellaneous-panels/sessions-manager.md) panel in the Misc section
 
-![Sessions Manager panel in Quantower](<../../.gitbook/assets/image (359) (1).png>)
+![Sessions Manager panel in Quantower](<../../.gitbook/assets/image (359) (1) (1).png>)
 
 * Click the <mark style="background-color:blue;">**Sessions templates**</mark> button on the toolbar and <mark style="background-color:blue;">**Create new**</mark> to open the Session template creation screen.
 
@@ -125,7 +125,7 @@ Trading hours for RTH / ETH sessions of CME Indexes (ES, NQ, RTY etc.) you can f
 
 * To assign previously created templates to some symbol, you need to call the Sessions assignment screen by clicking the <mark style="background-color:blue;">**Assign sessions**</mark> button on the toolbar.
 
-![](<../../.gitbook/assets/image (359).png>)
+![](<../../.gitbook/assets/image (359) (1).png>)
 
 * Apply or switch between different sessions on desired panels (chart, DOM trader, TPO etc.). Just open the panel's settings and find the <mark style="background-color:blue;">**Custom session**</mark> parameter (usually in the General section).
 

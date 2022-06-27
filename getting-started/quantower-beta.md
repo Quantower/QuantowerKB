@@ -12,7 +12,5 @@ description: >-
 
 Activate the **"Use Beta Version"** option and [**update the platform**](application-updates.md) to the latest version.
 
-![](../.gitbook/assets/image%20%28303%29.png)
-
-
+![](<../.gitbook/assets/image (353).png>)
 

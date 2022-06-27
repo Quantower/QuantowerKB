@@ -52,7 +52,7 @@ After activation, you can see this data in the DOM Trader panel.&#x20;
 
 Open **Settings** in the DOM trader panel -> **Columns** -> **Bids/Ask** (if you use split mode or **Bids** and **Asks** as single columns) -> **Size coloring scheme** -> **MBO.**  Also, you can set **Filter orders more than (MBO)** if you want to see orders with a certain size.
 
-![Activating MBO data in Quantower platform](<../.gitbook/assets/image (353).png>)
+![Activating MBO data in Quantower platform](<../.gitbook/assets/image (353) (1).png>)
 
 ![Visual comparison between Market by Oder (MBO) and Market by Price (MBP)](<../.gitbook/assets/MBO vs MBP.png>)
 

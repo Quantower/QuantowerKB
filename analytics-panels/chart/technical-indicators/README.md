@@ -30,7 +30,7 @@ description: >-
 {% endtab %}
 
 {% tab title="Volume" %}
-![](<../../../.gitbook/assets/image (353) (1).png>)
+![](<../../../.gitbook/assets/image (353) (1) (1).png>)
 {% endtab %}
 {% endtabs %}
 

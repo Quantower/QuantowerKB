@@ -53,7 +53,6 @@
   * [Connection to MetaStock](connections/connection-to-metastock.md)
   * [Connection to IQFeed](connections/connection-to-iqfeed.md)
   * [Connection to Exante](connections/connection-to-exante.md)
-  * [Connection to Quandl](connections/connection-to-quandl.md)
 * [Analytics Panels](analytics-panels/README.md)
   * [Chart](analytics-panels/chart/README.md)
     * [Chart Overview](analytics-panels/chart/general-overview.md)

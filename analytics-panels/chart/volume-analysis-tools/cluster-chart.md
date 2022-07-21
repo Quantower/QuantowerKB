@@ -49,7 +49,7 @@ Quantower provides 3 types of cluster charts for better data visualization:
 
 * **Double cluster** allows you to select two data types that will be shown in each bar. For example, you can select Volume for the first data type and Delta for the second data type.
 
-![Cluster chart in Quantower with a double type visualization](<../../../.gitbook/assets/image (361).png>)
+![Cluster chart in Quantower with a double type visualization](<../../../.gitbook/assets/image (361) (1).png>)
 
 * **Imbalance** in the footprint chart highlights the price levels where a buy trade volume is excess over a sell trade volume. Diagonal Bid/Ask imbalance displays aggressive buy market orders lifting the offer and aggressive sell market orders hitting the bid.
 

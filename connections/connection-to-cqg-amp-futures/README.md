@@ -101,7 +101,7 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 
 * Click the <mark style="background-color:blue;">**Sessions templates**</mark> button on the toolbar and <mark style="background-color:blue;">**Create new**</mark> to open the Session template creation screen.
 
-![](<../../.gitbook/assets/image (357).png>)
+![](<../../.gitbook/assets/image (357) (1).png>)
 
 * Set up a new template's parameters, such as: **Template's name, Timezone, Session's name, Time** and **Days.** Once you finish setting the sessions template, click the <mark style="background-color:blue;">**Save**</mark> button.
 

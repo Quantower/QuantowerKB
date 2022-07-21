@@ -47,7 +47,7 @@ For example, let's build an FX spread with multiple forex pairs (we will use fut
 
 * Click the "**Save**" button to calculate the received spread.
 
-![](<../.gitbook/assets/image (357) (1).png>)
+![](<../.gitbook/assets/image (357) (1) (1).png>)
 
 * Open the Chart panel and select your spread from the list of instruments or open the spread directly from the Synthetic symbol panel.
 

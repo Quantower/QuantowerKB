@@ -36,7 +36,7 @@ Note that each start and stop of the simulator creates a new trading account.
 * Run the simulation by clicking the "**Start**" button. The status of the panel changes to _**Simulation is active.**_
 * Open required panels for analysis and trading. On the header of each panel that participates in the trading simulation, shows the corresponding inscription — **Simulator**.
 
-![You can open panels that linked to the simulation process](<../.gitbook/assets/image (348) (1).png>)
+![You can open panels that linked to the simulation process](<../.gitbook/assets/image (348) (1) (1).png>)
 
 {% hint style="warning" %}
 "**Stop**" button will abort the simulation process as well as cancel all positions and orders.

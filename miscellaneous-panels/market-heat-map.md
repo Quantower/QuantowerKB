@@ -16,7 +16,7 @@ A trader can use this panel as a research tool to view the performance of variou
 
 * Launch the **Marker heat map** panel from the Control Center. The panel is located in the _Misc_ category.
 
-![](<../.gitbook/assets/image (348).png>)
+![](<../.gitbook/assets/image (348) (1).png>)
 
 * Add the necessary symbols by clicking on the icon "+".
 

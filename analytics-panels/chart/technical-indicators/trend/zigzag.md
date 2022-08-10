@@ -4,7 +4,7 @@
 
 ZigZag is a trend following indicator which allows to determing trend swings. A combination of ZigZag highs and lows can be used as a support or resistance level. Also  it helps to identify significant changes in price and filter out short-term fluctuations.&#x20;
 
-![](<../../../../.gitbook/assets/image (9).png>)
+![](<../../../../.gitbook/assets/image (9) (1).png>)
 
 ## Formula
 

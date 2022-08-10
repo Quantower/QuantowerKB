@@ -114,15 +114,39 @@ Use TPO splitting for a detailed analysis of profile formation. There are two sp
 
 ## Session Time
 
-Set the custom time range for the necessary trading session using [<mark style="background-color:blue;">**Sessions Manager**</mark>](../miscellaneous-panels/sessions-manager.md) and the profile will be built within this range. The rest of the time the profile will not take into account.
+Set the custom time range for the necessary trading session using [<mark style="background-color:blue;">**Sessions Manager**</mark>](../miscellaneous-panels/sessions-manager.md#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic) and the profile will be built within this range. The rest of the time the profile will not take into account.
 
-To switch between necessary sessions, go to the **TPO Chart settings -> View -> Sessions Template.**&#x20;
+To switch between necessary sessions, go to the **TPO Chart settings -> View -> Sessions Template.**
 
-![Set custom sessions for TPO Profile](../.gitbook/assets/custom-session-time.gif)
+There also you can find the setting **Show our of session history** that will hide/show bars (candles) that are placed beyond the time of the selected session. Note that it works only if you activate Bars data on TPO chart
+
+![Switching between Session Templates in Quantower](<../.gitbook/assets/TPO profile sessions templates.gif>)
 
 ## Additional settings of TPO Profile
 
-Right-click on the chart area -> **Settings** to open the general settings of the TPO Chart panel.&#x20;
+Right-click on the chart area -> **Settings** to open settings of the TPO Chart panel.
 
-![General settings of TPO Profile Chart in Quantower platform](../.gitbook/assets/tpo-chart-settings.png)
+{% tabs %}
+{% tab title="General" %}
+![General Settings of TPO chart profile](../.gitbook/assets/image.png)
+
+There you can set Style of TPO profiles (colors, Value area et.), POC type, Midpoint, Initial Balance, Volume Analysis, TPO Statistics
+{% endtab %}
+
+{% tab title="View" %}
+![](<../.gitbook/assets/image (4).png>)
+{% endtab %}
+
+{% tab title="Data Style" %}
+![](<../.gitbook/assets/image (3).png>)
+{% endtab %}
+
+{% tab title="Time Scale" %}
+![](<../.gitbook/assets/image (2).png>)
+{% endtab %}
+
+{% tab title="Price Scale" %}
+
+{% endtab %}
+{% endtabs %}
 

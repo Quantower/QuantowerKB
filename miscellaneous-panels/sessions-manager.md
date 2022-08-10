@@ -10,7 +10,7 @@ description: >-
 
 You can find a new Sessions manager screen in the Miscellaneous section of Quantower's control center. Once launched, you will see a table where Quantower will display the list of custom sessions assignments. Initially, it is empty, meaning that Quantower will use the sessions data coming from the symbols vendor. Generally, Sessions manager functionality is based on the work with sessions templates - creation and assignment - so its flow is simple: create a template and then assign it to some symbol (exchange, connection).
 
-![Launch Sessions Manager panel](<../.gitbook/assets/image (1).png>)
+![Launch Sessions Manager panel](<../.gitbook/assets/image (1) (2).png>)
 
 ## Create sessions template
 
@@ -57,3 +57,39 @@ Next, select the Sessions template to assign and click the "Assign" button. From
 While the above workflow is about the centralized session's assignment, we left a possibility to quickly assign some sessions templates on a panel basis. Just open the panel's settings and find the Custom session parameter (usually in the General section). Initially, it is set up to Default mode, meaning that the panel will use the Sessions manager setting or the defaults provided by the vendor. Still, you can easily override it and use any available sessions template (use the Sessions manager to manage your templates).
 
 The new Sessions manager screen significantly raises the level of custom sessions control, bringing you outstanding possibilities and ease of use. We put a considerable effort into covering possible scenarios of using the custom sessions but are still sure that you can find even more ideas on this functionality, so please share them in the comments or write on our socials.
+
+## **How to set custom trading sessions for futures on CQG, Rithmic?**
+
+Due to the fact that data providers do not provide information about trading sessions for trading assets, traders may face the problem of incorrect display of [volume analysis data](../analytics-panels/chart/volume-analysis-tools/) for **Regular trading hours (RTH)** and for **Electronic trading hours (ETH)**. To solve this problem, a trader can set up the necessary sessions for an individual instrument, exchange, or the entire connection to the provider.
+
+As an example, let's set the time of RTH and ETH sessions for CME Indexes:
+
+* Open Sessions Manager panel in the Misc section
+* Click the <mark style="background-color:blue;">**Sessions templates**</mark> button on the toolbar and <mark style="background-color:blue;">**Create new**</mark> to open the Session template creation screen.
+
+![](<../.gitbook/assets/image (357) (1).png>)
+
+* Set up a new template's parameters, such as: **Template's name, Timezone, Session's name, Time** and **Days.** Once you finish setting the sessions template, click the <mark style="background-color:blue;">**Save**</mark> button.
+
+{% tabs %}
+{% tab title="Time for RTH session" %}
+![Custom trading session for CME Indexes for Regular trading Hours](<../.gitbook/assets/image (1).png>)
+{% endtab %}
+
+{% tab title="Time for ETH session" %}
+![Custom trading session for CME Indexes for Electronic trading Hours](<../.gitbook/assets/image (363).png>)
+{% endtab %}
+
+{% tab title="Time for full day (ETH+RTH)" %}
+![Custom trading session for CME Indexes for full day (ETH+RTH)](<../.gitbook/assets/image (348).png>)
+{% endtab %}
+{% endtabs %}
+
+* To assign previously created templates to some symbol, you need to call the Sessions assignment screen by clicking the <mark style="background-color:blue;">**Assign sessions**</mark> button on the toolbar.
+
+![](<../.gitbook/assets/image (359) (1).png>)
+
+* Apply or switch between different sessions on desired panels (chart, DOM trader, TPO etc.). Just open the panel's settings and find the <mark style="background-color:blue;">**Custom session**</mark> parameter (usually in the General section).
+
+![](<../.gitbook/assets/image (354).png>)
+

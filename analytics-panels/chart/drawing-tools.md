@@ -28,7 +28,7 @@ Starting from [Quantower version # 1.126](https://www.quantower.com/release-note
 * Once you have configured the drawing to your own choice, click on <mark style="background-color:orange;">**Save**</mark> icon and select <mark style="background-color:blue;">**Save as Template**</mark> from the dropdown list.
 * Set the necessary name for the current template.
 
-![Configuring and saing a new template](<../../.gitbook/assets/image (348).png>)
+![Configuring and saing a new template](<../../.gitbook/assets/image (348) (2).png>)
 
 * You can also save the template via the context menu of the drawing
 

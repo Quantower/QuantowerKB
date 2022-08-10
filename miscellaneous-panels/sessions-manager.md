@@ -91,5 +91,5 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 
 * Apply or switch between different sessions on desired panels (chart, DOM trader, TPO etc.). Just open the panel's settings and find the <mark style="background-color:blue;">**Custom session**</mark> parameter (usually in the General section).
 
-![](<../.gitbook/assets/image (354).png>)
+![Select different session templates in Quantower](<../.gitbook/assets/image (354).png>)
 

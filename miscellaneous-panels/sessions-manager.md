@@ -8,7 +8,9 @@ description: >-
 
 ## General
 
-You can find a new Sessions manager screen in a Miscellaneous section of the Quantower's control center. Once launched, you will see a table where Quantower will display the list of custom sessions assignments. Initially, it is empty, meaning that Quantower will use the sessions data coming from the symbols vendor. Generally, Sessions manager functionality is based on the work with sessions templates - creation and assignment - so its flow is simple: create a template and then assign it to some symbol (exchange, connection).
+You can find a new Sessions manager screen in the Miscellaneous section of Quantower's control center. Once launched, you will see a table where Quantower will display the list of custom sessions assignments. Initially, it is empty, meaning that Quantower will use the sessions data coming from the symbols vendor. Generally, Sessions manager functionality is based on the work with sessions templates - creation and assignment - so its flow is simple: create a template and then assign it to some symbol (exchange, connection).
+
+![Launch Sessions Manager panel](<../.gitbook/assets/image (1).png>)
 
 ## Create sessions template
 

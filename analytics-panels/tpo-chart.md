@@ -11,9 +11,9 @@ description: >-
 
 **Time Price Opportunity** or **TPO Chart**, shows the price distribution during the specified time, thus forming a profile. This allows you to understand at which levels or ranges the price has spent the most time, as well as to determine the main support and resistance levels.
 
-![TPO Profile Chart (Market Profile) general view in Quantower platform](../.gitbook/assets/tpo-profile-chart-general-view.png)
+![TPO Profile Chart (Market Profile) general view in Quantower platform](<../.gitbook/assets/TPO Chart.png>)
 
-To open new TPO panel, go to _**Main menu**_ (Logo icon) and select _**TPO Chart**_ in the Analytics section.
+To open a new TPO panel, go to the _**Main menu**_ (Logo icon) and select _**TPO Chart**_ in the Analytics section.
 
 ![Open TPO Chart panel via Main menu](../.gitbook/assets/tpo\_start.png)
 
@@ -27,7 +27,7 @@ To open new TPO panel, go to _**Main menu**_ (Logo icon) and select _**TPO Chart
 
 **Singles** or **single prints** of the profile are placed in the middle of a profile structure, not at the upper or lower edge. They occur on impulse movements and are used as support/resistance zones, which the price can test in the near future. The singles line indicates where the singles begin to form (in cases when there are several single prints).
 
-**TPO letters** — basic element of the TPO chart, where each letter corresponds to a specific time ("**Build From**").
+**TPO letters** — a basic element of the TPO chart, where each letter corresponds to a specific time ("**Build From**").
 
 ## Main Controls of TPO Chart
 
@@ -47,17 +47,17 @@ The base element of the TPO chart is letters that are used to build the market p
 
 * **Build From (Minute, Hour, Day)** — this parameter determines the length of time for building each letter (for A, B, C etc.).
 * **Profile Aggregation** — defines the range for each TPO profile. The standard range is 1 day, but there are several base ranges for building each profile — **Minute, Hour, Day**.\
-  For example, a 1 day range will start at the beginning of the trading day and finish at the end of the current trading day (defined in the trading hours or by custom session).
+  For example, a 1-day range will start at the beginning of the trading day and finish at the end of the current trading day (defined in the trading hours or by custom session).
 * **History Range** — determines the depth of history for building TPO profiles. At a high depth of history, volume profiles can be built for a long time, because they use tick data.
 * **Custom Step (Ticks)** — this parameter defines the height and number of letters in the profile.\
-  _If enabled_, the letter height will correspond to the number of ticks which is set in the parameter.\
+  _If enabled_, the letter height will correspond to the number of ticks that is set in the parameter.\
   _If disabled_, the height and number of letters will be selected automatically using a smart algorithm. As a result, the chart will look the most optimal for analysis.
 
 ### Style settings of TPO Profile Chart
 
 Choose any color scheme for better representation and analysis of the TPO profile as well as enable POC, Value Area, Singles, Standard Chart etc.
 
-* **Display** — mode for dispalying letters of TPO profile — **Boxes** or **Letters**.
+* **Display** — mode for displaying letters of TPO profile — **Boxes** or **Letters**.
 
 ![Display TPO Profile as Filled Boxes or Letters](../.gitbook/assets/display-boxes-or-letters.png)
 
@@ -68,19 +68,21 @@ Choose any color scheme for better representation and analysis of the TPO profil
   **Final POC**, shows the single line\
   **Migrating POC**, which shows the change of POC during a trading day or a selected session.
 
-![](../.gitbook/assets/migrating-poc.gif)
+![POC Type on TPO Profile chart](<../.gitbook/assets/POC Type on TPO profile.gif>)
 
 * **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a **** [**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
 
 ![](../.gitbook/assets/overlaying-chart.gif)
 
-* **Show Point of Control (POC)** — enable a price level of the greatest market activity or trading volume on the chart. At this level, the price spent most time over the profile range.\
-
 * **Show Value Area** — enable price range in which approximately 68% - 70% of the market activity or trading volume took place.\
 
-* **Show Singles** or **single prints** of the profile are placed in the middle of a profile structure, not at the upper or lower edge. They occur on impulse movements and are used as support/resistance zones, which the price can test in the near future. The singles line indicates where the singles begin to form (in cases when there are several single prints).
+* **Show Singles** or **single prints** of the profile are placed in the middle of a profile structure, not at the upper or lower edge. They occur on impulse movements and are used as support/resistance zones, which the price can test in the near future. The singles line indicates where the singles begin to form (in cases when there are several single prints).\
 
-![Enable POC, Value Area and Singles on TPO Profile](../.gitbook/assets/key-elemetns-tpo.gif)
+* **Midpoint** shows at what price the middle of the profile is located.\
+
+* **Initial Balance (IB)** shows the price range that is usually formed during the first hour of a trading session or day. In the settings, you can change the duration of the formation of the initial balance (for example, 10 minutes, 30 minutes etc.)
+
+![Enable Value Area, Singles, Midpoint and Initial Balance on TPO Profile](<../.gitbook/assets/TPO profile additional lines.gif>)
 
 ### Volume Analysis
 

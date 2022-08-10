@@ -33,7 +33,7 @@ To open a new Options Analytics panel, go to the _**Main menu**_ (Logo icon) and
 (3) - Paper column is an interactive column that used to add a paper position to porfolio, to do it - click on column's cell and set value.\
 (4) - Right click on a row will show a strike's context menu
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 (5) - Double click on Ask/Bid cells will open an Order Entry panel
 
@@ -47,7 +47,7 @@ Add Paper positions in the options desk and the strategy analyzer will immediate
 
 Analyzer allows users to see the profile of existing portfolio. The profile illustrates a behavior of portfolio in cases of underlying instrument price change, volatility change or time decay.  Also Analyzer provides a possibility to add an overlay to main chart. It can be one of Greeks: Delta, Gamma, Vega, Theta or Rho
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33) (1).png>)
 
 (1) - This controll allows to select a chart's data type. Possible options are: P/L, Delta, Gamma, Theta, Vega, Rho \
 (2) - This controll allows to add an overlay to main chart&#x20;
@@ -64,7 +64,7 @@ Trader is able to simulate the time decay and volatility impact scenarios simult
 
 The bottom part of the panel contains combined table with paper positions, real positions and working orders
 
-![](<../.gitbook/assets/image (39).png>)
+![](<../.gitbook/assets/image (39) (1).png>)
 
 &#x20;(1) - Add underlier button allows to add a paper position of underlying symbol to the list of existing positions.\
 (2) - Hot buttons provide a possibility to make group actions with portfolio suh as: place papers, cancel papers or close real existing positions.\

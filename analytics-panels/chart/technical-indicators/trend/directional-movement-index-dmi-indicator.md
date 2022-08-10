@@ -9,7 +9,7 @@ The indicator is made up of 2 indicator lines:
 1. **Positive Directional Indicator (+DMI)** shows the difference between today’s high price and yesterday’s high price. These values are then added up from the past 14 periods and then plotted.
 2. **Negative Directional Indicator (–DMI)** shows the difference between today’s low price and yesterday’s low price. These values are then summed up from the past 14 periods and plotted.
 
-![](<../../../../.gitbook/assets/image (58).png>)
+![](<../../../../.gitbook/assets/image (58) (1).png>)
 
 ### How the Directional Movement Index (DMI) indicator works
 
@@ -26,7 +26,7 @@ A buy signal is given when DMI+ crosses above DMI-. A sell signal is given when 
    \+DI\
    IF Current High – Previous High > Previous Low – Current Low\
    THEN +DI = the greater of Current High – Previous High OR 0\
-     \
+   &#x20; \
    \-DI\
    IF Previous Low – Current Low > Current High – Previous High\
    THEN –DI = the greater of Previous Low – Current Low OR 0\

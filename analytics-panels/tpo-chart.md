@@ -128,25 +128,68 @@ Right-click on the chart area -> **Settings** to open settings of the TPO Chart 
 
 {% tabs %}
 {% tab title="General" %}
-![General Settings of TPO chart profile](../.gitbook/assets/image.png)
+![General Settings of TPO chart profile](<../.gitbook/assets/image (35).png>)
 
 There you can set Style of TPO profiles (colors, Value area et.), POC type, Midpoint, Initial Balance, Volume Analysis, TPO Statistics
 {% endtab %}
 
 {% tab title="View" %}
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (18).png>)
 {% endtab %}
 
 {% tab title="Data Style" %}
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (39).png>)
 {% endtab %}
 
 {% tab title="Time Scale" %}
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (34).png>)
 {% endtab %}
 
 {% tab title="Price Scale" %}
-
+![](<../.gitbook/assets/image (58).png>)
 {% endtab %}
 {% endtabs %}
 
+{% tabs %}
+{% tab title="Visual Trading" %}
+General settings for **Visual trading on TPO Profile** chart
+
+![](<../.gitbook/assets/image (4).png>)
+
+Settings for **Positions on TPO** **Profile** chart
+
+![](<../.gitbook/assets/image (33).png>)
+
+Settings for **Orders on TPO Profile** chart
+
+![](<../.gitbook/assets/image (5).png>)
+
+Settings for **Trades on TPO Profile** chart
+
+![](<../.gitbook/assets/image (41).png>)
+
+Settings for **SL/TP on TPO Profile** chart
+
+![](<../.gitbook/assets/image (3).png>)
+{% endtab %}
+
+{% tab title="Order Entry" %}
+![](<../.gitbook/assets/image (20).png>)
+
+These settings are responsible for this panel:
+
+![](<../.gitbook/assets/image (21).png>)
+{% endtab %}
+
+{% tab title="Quick ruler " %}
+
+{% endtab %}
+
+{% tab title="Volume bars " %}
+
+{% endtab %}
+
+{% tab title="Hotkeys" %}
+
+{% endtab %}
+{% endtabs %}

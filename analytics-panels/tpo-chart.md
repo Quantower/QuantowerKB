@@ -114,9 +114,9 @@ Use TPO splitting for a detailed analysis of profile formation. There are two sp
 
 ## Session Time
 
-Set the custom time range for the necessary trading session and the profile will be built within this range. The rest of the time the profile will not take into account.
+Set the custom time range for the necessary trading session using [<mark style="background-color:blue;">**Sessions Manager**</mark>](../miscellaneous-panels/sessions-manager.md) and the profile will be built within this range. The rest of the time the profile will not take into account.
 
-To set the time of the necessary session, go to the **TPO Chart settings -> View -> Custom session.** Set the time according the time zone.
+To switch between necessary sessions, go to the **TPO Chart settings -> View -> Sessions Template.**&#x20;
 
 ![Set custom sessions for TPO Profile](../.gitbook/assets/custom-session-time.gif)
 

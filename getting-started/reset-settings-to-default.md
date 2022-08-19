@@ -8,11 +8,9 @@ Settings folder contains all the workspaces, saved templates, as well as all the
 
 * ****[**How to Reset All Settings to default**](reset-settings-to-default.md#how-to-reset-all-settings-to-default)****
 * ****[**How to provide Settings and Logs for developers (for checking an issue)**](reset-settings-to-default.md#how-to-provide-settings-for-developers-for-checking-an-issue)****
-* How to share your Templates with other traders
-* How to share your **** Workspaces with other traders
-* How to copy all settings to other PC
-
-
+* [**How to share your Templates with other traders**](reset-settings-to-default.md#how-to-share-your-templates-with-other-traders)****
+* [**How to share your  Workspaces with other traders**](reset-settings-to-default.md#how-to-share-your-workspaces-with-other-traders)****
+* [**How to copy all settings to other PC**](reset-settings-to-default.md#how-to-copy-all-settings-to-other-pc)****
 
 ### **Save, copy, restore and reset Quantower settings - video**
 
@@ -81,15 +79,15 @@ Recall that in the Quantower platform, all created templates are stored in the C
 {% hint style="info" %}
 This is done in exactly the same way as described above, except that we transfer a different file **\Quantower\Settings\Workspaces**
 
-The file to be transferred must be placed in a similar folder on another computer
+The file to be transferred must be placed in a similar folder on another PC.
 {% endhint %}
 
 ![](<../.gitbook/assets/image (311).png>)
 
-### How to copy all settings to other PC
+### How to copy all settings to another PC
 
 {% hint style="info" %}
-[Copy the settings folder to another PC](reset-settings-to-default.md#how-to-provide-settings-for-developers-for-checking-an-issue) or COPY all Quantower folder to other PC. It is totally portable.
+[Copy the settings folder to another PC](reset-settings-to-default.md#how-to-provide-settings-for-developers-for-checking-an-issue) or COPY the entire Quantower folder to another PC. It is totally portable.
 {% endhint %}
 
 

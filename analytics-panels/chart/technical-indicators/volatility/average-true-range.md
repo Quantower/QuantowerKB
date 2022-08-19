@@ -10,7 +10,7 @@ Average True Range is a volatility based indicator which describes the range of 
 
 ![](<../../../../.gitbook/assets/image (45).png>)
 
-![](<../../../../.gitbook/assets/image (7).png>)
+![](<../../../../.gitbook/assets/image (7) (1).png>)
 
 &#x20;The first ATR value is calculated using the arithmetic mean formula:
 

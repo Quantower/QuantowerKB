@@ -144,6 +144,7 @@
     * [Order placing strategies](trading-panels/order-entry/order-placing-strategies/README.md)
       * [Local SL/TP](trading-panels/order-entry/order-placing-strategies/local-sl-tp.md)
   * [DOM Trader](trading-panels/dom-trader/README.md)
+    * [DOM Trader Columns](trading-panels/dom-trader/dom-trader-columns.md)
     * [How to set up Dom  for scalping](trading-panels/dom-trader/how-to-set-up-dom-for-scalping.md)
   * [Copy Trading](trading-panels/copy-trading.md)
   * [Market depth](trading-panels/market-depth.md)

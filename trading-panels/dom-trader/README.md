@@ -95,3 +95,23 @@ This tab is for configuring your keyboard shortcuts. Here you can configure the 
 
 ![](<../../.gitbook/assets/image (146).png>)
 
+## DOM Trader Columns
+
+### Liquidity changes column (known as Pulling and Stacking)
+
+Pulling and Stacking describe the summary of the Liquidity Order Book (LOB) for Bid and Ask Side separately. Stacking shows an increasing Volume in the Order Book for the Sell-Side (Ask) or Buy-Side (Bid) and reflects therefore a supportive intention for the price to move in the corresponding direction. Whereas the Pulling shows a decrease in the Volume in the Order Book and therefore a lack of interest.
+
+### **Number of changes**
+
+It shows how many times the values have changed at a particular price level (Bids x Asks) since the panel launched.
+
+### **Cumulative changes**
+
+It shows the total volume that changed at a specific price level since the panel launched.
+
+#### _Why Number of Changes and Cumulative changes are important?_
+
+The liquidity in the Depth of market is constantly changing due to very different types of reasons. The fast changes occurring simultaneously on the bid and ask sides are very difficult to track with the naked eye. It becomes even worse when you have over 10 levels.
+
+This is the part where the number of changes and cumulative changes comes on handy. For a buy trade, you would expect to see an increasing number of changes combined to higher cumulative changes showing increasingly adding liquidity at a higher pace. Even better, would it be combined to a higher cumulative change on the ask side to the downside, showing participants eager pulling out the liquidity.
+

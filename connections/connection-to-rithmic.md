@@ -127,3 +127,11 @@ This problem can be due to the fact that you do not have a subscription to this 
 If you don't have Bid/Ask values in the RTrader platform, you need to subscribe to this data via Rithmic's support. After that, you will see level2 data in our platform as well.&#x20;
 
 ![](<../.gitbook/assets/image (297).png>)
+
+### ERROR: Only Admins Can Place Trades
+
+This means that the Evaluation account has been failed and has been disabled.&#x20;
+
+It either means you have reached your Trailing Threshold Drawdown or that you have held a trade past 4:59 PM ET.
+
+To resolve this issue, please contact support team of your Prop Trading company

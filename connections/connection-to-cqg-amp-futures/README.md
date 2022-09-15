@@ -12,6 +12,7 @@ description: >-
 * ****[**Possible Errors with CQG connection**](errors-with-cqg.md)****
 * ****[**Trading with AMP/CQG (key points) — OCO, Brackets, Multi-Brackets**](../../trading-panels/order-entry/order-entry-for-cqg.md)****
 * ****[**How to set custom trading sessions for futures on CQG, Rithmic?**](./#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic)****
+* **How to enable continuous futures on CQG?**
 
 CQG provides access to more than [75 world exchanges](https://www.cqg.com/partners/exchanges), allowing you to trade futures, options, stocks, bonds, commodity spreads, and much more.\
 Besides, traders get the opportunity to work with a wide range of analytical tools, like [volume profiles](../../analytics-panels/chart/volume-analysis-tools/volume-profiles.md), [footprint (cluster chart)](../../analytics-panels/chart/volume-analysis-tools/cluster-chart.md), [VWAP](../../analytics-panels/chart/vwap.md), [Power Trades](../../analytics-panels/chart/power-trades.md), [TPO chart](../../analytics-panels/tpo-chart.md), [DOM Trader](../../trading-panels/dom-trader/), [Option Analytics](../../analytics-panels/option-analytics.md) and [DOM Surface](../../analytics-panels/dom-surface.md) panels.

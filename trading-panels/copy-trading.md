@@ -10,7 +10,7 @@ One of the frequent questions from our community is: how to Copy trading between
 
 ## **Introduction**
 
-The panel performs trading operations thus can be found in the "Trading" group of the Quantower main menu.
+The panel performs trading operations and thus can be found in the "<mark style="background-color:green;">**Trading**</mark>" group of the Quantower main menu.
 
 ![Copy trading panel in a list of other panels](../.gitbook/assets/frame-9.png)
 
@@ -25,7 +25,7 @@ Before you start creating your first Copy-bot, please notice the following infor
 
 \- If Parent order parameters are different than a Child account can submit, you will get a notification about this and the possibility to manually copy the order by clicking the **Open OE button** next to this message in the logs section. The most common cause of such behavior is when the Child account has insufficient funds to copy the parent's order quantity.
 
-\-The Copy trading panel currently supports the following connections only: FTX, Binance, Binance Futures, Bitfinex, Rithmic, Bybit, BitMEX, and Interactive Brokers
+\-The Copy trading panel currently supports the following connections only: **Rithmic, CQG, FTX, Binance, Binance Futures, Bitfinex, Bybit, BitMEX, and Interactive Brokers**
 {% endhint %}
 
 {% embed url="https://youtu.be/qIE2BxBvuJo" %}

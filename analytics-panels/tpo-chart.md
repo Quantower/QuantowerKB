@@ -142,7 +142,7 @@ There you can set Style of TPO profiles (colors, Value area et.), POC type, Midp
 {% endtab %}
 
 {% tab title="Time Scale" %}
-![](<../.gitbook/assets/image (34).png>)
+![](<../.gitbook/assets/image (34) (2).png>)
 {% endtab %}
 
 {% tab title="Price Scale" %}

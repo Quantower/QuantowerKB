@@ -12,7 +12,7 @@ description: >-
 * ****[**Possible Errors with CQG connection**](errors-with-cqg.md)****
 * ****[**Trading with AMP/CQG (key points) — OCO, Brackets, Multi-Brackets**](../../trading-panels/order-entry/order-entry-for-cqg.md)****
 * ****[**How to set custom trading sessions for futures on CQG, Rithmic?**](./#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic)****
-* **How to enable continuous futures on CQG?**
+* ****[**How to enable continuous futures on CQG?**](./#how-to-enable-continuous-futures-on-cqg)****
 
 CQG provides access to more than [75 world exchanges](https://www.cqg.com/partners/exchanges), allowing you to trade futures, options, stocks, bonds, commodity spreads, and much more.\
 Besides, traders get the opportunity to work with a wide range of analytical tools, like [volume profiles](../../analytics-panels/chart/volume-analysis-tools/volume-profiles.md), [footprint (cluster chart)](../../analytics-panels/chart/volume-analysis-tools/cluster-chart.md), [VWAP](../../analytics-panels/chart/vwap.md), [Power Trades](../../analytics-panels/chart/power-trades.md), [TPO chart](../../analytics-panels/tpo-chart.md), [DOM Trader](../../trading-panels/dom-trader/), [Option Analytics](../../analytics-panels/option-analytics.md) and [DOM Surface](../../analytics-panels/dom-surface.md) panels.
@@ -135,5 +135,12 @@ Trading hours for RTH / ETH sessions of CME Indexes (ES, NQ, RTY etc.) you can f
 ### **How to enable continuous futures on CQG?**
 
 CQG provides access to continuous futures data. To activate this data, go to the connection settings and turn on "**Request continuation history**".
+
+{% hint style="info" %}
+Note that CQG has data limitations for continuous futures:
+
+* 3-month history limit for intraday bars
+* 3-year history limit for daily bars
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -48,7 +48,7 @@ You can choose which columns to display in the DOM Trader panel by activating th
 
 Pulling and Stacking describe the summary of the Liquidity Order Book (LOB) for Bid and Ask Side separately. Stacking shows an increasing Volume in the Order Book for the Sell-Side (Ask) or Buy-Side (Bid) and reflects therefore a supportive intention for the price to move in the corresponding direction. Whereas the Pulling shows a decrease in the Volume in the Order Book and therefore a lack of interest.
 
-![](<../../.gitbook/assets/image (34).png>)
+![](<../../.gitbook/assets/image (34) (3).png>)
 
 ### **Number of changes**
 

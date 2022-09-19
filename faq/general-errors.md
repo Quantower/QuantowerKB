@@ -1,10 +1,11 @@
 # General Errors
 
-* **How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?**
-* **Error 'Application is already running'**
-* **An error occurred during platform initialization: Exception has been thrown by the target of an invocation**
-* **An error occurred during platform initialization: Fail to load dll signatures**
+* ****[**How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?**](general-errors.md#how-to-fix-the-youll-need-a-new-app-to-open-this-ms-gaming-overlay-error-on-windows-10)****
+* ****[**Error 'Application is already running'**](general-errors.md#error-application-is-already-running)****
+* ****[**An error occurred during platform initialization: Exception has been thrown by the target of an invocation**](general-errors.md#an-error-occurred-during-platform-initialization-exception-has-been-thrown-by-the-target-of-an-invoc)****
+* ****[**An error occurred during platform initialization: Fail to load DLL signatures**](general-errors.md#an-error-occurred-during-platform-initialization-fail-to-load-dll-signatures)****
 * **Trendlines are moving on tick charts. How to resolve it?**
+* ****[**Incorrect view of icons inside the application (for Mac via Parallels)**](general-errors.md#incorrect-view-of-icons-inside-the-application-for-mac-via-parallels)****
 
 ## How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?
 
@@ -63,3 +64,16 @@ This error can occur for several reasons:
 
 ## Trendlines are moving on tick charts. How to resolve it?
 
+
+
+## **Incorrect view of icons inside the application (for Mac via Parallels)**
+
+Sometimes users may encounter the problem of incorrect display of icons of various functions inside the application. For example, the picture below is such a situation.
+
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
+This situation occurs when using the Parallels emulator for Mac. To solve this problem, Parallel itself offers a solution at the link below [https://kb.parallels.com/112983](https://kb.parallels.com/112983)
+
+> **Isolate Windows from Mac** to exclude Mac OS X influence. (**Virtual Machine > Configure… > Options > Security** > check on **Isolate Mac from Windows**)
+
+****

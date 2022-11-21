@@ -6,7 +6,7 @@ description: >-
 
 # Referral Program
 
-Our Referral Program allows you to earn real money, that can be spent on buying the Quantower licenses or even be withdrawn on demand. The earning process is simple: you receive **20% from each purchase** sum of your referral. We can increase % depends on our own view!
+Our Referral Program allows you to earn real money, that can be spent on buying the Quantower licenses or even be withdrawn on demand. The earning process is simple: you receive **15% from each purchase** sum of your referral. We can increase % depending on our own view!
 
 {% hint style="warning" %}
 * Your referral (the person you invited) must **register an account** in our license system **Through Your Link!** Otherwise, he will not be counted as your referral.
@@ -20,14 +20,14 @@ How does Quantower Referral Program work?
 ### **There are 4 simple steps to start earning by inviting your friends to Quantower:**
 
 * **Get a link with your code.** Any registered customer of Quantower can find its referral code from within the personal account page ([https://accounts.quantower.com](https://accounts.quantower.com/)) \
-  You will be able to **copy the complete referral link to start sharing immediately**.
+  You will be able to **copy the full referral link to start sharing immediately**.
 
 ![](<../.gitbook/assets/image (153).png>)
 
 ![](<../.gitbook/assets/image (152).png>)
 
 * **Start inviting.** Share your referral link with your friends, partners, and via your social networks. Everyone who signs up using your link will become your referral and start bringing your earnings.
-* **Get earnings.** Each time your referral purchase one or multiple Quantower licenses — you earn 20% from the payment sum, including any discounts.
+* **Get earnings.** Each time your referral purchase one or multiple Quantower licenses — you earn 15% from the payment sum, including any discounts.
 * **Expand your network.** The more you share, the more you earn. Continue sharing your referral link with your network to keep the earnings coming.
 
 ### **Referral Program Details:**

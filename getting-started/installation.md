@@ -23,15 +23,15 @@ This approach allows you to store (and launch) the Quantower on removable drive 
 ### PC requirements
 
 {% hint style="info" %}
-* Windows 10
+* Windows 10, 11
 * [.NET Framework v.4.8](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer)
 * Available disk space — 1 GB (depends on the volume of loaded history)
-* **The hardware requirements for Quantower depends upon what you are doing with it.** Most desktop systems can run Quantower without any difficulty. 
-* The following hardware specifications, are very much recommended for a fast system: 16 GB RAM, minimum of 4 core CPU, and a SSD (solid-state drive).
+* **The hardware requirements for Quantower depends upon what you are doing with it.** Most desktop systems can run Quantower without any difficulty.&#x20;
+* The following hardware specifications, are very much recommended for a fast system: 16 GB RAM, minimum of 4-core CPU, and an SSD (solid-state drive).
 {% endhint %}
 
 {% hint style="warning" %}
-**Microsoft has officially stopped supporting Windows 8 and Windows 7**. Therefore, the platform may not start or may work incorrectly. [More information on supported versions, please check on official Microsoft website.](https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet)\
+**Microsoft has officially stopped supporting Windows 8 and Windows 7**. Therefore, the platform may not start or may work incorrectly. [For more information on supported versions, please check the official Microsoft website.](https://support.microsoft.com/en-us/help/13853/windows-lifecycle-fact-sheet)\
 \
 We recommend using Windows 10.
 {% endhint %}

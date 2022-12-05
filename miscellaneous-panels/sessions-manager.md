@@ -73,7 +73,7 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 
 {% tabs %}
 {% tab title="Time for RTH session" %}
-![Custom trading session for CME Indexes for Regular trading Hours](<../.gitbook/assets/image (1) (2).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Custom trading session for CME Indexes for Regular Trading Hours (Central Time)</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Time for ETH session" %}
@@ -81,11 +81,11 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 {% endtab %}
 
 {% tab title="Time for full day (ETH+RTH)" %}
-![Custom trading session for CME Indexes for full day (ETH+RTH)](<../.gitbook/assets/image (348).png>)
+
 {% endtab %}
 {% endtabs %}
 
-* To assign previously created templates to some symbol, you need to call the Sessions assignment screen by clicking the <mark style="background-color:blue;">**Assign sessions**</mark> button on the toolbar.
+To assign previously created templates to some symbol, you need to call the Sessions assignment screen by clicking the <mark style="background-color:blue;">**Assign sessions**</mark> button on the toolbar.
 
 ![](<../.gitbook/assets/image (359) (1).png>)
 

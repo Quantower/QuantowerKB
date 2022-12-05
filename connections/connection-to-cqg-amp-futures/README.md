@@ -116,11 +116,11 @@ Trading hours for RTH / ETH sessions of CME Indexes (ES, NQ, RTY etc.) you can f
 {% endtab %}
 
 {% tab title="Time for ETH session" %}
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Custom trading session for CME Indexes for Electronic trading Hours (Central Time)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Custom trading session for CME Indexes for Electronic trading Hours (Central Time)</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Time for full day (RTH+ETH)" %}
-![Custom trading session for CME Indexes for full day (ETH+RTH)](<../../.gitbook/assets/image (360).png>)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Custom trading session for CME Indexes for the full trading day )ETH+RTH) (Central Time)</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

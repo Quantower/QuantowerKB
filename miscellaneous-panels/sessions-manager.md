@@ -73,15 +73,15 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 
 {% tabs %}
 {% tab title="Time for RTH session" %}
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Custom trading session for CME Indexes for Regular Trading Hours (Central Time)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Custom trading session for CME Indexes for Regular Trading Hours (Central Time)</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Time for ETH session" %}
-![Custom trading session for CME Indexes for Electronic trading Hours](<../.gitbook/assets/image (363).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Custom trading session for CME Indexes for Electronic Trading Hours (Central Time)</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Time for full day (ETH+RTH)" %}
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Custom trading session for CME Indexes for Full trading day (ETH+RTH) (Central Time)</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

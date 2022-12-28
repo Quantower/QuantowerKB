@@ -42,7 +42,7 @@ But some settings are unique for this panel:
     If you selected **“By Tick Direction”**, then the lines will be colored according to the change in the last price.
 * **Aggregate Trades** — this mode allows tracking large traders, by summing up trades that match in price, direction and time
 * **Time Delay, ms** — it will continue to sum up the data within the specified time, with the same price and trade direction.
-* **Short Price Format** reduces the number of symbols in the price value to the left of the comma.
+* **Short Price Format** reduces the amount of numbers in the price value to the left of the comma.
 
 <figure><img src="../.gitbook/assets/Short prrice format TS.gif" alt=""><figcaption></figcaption></figure>
 

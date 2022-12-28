@@ -3,6 +3,7 @@ description: >-
   Time and sales panel shows all executed trades for selected trading instrument
   in table form and provides details for each trade including date, time, price,
   quantity, and trade direction.
+coverY: 0
 ---
 
 # Time & Sales
@@ -46,7 +47,7 @@ But some settings are unique for this panel:
 
 Time & Sales panel allows exporting executed trades to _CSV_ or _HTML_ files for further analysis. Soon we will add the ability to auto-update the data directly in the external file via DDE and RTD functions.
 
-![T & S panel allows exporting data into external files](../.gitbook/assets/export-in-t-and-s.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>T &#x26; S panel allows exporting data into external files</p></figcaption></figure>
 
 * Select the "**Export Data**" in the panel's menu
 * Select the necessary data that you want to export and click on the **\[Export File]** button
@@ -72,7 +73,7 @@ Quick filtering can be applied only to one column of the table. For filtering mu
 
 * **Advanced filtering,** for applying more complex filtering (multi-filtering). Select in the panel's context menu option “_**Setup actions**_”.&#x20;
 
-![](../.gitbook/assets/setup-actions-ts.png)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 This screen has two tabs on the left side, where the first one is an Advanced filter.
 

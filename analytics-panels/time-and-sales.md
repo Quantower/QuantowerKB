@@ -30,24 +30,29 @@ Real-time mode shows all the trades that are currently executed. The historical 
 
 The basic settings in Time & Sales are similar to the parameters of most panels in Quantower — full flexibility in color settings, fonts, columns visibility, data position relative to the column, etc.&#x20;
 
-![Time & Sales settings in Quantower](../.gitbook/assets/time\_sales-settings.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Time &#x26; Sales settings in Quantower</p></figcaption></figure>
 
 But some settings are unique for this panel:
 
+* **Line Spacing** provides 3 options of raw formatting for better table view: **Compact, Normal, Double**
 * **Rows limit** — this is the number of lines that will be displayed in the table, to save the memory of your computer. When the number of lines exceeds the specified value, the old values will be deleted as new ones appear
-* **Time format** — allows setting the time accuracy for executed trades.
 *   **Coloring scheme** — this option sets the color scheme for all rows of the table, depending on the selected condition:\
     If you chose **“By Aggressor Flag”**, then for the trades with the Buy direction the line will be blue, and for the Sell trades, the line will be red. If the Aggressor flag is not defined (None) then the color lime will be white.
 
     If you selected **“By Tick Direction”**, then the lines will be colored according to the change in the last price.
 * **Aggregate Trades** — this mode allows tracking large traders, by summing up trades that match in price, direction and time
 * **Time Delay, ms** — it will continue to sum up the data within the specified time, with the same price and trade direction.
+* **Short Price Format** reduces the number of symbols in the price value to the left of the comma.
+
+<figure><img src="../.gitbook/assets/Short prrice format TS.gif" alt=""><figcaption></figcaption></figure>
+
+* **Abbreviation Rules** option allows you to reduce the values of the trading size to the most readable view.
 
 ### Export Data
 
 Time & Sales panel allows exporting executed trades to _CSV_ or _HTML_ files for further analysis. Soon we will add the ability to auto-update the data directly in the external file via DDE and RTD functions.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>T &#x26; S panel allows exporting data into external files</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (364).png" alt=""><figcaption><p>T &#x26; S panel allows exporting data into external files</p></figcaption></figure>
 
 * Select the "**Export Data**" in the panel's menu
 * Select the necessary data that you want to export and click on the **\[Export File]** button

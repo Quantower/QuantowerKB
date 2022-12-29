@@ -3,7 +3,6 @@ description: >-
   Time and sales panel shows all executed trades for selected trading instrument
   in table form and provides details for each trade including date, time, price,
   quantity, and trade direction.
-coverY: 0
 ---
 
 # Time & Sales
@@ -46,7 +45,10 @@ But some settings are unique for this panel:
 
 <figure><img src="../.gitbook/assets/Short prrice format TS.gif" alt=""><figcaption></figcaption></figure>
 
-* **Abbreviation Rules** option allows you to reduce the values of the trading size to the most readable view.
+* **Abbreviation Rules** option allows you to reduce the values of the trading size to the most readable view. There are 3 options for Format Mode:\
+  **Default** \
+  **Round to**\
+  **Abbreviate**
 
 ### Export Data
 

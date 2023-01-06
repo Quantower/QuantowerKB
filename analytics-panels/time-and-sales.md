@@ -29,7 +29,7 @@ Real-time mode shows all the trades that are currently executed. The historical 
 
 The basic settings in Time & Sales are similar to the parameters of most panels in Quantower — full flexibility in color settings, fonts, columns visibility, data position relative to the column, etc.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Time &#x26; Sales settings in Quantower</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>Time &#x26; Sales settings in Quantower</p></figcaption></figure>
 
 But some settings are unique for this panel:
 

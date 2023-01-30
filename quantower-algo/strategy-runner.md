@@ -1,11 +1,10 @@
 ---
 description: >-
-  In order to make some automated trading via Quantower, you need to use the
-  Strategy runner panel. The main purpose of this panel is to launch a trading
-  strategy and control its behavior.
+  Please note! This panel will be deprecated as soon as Strategies manager and
+  Backtest&Optimize panels will be released.
 ---
 
-# Strategy runner
+# Strategy runner (deprecated)
 
 ## Video manual
 

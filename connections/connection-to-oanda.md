@@ -14,7 +14,7 @@ This guide helps you in a few simple steps to configure the connection to OANDA 
 
 1. Open real or demo trading account with OANDA on their [**official website**](https://www.oanda.com/).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;   2\. After completing the registration and confirming your account, **go to your OANDA account**. To do this, use your _Username_ and _Password_.
 

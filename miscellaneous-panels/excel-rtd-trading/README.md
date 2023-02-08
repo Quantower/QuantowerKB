@@ -82,18 +82,26 @@ Provides access to specific symbol information such as Description, **ExchangeNa
 ****
 
 ```
-=RTD("TradingPlatform";"";"GetSymbolInfo";"BTCUSDT";"SymbolType";"Binance")
+=ДРВ("tradingplatform";"";"GetSymbolInfo";"1INCHBTC";"Name";"Binance Spot")
+
+=ДРВ("tradingplatform";"";"GetSymbolInfo";"1000LUNCBUSD";"Name";"Binance USDT-M Futures")
+
+=ДРВ("tradingplatform";"";"GetSymbolInfo";"1INCHUSDT_SPOT";"Name";"Bybit")
+
+=ДРВ("TradingPlatform";"";"GetSymbolInfo";"10000NFTUSDT_SWAP";"Name";"Bybit")
+
+=ДРВ("TradingPlatform";"";"GetSymbolInfo";"BTCUSDT";"SymbolType";"Binance Spot")
 ```
 
 #### Options
 
-| Options               | Description                                                                                                                                         |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **"TradingPlatform"** | Quantower RTD server name. You can use it in all formulas.                                                                                          |
-| **"GetSymbolInfo"**   | Name of method                                                                                                                                      |
-| **"BTCUSDT"**         | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
-| **"SymbolType"**      | Specifies the type of data you want to receive. For example: Name, Description.                                                                     |
-| **"Binance"**         | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
+| Options                      | Description                                                                                                                                         |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **"TradingPlatform"**        | Quantower RTD server name. You can use it in all formulas.                                                                                          |
+| **"GetSymbolInfo"**          | Name of method                                                                                                                                      |
+| **"BTCUSDT"**                | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
+| **"SymbolType"**             | Specifies the type of data you want to receive. For example: Name, Description.                                                                     |
+| **"Binance USDT-M Futures"** | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdD7Xd-0rMcvc9PCdnw%2F-MdDAb\_29\_\_xMcMGoTaX%2F%D0%B5%D0%BA%D1%81%D0%B5%D0%BB%D1%8C%20%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE1.gif?alt=media\&token=f409533f-8cb3-4ed5-b7dd-1fd04a677bdf)
 
@@ -106,39 +114,74 @@ Provides access to specific account information such as name, balance, NettingTy
 {% endhint %}
 
 ```
-=RTD("tradingplatform";"";"GetAccountInfo";"binance";"fullLicense";"Binance")
+=ДРВ("tradingplatform";"";"GetAccountInfo";"binance";"Balance";"Binance USDT-M Futures")
+
+=ДРВ("tradingplatform";"";"GetAccountInfo";"binance";"DOTavailableBalance";"Binance USDT-M Futures")
+
+=ДРВ("tradingplatform";"";"GetAccountInfo";"binance";"hedgeMode";"Binance USDT-M Futures")
+
+=ДРВ("tradingplatform";"";"GetAccountInfo";"3111865";"Balance";"Bybit")
+
+=ДРВ("tradingplatform";"";"GetAccountInfo";"3111865";"openPositions";"Bybit")
+
+=ДРВ("tradingplatform";"";"GetAccountInfo";"3111865";"Id";"Bybit")
 ```
 
-_**Options**_
+### **3. GetMarketData -** Bid, Ask, Last, Open, High
 
-| _**Options**_         | Description                                                                                                                                         |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **"TradingPlatform"** | Quantower RTD server name. You can use it in all formulas.                                                                                          |
-| **"GetMarketData"**   | Name of method                                                                                                                                      |
-| **"BTCUSDT"**         | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
-| **"Bid"**             | Specifies the type of data you want to receive. For example: Bid, Ask, Last, Open, High                                                             |
-| **"Binance Futures"** | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
+```
+=ДРВ("tradingplatform";"";"GetMarketData";"1INCHUSDT_SPOT";"Last";"Bybit")
+
+=ДРВ("tradingplatform";"";"GetMarketData";"10000NFTUSDT_SWAP";"Last";"Bybit")
+
+=ДРВ("tradingplatform";"";"GetMarketData";"BTCUSDT";"Last";"Binance Spot")
+
+=ДРВ("tradingplatform";"";"GetMarketData";"1000LUNCBUSD";"Last";"Binance USDT-M Futures")
+
+=ДРВ("tradingplatform";"";"GetMarketData";"1INCHUSDT_SPOT";"ChangePercentage";"Bybit")
+
+=ДРВ("tradingplatform";"";"GetMarketData";"10000NFTUSDT_SWAP";"ChangePercentage";"Bybit")
+
+=ДРВ("tradingplatform";"";"GetMarketData";"1INCHBUSD";"ChangePercentage";"Binance Spot")
+
+=ДРВ("tradingplatform";"";"GetMarketData";"1000LUNCBUSD";"ChangePercentage";"Binance USDT-M Futures")
+
+```
+
+| _**Options**_                | Description                                                                                                                                         |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **"TradingPlatform"**        | Quantower RTD server name. You can use it in all formulas.                                                                                          |
+| **"GetMarketData"**          | Name of method                                                                                                                                      |
+| **"BTCUSDT"**                | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
+| **"Bid"**                    | Specifies the type of data you want to receive. For example: Bid, Ask, Last, Open, High                                                             |
+| **"Binance USDT-M Futures"** | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdDYvNg3fltYBR\_\_rmI%2F-MdDdK5vki\_349k34zfM%2FGetMarketData%20-%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0.gif?alt=media\&token=b7653eb0-9b6d-42d6-8f99-df221d76a6ad)
 
-### &#x20;GetLevel2Data - Level2   <a href="#4-getlevel-2-data-level2-dannye-glubiny-rynka" id="4-getlevel-2-data-level2-dannye-glubiny-rynka"></a>
+### &#x20;4. GetLevel2Data - Level2   <a href="#4-getlevel-2-data-level2-dannye-glubiny-rynka" id="4-getlevel-2-data-level2-dannye-glubiny-rynka"></a>
 
 Provides access to Tier 2 data for a specific symbol. You can simply copy/paste this formula and use it in your Excel files.
 
 ```
- =RTD("tradingplatform";"";"GetLevel2Data";"BTCUSDT";"BidSize";"0";"Binance")
+ =ДРВ("tradingplatform";"";"GetLevel2Data";"BTCUSDT";"BidSize";"0";"Binance Spot")
+
+=ДРВ("tradingplatform";"";"GetLevel2Data";"BTCUSDT";"BidSize";"0";"Binance USDT-M Futures")
+
+=ДРВ("tradingplatform";"";"GetLevel2Data";"BTCUSDT_SPOT";"BidSize";"0";"Bybit")
+
+=ДРВ("tradingplatform";"";"GetLevel2Data";"10000NFTUSDT_SWAP";"BidSize";"0";"Bybit")
 ```
 
 _**Options**_
 
-| _**Options**_         | Description                                                                                                                                         |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **"TradingPlatform"** | Quantower RTD server name. You can use it in all formulas.                                                                                          |
-| **"GetLevel2Data"**   | Name of method                                                                                                                                      |
-| **"BTCUSDT"**         | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
-| **"BidSize"**         | Указанный тип данных, которые вы хотите получать. Например: Bid, Ask, BidSize, AskSize.                                                             |
-| **"0"**               | The sequence number of the level in the Depth of Market. Starts with 0.                                                                             |
-| **"Binance"**         | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
+| _**Options**_                | Description                                                                                                                                         |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **"TradingPlatform"**        | Quantower RTD server name. You can use it in all formulas.                                                                                          |
+| **"GetLevel2Data"**          | Name of method                                                                                                                                      |
+| **"BTCUSDT"**                | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
+| **"BidSize"**                | Указанный тип данных, которые вы хотите получать. Например: Bid, Ask, BidSize, AskSize.                                                             |
+| **"0"**                      | The sequence number of the level in the Depth of Market. Starts with 0.                                                                             |
+| **"Binance USDT-M Futures"** | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdDeP1om5YlPw02mvCy%2F-MdDpQrD1zm6GSE\_ZR-C%2FGetLevel2Data%20-%20Level2%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D1%8B%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20.gif?alt=media\&token=b50021c3-179a-49e1-b8d0-6294abce718f)
 
@@ -147,30 +190,34 @@ _**Options**_
 Returns the history for the specified character, aggregation and date range. You can simply copy/paste this formula and use it in your Excel files.
 
 ```
- =RTD("tradingplatform";"";"GetHistory";"BTCUSDT";"1Day";"Low";"10Day";"0";"Last";"Binance")
+=ДРВ("tradingplatform";"";"GetHistory";"BTCUSDT";"1Day";"Low";"10Day";"0";"Last";"Binance Spot")
+
+=ДРВ("tradingplatform";"";"GetHistory";"BNBUSDT";"1Minute";"Close";"30Minute";"0";"Last";"Binance USDT-M Futures")
+
+=ДРВ("tradingplatform";"";"GetHistory";"BTCUSDT";"5Minute";"Open";"300Minute";"0";"Last";"Binance USDT-M Futures")
+
+=ДРВ("tradingplatform";"";"GetHistory";"ADAUSDT";"1Hour";"Low";"24Hour";"0";"Last";"Binance Spot")
+
+=ДРВ("tradingplatform";"";"GetHistory";"BTCUSDT_SPOT";"1Hour";"Low";"24Hour";"0";"Last";"Bybit")
+
+=ДРВ("tradingplatform";"";"GetHistory";"10000NFTUSDT_SWAP";"1Hour";"Low";"24Hour";"0";"Last";"Bybit")
 ```
 
-_**=RTD("tradingplatform";"";"GetHistory";"BNBUSDT";"1Minute";"Close";"30Minute";"0";"Last";"Binance Futures")**_
-
-_**=RTD("tradingplatform";"";"GetHistory";"BTCUSDT";"5Minute";"Open";"300Minute";"0";"Last";"Binance Futures")**_
-
-_**=RTD("tradingplatform";"";"GetHistory";"ADAUSDT";"1Hour";"Low";"24Hour";"0";"Last";"Binance ")**_
-
-_**​**_
+_****_
 
 _**Options**_
 
-| _**Options**_         | _Описание_                                                                                                                                          |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **"TradingPlatform"** | Quantower RTD server name. You can use it in all formulas.                                                                                          |
-| **"GetHistory"**      | Name of method                                                                                                                                      |
-| **"BTCUSDT"**         | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
-| **"1Day"**            | Aggregation type: 1 day, 3 days, 5 minutes, etc. Available aggregates:Tick, Second, Minute, Hour, Day, Week, Month, Year.                           |
-| **"Close"**           | Specifies the type of data you want to receive. For example: Open, High, Low, Close, Volume, Bid, Ask.                                              |
-| **"10Day"**           | Required history range: 10 days, 300 minutes, etc. Available ranges: Minute, Hour, Day, Month, Year.                                                |
-| **"0"**               | The index of the bar / tick in the returned history array. 0 means the newest bar.                                                                  |
-| **"Last"**            | Bid, Ask, Last history type. Leave the field empty to get the default history for the specified character.                                          |
-| **"Binance"**         | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
+| _**Options**_                | _Описание_                                                                                                                                          |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **"TradingPlatform"**        | Quantower RTD server name. You can use it in all formulas.                                                                                          |
+| **"GetHistory"**             | Name of method                                                                                                                                      |
+| **"BTCUSDT"**                | The ID of the symbol for which you want to get data. You can get it from the SymbolInfo panel.                                                      |
+| **"1Day"**                   | Aggregation type: 1 day, 3 days, 5 minutes, etc. Available aggregates:Tick, Second, Minute, Hour, Day, Week, Month, Year.                           |
+| **"Close"**                  | Specifies the type of data you want to receive. For example: Open, High, Low, Close, Volume, Bid, Ask.                                              |
+| **"10Day"**                  | Required history range: 10 days, 300 minutes, etc. Available ranges: Minute, Hour, Day, Month, Year.                                                |
+| **"0"**                      | The index of the bar / tick in the returned history array. 0 means the newest bar.                                                                  |
+| **"Last"**                   | Bid, Ask, Last history type. Leave the field empty to get the default history for the specified character.                                          |
+| **"Binance USDT-M Futures"** | The name of the connection you want to use to search for the desired character. You can leave this parameter blank if you only have one connection. |
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdE86l5W8HjMUupdd2P%2F-MdE8AgutchiL75g8edf%2FGetHistory%20-%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0.png?alt=media\&token=e8008edd-a627-47b0-81c2-060c6963014f)
 

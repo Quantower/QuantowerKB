@@ -48,15 +48,16 @@ Quantower platform provides 5 separate VWAPs, that can be placed simultaneously 
 * **Period and Value** — defines the number of bars (duration) on which VWAP will be calculated
 * **VWAP line** — visual settings for VWAP itself (line style, color, thickness)
 * **Sessions template** — setting allows you to select the trading session within which VWAP will be calculated. You can select predefined sessions from the list, or add your own custom sessions. For more information about creating and configuring a session, follow the instructions in the <mark style="background-color:blue;">****</mark> [<mark style="background-color:blue;">**Session manager**</mark>](../../miscellaneous-panels/sessions-manager.md) section.
-* **Forward Extensions** (type and number)
 
-![](<../../.gitbook/assets/image (104).png>)
+3. <mark style="color:blue;background-color:blue;">**Forward Extensions**</mark> (type and number)
 
-**3. Standard Deviation Bands**
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:blue;background-color:blue;">**4. Standard Deviation Bands**</mark>
 
 When the parameter is active, the standard deviation lines up and down from VWAP will be additionally calculated on the chart. Specify the number of standard deviations in the _**"Value"**_ field and colors
 
-**4. Maximum Permissible Deviation (MPD)**
+<mark style="color:blue;background-color:blue;">**5. Maximum Permissible Deviation (MPD)**</mark>
 
 MPD is similar to the standard deviation but is calculated as (VWAP period high - VWAP period low)/2.
 

@@ -29,7 +29,7 @@ By clicking on the "**Gear"** icon, you can customize the settings of the select
 
 * **Price Type** — select the price for the Current TF data type (Open, High, Low, Close, HL/2, HLC/3, OHLC/4)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 * **Standard Deviation Bands**. When the parameter is active, the standard deviation lines up and down from VWAP will be additionally calculated on the chart. Specify the number of standard deviations in the _**"Value"**_ field and colors
 * **Maximum Permissible Deviation (MPD).** MPD is similar to the standard deviation but is calculated as (VWAP period high - VWAP period low)/2.

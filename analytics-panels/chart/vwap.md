@@ -6,14 +6,14 @@ description: >-
 
 # VWAP | Volume Weighted Average Price
 
-**Volume Weighted Average Price** knows as **VWAP** is a “benchmark” price of an asset for any period of the trading day or session. Average price is weighted by volume for evaluating the overpaying or underpaying of current price relative to the VWAP price.
+**Volume Weighted Average Price** known as **VWAP** is a “benchmark” price of an asset for any period of the trading day or session. Average price is weighted by volume for evaluating the overpaying or underpaying of the current price relative to the VWAP price.
 
 ![](../../.gitbook/assets/multiple-vwap.png)
 
 The indicator is calculated for any period of time according to the following algorithm:
 
 * the average price (AP) is calculated for each bar or candle. The calculation is made for each price change for the current candle.  AP = (H+L+C)/3
-* the average price is multiplied by the volume that has passed in the current candlestick or bar. For example, in real time new trade will increase the volume and thus weigh the price. Thus, for each price or volume change we will get value AP \* V.
+* the average price is multiplied by the volume passed in the current candlestick or bar. For example, in real-time new trade will increase the volume and thus weigh the price. Thus, for each price or volume change we will get value AP \* V.
 * the above values are summed up and divided by the total volume for the specified period.&#x20;
 
 &#x20;                           **VWAP = (Sum of Average Price \* Traded Volume) / Cumulative Volume**
@@ -33,21 +33,22 @@ The quick settings menu contains:
 
 By clicking on the "**Gear"** icon, additional settings will open.&#x20;
 
-![Additional settings for VWAP Indicator](<../../.gitbook/assets/image (107).png>)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Additional settings for VWAP Indicator</p></figcaption></figure>
 
-**1. Switch between different VWAPs** and set the settings for each of them&#x20;
+<mark style="color:blue;background-color:blue;">**1. Switch between different VWAPs**</mark> and set the settings for each of them.
 
 Quantower platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
 
-**2.** Set the **Main Settings** for the VWAP line:
+<mark style="color:blue;background-color:blue;">**2.**</mark> <mark style="background-color:blue;">Set the</mark> <mark style="color:blue;background-color:blue;">**Main Settings**</mark> for the VWAP line:
 
-* **Data type** — set the data for VWAP calculation: **Ticks** or **Current TF.**\
-  &#x20;  **Ticks** will use tick data for VWAP calculation and will take much more time for loading\
-  &#x20;  **Current TF** will use Bar data from the current selected Timeframe of your chart. It will use Price type data and multiple it to Bar Volume.
-* **Price Type** — select the price for the Current TF data type (Open, High, Low, Close, HL/2, HLC/3, OHLC/4)
+* **Data type** — sets the type of data for the VWAP calculation: **Ticks** or **Current TF.**\
+  &#x20;  **Ticks** will use tick data for VWAP calculation and will take much more time for the data loading.\
+  &#x20;  **Current TF** will use Bar data from the current selected Timeframe of your chart. It will use Price type data and multiply it by Total Bar Volume.
+* **Price Type** — select the desired price to be used in the calculation for the Current TF data type (Open, High, Low, Close, HL/2, HLC/3, OHLC/4)
 * **Period and Value** — defines the number of bars (duration) on which VWAP will be calculated
+* **VWAP line** — visual settings for VWAP itself (line style, color, thickness)
+* **Sessions template** — setting allows you to select the trading session within which VWAP will be calculated. You can select predefined sessions from the list, or add your own custom sessions. For more information about creating and configuring a session, follow the instructions in the <mark style="background-color:blue;">****</mark> [<mark style="background-color:blue;">**Session manager**</mark>](../../miscellaneous-panels/sessions-manager.md) section.
 * **Forward Extensions** (type and number)
-* **VWAP line** — visual settings for VWAP itself
 
 ![](<../../.gitbook/assets/image (104).png>)
 

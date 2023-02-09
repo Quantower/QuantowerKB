@@ -170,7 +170,7 @@ Settings for **Trades on TPO Profile** chart
 
 Settings for **SL/TP on TPO Profile** chart
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (2).png>)
 {% endtab %}
 
 {% tab title="Order Entry" %}

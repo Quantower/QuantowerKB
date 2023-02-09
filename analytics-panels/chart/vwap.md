@@ -16,7 +16,7 @@ The indicator is calculated for any period of time according to the following al
 * the average price is multiplied by the volume passed in the current candlestick or bar. For example, in real-time new trade will increase the volume and thus weigh the price. Thus, for each price or volume change we will get value AP \* V.
 * the above values are summed up and divided by the total volume for the specified period.&#x20;
 
-&#x20;                           **VWAP = (Sum of Average Price \* Traded Volume) / Cumulative Volume**
+&#x20;      **       **<mark style="background-color:green;">**VWAP = (Sum of Average Price \* Traded Volume) / Cumulative Volume**</mark>
 
 ## **How to add VWAP to the chart?**
 

@@ -1,56 +1,42 @@
 ---
 description: >-
-  Here you will learn about the basic settings of the chart in Quantower. In
-  order to get to this menu, you need to right-click on the chart and in the
-  menu select settings
+  Here you will learn about the basic chart settings in Quantower. To access
+  this menu, right-click on the chart and select 'Settings' in the menu.
 ---
 
 # Chart Settings
 
-There are two ways to open Chart Settings:
+There are two ways to open the Chart Settings:
 
-**1)** click on the Menu button on the left upper corner and select Settings item
+**1)** Click on the '<mark style="background-color:blue;">Menu</mark>' button in the top left corner and select the '<mark style="background-color:blue;">**Settings**</mark>' option.
 
 ![Open Chart Settings via main menu button](<../../.gitbook/assets/image (124).png>)
 
-**2)** Right-click on the chart and select Settings item
+**2)** Right-click on the chart and select the '<mark style="background-color:blue;">**Settings**</mark>' option.
 
 ![Open Chart Settings via context menu](<../../.gitbook/assets/image (125).png>)
 
-General view of Chart settings menu has the following subsections. Let's take a closer look at them:
+The General view of the Chart Settings menu has several sections. Let's take a closer look at them:
 
-|            |             |                |
-| ---------- | ----------- | -------------- |
-| View       | Time scale  | Visual trading |
-| Data style | Price scale | Order entry    |
-|            |             |                |
-
-* ****[**View**](chart-settings.md#view-settings)****
-* ****[**Data style**](chart-settings.md#data-style)****
-* ****[**Time scale**](chart-settings.md#time-scale)****
-* ****[**Price scale**](chart-settings.md#price-scale)****
-* ****[**Visual trading**](chart-settings.md#visual-trading) ** **<mark style="color:blue;">**(Positions, Orders, Trades, SL/TP)**</mark>
-* ****[**Order entry**](chart-settings.md#order-entry)****
-* **Quick ruler**
-* ****[**Info window**](chart-settings.md#info-window)****
-* ****[**Volume bars**](chart-settings.md#volume-bars)****
-* **Event trading**
-* ****[**Hotkeys**](chart-settings.md#hotkeys)****
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-
-![General View of Chart Settings](<../../.gitbook/assets/image (113).png>)
+|                                                          |                                                                |                                                          |
+| -------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------- |
+| ****[**View**](chart-settings.md#view-settings)****      | ****[**Visual trading**](chart-settings.md#visual-trading)**** | ****[**Volume bars**](chart-settings.md#volume-bars)**** |
+| ****[**Data style**](chart-settings.md#data-style)****   | ****[**Order entry**](chart-settings.md#order-entry)****       | **Event trading**                                        |
+| ****[**Time scale**](chart-settings.md#time-scale)****   | **Quick ruler**                                                | ****[**Hotkeys**](chart-settings.md#hotkeys)****         |
+| ****[**Price scale**](chart-settings.md#price-scale)**** | ****[**Info window**](chart-settings.md#info-window)****       |                                                          |
 
 ## View settings
 
-* **Custom title.** You can rename your chart panel as you wish.\
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>General View of Chart Settings</p></figcaption></figure>
+
+* **Custom title.** You can rename your chart panel as desired.\
 
 * **Use custom tick size**\
-  ****This is probably one of the most important settings in this chart. It is most often used for cluster charts. When you have a highly volatile instrument such as BTC or any other instrument in the course of its trading there will be volumes on each cluster level. Sometimes they have gaps in them. Clusters can be vertically compressed to display information better. The compression ratio must be specified in this menu item. Below you can see a bitcoin chart with compression of $10
+  ****This is probably one of the most important settings in the chart. It is commonly used for cluster charts. In highly volatile instruments such as BTC or NQ futures, there may be gaps in the volumes on each cluster level. The clusters can be vertically compressed to display information better, and the compression ratio must be specified in this menu item. Below you can see a bitcoin chart with a compression of $10.
 
 ![](<../../.gitbook/assets/image (116).png>)
 
-* **Time Zome.** These are the time zone settings of the chart\
+* **Time Zone.** These are the time zone settings of the chart\
 
 * **Mouse wheel action.** It's an action for the mouse wheel when a user will rotate the wheel. There are two options available — **Scroll** or **Zoom** of the chart area.
 

@@ -33,7 +33,7 @@ The quick settings menu contains:
 
 By clicking on the "**Gear"** icon, additional settings will open.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Additional settings for VWAP Indicator</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Additional settings for VWAP Indicator</p></figcaption></figure>
 
 <mark style="color:blue;background-color:blue;">**1. Switch between different VWAPs**</mark> and set the settings for each of them.
 
@@ -51,7 +51,7 @@ Quantower platform provides 5 separate VWAPs, that can be placed simultaneously 
 
 3. <mark style="color:blue;background-color:blue;">**Forward Extensions**</mark> (type and number)
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;background-color:blue;">**4. Standard Deviation Bands**</mark>
 

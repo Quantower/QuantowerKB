@@ -27,7 +27,7 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 ## View settings
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>General View of Chart Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>General View of Chart Settings</p></figcaption></figure>
 
 * **Custom title.** You can rename your chart panel as desired.\
 
@@ -36,15 +36,19 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 ![](<../../.gitbook/assets/image (116).png>)
 
-* **Time Zone.** These are the time zone settings of the chart\
+* **Time Zone.** These are the time zone settings for the chart\
 
-* **Mouse wheel action.** It's an action for the mouse wheel when a user will rotate the wheel. There are two options available — **Scroll** or **Zoom** of the chart area.
+* **Mouse wheel action.** This defines the action that occurs when the user rotates the mouse wheel.
+* **Mouse wheel + CTRL action.**
+* **Mouse wheel + SHIFT action.**\
+  &#x20;\
+  For all Mouse wheel actions, there are four options available: **Scroll, Zoom of the Chart Area, Zoom to Cursor, and Price scale Zoom.**
 
-![](<../../.gitbook/assets/image (128).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* **Drawings default availability**. If you choose "All charts with the same symbol", all drawings will be projected onto the other charts with the same asset (ticker). And also allows you to change the color settings of the figures on all charts simultaneously.
+* **Drawings default availability**. If you choose <mark style="color:blue;">'All Charts with the Same Symbol,'</mark> all drawings will be applied to other charts with the same asset (ticker). This also allows you to change the color settings of the drawings on all charts at the same time.
 
-![](<../../.gitbook/assets/image (129).png>)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/image (114).png>)
 
@@ -61,15 +65,15 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 ## Data style
 
-This tab controls the visual settings of the chart data. Here you can change the Chart Style (like Candles, Bars, Area, Line) and set colors for the Up & Down Bars. Try to set up a nice interface for your eyes.
+This tab controls the visual settings of the chart data. Here you can change the Chart Style (e.g., Candles, Bars, Area, Line) and set colors for the Up & Down Bars. Try to create an attractive interface that is easy on your eyes.
 
 ![Chart data style and its settings](../../.gitbook/assets/data-style.gif)
 
 ## Time scale
 
-Use this tab to adjust the time scale. Here you can select the size and color of the font. You can also select the background color for the timeline. You can also control the vertical period separators. Such as Daily Period, Weekly Monthly and Yearly. All of these periods you can display in different colors as needed.
+Use this tab to adjust the time scale. You can select the font size and color, as well as the background color for the timeline. You can also control the vertical period separators, such as Daily, Weekly, Monthly, and Yearly, and display them in different colors as desired.
 
-![](<../../.gitbook/assets/image (108).png>)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Price Scale
 

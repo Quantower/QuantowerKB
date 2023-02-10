@@ -36,7 +36,7 @@ Additionally, it is worth to set a delta value to filter out the zones with one-
 
 The following settings are involved in the calculation of the indicator, and directly affect the results.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Total Volume** — the minimum value of the volume that should be traded during the specified time interval
 * **Time Interval, sec** — the time over which the Total Volume should be traded
@@ -50,7 +50,7 @@ The following settings are involved in the calculation of the indicator, and dir
 
 Settings that do not affect the indicator calculation. These are mostly visual and sound settings
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Play alert sound** — the option turns on / off the sound signal when a new zone appears.
 * **Coloring view mode** — set the color for all found areas on the chart. \

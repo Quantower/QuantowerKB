@@ -48,7 +48,7 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 * **Drawings default availability**. If you choose <mark style="color:blue;">'All Charts with the Same Symbol,'</mark> all drawings will be applied to other charts with the same asset (ticker). This also allows you to change the color settings of the drawings on all charts at the same time.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/image (114).png>)
 
@@ -77,15 +77,15 @@ Use this tab to adjust the time scale. You can select the font size and color, a
 
 ## Price Scale
 
-These settings allow you to customize the price scale. There are 3 important points here, let's break down each one:
+These settings allow you to customize the price scale. There are three important points here, let's examine each one:
 
-* **Scale type**. Allows you to select which type of scale will be displayed on the chart. This can be a normal display. The percentage display or a logarithmic scale.\
+* **Scale type**. This allows you to choose which type of scale will be displayed on the chart, such as a normal display, percentage display, or logarithmic scale.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Zoom**. Here you can adjust the vertical scaling of the chart.
 
 ![Price Scaling on the chart panel](../../.gitbook/assets/price-scaling.gif)
-
-![](<../../.gitbook/assets/image (126).png>)
 
 * **Highlight prices**. Adjusts the color and font of the current price on the chart. Gives the opportunity to highlight the minimums and maximums of the previous day and limits on the instrument
 
@@ -125,28 +125,28 @@ These are the settings of the order entry panel. The most interesting thing here
 
 **Mouse trading mode**. There are two modes available to choose from:
 
-**single order/position**. Once the order is set, the mouse trading mode is automatically disabled.
+**single order**. Once the order is set, the mouse trading mode is automatically disabled.
 
-**multiple orders/positions**. Mouse trading mode will be active until it is deactivated.
+**multiple orders**. Mouse trading mode will be active until it is deactivated.
 
 ![](<../../.gitbook/assets/image (277).png>)
 
 ## Info Window
 
-This settings tab is for displaying values in the upper left corner. which data to display you can choose for yourself. For example, it is important for me to know the volume value and I only display them. You can also adjust the font of this information.
+This settings tab is for displaying values in the upper left corner. You can choose which data to display for yourself. You can also adjust the font size for this information.
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Select the desired data for the  Info window</p></figcaption></figure>
 
 ![Info Window on the chart](../../.gitbook/assets/info-window.gif)
 
-![Visual settings for Info Window](<../../.gitbook/assets/image (112).png>)
-
 ## Volume Bars
 
-This tab is used to adjust the volume histogram at the bottom of the chart. You can choose the colors of the histogram that you like. You can also select a color scheme for coloring this chart. Adjusting the color of the volume histogram depending on the direction of the price bar or changing the color depending on whether the volume is higher or lower now.
+This tab is used to adjust the volume histogram at the bottom of the chart. You can choose the colors for the histogram that you prefer. You can also select a color scheme for coloring the chart, adjusting the color of the volume histogram based on the direction of the price bar, or changing the color depending on whether the volume is higher or lower at the moment.
 
 ![](<../../.gitbook/assets/image (111).png>)
 
 ## Hotkeys
 
-This tab is for configuring your keyboard shortcuts. Here you can configure the volume change with one button. Drawing levels or trend channels. Cancel orders and many other useful functions. In general, almost any action can be assigned as you wish
+This tab is for configuring your keyboard shortcuts. Here, you can configure functions like changing the volume with one button, drawing levels or trend channels, canceling orders, and many other useful functions. In general, you can assign almost any action to your preferred key combination.
 
 ![](<../../.gitbook/assets/image (119).png>)

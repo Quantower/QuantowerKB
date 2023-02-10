@@ -120,7 +120,7 @@ Trading hours for RTH / ETH sessions of CME Indexes (ES, NQ, RTY etc.) you can f
 {% endtab %}
 
 {% tab title="Time for full day (RTH+ETH)" %}
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Custom trading session for CME Indexes for the full trading day )ETH+RTH) (Central Time)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Custom trading session for CME Indexes for the full trading day )ETH+RTH) (Central Time)</p></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
@@ -143,4 +143,4 @@ Note that CQG has data limitations for continuous futures:
 * 3-year history limit for daily bars
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>

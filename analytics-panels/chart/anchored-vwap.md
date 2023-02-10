@@ -12,7 +12,7 @@ Specify the start point on the chart and anchored VWAP will draw a line to the c
 
 By clicking on the "**Gear"** icon, you can customize the settings of the selected VWAP
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Settings of Custom VWAP (Anchored VWAP)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Settings of Custom VWAP (Anchored VWAP)</p></figcaption></figure>
 
 * **VWAP line** — set the main line type, its thickness, and color
 * **Left Range** — defines the starting point for custom VWAP\

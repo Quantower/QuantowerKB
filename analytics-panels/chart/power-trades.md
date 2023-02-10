@@ -36,7 +36,7 @@ Additionally, it is worth to set a delta value to filter out the zones with one-
 
 The following settings are involved in the calculation of the indicator, and directly affect the results.
 
-![](../../.gitbook/assets/power-trades-main-settings.png)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * **Total Volume** — the minimum value of the volume that should be traded during the specified time interval
 * **Time Interval, sec** — the time over which the Total Volume should be traded
@@ -50,10 +50,17 @@ The following settings are involved in the calculation of the indicator, and dir
 
 Settings that do not affect the indicator calculation. These are mostly visual and sound settings
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 * **Play alert sound** — the option turns on / off the sound signal when a new zone appears.
-* **Area color** — set color for all found areas on the chart
+* **Coloring view mode** — set the color for all found areas on the chart. \
+  &#x20;  **By delta mode**: colors can be set depending on the sign of the delta - positive or negative.\
+  &#x20;   **By filtered volume**: mode sets a different color for areas whose total volume is greater than or equal to the one set in the threshold.\
+
 * **Highlight area color** — set color for the selected area on the chart
-* **Show Market Depth** — the option shows / hides the Market Depth at the bottom of the table.
+* **Sidebar view mode** — setting controls the data displaying — **Table result, Market Depth only, Full view (Table + Market Depth), None**.
+
+<figure><img src="../../.gitbook/assets/power trades settings.gif" alt=""><figcaption></figcaption></figure>
 
 ### Power Trades and DOM tables
 

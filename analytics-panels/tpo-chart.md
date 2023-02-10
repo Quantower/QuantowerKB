@@ -154,7 +154,7 @@ There you can set Style of TPO profiles (colors, Value area et.), POC type, Midp
 {% tab title="Visual Trading" %}
 General settings for **Visual trading on TPO Profile** chart
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (2).png>)
 
 Settings for **Positions on TPO** **Profile** chart
 

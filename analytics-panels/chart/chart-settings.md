@@ -19,15 +19,25 @@ There are two ways to open Chart Settings:
 
 General view of Chart settings menu has the following subsections. Let's take a closer look at them:
 
+|            |             |                |
+| ---------- | ----------- | -------------- |
+| View       | Time scale  | Visual trading |
+| Data style | Price scale | Order entry    |
+|            |             |                |
+
 * ****[**View**](chart-settings.md#view-settings)****
 * ****[**Data style**](chart-settings.md#data-style)****
 * ****[**Time scale**](chart-settings.md#time-scale)****
 * ****[**Price scale**](chart-settings.md#price-scale)****
-* ****[**Visual trading**](chart-settings.md#visual-trading)****
+* ****[**Visual trading**](chart-settings.md#visual-trading) ** **<mark style="color:blue;">**(Positions, Orders, Trades, SL/TP)**</mark>
 * ****[**Order entry**](chart-settings.md#order-entry)****
+* **Quick ruler**
 * ****[**Info window**](chart-settings.md#info-window)****
 * ****[**Volume bars**](chart-settings.md#volume-bars)****
+* **Event trading**
 * ****[**Hotkeys**](chart-settings.md#hotkeys)****
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ![General View of Chart Settings](<../../.gitbook/assets/image (113).png>)
 

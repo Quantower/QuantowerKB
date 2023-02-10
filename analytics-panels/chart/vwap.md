@@ -51,7 +51,7 @@ Quantower platform provides 5 separate VWAPs, that can be placed simultaneously 
 
 3. <mark style="color:blue;background-color:blue;">**Forward Extensions**</mark> (type and number)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;background-color:blue;">**4. Standard Deviation Bands**</mark>
 

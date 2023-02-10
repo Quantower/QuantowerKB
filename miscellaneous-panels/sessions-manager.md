@@ -10,7 +10,7 @@ description: >-
 
 You can find a new Sessions manager screen in the Miscellaneous section of Quantower's control center. Once launched, you will see a table where Quantower will display the list of custom sessions assignments. Initially, it is empty, meaning that Quantower will use the sessions data coming from the symbols vendor. Generally, Sessions manager functionality is based on the work with sessions templates - creation and assignment - so its flow is simple: create a template and then assign it to some symbol (exchange, connection).
 
-![Launch Sessions Manager panel](<../.gitbook/assets/image (1) (2) (1).png>)
+![Launch Sessions Manager panel](<../.gitbook/assets/image (1) (2) (1) (1).png>)
 
 ## Create sessions template
 
@@ -73,7 +73,7 @@ As an example, let's set the time of RTH and ETH sessions for CME Indexes:
 
 {% tabs %}
 {% tab title="Time for RTH session" %}
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Custom trading session for CME Indexes for Regular Trading Hours (Central Time)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>Custom trading session for CME Indexes for Regular Trading Hours (Central Time)</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="Time for ETH session" %}

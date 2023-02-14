@@ -54,14 +54,23 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 {% embed url="https://www.youtube.com/watch?v=BtC9iJEOcjY" %}
 
-* **Custom session.** This item is for displaying trading sessions.
-* **Window colors.**  Settings for the background color on the chart.
+* **Window colors.**  Settings for the background color on the chart.\
+
+*   **The Abbreviation Rules** option gives you the ability to simplify the values of trading sizes for easier readability. There are 3 options for Format Mode:\
+    \
+    **Default:** This option displays values as is, without any abbreviation or rounding.\
+    \
+    **Round to:** This option rounds values after the decimal point to the specified number of decimal places.
+
+    ****\
+    **Abbreviate:** This option abbreviates values to the shortest form, such as "K" for thousands, "M" for millions, etc.\
+
 * **Crosshair.** These are settings of the cursor and its visibility on charts with one symbol (asset).
 * **Grid.** Settings for the grid lines on the chart (horizontal and vertical grid).
 * **Time to next bar.** These are settings for displaying time to the next bar and changing its color.
 * **Additional.** It is used to enable/disable toolbars and misc data on a chart.
 
-![](<../../.gitbook/assets/image (118).png>)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Data style
 

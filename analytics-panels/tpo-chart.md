@@ -162,7 +162,7 @@ Settings for **Positions on TPO** **Profile** chart
 
 Settings for **Orders on TPO Profile** chart
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 Settings for **Trades on TPO Profile** chart
 

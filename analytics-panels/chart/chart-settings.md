@@ -44,7 +44,7 @@ The General view of the Chart Settings menu has several sections. Let's take a c
   &#x20;\
   For all Mouse wheel actions, there are four options available: **Scroll, Zoom of the Chart Area, Zoom to Cursor, and Price scale Zoom.**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Drawings default availability**. If you choose <mark style="color:blue;">'All Charts with the Same Symbol,'</mark> all drawings will be applied to other charts with the same asset (ticker). This also allows you to change the color settings of the drawings on all charts at the same time.
 
@@ -131,11 +131,15 @@ These are the settings of the order entry panel. The most interesting thing here
 
 ![](<../../.gitbook/assets/image (277).png>)
 
+## Quick Ruler
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Info Window
 
 This settings tab is for displaying values in the upper left corner. You can choose which data to display for yourself. You can also adjust the font size for this information.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Select the desired data for the  Info window</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>Select the desired data for the  Info window</p></figcaption></figure>
 
 ![Info Window on the chart](../../.gitbook/assets/info-window.gif)
 

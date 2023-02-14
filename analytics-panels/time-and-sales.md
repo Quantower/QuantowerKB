@@ -34,25 +34,29 @@ The basic settings in Time & Sales are similar to the parameters of most panels 
 But some settings are unique for this panel:
 
 * **Line Spacing** provides 3 options of raw formatting for better table view: **Compact, Normal, Double**
-* **Rows limit** — this is the number of lines that will be displayed in the table, to save the memory of your computer. When the number of lines exceeds the specified value, the old values will be deleted as new ones appear
-*   **Coloring scheme** — this option sets the color scheme for all rows of the table, depending on the selected condition:\
-    If you chose **“By Aggressor Flag”**, then for the trades with the Buy direction the line will be blue, and for the Sell trades, the line will be red. If the Aggressor flag is not defined (None) then the color lime will be white.
+* **Rows limit** — this is the number of lines that will be displayed in the table, to save your computer's memory. When the number of lines exceeds the limit, old values will be deleted as new ones are added.
+*   **Coloring scheme** — this option lets you choose the color scheme for all rows in the table based on a selected condition:\
+    If you choose **“By Aggressor Flag”**, then for the trades with the Buy direction the line will be blue, and for the Sell trades, the line will be red. If the Aggressor flag is undefined (None), the color will be white.
 
-    If you selected **“By Tick Direction”**, then the lines will be colored according to the change in the last price.
-* **Aggregate Trades** — this mode allows tracking large traders, by summing up trades that match in price, direction and time
-* **Time Delay, ms** — it will continue to sum up the data within the specified time, with the same price and trade direction.
+    If you select **“By Tick Direction”**, the lines will be colored based on changes in the last price.
+* **Aggregate Trades** — this mode helps you track large traders by summing up trades that match in price, direction, and time
+* **Time Delay, ms** — it will continue to sum up data within the specified time with the same price and trade direction.
 * **Short Price Format** reduces the amount of numbers in the price value to the left of the comma.
 
 <figure><img src="../.gitbook/assets/Short prrice format TS.gif" alt=""><figcaption></figcaption></figure>
 
-* **Abbreviation Rules** option allows you to reduce the values of the trading size to the most readable view. There are 3 options for Format Mode:\
-  **Default** \
-  **Round to**\
-  **Abbreviate**
+*   **The Abbreviation Rules** option gives you the ability to simplify the values of trading sizes for easier readability. There are 3 options for Format Mode:\
+    \
+    **Default:** This option displays values as is, without any abbreviation or rounding.\
+    \
+    **Round to:** This option rounds values after the decimal point to the specified number of decimal places.
+
+    ****\
+    **Abbreviate:** This option abbreviates values to the shortest form, such as "K" for thousands, "M" for millions, etc.
 
 ### Export Data
 
-Time & Sales panel allows exporting executed trades to _CSV_ or _HTML_ files for further analysis. Soon we will add the ability to auto-update the data directly in the external file via DDE and RTD functions.
+Time & Sales panel allows exporting executed trades to either _CSV_ or _HTML_ files for further analysis. In the future, we will add the ability to auto-update the data directly in the external file via DDE and RTD functions.
 
 <figure><img src="../.gitbook/assets/image (364).png" alt=""><figcaption><p>T &#x26; S panel allows exporting data into external files</p></figcaption></figure>
 

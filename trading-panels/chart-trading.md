@@ -25,7 +25,7 @@ Placing orders on the Quantower platform can be done via different panels like O
 
 * Chart trading mode with the mouse
 * Quick order placement through the chart area with a mouse.
-* How to set up many limit orders
+* How to set up multiple limit orders
 
 [Keyboard trading](chart-trading.md#keyboard-trading)
 
@@ -34,7 +34,7 @@ Placing orders on the Quantower platform can be done via different panels like O
 
 ## Chart Trading Toolbar
 
-### How to open chart trading toolbar
+### How to open the chart trading toolbar
 
 To activate the quick trading toolbar, click on the button in the upper right corner.
 
@@ -153,10 +153,8 @@ If the mouse position is **lower than the current price** then:
 
 ## Keyboard trading
 
-### How to activate trading with hot keys
+### How to activate trading with Hotkeys
 
-To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../analytics-panels/chart/chart-settings.md)
+To enable trading via hotkeys, simply click on the **keyboard icon** located in the upper right corner of the chart panel. This will activate the feature, allowing you to conveniently execute trades using your keyboard.
 
 ![](<../.gitbook/assets/image (293).png>)
-
-You can set your own values for the hot buttons in the chart settings

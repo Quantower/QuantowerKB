@@ -133,25 +133,23 @@ To access the quick trade toolbar, click the button in the upper right corner.
 
 ## Mouse trading
 
-Allows you to set limit and stop limit orders directly on the chart. To activate this function, click on the button in the upper right corner of the panel with the image of a mouse icon
-
-
+The Mouse Trading feature enables you to conveniently place limit and stop orders directly on the chart. To activate this feature, simply click on the mouse icon located in the upper right corner of the panel.
 
 ![](<../.gitbook/assets/animaciya-2- (1).gif>)
 
-{% hint style="warning" %}
-To place several orders in a row hold down CTRL
+{% hint style="info" %}
+You can place multiple orders in a row by holding down the **CTRL** key.
 {% endhint %}
 
-If the mouse position i**s higher than the current price** then&#x20;
+If the mouse position is **higher than the current price** then:
 
-* right click of the mouse will set a **limit order**&#x20;
-* left click of the mouse will set a **Buy stop marke**t order
+* left click of the mouse will set a **Buy Stop** order;
+* right click of the mouse will set a **Sell Limit** order.
 
-If position of the mouse is **under the current price** then
+If the mouse position is **lower than the current price** then:
 
-* right click of the mouse will set **Sell stop market**&#x20;
-* right click of the mouse will set **Buy limit order**
+* left click of the mouse will set a **Buy Limit** order;
+* right click of the mouse will set a **Sell Stop** order.
 
 ## Keyboard trading
 

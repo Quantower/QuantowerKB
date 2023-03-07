@@ -1,21 +1,21 @@
 ---
 description: >-
-  Here you can find out what are the possibilities for manual trading in
+  Here you can find out what are the possibilities for manual trading on
   Quantower directly from the chart.
 ---
 
 # Chart Trading
 
-Placing orders on the Quantower platform can be done via different panels like Order Entry, DOM Trader, Chart. In this guide, we will show you how to place orders via Chart using the sidebar trading toolbar and mouse mode.
+Placing orders on the Quantower platform can be done using various panels, such as Order Entry, DOM Trader, and Chart. In this guide, we will show you how to place orders via the Chart panel using the sidebar trading toolbar and mouse mode.
 
 ### **Chart Trading Toolbar**
 
-* [How to open chart trading toolbar](chart-trading.md#how-to-open-quick-trade-toolbar)
-* [How to manage Quick Order Quantity buttons](chart-trading.md#quick-change-order-amount-buttons)
-* [Slider to enter the volume of the position](chart-trading.md#slider-to-enter-the-volume-of-the-position-in-dollars)
-* [How to set up Take Profit and Stop Loss orders](chart-trading.md#how-to-set-up-profit-and-stop-orders)
-* [How to set up  several Take profit and Stop Loss orders for one position](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)
-* [A set of buttons for quick order and position management](chart-trading.md#a-set-of-buttons-for-quick-order-and-position-management)
+* ****[**How to open the chart trading toolbar**](chart-trading.md#how-to-open-quick-trade-toolbar)****
+* ****[**How to manage Quick Order Quantity buttons**](chart-trading.md#quick-change-order-amount-buttons)****
+* ****[**Slider to enter the volume of the position**](chart-trading.md#slider-to-enter-the-volume-of-the-position-in-dollars)****
+* ****[**How to set up Take Profit and Stop Loss orders**](chart-trading.md#how-to-set-up-profit-and-stop-orders)****
+* ****[**How to set up  several Take profit and Stop Loss orders for one position**](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)****
+* ****[**A set of buttons for quick order and position management**](chart-trading.md#a-set-of-buttons-for-quick-order-and-position-management)****
 
 [Quick order entry](chart-trading.md#quick-order-entry)
 
@@ -47,7 +47,7 @@ This panel will be slightly different for crypto connections, as well as for tho
 
 ### How to manage Quick Order Quantity buttons
 
-Quick Order Quantity buttons will help you change the specified volume in one click, based on your trading strategy. You can set by default any parameters that you need to quickly change the values. Moreover, the buttons can change not only the specified position volume, but also apply any (!!!) formulas to calculate the order volume. To set your personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"
+The Quick Order Quantity buttons are designed to help you adjust the specified volume with a single click based on your trading strategy. You can set default parameters that you frequently use and need to quickly adjust the values. Additionally, these buttons can apply any formula to calculate the order volume, allowing for greater flexibility in order sizing. To personalize your Quick Order Quantity buttons, access the chart settings in the "Order Entry" menu section and locate the "OE buttons" field.
 
 ![](../.gitbook/assets/kolvo.jpg)
 
@@ -61,7 +61,7 @@ Buttons can change not only to a given amount of position, but also apply any fo
 
 ### Default volume setting
 
-By right-clicking you can save the default order entry settings for all symbols
+By right-clicking, you can save the default order entry settings for all symbols
 
 ![](<../.gitbook/assets/image (230).png>)
 
@@ -94,7 +94,7 @@ Some brokers such as Binance do not allow stop orders for limit orders. (Until t
 
 ![](<../.gitbook/assets/animaciya-3- (1).gif>)
 
-* Use the Qquick Ttrade toolbar&#x20;
+* Use the Quick Trade toolbar&#x20;
 * Set your values for stop loss or profit. You can also use any one parameter only.&#x20;
 * Use the button to activate the trade with the mouse to set a limit order
 
@@ -113,7 +113,7 @@ This example is for connecting a CQG/AMP
 * To set multiple stop orders for a single position, do the following Switch the bracket (stop) settings to multi mode&#x20;
 * Enter data for setting the first limit orders and how many lots or coins should be closed&#x20;
 * For the next stops, enter similar data on the next line.
-* &#x20;You can set orders in multiples of your total volume
+* You can set orders in multiples of your total volume
 
 ### A set of buttons for quick order and position management
 

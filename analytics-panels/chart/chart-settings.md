@@ -142,7 +142,7 @@ These are the settings of the order entry panel. The most interesting thing here
 
 ## Quick Ruler
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Info Window
 

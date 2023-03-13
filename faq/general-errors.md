@@ -6,6 +6,7 @@
 * ****[**An error occurred during platform initialization: Fail to load DLL signatures**](general-errors.md#an-error-occurred-during-platform-initialization-fail-to-load-dll-signatures)****
 * **Trendlines are moving on tick charts. How to resolve it?**
 * ****[**Incorrect view of icons inside the application (for Mac via Parallels)**](general-errors.md#incorrect-view-of-icons-inside-the-application-for-mac-via-parallels)****
+* ****[**Сan not find a stock ticker with the dxfeed data provider (F, SO, META etc)**](general-errors.md#san-not-find-a-stock-ticker-with-the-dxfeed-data-provider-f-so-meta-etc)****
 
 ## How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?
 
@@ -76,4 +77,10 @@ This situation occurs when using the Parallels emulator for Mac. To solve this p
 
 > **Isolate Windows from Mac** to exclude Mac OS X influence. (**Virtual Machine > Configure… > Options > Security** > check on **Isolate Mac from Windows**)
 
-****
+## **Сan not find a stock ticker with the dxfeed data provider (F, SO, META etc)**
+
+Sometimes, users face the problem of finding a company's stock by its exact ticker on a dxfeed data provider. For example, users can not find F (Ford company), META (ex-Facebook) etc.
+
+The problem is related to the fact that the search for stocks is performed by the **description** (name) of the company, especially for tickers with a small number of symbols (1-2 letters).
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

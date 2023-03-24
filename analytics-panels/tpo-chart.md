@@ -1,8 +1,8 @@
 ---
 description: >-
-  See the price distribution during the specified time via the TPO Profile
-  (known as Market Profile®) & understand at which levels the price has spent
-  the most time
+  Using the TPO Profile (also known as Market Profile®), you can visualize the
+  price distribution for a specific time period and identify the levels where
+  the price has spent the most time.
 ---
 
 # TPO Profile Chart

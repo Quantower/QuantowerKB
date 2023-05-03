@@ -6,9 +6,9 @@ description: System requirements and 3 simple steps to successfully install the 
 
 
 
-* [**System Requirements**](installation.md#pc-requirements)****
-* ****[**Installation Steps**](installation.md#installation-steps)****
-* ****[**Uninstallation**](installation.md#uninstall)****
+* [**System Requirements**](installation.md#pc-requirements)
+* [**Installation Steps**](installation.md#installation-steps)
+* [**Uninstallation**](installation.md#uninstall)
 
 Once you downloaded Quantower application from Quantower official website — you are ready to start an installation process. From this point we must clarify the main differences between Quantower "installation process" and default Windows® install process, that most users are accustomed to.
 

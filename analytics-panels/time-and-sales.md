@@ -51,7 +51,7 @@ But some settings are unique for this panel:
     \
     **Round to:** This option rounds values after the decimal point to the specified number of decimal places.
 
-    ****\
+    \
     **Abbreviate:** This option abbreviates values to the shortest form, such as "K" for thousands, "M" for millions, etc.
 
 ### Export Data

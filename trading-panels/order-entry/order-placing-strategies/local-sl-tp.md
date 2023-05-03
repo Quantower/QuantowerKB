@@ -47,15 +47,15 @@ Here you will find the following parameters:
 * **Orders price specification** (relative to parent price). \
   Offset in Ticks, Percentage & Absolute price value. It will specify in what values should the closing orders price be set.
 * **Type of closing orders.**\
-  ****What orders should send as closing. Stop or Limit (useful for some crypto exchanges, to reduce commissions)
+  What orders should send as closing. Stop or Limit (useful for some crypto exchanges, to reduce commissions)
 * **Orders placement modes.**\
-  ****Simple SL/TP or Multiple brackets (up to 3 tiers). Various schemes of placement.
+  Simple SL/TP or Multiple brackets (up to 3 tiers). Various schemes of placement.
 * **Closing quantity.**\
-  ****Option for the Simple SL/TP scheme, specifying how the active Local SL/TP should behave when the related parent order/position changes its quantity. With the **Whole position** option, the strategy will try to modify the closing orders. With the **Initial** choice, the strategy will not modify local closing orders quantity.
+  Option for the Simple SL/TP scheme, specifying how the active Local SL/TP should behave when the related parent order/position changes its quantity. With the **Whole position** option, the strategy will try to modify the closing orders. With the **Initial** choice, the strategy will not modify local closing orders quantity.
 * **is trailing.**\
-  ****An option to make Simple SL or TP trailing (changing while the price moves)
+  An option to make Simple SL or TP trailing (changing while the price moves)
 * **Tier 1, 2, 3.**\
-  ****The closing levels for brackets scheme. You should activate the level and set its closing parameters.
+  The closing levels for brackets scheme. You should activate the level and set its closing parameters.
 
 Once you have finished setting up your Local SL/TP, just close the settings screen and place your order as usual. In case of any incorrect parameters, the platform will inform you in deal tickets of message screens.
 

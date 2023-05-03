@@ -10,16 +10,16 @@ Click on the **Gear icon** on the [main toolbar](main-toolbar.md) to open Genera
 
 ![General Settings are placed on the platform's main toolbar (Gear Icon)](<../.gitbook/assets/image (134).png>)
 
-It is logically grouped into several tabs: 
+It is logically grouped into several tabs:&#x20;
 
-* [**General**](general-settings-1.md#general)****
-* ****[**Control Center**](general-settings-1.md#control-center)****
-* ****[**Sounds**](general-settings-1.md#sounds)****
-* ****[**Confirmations & Warnings**](general-settings-1.md#confirmations)****
-* ****[**Time zone settings**](general-settings-1.md#time-zones)****
-* ****[**Excel RTD**](../miscellaneous-panels/excel-rtd-trading/)****
-* ****[**Messengers**](general-settings-1.md#messengers)****
-* ****[**Hotkeys**](general-settings-1.md#global-hotkeys)****
+* [**General**](general-settings-1.md#general)
+* [**Control Center**](general-settings-1.md#control-center)
+* [**Sounds**](general-settings-1.md#sounds)
+* [**Confirmations & Warnings**](general-settings-1.md#confirmations)
+* [**Time zone settings**](general-settings-1.md#time-zones)
+* [**Excel RTD**](../miscellaneous-panels/excel-rtd-trading/)
+* [**Messengers**](general-settings-1.md#messengers)
+* [**Hotkeys**](general-settings-1.md#global-hotkeys)
 
 {% hint style="info" %}
 Most settings are applied automatically, once you change them, but, in some cases, you will be prompted to confirm the changes apply; this action is required for complex settings, where the one change will influence a complex logic.
@@ -82,7 +82,7 @@ Sounds are a good way of additional interaction with user allowing to inform abo
 
 **Enable sounds** — activates or disables all of the application sounds globally
 
-The group of actions in Quantower, when the sound should be played consists of the most vital situations in application usage. This list is not final and can be extended or changed later. Each option has a set of controls: 
+The group of actions in Quantower, when the sound should be played consists of the most vital situations in application usage. This list is not final and can be extended or changed later. Each option has a set of controls:&#x20;
 
 * enable/disable checkbox
 * action name

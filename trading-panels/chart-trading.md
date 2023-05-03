@@ -10,12 +10,12 @@ Placing orders on the Quantower platform can be done using various panels, such 
 
 ### **Chart Trading Toolbar**
 
-* ****[**How to open the chart trading toolbar**](chart-trading.md#how-to-open-quick-trade-toolbar)****
-* ****[**How to manage Quick Order Quantity buttons**](chart-trading.md#quick-change-order-amount-buttons)****
-* ****[**Slider to enter the volume of the position**](chart-trading.md#slider-to-enter-the-volume-of-the-position-in-dollars)****
-* ****[**How to set up Take Profit and Stop Loss orders**](chart-trading.md#how-to-set-up-profit-and-stop-orders)****
-* ****[**How to set up  several Take profit and Stop Loss orders for one position**](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)****
-* ****[**A set of buttons for quick order and position management**](chart-trading.md#a-set-of-buttons-for-quick-order-and-position-management)****
+* [**How to open the chart trading toolbar**](chart-trading.md#how-to-open-quick-trade-toolbar)
+* [**How to manage Quick Order Quantity buttons**](chart-trading.md#quick-change-order-amount-buttons)
+* [**Slider to enter the volume of the position**](chart-trading.md#slider-to-enter-the-volume-of-the-position-in-dollars)
+* [**How to set up Take Profit and Stop Loss orders**](chart-trading.md#how-to-set-up-profit-and-stop-orders)
+* [**How to set up  several Take profit and Stop Loss orders for one position**](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)
+* [**A set of buttons for quick order and position management**](chart-trading.md#a-set-of-buttons-for-quick-order-and-position-management)
 
 [Quick order entry](chart-trading.md#quick-order-entry)
 
@@ -40,7 +40,7 @@ To activate the quick trading toolbar, click on the button in the upper right co
 
 {% hint style="info" %}
 The general view of Chart Trading Toolbar may differ depending on the available functions for each trade connection.\
-This panel will be slightly different for crypto connections, as well as for those that do not allow to create Brackets or server-side Stop Loss / Take Profit orders. For more details about available order types for each connection, please check the [**Order Types section**](order-entry/order-types.md)****
+This panel will be slightly different for crypto connections, as well as for those that do not allow to create Brackets or server-side Stop Loss / Take Profit orders. For more details about available order types for each connection, please check the [**Order Types section**](order-entry/order-types.md)
 {% endhint %}
 
 ![](../.gitbook/assets/chart-trading-toolbar.gif)

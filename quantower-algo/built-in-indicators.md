@@ -92,7 +92,7 @@ protected override void OnUpdate(UpdateArgs args)
 }
 ```
 
-In case you need to access value for previous bars or value from other indicators line you can use the offset and a **lineIndex** parameter of a [**GetValue**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform\_BusinessLayer\_Indicator\_GetValue\_System\_Int32\_System\_Int32\_TradingPlatform\_BusinessLayer\_SeekOriginHistory\_) **** method:
+In case you need to access value for previous bars or value from other indicators line you can use the offset and a **lineIndex** parameter of a [**GetValue**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform\_BusinessLayer\_Indicator\_GetValue\_System\_Int32\_System\_Int32\_TradingPlatform\_BusinessLayer\_SeekOriginHistory\_) method:
 
 ```csharp
 /// <summary>

@@ -33,9 +33,9 @@ To open a new TPO panel, go to the _**Main menu**_ (Logo icon) and select _**TPO
 
 There are three main controls on the top toolbar of TPO chart panel:
 
-* ****[**Aggregation**](tpo-chart.md#aggregation-of-tpo-profile-chart)****
-* ****[**Style**](tpo-chart.md#style-settings-of-tpo-profile-chart)****
-* ****[**Volume Analysis**](tpo-chart.md#volume-analysis)****
+* [**Aggregation**](tpo-chart.md#aggregation-of-tpo-profile-chart)
+* [**Style**](tpo-chart.md#style-settings-of-tpo-profile-chart)
+* [**Volume Analysis**](tpo-chart.md#volume-analysis)
 
 ### Aggregation of TPO Profile Chart
 
@@ -70,7 +70,7 @@ Choose any color scheme for better representation and analysis of the TPO profil
 
 ![POC Type on TPO Profile chart](<../.gitbook/assets/POC Type on TPO profile.gif>)
 
-* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a **** [**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
+* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a [**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
 
 ![](../.gitbook/assets/overlaying-chart.gif)
 

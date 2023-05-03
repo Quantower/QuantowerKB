@@ -4,36 +4,36 @@ description: Multiple ways to enter orders on the CQG connection
 
 # Order Entry for CQG
 
-### ****[**How to place an order from the OE (Order Entry) panel**](order-entry-for-cqg.md#how-to-place-an-order-from-the-oe-order-entry-panel)****
+### [**How to place an order from the OE (Order Entry) panel**](order-entry-for-cqg.md#how-to-place-an-order-from-the-oe-order-entry-panel)
 
-* ****[**Order parameters — Type, Price, Quantity**](order-entry-for-cqg.md#selection-of-order-type-time-if-force-and-order-quantity)****
-* ****[**How to set TP (take profit) and SL (stop loss)**](order-entry-for-cqg.md#how-to-set-tp-take-profit-and-sl-stop-loss)****
-* ****[**How to set up multiple TP (take profit) and SL (stop loss) orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)****
+* [**Order parameters — Type, Price, Quantity**](order-entry-for-cqg.md#selection-of-order-type-time-if-force-and-order-quantity)
+* [**How to set TP (take profit) and SL (stop loss)**](order-entry-for-cqg.md#how-to-set-tp-take-profit-and-sl-stop-loss)
+* [**How to set up multiple TP (take profit) and SL (stop loss) orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)
 
-### ****[**How to place an order from the Chart trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)****
+### [**How to place an order from the Chart trading sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)
 
-* ****[**General view of Char Trading Sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)****
-* ****[**Order quantity selection**](order-entry-for-cqg.md#quick-order-quantity-buttons)****
-* ****[**Quick order quantity buttons**](order-entry-for-cqg.md#quick-order-quantity-buttons)****
-* ****[**Quick change order amount buttons**](order-entry-for-cqg.md#quick-change-order-amount-buttons)****
-* ****[**How to set up Take Profit and Stop Loss orders**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders)****
-* ****[**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-profit-and-stop-orders-foe-one-position)****
-* ****[**Quickly placing order buttons**](order-entry-for-cqg.md#quickly-placing-order-buttons)****
+* [**General view of Char Trading Sidebar**](order-entry-for-cqg.md#how-to-place-an-order-from-the-chart-trading-sidebar)
+* [**Order quantity selection**](order-entry-for-cqg.md#quick-order-quantity-buttons)
+* [**Quick order quantity buttons**](order-entry-for-cqg.md#quick-order-quantity-buttons)
+* [**Quick change order amount buttons**](order-entry-for-cqg.md#quick-change-order-amount-buttons)
+* [**How to set up Take Profit and Stop Loss orders**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders)
+* [**How to set up several Take profit and Stop Loss orders for one position**](order-entry-for-cqg.md#how-to-set-up-several-profit-and-stop-orders-foe-one-position)
+* [**Quickly placing order buttons**](order-entry-for-cqg.md#quickly-placing-order-buttons)
 
-### ****[**Mouse trading**](order-entry-for-cqg.md#mouse-trading)****
+### [**Mouse trading**](order-entry-for-cqg.md#mouse-trading)
 
-* ****[**How to set up Take Profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders-for-limit-order)****
-* ****[**How to set up several Take profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-the-limit-order)****
-* ****[**How to set up many limit orders**](order-entry-for-cqg.md#how-to-set-up-many-limit-orders)****
+* [**How to set up Take Profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-profit-and-stop-orders-for-limit-order)
+* [**How to set up several Take profit and Stop Loss orders for the limit order**](order-entry-for-cqg.md#how-to-set-up-multiple-profit-and-stop-orders-for-the-limit-order)
+* [**How to set up many limit orders**](order-entry-for-cqg.md#how-to-set-up-many-limit-orders)
 
 ### [Quick order entry](order-entry-for-cqg.md#quick-order-entry)
 
-* ****[**How to open Quick order entry**](order-entry-for-cqg.md#how-to-open-quick-order-entry)****
-* ****[**How to set Order quantity**](order-entry-for-cqg.md#how-to-set-volume-quantity)****
+* [**How to open Quick order entry**](order-entry-for-cqg.md#how-to-open-quick-order-entry)
+* [**How to set Order quantity**](order-entry-for-cqg.md#how-to-set-volume-quantity)
 
 ### [Keyboard trading](order-entry-for-cqg.md#keyboard-trading)
 
-* ****[**How to activate trading with hotkeys**](order-entry-for-cqg.md#how-to-activate-trading-with-hot-keys)****
+* [**How to activate trading with hotkeys**](order-entry-for-cqg.md#how-to-activate-trading-with-hot-keys)
 
 ### [How to place an OCO order](order-entry-for-cqg.md#how-to-place-an-oco-order)
 
@@ -70,7 +70,7 @@ CQG provides various order types for trading via the Order Entry panel:
 * **DAY** — order will be canceled if it is not executed within the current trading day;
 * **GTD (Good till date)** — order will remain working within the system and in the marketplace, until it executes or until the close of the market on the date specified.
 * **GTT (Good till time)** — order that remains open until a specified time. At that time, any unfilled lots are canceled.
-* **FAK** (**Fill and Kill)** — **** orders require that any remaining quantity after a partial fill be canceled.
+* **FAK** (**Fill and Kill)** — orders require that any remaining quantity after a partial fill be canceled.
 * **ATC (At the Close Order)** — order to buy or sell a stock at the closing price. One of the benefits of this type of order is that it can be placed prior to the actual end of the trading day requested. This would be the opposite of an at-the-open order.
 * **ATO (At-The-Open Order)** — order to buy or sell a stock at the opening price. ATO order is allowed during pre-open sessions (morning and afternoon) or even the night before.
 

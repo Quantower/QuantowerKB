@@ -11,19 +11,19 @@ Placing of orders on the Quantower platform can be done in several ways:
 
 * using the Order Entry panel (OE)
 * Quick order placement through the chart area with a mouse (visual trading)
-* via [**DOM Trader panel**](../dom-trader/)****
+* via [**DOM Trader panel**](../dom-trader/)
 
 ### **How to place an order from the OE (Order Entry) panel**
 
-* ****[**How to open the Order Entry panel**](order-entry-for-bybit.md#how-to-open-the-order-entry-panel)****
-* [**General view of the OE (Order Entry) panel for Bybit**](order-entry-for-bybit.md#general-view-of-the-oe-order-entry-panel-for-the-bybit-exchange)****
-* [**Order parameters — Type, Price, Quantity, TP (take profit) and SL (stop loss)**](order-entry-for-bybit.md#select-order-volume)****
+* [**How to open the Order Entry panel**](order-entry-for-bybit.md#how-to-open-the-order-entry-panel)
+* [**General view of the OE (Order Entry) panel for Bybit**](order-entry-for-bybit.md#general-view-of-the-oe-order-entry-panel-for-the-bybit-exchange)
+* [**Order parameters — Type, Price, Quantity, TP (take profit) and SL (stop loss)**](order-entry-for-bybit.md#select-order-volume)
 
 ### **How to place an order from the Chart trading sidebar**
 
-* ****[**General view of Chart Trading Sidebar**](order-entry-for-bybit.md#general-view-of-the-quick-trade-panel-from-the-chart-for-bybit)****
+* [**General view of Chart Trading Sidebar**](order-entry-for-bybit.md#general-view-of-the-quick-trade-panel-from-the-chart-for-bybit)
 * [**Order quantity selection**](order-entry-for-bybit.md#order-volume-selection)
-* ****[**Quick order quantity buttons**](order-entry-for-bybit.md#quick-change-order-amount-buttons)
+* [**Quick order quantity buttons**](order-entry-for-bybit.md#quick-change-order-amount-buttons)
 * [B**uttons for fast change of order volume Order parameters** ](order-entry-for-bybit.md#order-volume-selection)**- type, TIF, price, algorithmic settings TP (take profit) and SL stop limit (stop loss) orders**
 
 ### How to open the Order Entry panel?

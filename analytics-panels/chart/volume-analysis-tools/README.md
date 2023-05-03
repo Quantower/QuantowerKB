@@ -11,13 +11,13 @@ Quantower trading platform provides [**Volume analysis tools**](https://www.quan
 
 Volume analysis tools include proprietary and well-known analytics:
 
-* ****[**Cluster Chart**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/cluster-chart) (a.k.a. Footprint chart or OrderFlow chart)
+* [**Cluster Chart**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/cluster-chart) (a.k.a. Footprint chart or OrderFlow chart)
 * [**Volume Profiles**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/volume-profiles) — Step, Right, Left and Custom volume profiles
 * [**Time Statistics**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-statistics) — volume data per each bar in table form
-* [**Time Histogram**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-histogram) **** — volume data per each bar in the form of a vertical histogram
-* ****[**Custom VWAP (Anchored VWAP)**](../anchored-vwap.md) — can be attached to any selected bar as a starting calculation point
-* ****[**VWAP**](../vwap.md) — multiple VWAP lines for a single chart
-* [**Historical Time & Sales**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/historical-time-and-sales) **** — the table of all trades for the any selected bar
+* [**Time Histogram**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-histogram) — volume data per each bar in the form of a vertical histogram
+* [**Custom VWAP (Anchored VWAP)**](../anchored-vwap.md) — can be attached to any selected bar as a starting calculation point
+* [**VWAP**](../vwap.md) — multiple VWAP lines for a single chart
+* [**Historical Time & Sales**](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/historical-time-and-sales) — the table of all trades for the any selected bar
 
 {% embed url="https://youtu.be/duOmadSFN4Y" %}
 

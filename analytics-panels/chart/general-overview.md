@@ -12,16 +12,16 @@ The chart panel can be divided into 5 parts:
 
 * Chart [**Top toolbar**](./#chart-top-toolbar) with the main controls (timeframes, depth of history, chart styles)
 * **the chart area** itself with the displaying of price data, indicators, positions
-* ****[**sidebar menu**](./#sidebar-menu-or-object-toolbar) with controls of indicators, drawings, overlays and object manager
+* [**sidebar menu**](./#sidebar-menu-or-object-toolbar) with controls of indicators, drawings, overlays and object manager
 * **chart order entry** with hot buttons for quick trading
-* bottom toolbar with [**volume analysis tools**](volume-analysis-tools/)****
+* bottom toolbar with [**volume analysis tools**](volume-analysis-tools/)
 
 ## Chart Top toolbar
 
 The top toolbar allows you to select a trading instrument, set the chart type and style, timeframe, depth of market data as well as call additional toolbars.
 
-* Sidebar menu with [**Drawing tools**](drawing-tools.md), [**Overlays**](chart-overlays.md) and [**Indicators**](technical-indicators/)****
-* ****[**Symbol Lookup**](../../general-settings/instruments-lookup.md) where you can find the trading symbol from the list
+* Sidebar menu with [**Drawing tools**](drawing-tools.md), [**Overlays**](chart-overlays.md) and [**Indicators**](technical-indicators/)
+* [**Symbol Lookup**](../../general-settings/instruments-lookup.md) where you can find the trading symbol from the list
 * **Timeframe selector** with chart types. Here is the list of [**chart types and styles**](https://help.quantower.com/analytics-panels/chart/chart-types) where you can find a detailed explanation of how to build them.
 * **Depth of History** for the selected timeframe
 * **Chart Styles** — Bar, Candle, Line, Area, Dotted Line, Quantower chart style

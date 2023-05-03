@@ -56,7 +56,7 @@ On the right side of the panel, there are three histograms — **Size, Cumulativ
 * **Cumulative Size**\
   This histogram displays the sum of sizes of limit orders for each subsequent level. This histogram allows estimating the dominating side of the market.
 * **Imbalance (Order Book Imbalance)**\
-  ****This histogram shows the percentage of how much the volume of buy orders exceeds the amount of sell orders (and vice versa) for each price level. It measures whether the limit order book is buy or sell heavy. The more the imbalance exceeds one side, the higher the probability of price movement towards the imbalance. In fact, it is a good predictor of price direction.
+  This histogram shows the percentage of how much the volume of buy orders exceeds the amount of sell orders (and vice versa) for each price level. It measures whether the limit order book is buy or sell heavy. The more the imbalance exceeds one side, the higher the probability of price movement towards the imbalance. In fact, it is a good predictor of price direction.
 
 
 

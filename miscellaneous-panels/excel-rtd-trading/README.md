@@ -79,7 +79,7 @@ Examples of the most popular RTD formulas are described below with description o
 Provides access to specific symbol information such as Description, **ExchangeName, NettingType and others**. You can simply copy/paste this formula for use in Excel files or get it directly from the Symbol Information panel for the selected symbol. Right-click on the panel and select the menu option: "**Copy RTD Formula**" -> "Value".
 {% endhint %}
 
-****
+
 
 ```
 =ДРВ("tradingplatform";"";"GetSymbolInfo";"1INCHBTC";"Name";"Binance Spot")
@@ -203,7 +203,7 @@ Returns the history for the specified character, aggregation and date range. You
 =ДРВ("tradingplatform";"";"GetHistory";"10000NFTUSDT_SWAP";"1Hour";"Low";"24Hour";"0";"Last";"Bybit")
 ```
 
-_****_
+
 
 _**Options**_
 
@@ -221,7 +221,7 @@ _**Options**_
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdE86l5W8HjMUupdd2P%2F-MdE8AgutchiL75g8edf%2FGetHistory%20-%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0.png?alt=media\&token=e8008edd-a627-47b0-81c2-060c6963014f)
 
-****
+
 
 ### **Frequently Asked Questions**
 
@@ -231,7 +231,7 @@ For Windows 10:&#x20;
 
 * go to **Start >type Control Panel  and press enter > Region**
 * click **Additional Settings**
-* for **List Separator** check the argument. **** It must be the same as in RTD settings.
+* for **List Separator** check the argument. It must be the same as in RTD settings.
 
 ![](../../.gitbook/assets/regional\_settings.png)
 

@@ -24,13 +24,13 @@ There are several placing strategies currently available for use, and this list 
 
 * **Iceberg**
 * **Local SL/TP**\
-  ****Allows Stop loss and Take profit orders for brokers that don't support them natively. [<mark style="color:blue;">**Read more about this type of automation**</mark>](local-sl-tp.md)<mark style="color:blue;">****</mark>
+  Allows Stop loss and Take profit orders for brokers that don't support them natively. [<mark style="color:blue;">**Read more about this type of automation**</mark>](local-sl-tp.md)
 * **Limit if Touched**
 * **Market if Touched**
 * **Scheduled**\
-  ****Specify the exact time in the future, when your platform should send this order.
+  Specify the exact time in the future, when your platform should send this order.
 * **Time split**\
-  ****Send one order by several parts in some time interval.
+  Send one order by several parts in some time interval.
 
 ### Order placing strategies panel
 

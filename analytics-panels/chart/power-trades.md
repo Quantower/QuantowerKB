@@ -1,6 +1,6 @@
 # Power Trades
 
-****[**Volume analysis tools**](volume-analysis-tools/) allow you to understand the causes of price movement, clarify and confirm support and resistance levels, as well as assess the imbalance between buyers and sellers. But volume tools are link to a specific time (timeframe), not allowing to see an execution of large orders at the moment.
+[**Volume analysis tools**](volume-analysis-tools/) allow you to understand the causes of price movement, clarify and confirm support and resistance levels, as well as assess the imbalance between buyers and sellers. But volume tools are link to a specific time (timeframe), not allowing to see an execution of large orders at the moment.
 
 Using **Power Trades** you can see the execution of a large number of orders in a very short time, which will affect the price change with a high probability.
 

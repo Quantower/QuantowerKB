@@ -18,12 +18,12 @@ There are two ways to open the Chart Settings:
 
 The General view of the Chart Settings menu has several sections. Let's take a closer look at them:
 
-|                                                          |                                                                |                                                          |
-| -------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------- |
-| ****[**View**](chart-settings.md#view-settings)****      | ****[**Visual trading**](chart-settings.md#visual-trading)**** | ****[**Volume bars**](chart-settings.md#volume-bars)**** |
-| ****[**Data style**](chart-settings.md#data-style)****   | ****[**Order entry**](chart-settings.md#order-entry)****       | **Event trading**                                        |
-| ****[**Time scale**](chart-settings.md#time-scale)****   | **Quick ruler**                                                | ****[**Hotkeys**](chart-settings.md#hotkeys)****         |
-| ****[**Price scale**](chart-settings.md#price-scale)**** | ****[**Info window**](chart-settings.md#info-window)****       |                                                          |
+|                                                  |                                                        |                                                  |
+| ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------ |
+| [**View**](chart-settings.md#view-settings)      | [**Visual trading**](chart-settings.md#visual-trading) | [**Volume bars**](chart-settings.md#volume-bars) |
+| [**Data style**](chart-settings.md#data-style)   | [**Order entry**](chart-settings.md#order-entry)       | **Event trading**                                |
+| [**Time scale**](chart-settings.md#time-scale)   | **Quick ruler**                                        | [**Hotkeys**](chart-settings.md#hotkeys)         |
+| [**Price scale**](chart-settings.md#price-scale) | [**Info window**](chart-settings.md#info-window)       |                                                  |
 
 ## View settings
 
@@ -32,7 +32,7 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 * **Custom title.** You can rename your chart panel as desired.\
 
 * **Use custom tick size**\
-  ****This is probably one of the most important settings in the chart. It is commonly used for cluster charts. In highly volatile instruments such as BTC or NQ futures, there may be gaps in the volumes on each cluster level. The clusters can be vertically compressed to display information better, and the compression ratio must be specified in this menu item. Below you can see a bitcoin chart with a compression of $10.
+  This is probably one of the most important settings in the chart. It is commonly used for cluster charts. In highly volatile instruments such as BTC or NQ futures, there may be gaps in the volumes on each cluster level. The clusters can be vertically compressed to display information better, and the compression ratio must be specified in this menu item. Below you can see a bitcoin chart with a compression of $10.
 
 ![](<../../.gitbook/assets/image (116).png>)
 
@@ -62,7 +62,7 @@ The General view of the Chart Settings menu has several sections. Let's take a c
     \
     **Round to:** This option rounds values after the decimal point to the specified number of decimal places.
 
-    ****\
+    \
     **Abbreviate:** This option abbreviates values to the shortest form, such as "K" for thousands, "M" for millions, etc.\
 
 * **Crosshair.** These are settings of the cursor and its visibility on charts with one symbol (asset).

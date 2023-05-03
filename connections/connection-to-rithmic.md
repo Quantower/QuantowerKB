@@ -9,14 +9,14 @@ description: >-
 
 To connect Quantower to a broker that uses Rithmic technology, it is sufficient to have (or create a new) account.
 
-* ****[**Connection for Existed Accounts**](connection-to-rithmic.md#connection-for-existed-accounts)****
-* ****[**Connection for New Accounts**](connection-to-rithmic.md#connection-for-new-accounts)****
-* ****[**How to activate Market by Order (MBO) data**](connection-to-rithmic.md#how-to-activate-market-by-order-mbo-data)****
-* ****[**Problems during the connection to Rithmic**](connection-to-rithmic.md#problems-during-the-connection-to-rithmic)****
+* [**Connection for Existed Accounts**](connection-to-rithmic.md#connection-for-existed-accounts)
+* [**Connection for New Accounts**](connection-to-rithmic.md#connection-for-new-accounts)
+* [**How to activate Market by Order (MBO) data**](connection-to-rithmic.md#how-to-activate-market-by-order-mbo-data)
+* [**Problems during the connection to Rithmic**](connection-to-rithmic.md#problems-during-the-connection-to-rithmic)
 
 ### Connection for Existed Accounts
 
-* ****[**Download and install R Trader Pro**](http://yyy3.rithmic.com/?page\_id=16) from Rithmic official website.
+* [**Download and install R Trader Pro**](http://yyy3.rithmic.com/?page\_id=16) from Rithmic official website.
 * Open connection manager, select **Rithmic** and specify the type of connection (**Demo / Real**).&#x20;
 * Click on **Connection Settings** and **activate Use RTrader** option to avoid additonal fees for subscription to market data. If necessary, trader can change the server. By default, the Rithmic Paper Chicago server is set for demo accounts and the Rithmic Aurora Chicago server is set for real accounts.
 * Enter your login and password and click **Connect.**
@@ -33,11 +33,11 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 
 ### Creating a New Accounts and further connection
 
-* ****[**Create a new demo**](https://rithmic.com/demo.html#sign-up) or open a real account with any broker supporting Rithmic technology, accept agreements, and start using our platform.
+* [**Create a new demo**](https://rithmic.com/demo.html#sign-up) or open a real account with any broker supporting Rithmic technology, accept agreements, and start using our platform.
 
 {% embed url="https://youtu.be/3kpiOCiqE5Q" %}
 
-* To register [**Rithmic Demo**](https://rithmic.com/demo.html#sign-up) **** go to their official website or **** follow this [link](https://rithmic.com/demo.html#sign-up)
+* To register [**Rithmic Demo**](https://rithmic.com/demo.html#sign-up) go to their official website or follow this [link](https://rithmic.com/demo.html#sign-up)
 * Fill in all the required fields
 * Accept _**"Market Data Subscription Agreement"**_ and _"**Market Data Self-Certification"**_
 * Account will be activated within 30-60 minutes.

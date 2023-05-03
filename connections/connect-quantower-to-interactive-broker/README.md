@@ -7,12 +7,12 @@ description: >-
 
 # Connection to Interactive Brokers
 
-* ****[**Data Limitations**](./#data-limitations)****
-* ****[**Necessary steps for successful connection to Quantower**](./#necessary-steps-for-successful-connection-to-quantower)****
-* ****[**How to connect to Interactive Brokers using TWS platform**](./#how-to-connect-to-interactive-brokers-using-tws-platform)****
-* ****[**How to connect to Interactive Brokers using IB Gateway**](./#how-to-connect-to-interactive-brokers-using-ib-gateway)****
-* ****[**Problems during the connection to Interactive Brokers**](./#problems-during-the-connection-to-interactive-brokers)****
-* ****[**How to subscribe to IB market data**](./#how-to-subscribe-to-ib-market-data)****
+* [**Data Limitations**](./#data-limitations)
+* [**Necessary steps for successful connection to Quantower**](./#necessary-steps-for-successful-connection-to-quantower)
+* [**How to connect to Interactive Brokers using TWS platform**](./#how-to-connect-to-interactive-brokers-using-tws-platform)
+* [**How to connect to Interactive Brokers using IB Gateway**](./#how-to-connect-to-interactive-brokers-using-ib-gateway)
+* [**Problems during the connection to Interactive Brokers**](./#problems-during-the-connection-to-interactive-brokers)
+* [**How to subscribe to IB market data**](./#how-to-subscribe-to-ib-market-data)
 
 ## Data Limitations
 
@@ -37,8 +37,8 @@ This guide will help you to configure the connection to the Interactive Brokers 
 Video connection guide to Interactive Brokers
 {% endembed %}
 
-* [**Download**](https://www.quantower.com/) **** and install Quantower trading platform (if you haven’t it yet) of an appropriate version (32 bit or 64 bit), and make sure that your PC complies with the [**minimum requirements**](../../getting-started/installation.md#pc-requirements)****\
-  ****
+* [**Download**](https://www.quantower.com/) and install Quantower trading platform (if you haven’t it yet) of an appropriate version (32 bit or 64 bit), and make sure that your PC complies with the [**minimum requirements**](../../getting-started/installation.md#pc-requirements)\
+
 * To connect to IB, you need to have (or create) a [**demo**](https://www.interactivebrokers.co.uk/en/index.php?f=1286) or [**real account**](https://www.interactivebrokers.com/en/home.php) by clicking the appropriate links on the Interactive Brokers official website.
 
 ![](<../../.gitbook/assets/image (327).png>)
@@ -57,7 +57,7 @@ The difference between IB Gateway and TWS is that IB Gateway has a lighter and l
 
 ![](<../../.gitbook/assets/image (325).png>)
 
-* Once you are logged in, open the additional settings in TWS:  **Configure**. Select **API** section - >  **Settings** and check to **Enable ActiveX and Socket Clients** box as well **** uncheck **Read-Only API**
+* Once you are logged in, open the additional settings in TWS:  **Configure**. Select **API** section - >  **Settings** and check to **Enable ActiveX and Socket Clients** box as well uncheck **Read-Only API**
 
 ![Diactivate Read-Only API and check Socket Clients in TWS platform](<../../.gitbook/assets/image (324).png>)
 
@@ -69,7 +69,7 @@ The difference between IB Gateway and TWS is that IB Gateway has a lighter and l
 
 ![](<../../.gitbook/assets/image (326).png>)
 
-* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check **** [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com/), via email info@quantower.com.
+* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com/), via email info@quantower.com.
 
 ## &#x20;How to connect to Interactive Brokers using IB Gateway
 
@@ -93,7 +93,7 @@ For **IB Gateway** in the API Type section select **IB API** only!
 
 ![Check connection settings and Click on the Connect button once you are logged in to IB Gateway](<../../.gitbook/assets/image (330).png>)
 
-* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check **** [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com/), via email info@quantower.com.
+* Click on the **CONNECT** button and the platform should connect correctly. If you have some errors during connection, please check [**the most common errors**](./#problems-during-the-connection-to-interactive-brokers) (below) or contact our support team via Live chat on our [website](https://www.quantower.com/), via email info@quantower.com.
 
 ## Problems during the connection to Interactive Brokers
 
@@ -113,7 +113,7 @@ Select the application through which you are connecting  — TWS platform or IB 
 
 ![Select the necessary connection port type](../../.gitbook/assets/connection-settings-for-ib.png)
 
-If the problem persists even after choosing the right application, you need to configure the _**Socket port** _ in TWS (or IB Gateway) and Quantower.
+If the problem persists even after choosing the right application, you need to configure the _**Socket port**_ in TWS (or IB Gateway) and Quantower.
 
 ![This Socket port in TWS (or IB gateway) should be the same as in Quantower](../../.gitbook/assets/socket-port.png)
 

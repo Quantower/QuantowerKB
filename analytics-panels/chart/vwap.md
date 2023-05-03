@@ -16,7 +16,7 @@ The indicator is calculated for any period of time according to the following al
 * the average price is multiplied by the volume passed in the current candlestick or bar. For example, in real-time new trade will increase the volume and thus weigh the price. Thus, for each price or volume change we will get value AP \* V.
 * the above values are summed up and divided by the total volume for the specified period.&#x20;
 
-&#x20;      **       **<mark style="background-color:green;">**VWAP = (Sum of Average Price \* Traded Volume) / Cumulative Volume**</mark>
+&#x20;      <mark style="background-color:green;">**VWAP = (Sum of Average Price \* Traded Volume) / Cumulative Volume**</mark>
 
 ## **How to add VWAP to the chart?**
 
@@ -47,7 +47,7 @@ Quantower platform provides 5 separate VWAPs, that can be placed simultaneously 
 * **Price Type** — select the desired price to be used in the calculation for the Current TF data type (Open, High, Low, Close, HL/2, HLC/3, OHLC/4)
 * **Period and Value** — defines the number of bars (duration) on which VWAP will be calculated
 * **VWAP line** — visual settings for VWAP itself (line style, color, thickness)
-* **Sessions template** — setting allows you to select the trading session within which VWAP will be calculated. You can select predefined sessions from the list, or add your own custom sessions. For more information about creating and configuring a session, follow the instructions in the <mark style="background-color:blue;">****</mark> [<mark style="background-color:blue;">**Session manager**</mark>](../../miscellaneous-panels/sessions-manager.md) section.
+* **Sessions template** — setting allows you to select the trading session within which VWAP will be calculated. You can select predefined sessions from the list, or add your own custom sessions. For more information about creating and configuring a session, follow the instructions in the [<mark style="background-color:blue;">**Session manager**</mark>](../../miscellaneous-panels/sessions-manager.md) section.
 
 3. <mark style="color:blue;background-color:blue;">**Forward Extensions**</mark> (type and number)
 

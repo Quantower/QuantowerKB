@@ -4,8 +4,8 @@ description: The most powerful tools for drawing levels and other elements on th
 
 # Drawing tools
 
-* [**How to synchronize drawings between multiple charts?**](drawing-tools.md#how-to-synchronize-drawings-between-multiple-charts)****
-* ****[**How to create multiple templates for drawings?**](drawing-tools.md#how-to-create-multiple-templates-for-drawings)****
+* [**How to synchronize drawings between multiple charts?**](drawing-tools.md#how-to-synchronize-drawings-between-multiple-charts)
+* [**How to create multiple templates for drawings?**](drawing-tools.md#how-to-create-multiple-templates-for-drawings)
 
 The drawing library in the Quantower platform has a big list of tools for any traders. For its activation, please click on the "<mark style="background-color:blue;">**Pencil**</mark>' icon and the full list of tools will appear.
 

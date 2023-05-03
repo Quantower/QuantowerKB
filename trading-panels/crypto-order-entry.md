@@ -10,5 +10,4 @@ Doesn't exist anymore. This panel is merged with the [order entry panel](order-e
 
 
 
-### \*\*\*\*
-
+###

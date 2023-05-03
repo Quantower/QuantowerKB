@@ -41,7 +41,7 @@ We offer a user with a Free license, three packages as well as licenses for sepa
 
 **All-in-One Package** includes all available features and connections. Also, all new features will be automatically added and available while your subscription is active.
 
-****[**DOM Surface**](https://www.quantower.com/blog/dom-surface-panel-for-deep-order-flow-analysis) license activates full access to the DOM Surface panel. In the free version of the panel, all accumulated data disappears after 3 minutes.
+[**DOM Surface**](https://www.quantower.com/blog/dom-surface-panel-for-deep-order-flow-analysis) license activates full access to the DOM Surface panel. In the free version of the panel, all accumulated data disappears after 3 minutes.
 
 [**Power Trades Scanner**](https://help.quantower.com/analytics-panels/chart/power-trades) license activates the scanner that shows the execution of big amount of orders during the short time.
 
@@ -54,7 +54,7 @@ We offer a user with a Free license, three packages as well as licenses for sepa
 * VWAP tool
 * Historical Time & Sales
 
-****[**Advanced Features**](https://www.quantower.com/advancedfeatures) license includes non-standard chart types, simultanious connections, additional functionalities for working with symbol’s history, unlimited chart overlays, and trading simulation.
+[**Advanced Features**](https://www.quantower.com/advancedfeatures) license includes non-standard chart types, simultanious connections, additional functionalities for working with symbol’s history, unlimited chart overlays, and trading simulation.
 
 [**Options Trading**](https://www.quantower.com/options-trading-features) license activates Options Analytics panel. Currently it's available for free usage.
 

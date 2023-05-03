@@ -8,20 +8,20 @@ description: >-
 
 Here is the list of the most common errors and issues with Binance Futures /Spot connections:
 
-* ****[**Error "Invalid API-key, IP, or permissions for action"**](errors-with-binance-connection.md#error-invalid-api-key-ip-or-permissions-for-action)****
-* ****[**Error "API-key format invalid"**](errors-with-binance-connection.md#error-api-key-format-invalid)****
-* ****[**Error "Timestamp for this request was 1000ms ahead of the server's time"**](errors-with-binance-connection.md#error-timestamp-for-this-request-was-1000ms-ahead-of-the-servers-time)****
-* ****[**Error "Timestamp for this request is outside of the recvWindow"**](errors-with-binance-connection.md#error-timestamp-for-this-request-is-outside-of-the-recvwindow)****
-*    ****
+* [**Error "Invalid API-key, IP, or permissions for action"**](errors-with-binance-connection.md#error-invalid-api-key-ip-or-permissions-for-action)
+* [**Error "API-key format invalid"**](errors-with-binance-connection.md#error-api-key-format-invalid)
+* [**Error "Timestamp for this request was 1000ms ahead of the server's time"**](errors-with-binance-connection.md#error-timestamp-for-this-request-was-1000ms-ahead-of-the-servers-time)
+* [**Error "Timestamp for this request is outside of the recvWindow"**](errors-with-binance-connection.md#error-timestamp-for-this-request-is-outside-of-the-recvwindow)
+*
 
-    ****[**Error "Order's notional must be no smaller than 5.0 (unless you choose to reduce only)**](errors-with-binance-connection.md#error-orders-notional-must-be-no-smaller-than-5-0-unless-you-choose-to-reduce-only)****
-* ****[**Error "Margin is insufficient"**](errors-with-binance-connection.md#error-margin-is-insufficient)****
-* ****[**Error "Too many new orders"**](errors-with-binance-connection.md#error-too-many-new-orders)****
-* ****[**Error "Balance is insufficient"**](errors-with-binance-connection.md#error-balance-is-insufficient)****
-* ****[**Error "This listenKey does not exist"**](errors-with-binance-connection.md#error-this-listenkey-does-not-exist)****
-* ****[**Error "Too much requests weight used; current limit is 1200 request weight per 1 minute. Please use the websocket for live updates to avoid polling the API"**](errors-with-binance-connection.md#error-too-much-requests-weight-used-current-limit-is-1200-request-weight-per-1-minute-please-use-the-websocket-for-live-updates-to-avoid-polling-the-api)****
-* ****[**Error "Parameter 'start time' is invalid"**](errors-with-binance-connection.md#error-parameter-start-time-is-invalid)****
-* ****[**Error "Signature for this request is not valid"**](errors-with-binance-connection.md#error-signature-for-this-request-is-not-valid)****
+    [**Error "Order's notional must be no smaller than 5.0 (unless you choose to reduce only)**](errors-with-binance-connection.md#error-orders-notional-must-be-no-smaller-than-5-0-unless-you-choose-to-reduce-only)
+* [**Error "Margin is insufficient"**](errors-with-binance-connection.md#error-margin-is-insufficient)
+* [**Error "Too many new orders"**](errors-with-binance-connection.md#error-too-many-new-orders)
+* [**Error "Balance is insufficient"**](errors-with-binance-connection.md#error-balance-is-insufficient)
+* [**Error "This listenKey does not exist"**](errors-with-binance-connection.md#error-this-listenkey-does-not-exist)
+* [**Error "Too much requests weight used; current limit is 1200 request weight per 1 minute. Please use the websocket for live updates to avoid polling the API"**](errors-with-binance-connection.md#error-too-much-requests-weight-used-current-limit-is-1200-request-weight-per-1-minute-please-use-the-websocket-for-live-updates-to-avoid-polling-the-api)
+* [**Error "Parameter 'start time' is invalid"**](errors-with-binance-connection.md#error-parameter-start-time-is-invalid)
+* [**Error "Signature for this request is not valid"**](errors-with-binance-connection.md#error-signature-for-this-request-is-not-valid)
 
 ### **Error "Invalid API-key, IP, or permissions for action"**
 

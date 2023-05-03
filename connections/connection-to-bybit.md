@@ -9,10 +9,10 @@ description: >-
 
 In this guide, we will cover all the steps required to create a trading account on Bybit and connect to the Quantower platform.
 
-* ****[**Open an account on Bybit to get personal API keys**](connection-to-bybit.md#open-an-account-on-bybit-to-get-personal-api-keys)****
-* ****[**Possible Errors with Bybit connection**](connection-to-bybit.md#possible-errors-with-bybit-connection)****
-* [**Bybit trading**](../trading-panels/order-entry/order-entry-for-bybit.md)****
-* ****[**Errors**](connection-to-bybit.md#errors-with-bybit-connection)****
+* [**Open an account on Bybit to get personal API keys**](connection-to-bybit.md#open-an-account-on-bybit-to-get-personal-api-keys)
+* [**Possible Errors with Bybit connection**](connection-to-bybit.md#possible-errors-with-bybit-connection)
+* [**Bybit trading**](../trading-panels/order-entry/order-entry-for-bybit.md)
+* [**Errors**](connection-to-bybit.md#errors-with-bybit-connection)
 
 Note, that in the platform, you can connect to the exchange in two modes:
 
@@ -32,7 +32,7 @@ For **DEMO Trading** please create an account on Testnet.Bybit.com [https://test
 Go to the [**Bybit official website** using this link](https://www.bybit.com/en-US/invite?ref=n9X0D) and go through the procedure for registering a new account on the exchange.
 
 For email registration, please enter your email, preferred password and (!) referral code **n9X0D** \
-****Swipe the verification page then enter the verification code sent to your email inbox.
+Swipe the verification page then enter the verification code sent to your email inbox.
 
 ![](<../.gitbook/assets/image (82).png>)
 

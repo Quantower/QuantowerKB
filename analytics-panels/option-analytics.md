@@ -33,7 +33,11 @@ To open a new Options Analytics panel, go to the _**Main menu**_ (Logo icon) and
 (3) - Paper column is an interactive column that used to add a paper position to porfolio, to do it - click on column's cell and set value.\
 (4) - Right click on a row will show a strike's context menu
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+<div align="left">
+
+<img src="../.gitbook/assets/image (6) (1) (1).png" alt="">
+
+</div>
 
 (5) - Double click on Ask/Bid cells will open an Order Entry panel
 

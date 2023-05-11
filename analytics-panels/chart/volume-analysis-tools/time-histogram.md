@@ -9,11 +9,11 @@ description: >-
 
 **Time Histogram** is similar to [Time Statistics](https://help.quantower.com/analytics-panels/chart/volume-analysis-tools/time-statistics) tool that shows volume data as a vertical histogram for each bar. But unlike Time statistics, it allows you to visually evaluate the data for each bar, not only by colors but also by the shape of the histogram.
 
-![Time histogram on the chart — general view](../../../.gitbook/assets/time-histogram-general-view.png)
+<figure><img src="../../../.gitbook/assets/Time Histogram.png" alt=""><figcaption><p>Time histogram on the chart — general view</p></figcaption></figure>
 
 Click on the **Time Histogram** and switch the button **"Enable"** to activate the functionality on the chart. Time Histogram supports an extensive list of Data types that you can change either in the settings or directly in the activation mode.
 
-![Main settings of Time Histogram tool](../../../.gitbook/assets/time-histogram-settings.png)
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Main settings of Time Histogram tool</p></figcaption></figure>
 
 * **Enable Time Histogram** — activates the functionality to display on the chart. After you activate it, the loading process of tick and volume data will begin. The yellow color will indicate that data is loading. Green color means that the data for the selected history depth is fully downloaded.
 

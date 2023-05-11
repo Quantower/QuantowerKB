@@ -7,7 +7,11 @@ description: >-
 
 # Welcome to Quantower Help
 
-![](.gitbook/assets/main-workspace-for-help.png)
+<div align="center">
+
+<img src=".gitbook/assets/main-workspace-for-help.png" alt="">
+
+</div>
 
 
 

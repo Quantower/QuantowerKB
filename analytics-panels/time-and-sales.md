@@ -84,7 +84,7 @@ Quick filtering can be applied only to one column of the table. For filtering mu
 
 * **Advanced filtering,** for applying more complex filtering (multi-filtering). Select in the panel's context menu option “_**Setup actions**_”.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 This screen has two tabs on the left side, where the first one is an Advanced filter.
 

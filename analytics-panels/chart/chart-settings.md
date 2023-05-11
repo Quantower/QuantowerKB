@@ -90,7 +90,7 @@ These settings allow you to customize the price scale. There are three important
 
 * **Scale type**. This allows you to choose which type of scale will be displayed on the chart, such as a normal display, percentage display, or logarithmic scale.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 * **Zoom**. Here you can adjust the vertical scaling of the chart.
 

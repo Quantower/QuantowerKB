@@ -13,7 +13,7 @@ description: >-
 
 Click on the **Time Histogram** and switch the button **"Enable"** to activate the functionality on the chart. Time Histogram supports an extensive list of Data types that you can change either in the settings or directly in the activation mode.
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Main settings of Time Histogram tool</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Main settings of Time Histogram tool</p></figcaption></figure>
 
 * **Enable Time Histogram** — activates the functionality to display on the chart. After you activate it, the loading process of tick and volume data will begin. The yellow color will indicate that data is loading. Green color means that the data for the selected history depth is fully downloaded.
 

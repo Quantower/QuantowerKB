@@ -13,6 +13,8 @@ description: >-
 
 ![TPO Profile Chart (Market Profile) general view in Quantower platform](<../.gitbook/assets/TPO Chart.png>)
 
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 To open a new TPO panel, go to the _**Main menu**_ (Logo icon) and select _**TPO Chart**_ in the Analytics section.
 
 ![Open TPO Chart panel via Main menu](../.gitbook/assets/tpo\_start.png)
@@ -43,7 +45,7 @@ The base element of the TPO chart is letters that are used to build the market p
 
 ![](../.gitbook/assets/custom-period.gif)
 
-![TPO Profile can be build with any custom period and base](../.gitbook/assets/screenshot\_11.png)
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>TPO Profile can be build with any custom period and base</p></figcaption></figure>
 
 * **Build From (Minute, Hour, Day)** — this parameter determines the length of time for building each letter (for A, B, C etc.).
 * **Profile Aggregation** — defines the range for each TPO profile. The standard range is 1 day, but there are several base ranges for building each profile — **Minute, Hour, Day**.\

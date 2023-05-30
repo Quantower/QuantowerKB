@@ -9,7 +9,7 @@ description: >-
 The highest level of trading area organization — is a **Workspace**. This is the most general grouping layer that you may even don’t need most of the time.
 
 {% hint style="success" %}
-**Quantower auto-saves each workspace** into its local file every 5 mins, in order to keep them safe.
+Quantower **automatically saves** every workspace into a local file **every five minutes** and right **before you exit** your app without requiring any manual action from the user. Additionally, you can press **Ctrl+S** to save your currently active workspace manually.
 {% endhint %}
 
 As a top-level grouping layer, Workspaces store all their contents in special local files. These files can be found in _**Quantower -> Settings -> Workspaces**_ folder. Each file represents some workspace; both have the similar names. Technically, the workspace file is an XML-document containing all of the settings of all panels that are in the workspace.&#x20;

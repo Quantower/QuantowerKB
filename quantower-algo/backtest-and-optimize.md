@@ -35,7 +35,7 @@ Depending on the mode you select, you will see a set of various parameters divid
 <mark style="color:blue;">**Backtesting environment**</mark> parameters specify what the testing (emulated) environment should be and contain the following items:
 
 * **Starting and ending dates** are a period in history used by the backtester to emulate the trading data.
-* **Start replaying from the date** (inside the above period). This could be useful in case your strategy needs historical data.
+* **Start replaying from** the date (within the Start-End period). Select the "start replaying from the date" option if your strategy needs preliminary historical data during initialization. In this case, your strategy will receive quotes from the "start replaying from" date, while your Backtesting environment will contain data beginning from the "Starting date."
 * **Testing symbol**(s). Allows to specify one or multiple symbols the strategy will use in a testing environment.
 *   **Advanced settings**. Opens a screen with extra environment emulation parameters per each symbol selected for testing:\
 
@@ -65,9 +65,9 @@ Please note. The selected strategy will use one of the specified backtesting env
 
 Being in a Backtesting mode, just before launching the new task, you can select the <mark style="color:blue;">**processing mode**</mark> (the way how backtester will replay history) from the following list:
 
-* Speed control. Allows you to interactively adapt the history replay speed or pause during the task processing. You can also visualize the history replay in one of the Quantower panels and see your strategy behavior over time.
-* Step by step. Backterster will process history playback tick by tick based on the used symbol’s timeframe settings.
-* Background. In this mode, the backtester will process your task with the highest possible speed, and you will only see the results after it ends.
+* **Speed control.** Allows you to interactively adapt the history replay speed or pause during the task processing. You can also visualize the history replay in one of the Quantower panels and see your strategy behavior over time.
+* **Step by step.** Backterster will process history playback tick by tick based on the used symbol’s timeframe settings.
+* **Background.** In this mode, the backtester will process your task with the highest possible speed, and you will only see the results after it ends.
 
 ### Optimization
 

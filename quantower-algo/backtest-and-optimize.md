@@ -132,3 +132,9 @@ When you've started a new manual backtesting task, you may select it in the task
 {% hint style="info" %}
 Please note. Once finished, the backtester won't stop the manually created task until you click the <mark style="background-color:blue;">\[ Stop backtesting ]</mark> button in the bottom right corner. Until this, the backtester will store all task results in memory. After the manual stop, the backtester will save all results to the filesystem, where you can get them (or visualize them) later.
 {% endhint %}
+
+## Video manuals
+
+{% embed url="https://www.youtube.com/watch?v=dNCuhMhOjZQ" fullWidth="false" %}
+Part 1 - Backtesting & visualization basics
+{% endembed %}

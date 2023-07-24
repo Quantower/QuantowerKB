@@ -2,6 +2,12 @@
 
 Previously a part of the "Strategy runner" panel's functionality, strategies backtesting is integral to any algo-trading development process. With the latest Quantower update, we separated this feature into an individual panel called the "Backtest & Optimize." Let's learn more about this tool and its new features and enhancements.
 
+### <mark style="color:red;">▶️</mark> Video manual about Backtesting
+
+{% embed url="https://www.youtube.com/watch?v=dNCuhMhOjZQ" fullWidth="true" %}
+A short video manual about the Backtest & Optimize panel
+{% endembed %}
+
 ## Start & general view
 
 Once you launch the Backtest & Optimize (B\&O) panel, you should select a strategy using the lookup screen. You are required to run a new instance of the B\&O panel for every new strategy you would like to test; you can also change it later via the main toolbar.
@@ -85,6 +91,12 @@ Being in Optimisation mode, you can only start the processing in the background.
 Please note. You can launch optimization once per strategy until it finishes or stops manually.
 {% endhint %}
 
+### <mark style="color:red;">▶️</mark> Video manual about Optimization
+
+{% embed url="https://www.youtube.com/watch?v=-EaDrGf4YBE" fullWidth="true" %}
+Video manual covering the Optimization process of Backtest & Optimize panel
+{% endembed %}
+
 ## Backtest tasks history
 
 The Backtests history manager section consists of the tasks list and task results (Metrics and Logs related to the selected backtesting). The list of tasks has several columns with general data and management buttons as follows:
@@ -132,9 +144,3 @@ When you've started a new manual backtesting task, you may select it in the task
 {% hint style="info" %}
 Please note. Once finished, the backtester won't stop the manually created task until you click the <mark style="background-color:blue;">\[ Stop backtesting ]</mark> button in the bottom right corner. Until this, the backtester will store all task results in memory. After the manual stop, the backtester will save all results to the filesystem, where you can get them (or visualize them) later.
 {% endhint %}
-
-## Video manuals
-
-{% embed url="https://www.youtube.com/watch?v=dNCuhMhOjZQ" fullWidth="false" %}
-Part 1 - Backtesting & visualization basics
-{% endembed %}

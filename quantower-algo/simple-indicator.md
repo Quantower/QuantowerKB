@@ -20,11 +20,11 @@ Use "_**File -> New project**_" in the main menu of Visual Studio to open "**New
 
 At first, you need to create a new project for the indicator. Quantower Algo provides you predefined templates for an empty indicator as well as a few examples of real indicators with source code:
 
-![New project window](<../.gitbook/assets/image (55).png>)
+![New project window](../.gitbook/assets/Screenshot\_4.png)
 
 A minimum required source code will be generated automatically and contains the main Indicator functions:
 
-![Default source code for blank indicator](../.gitbook/assets/default-code.png)
+![Default source code for blank indicator](../.gitbook/assets/Screenshot\_5.png)
 
 ## Indicator code structure
 
@@ -53,9 +53,9 @@ public SimpleIndicator()
 
 ### Getting data
 
-The **"OnUpdate"** method will be called each time on history changing - here we need to add our calculations. Most of the indicators are using prices or volumes in their algorithms. Quantower API provides you a few ways to retrieve this data - you can access Open, High, Low, Close and others data from a current bar or from previous bars if it required. 
+The **"OnUpdate"** method will be called each time on history changing - here we need to add our calculations. Most of the indicators are using prices or volumes in their algorithms. Quantower API provides you a few ways to retrieve this data - you can access Open, High, Low, Close and others data from a current bar or from previous bars if it required.&#x20;
 
-Common method [**GetPrice**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_GetPrice_TradingPlatform_BusinessLayer_PriceType_System_Int32\_) allows to retrieve all type of the data:
+Common method [**GetPrice**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform\_BusinessLayer\_Indicator\_GetPrice\_TradingPlatform\_BusinessLayer\_PriceType\_System\_Int32\_) allows to retrieve all type of the data:
 
 ```csharp
 // To get Low price of the current bar
@@ -79,7 +79,7 @@ You can find more information about "**Indicator"** class in our [API documentat
 
 ### Setting data
 
-Now we know how to get prices, but as we told before, we need also to put results into indicator buffer. We can use "[**SetValue**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform_BusinessLayer_Indicator_SetValue_System_Double_System_Int32\_System_Int32\_)**"** method for this:
+Now we know how to get prices, but as we told before, we need also to put results into indicator buffer. We can use "[**SetValue**](http://api.quantower.com/docs/TradingPlatform.BusinessLayer.Indicator.html#TradingPlatform\_BusinessLayer\_Indicator\_SetValue\_System\_Double\_System\_Int32\_System\_Int32\_)**"** method for this:
 
 ```csharp
 // Put value into current bar for first line of indicator

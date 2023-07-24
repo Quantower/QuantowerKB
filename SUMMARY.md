@@ -184,7 +184,7 @@
   * [Quantower Telegram Bot](miscellaneous-panels/quantower-telegram-bot.md)
 * [Quantower Algo](quantower-algo/README.md)
   * [Introduction](quantower-algo/introduction.md)
-  * [Install for Visual Studio](quantower-algo/installing-visual-studio.md)
+  * [Install for Visual Studio 2022](quantower-algo/installing-visual-studio.md)
   * [Strategy runner (deprecated)](quantower-algo/strategy-runner.md)
   * [Strategies manager](quantower-algo/strategies-manager.md)
   * [Backtest & Optimize](quantower-algo/backtest-and-optimize.md)

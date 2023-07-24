@@ -8,7 +8,7 @@ description: >-
 
 ## General idea
 
-**Quantower** trading platform provides a wide set of professional features for manual trading, but you can use it for algorithmic trading also. With Quantower Algo solutions you can simply create standard trading scripts such as indicators and strategies, as well as additional platform extensions: own connectors with brokers, plugins, Custom columns, etc. What is differ Quantower, from other trading platforms - you don't need to study some proprietary language or development environment. You will use the only standard, well-known instruments, that used by developers all over the world. 
+**Quantower** trading platform provides a wide set of professional features for manual trading, but you can use it for algorithmic trading also. With Quantower Algo solutions you can simply create standard trading scripts such as indicators and strategies, as well as additional platform extensions: own connectors with brokers, plugins, Custom columns, etc. What is differ Quantower, from other trading platforms - you don't need to study some proprietary language or development environment. You will use the only standard, well-known instruments, that used by developers all over the world.&#x20;
 
 There are three main key points in our vision of algorithmic scripts development:
 
@@ -41,4 +41,6 @@ You just need to spend some time to read our articles about Algo Solutions in Qu
 
 In the next topic, we will show you how to [install Visual Studio and Quantower Algo extension](https://help.quantower.com/quantower-algo/installing-visual-studio). If you are aware of how to do it or if you already have Visual Studio installed on your computer you can skip it and start writing your [first simple indicator](https://help.quantower.com/quantower-algo/simple-indicator).
 
-{% embed url="https://www.youtube.com/watch?v=CelIt_F0Wuw" %}
+
+
+{% embed url="https://www.youtube.com/watch?v=Lw7lPIxT2xA" fullWidth="true" %}

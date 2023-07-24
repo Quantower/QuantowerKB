@@ -10,7 +10,7 @@ Each time you place an order in Quantower — you do it immediately by pressing 
 
 Here comes the functionality of Order placing strategies, allowing simple automation of complex order submission. You can find the corresponding control in every Order entry panel or sidebar.
 
-![Order placing strategy control in Quantower Order entry](../../../.gitbook/assets/Screenshot\_4.png)
+![Order placing strategy control in Quantower Order entry](<../../../.gitbook/assets/Screenshot\_4 (1).png>)
 
 To apply some Order placing strategy, you should:
 

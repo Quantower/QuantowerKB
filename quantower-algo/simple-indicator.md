@@ -20,11 +20,11 @@ Use "_**File -> New project**_" in the main menu of Visual Studio to open "**New
 
 At first, you need to create a new project for the indicator. Quantower Algo provides you predefined templates for an empty indicator as well as a few examples of real indicators with source code:
 
-![New project window](../.gitbook/assets/Screenshot\_4.png)
+![New project window](<../.gitbook/assets/Screenshot\_4 (2).png>)
 
 A minimum required source code will be generated automatically and contains the main Indicator functions:
 
-![Default source code for blank indicator](../.gitbook/assets/Screenshot\_5.png)
+![Default source code for blank indicator](<../.gitbook/assets/Screenshot\_5 (1).png>)
 
 ## Indicator code structure
 

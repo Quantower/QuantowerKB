@@ -20,20 +20,20 @@ Download the web installer and run it. After initialization, you will be prompte
 
 {% embed url="https://www.youtube.com/watch?v=Lw7lPIxT2xA" fullWidth="true" %}
 
-![Minimal required installation](../.gitbook/assets/Screenshot\_3.png)
+![Minimal required installation](<../.gitbook/assets/Screenshot\_3 (1).png>)
 
 Continue installation and in a few minutes, after downloading and applying required packages, Visual Studio will start automatically:
 
-![Default view of Visual Studio 2019](../.gitbook/assets/Screenshot\_1.png)
+![Default view of Visual Studio 2019](<../.gitbook/assets/Screenshot\_1 (1).png>)
 
 Now we need to install Quantower Algo extension from Visual Studio Marketplace. Use "_**Tools -> Extension and Updates...**_" main menu item to open Extensions Manager. Type "_**Quantower**_" into the search box of **Online tab** and you will find a required extension:
 
-![Extensions and Updates window](../.gitbook/assets/Screenshot\_2.png)
+![Extensions and Updates window](<../.gitbook/assets/Screenshot\_2 (1).png>)
 
 Click "**Download**". Visual Studio will ask you for restarting to finish the extension installation process.
 
 To check whether Quantower Algo is installed successfully click "_**File -> New -> Project**_" menu item, type "Indicator" and you will see a special project type for the blank indicator:
 
-![New project window](../.gitbook/assets/Screenshot\_4.png)
+![New project window](<../.gitbook/assets/Screenshot\_4 (2).png>)
 
 Now everything is ready to [create your first indicator](simple-indicator.md).

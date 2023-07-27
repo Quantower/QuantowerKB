@@ -1,5 +1,9 @@
 # Debugging in VS 2022
 
+## Video manual about debugging
+
+{% embed url="https://www.youtube.com/watch?v=w_g4mbJ4G_4" %}
+
 ## Debugging setup
 
 In order to begin debugging, it is necessary to have both a running Quantower terminal and an open strategy project in Visual Studio. Prior to starting, debugging must be configured by accessing the Quantower Algo settings in the VS Tools menu and navigating to the Algo tab within the Quantower terminal general settings screen.

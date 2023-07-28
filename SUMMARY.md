@@ -44,6 +44,7 @@
     * [How to connect to Pepperstone via Quantower](connections/connection-to-ctrader/how-to-connect-to-pepperstone-via-quantower.md)
     * [How to connect to IC Markets via Quantower](connections/connection-to-ctrader/how-to-connect-to-ic-markets-via-quantower.md)
   * [Connection to Rithmic](connections/connection-to-rithmic.md)
+  * [Connection to Topstep](connections/connection-to-topstep.md)
   * [Connection to Interactive Brokers](connections/connect-quantower-to-interactive-broker/README.md)
     * [Errors with Interactive Brokers](connections/connect-quantower-to-interactive-broker/errors-with-interactive-brokers.md)
   * [Connection to Bybit](connections/connection-to-bybit.md)

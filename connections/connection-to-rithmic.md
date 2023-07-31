@@ -88,11 +88,11 @@ More often such error occurs for the following reasons:
 *   A new account was created less than an hour ago. Usually, the **full activation of a new account takes from 30 minutes to 1 hour**.
 
     _**Solution:**_ _open RTrader Pro platform and connect with your login. If the connection is successful, then your account is active in Rithmic system_
-*   Make sure that your login matches the Demo or Real connection&#x20;
+*   Make sure that your login matches the correct server&#x20;
 
-    _**Solution:**_ try both connection options in Quantower
+    _**Solution:**_ _try to use another server according to your login (Apex, Topstep or Rithmic itself)_
 
-![](<../.gitbook/assets/image (355) (1) (1) (1) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
 
 *   If Quantower was connected to Rithmic before via the RTrader Plugin (i.e. the checkbox Use RTrader is active), and at the moment the RTrader Pro platform is not connected or the **Allow Plugins** option is not active there, then Quantower will not be able to connect.
 

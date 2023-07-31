@@ -88,6 +88,8 @@ The problem is related to the fact that the search for stocks is performed by th
 
 ## **How to replace the main Toolbar to another screen (monitor)?**
 
+<figure><img src="../.gitbook/assets/image (369).png" alt=""><figcaption><p>Quantower Main toolbar</p></figcaption></figure>
+
 There are two ways to move the main toolbar to another monitor:
 
 * To move the main toolbar to another monitor, <mark style="background-color:orange;">**click and hold the mouse cursor on it and drag it to the desired monitor**</mark>. Make sure <mark style="background-color:blue;">**both monitors are aligned at the same level**</mark>, which you can verify in your monitor settings.

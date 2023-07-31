@@ -1,12 +1,13 @@
 # General Errors
 
-* ****[**How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?**](general-errors.md#how-to-fix-the-youll-need-a-new-app-to-open-this-ms-gaming-overlay-error-on-windows-10)****
-* ****[**Error 'Application is already running'**](general-errors.md#error-application-is-already-running)****
-* ****[**An error occurred during platform initialization: Exception has been thrown by the target of an invocation**](general-errors.md#an-error-occurred-during-platform-initialization-exception-has-been-thrown-by-the-target-of-an-invoc)****
-* ****[**An error occurred during platform initialization: Fail to load DLL signatures**](general-errors.md#an-error-occurred-during-platform-initialization-fail-to-load-dll-signatures)****
+* [**How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?**](general-errors.md#how-to-fix-the-youll-need-a-new-app-to-open-this-ms-gaming-overlay-error-on-windows-10)
+* [**Error 'Application is already running'**](general-errors.md#error-application-is-already-running)
+* [**An error occurred during platform initialization: Exception has been thrown by the target of an invocation**](general-errors.md#an-error-occurred-during-platform-initialization-exception-has-been-thrown-by-the-target-of-an-invoc)
+* [**An error occurred during platform initialization: Fail to load DLL signatures**](general-errors.md#an-error-occurred-during-platform-initialization-fail-to-load-dll-signatures)
 * **Trendlines are moving on tick charts. How to resolve it?**
-* ****[**Incorrect view of icons inside the application (for Mac via Parallels)**](general-errors.md#incorrect-view-of-icons-inside-the-application-for-mac-via-parallels)****
-* ****[**Сan not find a stock ticker with the dxfeed data provider (F, SO, META etc)**](general-errors.md#san-not-find-a-stock-ticker-with-the-dxfeed-data-provider-f-so-meta-etc)****
+* [**Incorrect view of icons inside the application (for Mac via Parallels)**](general-errors.md#incorrect-view-of-icons-inside-the-application-for-mac-via-parallels)
+* [**Сan not find a stock ticker with the dxfeed data provider (F, SO, META etc)**](general-errors.md#san-not-find-a-stock-ticker-with-the-dxfeed-data-provider-f-so-meta-etc)
+* [**How to replace the main Toolbar to another screen (monitor)?**](general-errors.md#how-to-replace-the-main-toolbar-to-another-screen-monitor)
 
 ## How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?
 
@@ -84,3 +85,13 @@ Sometimes, users face the problem of finding a company's stock by its exact tick
 The problem is related to the fact that the search for stocks is performed by the **description** (name) of the company, especially for tickers with a small number of symbols (1-2 letters).
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## **How to replace the main Toolbar to another screen (monitor)?**
+
+There are two ways to move the main toolbar to another monitor:
+
+* To move the main toolbar to another monitor, <mark style="background-color:orange;">**click and hold the mouse cursor on it and drag it to the desired monitor**</mark>. Make sure <mark style="background-color:blue;">**both monitors are aligned at the same level**</mark>, which you can verify in your monitor settings.
+
+<figure><img src="../.gitbook/assets/image (368).png" alt=""><figcaption></figcaption></figure>
+
+* click on the main toolbar and use the key combination <mark style="background-color:blue;">**Win + Shift + Arrow**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">(left / right)</mark>.

@@ -59,7 +59,8 @@ Some times Kaspersky delete our files.&#x20;
 
 This error can occur for several reasons:
 
-* There is **no internet connection or a weak connection**. Please check that the connection is stable with your browser.
+* There is <mark style="color:red;">**no internet connection**</mark>** or a weak connection**. Please check that the connection is stable with your browser.
+* It appears that you are currently utilizing an <mark style="color:red;">**outdated version**</mark>** of our platform that is no longer supported**. We strongly advise that you [**download the newest version**](https://www.quantower.com/download) from our official website and [<mark style="color:green;">**transfer all of your settings**</mark>](https://help.quantower.com/quantower/getting-started/reset-settings-to-default) from the old version to the updated one.
 * The platform has **not fully installed the files** to work correctly. Please reinstall the platform.
 
 ![Full list of folders and files for Quantower](<../.gitbook/assets/image (216).png>)

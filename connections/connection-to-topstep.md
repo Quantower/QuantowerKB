@@ -15,3 +15,25 @@ To access a trading account through the Quantower platform, you need to click on
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+
+## Possible issues with connection to Topstep account & trading issues
+
+* **Market Data Connection Login Failed. Please contact the FCM/IB who issued your login id for assistance.**
+
+The most common issue encountered while attempting to log in to the platform is an error. This may be caused by several reasons:
+
+1\) Please ensure that you are entering the <mark style="background-color:blue;">**correct password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account.
+
+{% hint style="info" %}
+You can find the **correct password on your personal cabinet**, as we have shown previously.
+{% endhint %}
+
+2\) Please ensure that you have chosen the correct server for connection, as it is crucial to use Topstep (Tostep trader Chicago Area, Topstep trader Europe, etc.)
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* **No symbols found at Topstep**
+
+<figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
+
+This error occurs when you were able to connect to your account, but at the moment it is not yet fully activated by Topstep. You need to contact their support with your username and account number in order for them to activate your account to receive market data.

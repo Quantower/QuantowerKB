@@ -27,7 +27,7 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 ## View settings
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>General View of Chart Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>General View of Chart Settings</p></figcaption></figure>
 
 * **Custom title.** You can rename your chart panel as desired.\
 

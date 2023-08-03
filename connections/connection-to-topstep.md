@@ -25,25 +25,39 @@ To access a trading account through the Quantower platform, you need to click on
 
 ## Possible issues with connection to Topstep account & trading issues
 
-* **Market Data Connection Login Failed. Please contact the FCM/IB who issued your login id for assistance.**
+* <mark style="background-color:red;">**Market Data Connection Login Failed. Please contact the FCM/IB who issued your login id for assistance.**</mark>
 
 The most common issue encountered while attempting to log in to the platform is an error. This may be caused by several reasons:
 
-1\) Please ensure that you are entering the <mark style="background-color:blue;">**correct password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account.
+**1)** Please ensure that you are entering the <mark style="background-color:blue;">**correct password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account.
 
 {% hint style="info" %}
 You can find the **correct password on your personal cabinet**, as we have shown previously.
 {% endhint %}
 
-2\) Please ensure that you have chosen the correct server for connection, as it is crucial to use Topstep (Tostep trader Chicago Area, Topstep trader Europe, etc.)
+**2)** Please ensure that you have chosen the correct server for connection, as it is crucial to use Topstep (Tostep trader Chicago Area, Topstep trader Europe, etc.)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+**3)** Please make sure your account is active. To do this, open the Rtrader Pro platform and try logging in using your credentials. Make sure you've selected the correct server. If you don't have Rtrader Pro, you can [**download it**](https://yyy3.rithmic.com/?page\_id=16) from the official Rithmic website.
 
-* **No symbols found at Topstep**
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
+* <mark style="background-color:red;">**Username & Password are Not Available (N/A)**</mark>
+
+If your Username and Password are not yet available (N/A), please contact Tosptep support. Typically, the full account activation takes 1-2 business days.
+
+<figure><img src="../.gitbook/assets/image (372).png" alt=""><figcaption><p>Username &#x26; Password are Not Available (N/A)</p></figcaption></figure>
+
+* <mark style="background-color:red;">**No symbols found at Topstep**</mark>
+
+<figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption><p>No symbols found at Topstep</p></figcaption></figure>
 
 This error occurs when you were able to connect to your account, but at the moment it is not yet fully activated by Topstep. You need to contact their support with your username and account number in order for them to activate your account to receive market data.
+
+* <mark style="background-color:red;">**Can not select an account for trading**</mark>
+
+Sometimes users may encounter an issue of not having a trading account. Even though the platform connection is successful and the market data subscription is active, trading operations are not possible.
+
+Most likely, your account is not fully activated. We recommend reaching out to Topstep support to resolve this matter. They will be able to assist you and ensure your account is fully activated for trading.
 
 ***
 

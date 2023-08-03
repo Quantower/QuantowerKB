@@ -1,5 +1,10 @@
 # Connection to Topstep
 
+* **Possible issues with connection to Topstep account**
+* **What is included in Quantower for free?**
+
+***
+
 In order to begin your work with [**Topstep**](https://www.topstep.com/), you must first register on their website and pay for access to a trading account (combine).
 
 Once you have paid, please log in to your personal account on the Topstep website using the login and password you provided during the registration process.
@@ -15,6 +20,8 @@ To access a trading account through the Quantower platform, you need to click on
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## Possible issues with connection to Topstep account & trading issues
 
@@ -37,6 +44,8 @@ You can find the **correct password on your personal cabinet**, as we have shown
 <figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 This error occurs when you were able to connect to your account, but at the moment it is not yet fully activated by Topstep. You need to contact their support with your username and account number in order for them to activate your account to receive market data.
+
+***
 
 ## **What is included in Quantower for free?** <a href="#included" id="included"></a>
 

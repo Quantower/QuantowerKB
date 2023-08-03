@@ -37,3 +37,23 @@ You can find the **correct password on your personal cabinet**, as we have shown
 <figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption></figcaption></figure>
 
 This error occurs when you were able to connect to your account, but at the moment it is not yet fully activated by Topstep. You need to contact their support with your username and account number in order for them to activate your account to receive market data.
+
+## **What is included in Quantower for free?** <a href="#included" id="included"></a>
+
+**Topstep accounts **<mark style="background-color:green;">**will be provided**</mark>** with the Premium Feature Bundle for free:**
+
+* [**DOM Surface**](../analytics-panels/dom-surface.md) (_requires Level2 data subscription_)
+* [**TPO Chart**](../analytics-panels/tpo-chart.md)
+* [**Volume Analysis Tools**](../analytics-panels/chart/volume-analysis-tools/)
+* **Charting** (Maximum 2 indicators per chart)
+* [**Copy Trading**](../trading-panels/copy-trading.md) (_works only under 1 login where a trader has multiple accounts_)
+
+**Topstep accounts **<mark style="background-color:red;">**do not provide**</mark>** the following:**
+
+* [**Market Replay**](../trading-panels/history-player.md) (requires a subscription to [Advanced Features license](https://www.quantower.com/advancedfeatures) on Quantower)
+* [**Strategy Manager**](../quantower-algo/strategies-manager.md)
+* [**Strategy Runner**](../quantower-algo/strategy-runner.md)
+* [**Trading Simulator**](../trading-panels/trading-simulator.md)
+* [**Power Trades**](../analytics-panels/chart/power-trades.md) (requires a subscription to [Power Trades license](https://www.quantower.com/pricing#extensions) on Quantower)
+* [**Local order strategies**](https://help.quantower.com/quantower/trading-panels/order-entry/order-placing-strategies/local-sl-tp) (requires a subscription to [Advanced Features license](https://www.quantower.com/advancedfeatures) on Quantower)
+

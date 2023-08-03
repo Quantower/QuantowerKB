@@ -43,9 +43,7 @@ You can find the **correct password on your personal cabinet**, as we have shown
 
 **4)** For new users, please make sure to **sign two agreements first**. You can easily do this in the Rtrader Pro platform.
 
-
-
-
+<figure><img src="../.gitbook/assets/Image 2023-08-03 18.33.50.png" alt=""><figcaption><p>Unsigned Agreements in Rtrader Pro platform</p></figcaption></figure>
 
 * <mark style="background-color:red;">**Username & Password are Not Available (N/A)**</mark>
 

@@ -6,6 +6,8 @@ description: >-
 
 # Platform update
 
+* [**Quantower Beta version**](quantower-beta.md)
+
 Our team strives to release the new updates as soon as possible, usually at least a couple of times per month.
 
 Quantower automatically checks for updates on start and re-checks them every 10 minutes in the background. It helps you to get to know about the latest updates just after we release them.

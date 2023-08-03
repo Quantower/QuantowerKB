@@ -41,6 +41,12 @@ You can find the **correct password on your personal cabinet**, as we have shown
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
 
+**4)** For new users, please make sure to **sign two agreements first**. You can easily do this in the Rtrader Pro platform.
+
+
+
+
+
 * <mark style="background-color:red;">**Username & Password are Not Available (N/A)**</mark>
 
 If your Username and Password are not yet available (N/A), please contact Tosptep support. Typically, the full account activation takes 1-2 business days.

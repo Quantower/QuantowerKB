@@ -6,9 +6,11 @@ description: >-
 
 # Payment FAQ
 
-## Why isn't PayPal, Stripe, or similar international payment gateways available as payment methods for Quantower?
+## Why isn't PayPal, or similar international payment gateways available as payment methods for Quantower?
 
 As you might know, Quantower LLC is a Ukrainian company that is situated in Ukraine and operates under the Ukrainian legislation. As for now, PayPal and similar payment gateways don't provide business accounts in Ukraine, that is why we have to use one of the payment processors from Ukraine ([WayForPay](https://wayforpay.com/)). Currently, we are working on having a representative in the USA that should allow us to process payments via the popular payment gateways.
+
+<mark style="background-color:green;">**UPD:**</mark> **Stripe can be used as an alternative payment gateway.**
 
 ## Declined to card issuer
 

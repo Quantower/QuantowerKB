@@ -1,7 +1,7 @@
 # Connection to Topstep
 
-* **Possible issues with connection to Topstep account**
-* **What is included in Quantower for free?**
+* [**Possible issues with connection to Topstep account**](connection-to-topstep.md#possible-issues-with-connection-to-topstep-account-and-trading-issues)
+* [**What is included in Quantower for free?**](connection-to-topstep.md#included)
 
 ***
 

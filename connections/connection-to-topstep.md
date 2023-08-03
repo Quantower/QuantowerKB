@@ -39,7 +39,7 @@ You can find the **correct password on your personal cabinet**, as we have shown
 
 **3)** Please make sure your account is active. To do this, open the Rtrader Pro platform and try logging in using your credentials. Make sure you've selected the correct server. If you don't have Rtrader Pro, you can [**download it**](https://yyy3.rithmic.com/?page\_id=16) from the official Rithmic website.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
 
 **4)** For new users, please make sure to **sign two agreements first**. You can easily do this in the Rtrader Pro platform.
 

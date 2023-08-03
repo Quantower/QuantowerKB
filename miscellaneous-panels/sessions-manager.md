@@ -14,20 +14,20 @@ You can find a new Sessions manager screen in the Miscellaneous section of Quant
 
 ## Create sessions template
 
-![Sessions ate creation screen](<../.gitbook/assets/image3 (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Click the <mark style="background-color:blue;">**Sessions templates**</mark> button on the toolbar and <mark style="background-color:blue;">**Create new**</mark> to open the Session template creation screen. Here you can set up a new template's parameters, such as:&#x20;
 
-* template name
-* basing timezone&#x20;
+* Sessions template name
+* Timezone&#x20;
 * sessions list&#x20;
   * session name&#x20;
   * type: pre-market, main, post-market&#x20;
   * start and end time days of the week when is valid
 
-You may create as many sessions per one template as you need, but be attentive to avoid intersection sessions (the platform will notify you about it). Once you finish setting the sessions template, click the <mark style="background-color:blue;">**Save**</mark> button and proceed to the assignment process.
+You may create as many sessions per one template as you need, but be attentive to avoid intersection sessions (the platform will notify you about it). Once you finish setting the session template, click the <mark style="background-color:blue;">**Save**</mark> button and proceed to the assignment process.
 
-## Assign template to symbols/connections
+## Assign the template to symbols/connections
 
 ![Sessions template assignment screen](<../.gitbook/assets/image2 (2).png>)
 
@@ -56,7 +56,7 @@ Next, select the Sessions template to assign and click the "Assign" button. From
 
 While the above workflow is about the centralized session's assignment, we left a possibility to quickly assign some sessions templates on a panel basis. Just open the panel's settings and find the Custom session parameter (usually in the General section). Initially, it is set up to Default mode, meaning that the panel will use the Sessions manager setting or the defaults provided by the vendor. Still, you can easily override it and use any available sessions template (use the Sessions manager to manage your templates).
 
-The new Sessions manager screen significantly raises the level of custom sessions control, bringing you outstanding possibilities and ease of use. We put a considerable effort into covering possible scenarios of using the custom sessions but are still sure that you can find even more ideas on this functionality, so please share them in the comments or write on our socials.
+The new Sessions Manager screen significantly raises the level of custom session control, bringing you outstanding possibilities and ease of use. We put considerable effort into covering possible scenarios of using the custom sessions but are still sure that you can find even more ideas on this functionality, so please share them in the comments or write on our socials.
 
 ## **How to set custom trading sessions for futures on CQG, Rithmic?**
 

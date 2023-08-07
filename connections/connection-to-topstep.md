@@ -2,6 +2,7 @@
 
 * [**Possible issues with connection to Topstep account**](connection-to-topstep.md#possible-issues-with-connection-to-topstep-account-and-trading-issues)
 * [**What is included in Quantower for free?**](connection-to-topstep.md#included)
+* **Most popular trading questions**
 
 ***
 
@@ -84,3 +85,62 @@ Most likely, your account is not fully activated. We recommend reaching out to T
 * [**Power Trades**](../analytics-panels/chart/power-trades.md) (requires a subscription to [Power Trades license](https://www.quantower.com/pricing#extensions) on Quantower)
 * [**Local order strategies**](https://help.quantower.com/quantower/trading-panels/order-entry/order-placing-strategies/local-sl-tp) (requires a subscription to [Advanced Features license](https://www.quantower.com/advancedfeatures) on Quantower)
 
+
+
+## Most popular trading questions:
+
+<details>
+
+<summary>How to set custom trading sessions for particular symbols?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How to show/hide RTH or ETH dat aon the chart?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Why Quantower does lost a connection to Rithmic after the Market closed?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How to place OCO orders?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>How to place Bracket orders?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Why I can not add more than 2 indicators?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Is there a fee for copy trading?</summary>
+
+
+
+</details>

@@ -1,14 +1,26 @@
 ---
 description: >-
-  With the new Sessions manager functionality, you can create sessions templates
-  and assign them on the symbol, exchange, or even connection levels.
+  The new Sessions Manager feature allows you to create session templates and
+  assign them to symbols, exchanges, or connections.
 ---
 
 # Sessions manager
 
-## General
+***
 
-You can find a new Sessions manager screen in the Miscellaneous section of Quantower's control center. Once launched, you will see a table where Quantower will display the list of custom sessions assignments. Initially, it is empty, meaning that Quantower will use the sessions data coming from the symbols vendor. Generally, Sessions manager functionality is based on the work with sessions templates - creation and assignment - so its flow is simple: create a template and then assign it to some symbol (exchange, connection).
+* <mark style="color:blue;">**General information**</mark>
+* [**How to create a new session template**](sessions-manager.md#create-sessions-template)
+* [**Assign the template to symbols/connections**](sessions-manager.md#assign-the-template-to-symbols-connections)
+* [**Manage session assignments**](sessions-manager.md#manage-session-assignments)
+* [**Apply the template via the panel settings**](sessions-manager.md#apply-the-template-via-the-panel-settings)
+* [**How to set custom trading sessions for futures on CQG, Rithmic?**](sessions-manager.md#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic)
+* [**How to show/hide ETH or RTH sessions on the chart?**](sessions-manager.md#how-to-show-hide-eth-or-rth-sessions-on-the-chart)
+
+***
+
+## General information
+
+You can find a new Sessions manager screen in the **Miscellaneous** section of Quantower's control center. Once launched, you will see a table where Quantower will display the list of custom sessions assignments. Initially, we added only two sessions for AMP and Rithmic connection for the most popular symbols (ES, NQ, etc.). Generally, Sessions manager functionality is based on the work with sessions templates — creation and assignment — so its flow is simple: create a template and then assign it to some symbol (exchange, connection).
 
 ![Launch Sessions Manager panel](<../.gitbook/assets/image (1) (2) (1) (1) (1).png>)
 
@@ -50,7 +62,7 @@ Next, select the Sessions template to assign and click the "Assign" button. From
 
 **To edit the Sessions templates**, click the corresponding button and find them below the "Create new" option in the context menu. By clicking on the existing template, you will find its editing screen and the possibility to update or delete it.
 
-## Apply template via the panel settings
+## Apply the template via the panel settings
 
 ![Apply custom sessions template in panel settings](<../.gitbook/assets/image1 (1).png>)
 
@@ -93,3 +105,8 @@ To assign previously created templates to some symbol, you need to call the Sess
 
 ![Select different session templates in Quantower](<../.gitbook/assets/image (354).png>)
 
+## **How to show/hide ETH or RTH sessions on the chart?**
+
+Sometimes, you may want to display data on the chart only for **RTH (Regular Trading Hours)** or **ETH (Extended Trading Hours)** session and hide all data that falls outside the specified session time. To do this, open the chart settings, go to the View section, and **uncheck the "**<mark style="background-color:green;">**Show out of session history**</mark>**"** option. This way, you'll see only the data relevant to the selected session.
+
+<figure><img src="../.gitbook/assets/image (373).png" alt=""><figcaption><p>Uncheck the <strong>"Show out of session history"</strong> option to display RTH or ETH session</p></figcaption></figure>

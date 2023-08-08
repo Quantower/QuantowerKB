@@ -62,6 +62,8 @@ This error occurs when you were able to connect to your account, but at the mome
 
 Sometimes users may encounter an issue of not having a trading account. Even though the platform connection is successful and the market data subscription is active, trading operations are not possible.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
+
 Most likely, your account is not fully activated. We recommend reaching out to Topstep support to resolve this matter. They will be able to assist you and ensure your account is fully activated for trading.
 
 ***
@@ -110,8 +112,6 @@ To select a specific session on the chart, go to <mark style="background-color:b
 
 Sometimes, you may want to display data on the chart only for **RTH (Regular Trading Hours)** or **ETH (Extended Trading Hours)** session and hide all data that falls outside the specified session time. To do this, open the chart settings, go to the View section, and **uncheck the "**<mark style="background-color:green;">**Show out of session history**</mark>**"** option. This way, you'll see only the data relevant to the selected session.
 
-[_**Full sized screenshot you will find in our guide**_](https://help.quantower.com/quantower/miscellaneous-panels/sessions-manager#how-to-show-hide-eth-or-rth-sessions-on-the-chart)
-
 <img src="../.gitbook/assets/image (373).png" alt="Uncheck the &#x22;Show out of session history&#x22; option to display RTH or ETH session" data-size="original">
 
 </details>
@@ -159,5 +159,17 @@ Sometimes, you may want to display data on the chart only for **RTH (Regular Tra
 <summary>Is there a fee for copy trading?</summary>
 
 Topstep traders can enjoy free Copy Trading, which operates under a single login that includes multiple accounts.
+
+</details>
+
+<details>
+
+<summary>How to enable cluster chart?</summary>
+
+Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the "_**Magnifier**_" icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart.\
+\
+[_**More details you can find in this guide**_](https://help.quantower.com/quantower/analytics-panels/chart/volume-analysis-tools/cluster-chart)
+
+![](<../.gitbook/assets/image (1).png>)
 
 </details>

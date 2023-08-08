@@ -2,7 +2,7 @@
 
 * [**Possible issues with connection to Topstep account**](connection-to-topstep.md#possible-issues-with-connection-to-topstep-account-and-trading-issues)
 * [**What is included in Quantower for free?**](connection-to-topstep.md#included)
-* **Most popular trading questions**
+* [**Most popular trading questions**](connection-to-topstep.md#most-popular-trading-questions)
 
 ***
 

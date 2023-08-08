@@ -93,15 +93,26 @@ Most likely, your account is not fully activated. We recommend reaching out to T
 
 <summary>How to set custom trading sessions for particular symbols?</summary>
 
+To create and manage trading sessions, you'll need to use the [**Sessions Manager**](../miscellaneous-panels/sessions-manager.md). By default, the platform comes pre-configured with trading sessions for major instruments (ES, NQ, CL) and is active for CQG and Rithmic connections.
+
+To select a specific session on the chart, go to <mark style="background-color:blue;">**Chart settings -> View -> Sessions template**</mark>. From the dropdown list, choose the session you need.&#x20;
+
+[_**More details you can find in this guide.**_](https://help.quantower.com/quantower/miscellaneous-panels/sessions-manager#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic)
+
+<img src="../.gitbook/assets/image (377).png" alt="" data-size="original">\
 
 
 </details>
 
 <details>
 
-<summary>How to show/hide RTH or ETH dat aon the chart?</summary>
+<summary>How to show/hide RTH or ETH sessions on the chart?</summary>
 
+Sometimes, you may want to display data on the chart only for **RTH (Regular Trading Hours)** or **ETH (Extended Trading Hours)** session and hide all data that falls outside the specified session time. To do this, open the chart settings, go to the View section, and **uncheck the "**<mark style="background-color:green;">**Show out of session history**</mark>**"** option. This way, you'll see only the data relevant to the selected session.
 
+[_**Full sized screenshot you will find in our guide**_](https://help.quantower.com/quantower/miscellaneous-panels/sessions-manager#how-to-show-hide-eth-or-rth-sessions-on-the-chart)
+
+<img src="../.gitbook/assets/image (373).png" alt="Uncheck the &#x22;Show out of session history&#x22; option to display RTH or ETH session" data-size="original">
 
 </details>
 
@@ -117,7 +128,7 @@ Most likely, your account is not fully activated. We recommend reaching out to T
 
 <summary>How to place OCO orders?</summary>
 
-
+[https://www.youtube.com/watch?v=GrJBUYSxvHE](https://www.youtube.com/watch?v=GrJBUYSxvHE)
 
 </details>
 
@@ -133,7 +144,13 @@ Most likely, your account is not fully activated. We recommend reaching out to T
 
 <summary>Why I can not add more than 2 indicators?</summary>
 
+**Topstep accounts **<mark style="background-color:green;">**will be provided**</mark>** with the Premium Feature Bundle for free:**
 
+* [**DOM Surface**](../analytics-panels/dom-surface.md) (_requires Level2 data subscription_)
+* [**TPO Chart**](../analytics-panels/tpo-chart.md)
+* [**Volume Analysis Tools**](../analytics-panels/chart/volume-analysis-tools/)
+* **Charting** (Maximum 2 indicators per chart)
+* [**Copy Trading**](../trading-panels/copy-trading.md) (_works only under 1 login where a trader has multiple accounts_)
 
 </details>
 
@@ -141,6 +158,6 @@ Most likely, your account is not fully activated. We recommend reaching out to T
 
 <summary>Is there a fee for copy trading?</summary>
 
-
+Topstep traders can enjoy free Copy Trading, which operates under a single login that includes multiple accounts.
 
 </details>

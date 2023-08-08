@@ -11,17 +11,21 @@ To connect Quantower to a broker that uses Rithmic technology, it is sufficient 
 
 * [**Connection for Existed Accounts**](connection-to-rithmic.md#connection-for-existed-accounts)
 * [**Connection for New Accounts**](connection-to-rithmic.md#connection-for-new-accounts)
+* [**Connection via RTrader Plugin Mode**](connection-to-rithmic.md#connection-via-rtrader-plugin-mode)
 * [**How to activate Market by Order (MBO) data**](connection-to-rithmic.md#how-to-activate-market-by-order-mbo-data)
-* [**Problems during the connection to Rithmic**](connection-to-rithmic.md#problems-during-the-connection-to-rithmic)
+* [**Problems during the connection to Rithmic**](connection-to-rithmic.md#problems-during-the-connection-to-rithmic)\
+  &#x20;<mark style="color:blue;">**-**</mark> [_**Market Data Connection Closed (Broken)**_](connection-to-rithmic.md#market-data-connection-closed-broken)\
+  &#x20;<mark style="color:blue;">**-**</mark> [_**No Level2 data for some symbols**_](connection-to-rithmic.md#no-level2-data-for-some-symbols)\
+  &#x20;<mark style="color:blue;">**-**</mark> [_**ERROR: Only Admins Can Place Trades**_](connection-to-rithmic.md#error-only-admins-can-place-trades)
 
-### Connection for Existed Accounts
+## Connection for Existed Accounts
 
 * [**Download and install R Trader Pro**](http://yyy3.rithmic.com/?page\_id=16) from Rithmic official website.
-* Open connection manager, select **Rithmic** and specify the type of connection (**Demo / Real**).&#x20;
-* Click on **Connection Settings** and **activate Use RTrader** option to avoid additonal fees for subscription to market data. If necessary, trader can change the server. By default, the Rithmic Paper Chicago server is set for demo accounts and the Rithmic Aurora Chicago server is set for real accounts.
+* Open the connection manager, select **Rithmic** and enter your credentials. Make sure that you've selected the correct server. By default, the Rithmic Paper Chicago server is set for demo accounts and the Rithmic Aurora Chicago server is set for real accounts.
+* _<mark style="background-color:orange;">**{Optionaly}**</mark>_ Click on **Connection Settings** and **activate Use RTrader** option to avoid additional fees for subscription to market data. Below, you can find more information on [how to connect and trade with an account via **Plugin Mode**](connection-to-rithmic.md#connection-via-plugin-mode).
 * Enter your login and password and click **Connect.**
 
-![Enter login data for connection to Rithmic](../.gitbook/assets/rithmic-connection.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Enter login data for connection to Rithmic</p></figcaption></figure>
 
 {% hint style="info" %}
 Starting from May 1, the [CME exchange сhanged the rules for determining a professional market participant](http://yyy3.rithmic.com/?p=1069), and as a result, increased the fee for the market data. In order to correctly define the professional participant, Ritmic has changed the connection parameters in their platform, as well as in API for platforms such as Quantower.
@@ -29,9 +33,13 @@ Starting from May 1, the [CME exchange сhanged the rules for determining a prof
 To avoid additional fees for subscription to market data, a trader needs to login through the R Trader Pro platform and activate the setting in Quantower, which is called **Use RTrader**.
 {% endhint %}
 
-![Activate Use RTrader option to avoid additonal fees for subscription to market data](../.gitbook/assets/rithmic-plugin.gif)
+<div data-full-width="false">
 
-### Creating a New Accounts and further connection
+<figure><img src="../.gitbook/assets/Rithmic plugin mode.gif" alt=""><figcaption><p>Activate Use RTrader option to avoid additonal fees for subscription to market data</p></figcaption></figure>
+
+</div>
+
+## Creating a New Accounts and further connection
 
 * [**Create a new demo**](https://rithmic.com/demo.html#sign-up) or open a real account with any broker supporting Rithmic technology, accept agreements, and start using our platform.
 
@@ -40,13 +48,31 @@ To avoid additional fees for subscription to market data, a trader needs to logi
 * To register [**Rithmic Demo**](https://rithmic.com/demo.html#sign-up) go to their official website or follow this [link](https://rithmic.com/demo.html#sign-up)
 * Fill in all the required fields
 * Accept _**"Market Data Subscription Agreement"**_ and _"**Market Data Self-Certification"**_
-* Account will be activated within 30-60 minutes.
+* The account will be activated within 30-60 minutes.
+
+## Connection via RTrader Plugin Mode
+
+Please keep in mind that connecting to Rithmic using the plugin mode requires the following steps:
+
+* RtraderPro platform must be installed and running on your computer.
+* RtraderPro platform must be enabled in the Plugin mode and use the same credentials and server as in Quantower.
+* Quantower must also be enabled in the Plugin mode and use the same Rithmic credentials and server.
+* The first step is to launch the RtraderPro platform with Plugin mode. Once you've successfully logged in there, you can then connect using the Quantower platform.
+* Make sure your firewall is not blocking the connection from Quantower to RtraderPro.
+
+Also, note that the Plugin Mode allows you to connect multiple different platforms simultaneously using the same Rithmic credentials.
+
+<figure><img src="../.gitbook/assets/Rithmic plugin mode (1).gif" alt=""><figcaption></figcaption></figure>
 
 ## **How to activate Market by Order (MBO) data**
 
 **Market by Order (MBO) data** shows the order size of an individual position inside the level2 data for a certain price. To activate the displaying of this data, open the Connection settings and tick on "**Enable 'Market by Order' (MBO) mode**".
 
-![Enable Market by Order MBO data for Rithmic in Quantower platform](<../.gitbook/assets/image (354) (1).png>)
+<div data-full-width="true">
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Enable Market by Order MBO data for Rithmic in Quantower platform</p></figcaption></figure>
+
+</div>
 
 After activation, you can see this data in the DOM Trader panel.&#x20;
 

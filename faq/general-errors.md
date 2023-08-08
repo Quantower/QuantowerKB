@@ -85,7 +85,7 @@ Sometimes, users face the problem of finding a company's stock by its exact tick
 
 The problem is related to the fact that the search for stocks is performed by the **description** (name) of the company, especially for tickers with a small number of symbols (1-2 letters).
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **How to replace the main Toolbar to another screen (monitor)?**
 

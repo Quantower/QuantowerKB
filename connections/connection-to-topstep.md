@@ -118,6 +118,18 @@ Sometimes, you may want to display data on the chart only for **RTH (Regular Tra
 
 <details>
 
+<summary>How to place trades on Micro futures (MES) from the major futures (ES)?</summary>
+
+Quantower allows traders to execute trades on micro futures from the chart of the main futures contract. For example, you can analyze the ES chart and place orders directly from it, but these orders will be automatically routed to the micro futures contract MES.
+
+To achieve this, we recommend using the [**Symbol Mapping**](../miscellaneous-panels/symbol-mapping-manager.md#how-to-create-a-mapping-between-two-symbols) panel. Setting up the mapping takes just a few clicks and is thoroughly explained in our documentation.
+
+What's even more exciting is that you can configure mapping not only within one connection (Rithmic or CQG) but also across different connections (like dxFeed + Interactive Brokers).
+
+</details>
+
+<details>
+
 <summary>Why Quantower does lost a connection to Rithmic after the Market closed?</summary>
 
 

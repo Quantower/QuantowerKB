@@ -124,6 +124,8 @@ Quantower allows traders to execute trades on micro futures from the chart of th
 
 To achieve this, we recommend using the [**Symbol Mapping**](../miscellaneous-panels/symbol-mapping-manager.md#how-to-create-a-mapping-between-two-symbols) panel. Setting up the mapping takes just a few clicks and is thoroughly explained in our documentation.
 
+[**How to create a mapping between Mini and Micro symbols (ES and MES) on the same connection (Rithmic or CQG only)**](../miscellaneous-panels/symbol-mapping-manager.md#how-to-create-a-mapping-between-mini-and-micro-symbols-es-and-mes-on-the-same-connection-rithmic-or)**.**
+
 What's even more exciting is that you can configure mapping not only within one connection (Rithmic or CQG) but also across different connections (like dxFeed + Interactive Brokers).
 
 </details>

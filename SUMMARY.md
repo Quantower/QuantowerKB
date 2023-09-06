@@ -118,6 +118,7 @@
         * [Delta Rotation](analytics-panels/chart/technical-indicators/volume/delta-rotation.md)
         * [Level2 indicator](analytics-panels/chart/technical-indicators/volume/level2-indicator.md)
         * [Abnormal Trades](analytics-panels/chart/technical-indicators/volume/abnormal-trades.md)
+        * [Volume Reversal](analytics-panels/chart/technical-indicators/volume/volume-reversal.md)
     * [Drawing tools](analytics-panels/chart/drawing-tools.md)
     * [Volume Analysis Tools | Volume Profiles | Footprint chart | VWAP](analytics-panels/chart/volume-analysis-tools/README.md)
       * [Cluster chart](analytics-panels/chart/volume-analysis-tools/cluster-chart.md)

@@ -113,6 +113,7 @@
         * [Average True Range](analytics-panels/chart/technical-indicators/volatility/average-true-range.md)
         * [Standard deviation](analytics-panels/chart/technical-indicators/volatility/standard-deviation.md)
       * [Volume](analytics-panels/chart/technical-indicators/volume/README.md)
+        * [COT High/Low](analytics-panels/chart/technical-indicators/volume/cot-high-low.md)
         * [Depth of Bid / Ask](analytics-panels/chart/technical-indicators/volume/depth-of-bid-ask.md)
         * [Delta Flow](analytics-panels/chart/technical-indicators/volume/delta-flow.md)
         * [Delta Rotation](analytics-panels/chart/technical-indicators/volume/delta-rotation.md)

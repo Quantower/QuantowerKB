@@ -14,49 +14,49 @@ In case of any problems with your Quantower Account or License purchase — plea
 
 To use any paid License, the trader needs to have an active [Quantower Account](quantower-account.md). If you don’t have one, you can create it during your License purchase process.
 
-{% embed url="https://www.youtube.com/watch?v=sQVm6Pikz1E" %}
-
 {% embed url="https://www.youtube.com/watch?v=a-mp3TIZEXc" %}
 
-## License types
+## All-in-one license
 
-We offer a user with a Free license, three packages as well as licenses for separate features.&#x20;
+We have two great options to suit your trading needs. Our completely **free version** gives you access to all the fundamental trading tools you need, while our **all-in-one license** provides you with all the advanced features you need to take your trading to the next level. Choose the option that suits you best, and start trading with confidence today!&#x20;
 
-![](../.gitbook/assets/pricing-page.png)
+![](../.gitbook/assets/Screenshot\_1.png)
 
-**Free license** is granted by default once you have created a Quantower Account. Also, it will be available all the time when you don’t have any active paid License. Using Free license you will get:
+Our **All-in-one license** is equipped with all the necessary tools for professional analysis and trading in various markets, including cryptocurrency, Forex, Futures, and Stocks brokers, among others.&#x20;
 
-* one active connection to any broker, data feed or exchange
-* 2 indicators per chart
-* 1 symbol overlay per chart
+* The package includes connectivity to all major exchanges, brokers, and data feeds, allowing you to access multiple vendors simultaneously.
+* [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools), including the Cluster chart, Volume Profile, Time Statistics, Time Histogram, and VWAP, enable you to analyze trading volumes effectively.
+* [**Advanced features**](https://www.quantower.com/advancedfeatures), such as Renko, Kagi, P\&F, and Heikin-Ashi chart types, Unlimited Overlays, Unlimited Indicators, Trading Simulator, Chart and Indicator Alerts, offer you even more trading flexibility.
+* [**DOM Surface**](https://www.quantower.com/blog/dom-surface-panel-for-deep-order-flow-analysis) panel provides full access to the market depth of your instrument, giving you an edge in executing trades.
+* [**Power Trades Scanner**](https://help.quantower.com/analytics-panels/chart/power-trades) that shows the execution of large orders in a short time. Please note that all accumulated by this panel data disappears after 3 minutes in the free version.
+* [**Options Trading**](https://www.quantower.com/options-trading-features) license activates Options Analytics panel. Currently it's available for free usage.
+* Moreover, with an active subscription, you'll automatically receive all new features as they become available.
 
-**Crypto Package** contains the necessary functionality for professional analysis and trading in the cryptocurrency market. For this package are available:&#x20;
+## Free usage
 
-* all connected crypto exchanges,&#x20;
-* simultaneous connection to several exchanges,&#x20;
-* [volume analysis tools](https://www.quantower.com/volumeanalysistools) — Cluster chart, Volume Profile, Time Statistics, Time Histogram, VWAP
-* [advanced features](https://www.quantower.com/advancedfeatures) — Renko, Kagi, P\&F and Heikin-Ashi chart types, Unlimited Overlays, Unlimited Indicators, Trading Simulator, Chart and Indicator Alerts
+### Just a Free version
 
-**Multi-Asset Package** includes all options that are available in the Crypto Package, plus gives access to Forex, Futures, Stock brokers and other data feeds.
+There are three ways of using the Quantower totally FREE. The easiest one is to download the application and start using it. In this case, you will get a limited version but still allow trading and data analysis. In general, limitations are:
 
-**All-in-One Package** includes all available features and connections. Also, all new features will be automatically added and available while your subscription is active.
+* Two indicators per chart
+* One symbol overlay per chart
+* one active connection to any broker, data feed, or exchange
 
-[**DOM Surface**](https://www.quantower.com/blog/dom-surface-panel-for-deep-order-flow-analysis) license activates full access to the DOM Surface panel. In the free version of the panel, all accumulated data disappears after 3 minutes.
+{% hint style="info" %}
+Refer to the detailed table to learn more about [comparing the licenses](license-comparison.md).
+{% endhint %}
 
-[**Power Trades Scanner**](https://help.quantower.com/analytics-panels/chart/power-trades) license activates the scanner that shows the execution of big amount of orders during the short time.
+### 7-day Trial period
 
-[**Volume Analysis**](https://www.quantower.com/volumeanalysistools) license activates all available volume tools:
+To access all the features of the All-in-one version of Quantower, you can take advantage of the 7-day trial period. To do this, you must [register for a free Quantower account](quantower-account.md) and log in via the application. Once you confirm your account via email, the trial period will be automatically granted.
 
-* Cluster chart
-* Volume profiles (Right & Left, Custom, Step profiles)
-* Time Histogram
-* Time Statistics
-* VWAP tool
-* Historical Time & Sales
+### Free version + one pro feature
 
-[**Advanced Features**](https://www.quantower.com/advancedfeatures) license includes non-standard chart types, simultanious connections, additional functionalities for working with symbol’s history, unlimited chart overlays, and trading simulation.
+If you want to purchase specific pro features instead of paying for the entire package, you can download and register for a Quantower account. Afterward, you can select and purchase the desired feature by clicking on the "Buy pro-features apart" link on the pricing page. This way, you can use the free version of Quantower along with the particular pro feature you require.
 
-[**Options Trading**](https://www.quantower.com/options-trading-features) license activates Options Analytics panel. Currently it's available for free usage.
+
+
+<figure><img src="../.gitbook/assets/Screenshot_2.png" alt=""><figcaption><p>The way to customize your pro-features set for Quantower</p></figcaption></figure>
 
 ## License purchase
 
@@ -78,7 +78,7 @@ After that, you will be redirected to the provider’s payment page. Once you co
 
 ## License terms
 
-Currently, all licenses can be purchased for a 1-month term minimum. You can also get any Quantower paid License for the LIFETIME period — [contact our support](https://www.quantower.com/contact-us) for this.
+At the moment, you have the option to buy a license for a minimum of one month or a lifetime.
 
 ![Status of your licenses in Account dashboard](../.gitbook/assets/account-dashboard-quantower.png)
 

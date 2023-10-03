@@ -10,7 +10,7 @@ In order to begin debugging, it is necessary to have both a running Quantower te
 
 <div data-full-width="false">
 
-<figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption><p>Quantower Algo settings in Studio (left) and Algo settings in Quantower terminal (right)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_1 (2).png" alt=""><figcaption><p>Quantower Algo settings in Studio (left) and Algo settings in Quantower terminal (right)</p></figcaption></figure>
 
 </div>
 
@@ -24,7 +24,7 @@ Enabling this option might trigger a firewall or antivirus warning, which you sh
 
 1. &#x20;Press the <mark style="background-color:yellow;">Debug mode launch button</mark> and wait for Visual Studio to establish the debugging environment. One of the critical elements of this environment is a specialized console process (black background application) that connects your code editor and Quantower terminal.
 
-<figure><img src="../.gitbook/assets/Screenshot_2.png" alt=""><figcaption><p>Debug mode launch button</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_2 (2).png" alt=""><figcaption><p>Debug mode launch button</p></figcaption></figure>
 
 {% hint style="info" %}
 In case you haven't opened the Backtest & Optimize panel yet, Quantower will remind you to do so and select your strategy.&#x20;

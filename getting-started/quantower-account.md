@@ -29,9 +29,9 @@ There are two ways to get yourself an Account:&#x20;
 
 In both ways you will get to Account log in form.&#x20;
 
-| <mark style="color:orange;">**If you don’t have an account**</mark> | <mark style="color:green;">**Already have an Account**</mark> |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Press the **GET STARTED** link in the footer.                       | Enter your credentials and press **SIGN ME IN**               |
+| If you don’t have an account                  | Already have an Account                          |
+| --------------------------------------------- | ------------------------------------------------ |
+| Press the **GET STARTED** link in the footer. |  Enter your credentials and press **SIGN ME IN** |
 
 {% hint style="warning" %}
 After you submit the Registration form, you will get a verification email on the address, you have specified. You should follow the link from that email to complete the Registration process.

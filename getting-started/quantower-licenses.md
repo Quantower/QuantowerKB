@@ -78,7 +78,7 @@ After that, you will be redirected to the provider’s payment page. Once you co
 
 ## License terms
 
-At the moment, you have the option to buy a license for a minimum of one month or a lifetime.
+Currently, all licenses can be purchased for a 1-month term minimum. You can also get any Quantower paid License for the LIFETIME period — [contact our support](https://www.quantower.com/contact-us) for this.
 
 ![Status of your licenses in Account dashboard](../.gitbook/assets/account-dashboard-quantower.png)
 

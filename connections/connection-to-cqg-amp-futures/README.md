@@ -134,7 +134,7 @@ Trading hours for RTH / ETH sessions of CME Indexes (ES, NQ, RTY etc.) you can f
 
 ### **How to enable continuous futures on CQG?**
 
-CQG provides access to continuous futures data. To activate this data, go to the connection settings and turn on "**Request continuation history**".
+CQG provides access to continuous futures data ONLY for LIVE ACCOUNTS. To activate this data, go to the connection settings and turn on "**Request continuation history**".
 
 {% hint style="info" %}
 Note that CQG has data limitations for continuous futures:

@@ -103,6 +103,7 @@
         * [Momentum](analytics-panels/chart/technical-indicators/oscillators/momentum.md)
         * [Rate of Change](analytics-panels/chart/technical-indicators/oscillators/rate-of-change.md)
         * [Relative Strength Index (RSI) Indicator](analytics-panels/chart/technical-indicators/oscillators/relative-strength-index-rsi-indicator.md)
+        * [Relative Spread Strength (RSS)](analytics-panels/chart/technical-indicators/oscillators/relative-spread-strength-rss.md)
         * [Balance of Power (BOP)](analytics-panels/chart/technical-indicators/oscillators/balance-of-power-bop.md)
         * [Commodity Channel Index](analytics-panels/chart/technical-indicators/oscillators/commodity-channel-index.md)
       * [Trend](analytics-panels/chart/technical-indicators/trend/README.md)

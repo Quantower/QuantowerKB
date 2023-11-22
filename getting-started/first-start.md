@@ -17,7 +17,7 @@ During the first start of Quantower terminal you will get several elements of th
 
 ![Default Workspace with merged panels in Bind](../.gitbook/assets/default-workspace.png)
 
-From this point, you can start using Quantower. Customize the workspace, open new panels. For sending trading orders you need to switch to other trading connections like [**CQG**](../connections/connection-to-cqg-amp-futures/)**,** [**Rithmic**](../connections/connection-to-rithmic.md)**,** [**cTrader**](../connections/connection-to-ctrader/)**,** [**Interactive Brokers**](../connections/connect-quantower-to-interactive-broker/).&#x20;
+From this point, you can start using Quantower. Customize the workspace, open new panels. For sending trading orders you need to switch to other trading connections like [**CQG**](../connections/connection-to-cqg-amp-futures/)**,** [**Rithmic**](../connections/connection-to-rithmic/)**,** [**cTrader**](../connections/connection-to-ctrader/)**,** [**Interactive Brokers**](../connections/connect-quantower-to-interactive-broker/).&#x20;
 
 ## Quantower Free version
 

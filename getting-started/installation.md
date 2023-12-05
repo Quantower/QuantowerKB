@@ -26,10 +26,10 @@ With this approach, you can save the Quantower on a removable drive and use it a
 
 {% hint style="info" %}
 * Windows 10, 11
-* [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+* [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 * Available disk space — 1 GB (depends on the volume of loaded history)
-* **The hardware requirements for Quantower depends upon what you are doing with it.** Most desktop systems can run Quantower without any difficulty.&#x20;
-* The following hardware specifications, are very much recommended for a fast system: 16 GB RAM, minimum of 4-core CPU, and an SSD (solid-state drive).
+* **The hardware requirements for Quantower depend upon what you are doing with it.** Most desktop systems can run Quantower without any difficulty.&#x20;
+* The following hardware specifications are very much recommended for a fast system: 16 GB RAM, a minimum of 4-core CPU, and an SSD (solid-state drive).
 {% endhint %}
 
 {% hint style="warning" %}
@@ -43,8 +43,8 @@ We recommend using Windows 10 or 11.
 ![Quantower installer screen](../.gitbook/assets/extract-files-quantower.png)
 
 1. [**Download the app installer**](https://updates.quantower.com/Quantower/x64/latest/Quantower.exe) and launch the _**Quantower.exe**_ file
-2. Select the folder to extract application files
-3. Once an extraction process being finished the platform will start automatically with **Binance connection** in Info Mode and with the default workspace
+2. Select the folder to extract application files (preferably the Downloads folder or a secondary drive, not the System drive). If you install the platform on the C: system drive, some features may not work correctly due to administrative rules and restrictions.
+3. Once an extraction process is finished the platform will start automatically with **Binance connection** in Info Mode and with the default workspace
 
 {% hint style="warning" %}
 Please note, that you may need to allow an in-going and outgoing connection for _**Starter.exe**_ file (the main executable of Quantower terminal) in your Firewall settings

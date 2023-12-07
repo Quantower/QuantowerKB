@@ -9,7 +9,7 @@
   * [Quantower Beta](getting-started/quantower-beta.md)
   * [Quantower Account](getting-started/quantower-account.md)
   * [Quantower Licenses](getting-started/quantower-licenses.md)
-  * [License Comparison](getting-started/license-comparison.md)
+  * [🔑 License Comparison](getting-started/license-comparison.md)
   * [Backup & restore manager](getting-started/backup-and-restore-manager.md)
   * [Reset settings to default](getting-started/reset-settings-to-default.md)
   * [Payment FAQ](getting-started/payment-faq.md)

@@ -10,7 +10,7 @@ description: System requirements and 3 simple steps to successfully install the 
 
 ***
 
-After downloading the Quantower application from the official website, you can begin the installation process. It's important to understand the differences between the Quantower "installation process" and the default Windows® install process that most users are familiar with.
+After downloading the [**Quantower platform**](https://www.quantower.com/download) from the official website, you can begin the installation process. It's important to understand the differences between the Quantower "installation process" and the default Windows® install process that most users are familiar with.
 
 {% embed url="https://youtu.be/155Ha6Rku0E" %}
 

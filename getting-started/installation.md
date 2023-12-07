@@ -43,17 +43,39 @@ We recommend using Windows 10 or 11.
 ![Quantower installer screen](../.gitbook/assets/extract-files-quantower.png)
 
 1. [**Download the app installer**](https://updates.quantower.com/Quantower/x64/latest/Quantower.exe) and launch the _**Quantower.exe**_ file
-2. Select the folder to extract application files (preferably the Downloads folder or a secondary drive, not the System drive). If you install the platform on the C: system drive, some features may not work correctly due to administrative rules and restrictions.
-3. Once an extraction process is finished the platform will start automatically with **Binance connection** in Info Mode and with the default workspace
+2. Select the folder to extract application files (preferably the Downloads folder or a secondary drive, not the System drive). Some features may not work correctly if you install the platform on the C: system drive due to administrative rules and restrictions.
+3. Once an extraction process is finished the platform will start automatically. A window will appear where you can choose which connection to enable by default with the default [**workspace**](../general-settings/workspaces-binds-groups.md).
 
-{% hint style="warning" %}
-Please note, that you may need to allow an in-going and outgoing connection for _**Starter.exe**_ file (the main executable of Quantower terminal) in your Firewall settings
+***
+
+<mark style="background-color:blue;">**DxFeed Simulated**</mark> provides market data for a limited number of symbols with a 24-hour data delay. This type of connection is intended solely for getting acquainted with the platform's functionality.
+
+{% hint style="info" %}
+To receive **real-time data** or access a larger number of symbols from the DxFeed provider, it is necessary to [**subscribe to their paid service**](https://get.dxfeed.com/orders/new/quantower) on their official website.
 {% endhint %}
 
-![](../.gitbook/assets/default-workspace.png)
+If you choose <mark style="background-color:blue;">**Binance**</mark>, the platform will connect in **Info mode** without the ability to execute trades. This connection type is meant for exploring the platform's features or for viewing and analyzing real-time cryptocurrency charts.
+
+{% hint style="info" %}
+To execute trading operations on the Binance exchange, you need to switch to Trading mode and paste your API keys. Learn more about [**how to connect to the Binance exchange**](../connections/connection-to-binance-futures/).
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (386).png" alt=""><figcaption></figcaption></figure>
+
+Within a minute, a window will appear with the platform's terms of use, which you should review and accept for further platform usage.
+
+<figure><img src="../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Please note, that you may need to allow an in-going and outgoing connection for _**Starter.exe**_ file (the main executable of Quantower platform) in your Firewall settings
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (388).png" alt=""><figcaption><p>Default workspace with DxFeed Simulated data</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (389).png" alt=""><figcaption><p>Default workspace with Binance Spot connection</p></figcaption></figure>
 
 ### Uninstalling
 
-If you need to uninstall the application, just _**delete the folder with all application files**_. You may also keep your personal settings (connection information & workspaces) by copying the Settings folder (can be found right in Quantower folder) before application delete. These Settings folder can be pasted to any other Quantower folder later.
+If you need to uninstall the application, simply _**delete the folder containing all application files**_. You can also keep your personal settings (connection information & workspaces) by copying the "Settings" folder (located directly in the Quantower folder) before deleting the application. Later, you can paste this "Settings" folder into any other Quantower folder.
 
 You may also refer to [**Backup & Restore manager**](backup-and-restore-manager.md) to backup your settings in one file and restore them later.

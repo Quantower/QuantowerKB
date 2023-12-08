@@ -4,20 +4,21 @@
 * [**Error 'Application is already running'**](general-errors.md#error-application-is-already-running)
 * [**An error occurred during platform initialization: Exception has been thrown by the target of an invocation**](general-errors.md#an-error-occurred-during-platform-initialization-exception-has-been-thrown-by-the-target-of-an-invoc)
 * [**An error occurred during platform initialization: Fail to load DLL signatures**](general-errors.md#an-error-occurred-during-platform-initialization-fail-to-load-dll-signatures)
-* **Trendlines are moving on tick charts. How to resolve it?**
+* [**Trendlines are moving on tick charts. How to resolve it?**](general-errors.md#trendlines-are-moving-on-tick-charts.-how-to-resolve-it)
 * [**Incorrect view of icons inside the application (for Mac via Parallels)**](general-errors.md#incorrect-view-of-icons-inside-the-application-for-mac-via-parallels)
 * [**Сan not find a stock ticker with the dxfeed data provider (F, SO, META etc)**](general-errors.md#san-not-find-a-stock-ticker-with-the-dxfeed-data-provider-f-so-meta-etc)
 * [**How to replace the main Toolbar to another screen (monitor)?**](general-errors.md#how-to-replace-the-main-toolbar-to-another-screen-monitor)
+* [**Data latency (xxx ms) on Chart, DOM Trader**](general-errors.md#data-latency-xxx-ms-on-chart-dom-trader)
 
 ## How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?
 
 ![](<../.gitbook/assets/image (164).png>)
 
-The easiest method is starting troubleshooting with simply **disabling Game Bar**. This could be helpful to remove the key combination and use it for other purposes.&#x20;Now, you can take these steps:
+The easiest method is to start troubleshooting by simply **disabling Game Bar**. This could be helpful to remove the key combination and use it for other purposes.&#x20;Now, you can take these steps:
 
 * Press the **Win + I** combination key to open Windows Settings
 * Go to **Gaming > Gaming bar**.
-* Switch the toggle of **Xbox Game Bar for things like recording game clips, screenshots, and broadcast using Game bar** to **Off**. Next, press **Win + G** to see if the error is solved.
+* Switch the toggle of **Xbox Game Bar for things like recording game clips, screenshots, and broadcasts using the Game Bar** to **Off**. Next, press **Win + G** to see if the error is solved.
 
 ![](<../.gitbook/assets/image (165).png>)
 
@@ -35,13 +36,13 @@ More details you can find here [https://www.minitool.com/news/ms-gaming-overlay-
 
 ## An error occurred during platform initialization: Exception has been thrown by the target of an invocation
 
-This error occurs due to the removal of the file by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform.&#x20;
+This error occurs due to the <mark style="color:red;">**removal of the file**</mark> by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform.&#x20;
 
 ![](<../.gitbook/assets/image (196).png>)
 
-Our developers informed Avast and AVG companies that the file CefSharp.BrowserSubprocess.exe is a part of the CefSharp library — HTML5, JavaScript and PDF supported Web browser based on Chromium Embedded Framework. It allows using web browsing services in applications to create the user interface. We use this library in our platform as well. More information about it you can read here [https://cefsharp.github.io](https://cefsharp.github.io)
+Our developers informed Avast and AVG companies that the file CefSharp.BrowserSubprocess.exe is a part of the CefSharp library — HTML5, JavaScript and PDF supported Web browser based on Chromium Embedded Framework. It allows using web browsing services in applications to create the user interface. We use this library in our platform as well. More information about it can be read here [https://cefsharp.github.io](https://cefsharp.github.io)
 
-We don't know a reason why antivirus sometimes recognizes this file as suspicious, but if you search in google, you can see that there are already many reports from users about the same problem: [https://www.google.com/search?q=cefsharp.browsersubprocess.exe+antivirus](https://www.google.com/search?q=cefsharp.browsersubprocess.exe+antivirus) In general case antivirus developers recommend reporting a problem as false positive.
+We don't know a reason why antivirus sometimes recognizes this file as suspicious, but if you search in Google, you can see that there are already many reports from users about the same problem: [https://www.google.com/search?q=cefsharp.browsersubprocess.exe+antivirus](https://www.google.com/search?q=cefsharp.browsersubprocess.exe+antivirus) In general case antivirus developers recommend reporting a problem as false positive.
 
 To be 100% sure, that this file is not dangerous, you can check it manually using different web services like [https://www.virustotal.com](https://www.virustotal.com) They will display your results received from different antiviruses.
 
@@ -49,7 +50,7 @@ To be 100% sure, that this file is not dangerous, you can check it manually usin
 
 As a solution, we recommend you remove Avast or AVG antiviruses (completely) and reinstall the platform.
 
-Some times Kaspersky delete our files.&#x20;
+Sometimes Kaspersky deletes our files.&#x20;
 
 ![](<../.gitbook/assets/image (223).png>)
 
@@ -67,7 +68,13 @@ This error can occur for several reasons:
 
 ## Trendlines are moving on tick charts. How to resolve it?
 
+Currently, there is an issue with the independent movement of drawings (trendlines, rectangles, etc.) on non-time-based chart types such as Tick, Range bars, Volume bars, and Renko.
 
+To prevent changes in drawings, we recommend placing the endpoint of the drawing before the current (forming) bar. Additionally, we suggest enabling the '**Right Ray'** option in the settings of the respective drawing.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Incorrect view of icons inside the application (for Mac via Parallels)**
 
@@ -79,13 +86,13 @@ This situation occurs when using the Parallels emulator for Mac. To solve this p
 
 > **Isolate Windows from Mac** to exclude Mac OS X influence. (**Virtual Machine > Configure… > Options > Security** > check on **Isolate Mac from Windows**)
 
-## **Сan not find a stock ticker with the dxfeed data provider (F, SO, META etc)**
+## **Сan not find a stock ticker with the DxFeed data provider (F, SO, META etc)**
 
-Sometimes, users face the problem of finding a company's stock by its exact ticker on a dxfeed data provider. For example, users can not find F (Ford company), META (ex-Facebook) etc.
+Sometimes, users face the problem of finding a company's stock by its exact ticker on a DxFeed data provider. For example, users can not find F (Ford company), META (ex-Facebook) etc.
 
 The problem is related to the fact that the search for stocks is performed by the **description** (name) of the company, especially for tickers with a small number of symbols (1-2 letters).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **How to replace the main Toolbar to another screen (monitor)?**
 
@@ -101,10 +108,10 @@ There are two ways to move the main toolbar to another monitor:
 
 ## Data latency (xxx  ms) on Chart, DOM Trader
 
-This message appears when there's a delay in data within a specific time interval. The cause may stem from a slow Internet connection or issues on the data provider's end.
+This message appears when there's a delay in data within a specific time interval. The cause may stem from a <mark style="color:red;">**slow Internet connection**</mark> or <mark style="color:red;">**issues on the data provider's end**</mark>.
 
 Whether the data delay occurs on a Rithmic server, CQG, or during transmission to the client, we make efforts to identify instances where server-side timestamps start to lag.
 
 Additionally, you have the option to mitigate data load by closing panels, disabling volume tools, or closing unnecessary tabs in your browser (if it's active while using the platform).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

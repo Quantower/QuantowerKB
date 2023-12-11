@@ -1,2 +1,2 @@
-# Information Panels
+# 📊 Information Panels
 

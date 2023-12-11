@@ -176,6 +176,7 @@
   * [RSS (News panel)](informational-panels/rss.md)
   * [Reports](informational-panels/reports.md)
 * [📌 Miscellaneous](miscellaneous-panels/README.md)
+  * [Futures Rollover](miscellaneous-panels/futures-rollover.md)
   * [History Exporter](miscellaneous-panels/history-exporter.md)
   * [Symbol Mapping Manager](miscellaneous-panels/symbol-mapping-manager.md)
   * [Sessions manager](miscellaneous-panels/sessions-manager.md)

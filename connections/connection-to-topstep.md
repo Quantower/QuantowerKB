@@ -62,7 +62,7 @@ This error occurs when you were able to connect to your account, but at the mome
 
 Sometimes users may encounter an issue of not having a trading account. Even though the platform connection is successful and the market data subscription is active, trading operations are not possible.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
 
 Most likely, your account is not fully activated. We recommend reaching out to Topstep support to resolve this matter. They will be able to assist you and ensure your account is fully activated for trading.
 
@@ -184,6 +184,6 @@ Before activating a cluster chart, you need to enable the Volume Analysis Toolba
 \
 [_**More details you can find in this guide**_](https://help.quantower.com/quantower/analytics-panels/chart/volume-analysis-tools/cluster-chart)
 
-<img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="original">
 
 </details>

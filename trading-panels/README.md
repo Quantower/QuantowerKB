@@ -1,2 +1,2 @@
-# Trading Panels
+# 💵 Trading Panels
 

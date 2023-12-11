@@ -4,5 +4,5 @@ description: >-
   user. Switch between different interface languages, themes and styles.
 ---
 
-# Customization
+# 💫 Customization
 

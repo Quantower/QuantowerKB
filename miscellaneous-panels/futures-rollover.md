@@ -7,6 +7,10 @@ We offer two ways to roll over to the next futures contract (in case to keep you
 1. Through the **chart panel's context menu**.
 2. Via the **Futures Rollover** panel.
 
+## How to roll to the next contract via chart
+
+To roll over a futures contract via the chart's context menu, simply <mark style="color:green;">**right-click on the chart**</mark>, select the nearest (or desired) contract under the Rollover submenu, and choose how to adjust your drawings. The platform will automatically switch to the new contract and preserve the position of your drawings relative to their placement on the previous contract.
+
 <figure><img src="../.gitbook/assets/rollover futures via chart.gif" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

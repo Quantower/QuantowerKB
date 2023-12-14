@@ -13,6 +13,8 @@ To roll over a futures contract via the chart's context menu, simply <mark style
 
 <figure><img src="../.gitbook/assets/rollover futures via chart.gif" alt=""><figcaption></figcaption></figure>
 
+## How to roll to the next futures contract using the Futures Rollover panel
+
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -19,14 +19,18 @@ To roll over a futures contract via the chart's context menu, simply <mark style
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Here, select the connection for contract rollover, like a specific one (e.g., Rithmic) or for All active connections.
+2. Here, select the **Connection** for contract rollover, like a specific one (e.g., Rithmic) or for All active connections.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-3. Choose a Rollover method:
+3. Choose a **Rollover method**:
    * '**By Volume**': This method rolls over when the daily volume of the upcoming contract surpasses the current one.
    * '**Expired**': Identifies and rolls expired contracts to the current front contract.
    * '**Expiring Soon**': Rolls the current contract to the next if its expiration is within the specified days.
 
 <figure><img src="../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
 
+4. **Chart Drawing Adjustment** option allows you to modify the positioning of chart drawings concerning futures contract changes:
+   * '**None**': Keeps drawings at the same price levels as the expired futures contract, without any adjustment.
+   * '**By last price**': Adjusts drawings based on the price difference between the current and previous contracts.
+   * '**By custom value**': Modifies drawing positions using a specified value to align with new pricing.

@@ -40,7 +40,7 @@ Also in the settings, there are two important settings:
 3. For the RTD function to work correctly, you need to **download and extract** the '<mark style="background-color:orange;">**tradingplatform.rtdserver.zip**</mark>' archive as an administrator. You can find the file at [https://updates.quantower.com/misc/RTD/tradingplatform.rtdserver.zip](https://updates.quantower.com/misc/RTD/tradingplatform.rtdserver.zip).
 
 {% hint style="warning" %}
-**Important!** The archive must be extracted to the root folder of the platform and should not be deleted, as a reference to it is established.
+**Important!** The archive must be extracted to any convenient location on your PC and should not be deleted. All current and future updates of Quantower will use these files.
 {% endhint %}
 
 4. After unpacking the archive, run '<mark style="background-color:orange;">**register.cmd**</mark>' as an administrator. It's important to ensure that Excel is closed during this process!

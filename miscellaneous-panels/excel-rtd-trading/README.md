@@ -38,6 +38,11 @@ Also in the settings, there are two important settings:
 * **Custom argument separator** — the separator that participates in the formula. It depends on the localization of your operating system. Get to know [how to check argument separator in your system](./#how-to-check-argument-separator).
 
 3. For the RTD function to work correctly, you need to **download and extract** the '<mark style="background-color:orange;">**tradingplatform.rtdserver.zip**</mark>' archive as an administrator. You can find the file at [https://updates.quantower.com/misc/RTD/tradingplatform.rtdserver.zip](https://updates.quantower.com/misc/RTD/tradingplatform.rtdserver.zip).
+
+{% hint style="warning" %}
+**Important!** The archive must be extracted to the root folder of the platform and should not be deleted, as a reference to it is established.
+{% endhint %}
+
 4. After unpacking the archive, run '<mark style="background-color:orange;">**register.cmd**</mark>' as an administrator. It's important to ensure that Excel is closed during this process!
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Run the "register.cmd' file as an administrator</p></figcaption></figure>

@@ -1,16 +1,14 @@
 ---
-description: How to export Real-Time data to Exel
+description: How to export Real-Time data to Excel
 ---
 
 # Excel and RTD function
 
-Start from version 1.39 Quantower supports **Real-Time Data (RTD)** for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to better manage your workflow.&#x20;
-
-
+Starting from version 1.39 Quantower supports **Real-Time Data (RTD)** for sending data and other market information to Microsoft Excel®. This feature opens up many opportunities for creating custom displays and other ways to manage your workflow better.&#x20;
 
 RTD is a newer protocol that offers several advantages over DDE, including more flexibility and better performance and reliability.
 
-We prepared the spreadsheet that outlines the basic syntax of RTD formulas with details more complex formulas. Included is a collection of popular RTD formulas, which you can simply copy and paste into your own spreadsheet. [**Download the sample file**](https://updates.quantower.com/misc/RTD/rtd\_samples.xlsx)**.**
+We prepared the spreadsheet that outlines the basic syntax of RTD formulas with details of more complex formulas. A collection of popular RTD formulas is included, which you can copy and paste into your spreadsheet. [**Download the sample file**](https://updates.quantower.com/misc/RTD/rtd\_samples.xlsx)**.**
 
 Here is the General Syntax for getting symbol info via RTD function:
 
@@ -18,24 +16,35 @@ Here is the General Syntax for getting symbol info via RTD function:
 
 {% embed url="https://www.youtube.com/watch?v=k1pbtSadX8I" %}
 
-## **How to activate RTD function in Quantower platform**
+***
+
+## **How to activate the RTD function in Quantower platform**
 
 {% hint style="warning" %}
-For the function to work properly, **Quantower platform and Excel must have the same version — 64 or 32 bit**
+For the function to work properly, **Quantower platform and Excel must have the same version — 64-bit or 32-bit**
 {% endhint %}
 
-Launch Excel and after open the Task Manager to check the version of Excel (32-bit or 64-bit). The platform should have the same version in order to work with RTD function correctly.
+1. Launch Excel and open the Task Manager to check the version of Excel (32-bit or 64-bit). The platform should have the same version to work with the RTD function correctly.
 
 ![](<../../.gitbook/assets/image (150).png>)
 
-Go to the [**General Settings**](../../general-settings/general-settings-1.md) of the platform, then to _section **Excel RTD**_ and tick off _**"Enable Microsoft Excel RTD"**_
+2. Go to the [**General Settings**](../../general-settings/general-settings-1.md) of the platform, then to the _<mark style="background-color:blue;">**Excel RTD**</mark>_ section, and tick off _**"Enable Microsoft Excel RTD"**_
 
-![Activation of RTD function in Quantower](../../.gitbook/assets/assets\_-ld6fsrvq3jgwjig6o7r\_-lme4wbmrbk0ai3rafld\_-lmeyazmdvqpbsftpr9b\_rtd.png)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Activation of RTD function in Quantower</p></figcaption></figure>
 
 Also in the settings, there are two important settings:
 
 * **Custom RTD formula name** — depending on the language of your operating system, the name of the RTD function in Excel may be called differently. The original name of the function in the English version of Excel is RTD, but for the Russian version it's called "ДРВ".
 * **Custom argument separator** — the separator that participates in the formula. It depends on the localization of your operating system. Get to know [how to check argument separator in your system](./#how-to-check-argument-separator).
+
+3. For the RTD function to work correctly, you need to **download and extract** the '<mark style="background-color:orange;">**tradingplatform.rtdserver.zip**</mark>' archive as an administrator. You can find the file at [https://updates.quantower.com/misc/RTD/tradingplatform.rtdserver.zip](https://updates.quantower.com/misc/RTD/tradingplatform.rtdserver.zip).
+4. After unpacking the archive, run '<mark style="background-color:orange;">**register.cmd**</mark>' as an administrator. It's important to ensure that Excel is closed during this process!
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Run the "register.cmd' file as an administrator</p></figcaption></figure>
+
+5. Once you've completed the previous steps, you can launch Excel and begin using the RTD function with Quantower.
+
+***
 
 ## How to get the instrument data from Quantower?
 
@@ -221,9 +230,9 @@ _**Options**_
 
 ![](https://gblobscdn.gitbook.com/assets%2F-M\_\_G3zsA7jr\_pKwIdiz%2F-MdE86l5W8HjMUupdd2P%2F-MdE8AgutchiL75g8edf%2FGetHistory%20-%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%B4%D0%BB%D1%8F%20%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B0.png?alt=media\&token=e8008edd-a627-47b0-81c2-060c6963014f)
 
+***
 
-
-### **Frequently Asked Questions**
+## **Frequently Asked Questions**
 
 ### **How to check argument separator?**
 

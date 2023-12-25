@@ -22,7 +22,7 @@ By clicking on the "**Gear"** icon, you can customize the settings of the select
     &#x20;  **Custom mode** fixes both borders of the range for the VWAP calculation.\
 
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 * **Data type** — set the data for VWAP calculation: **Ticks** or **Current TF.**\
   &#x20;  **Ticks** will use tick data for VWAP calculation and will take much more time for loading\
   &#x20;  **Current TF** will use Bar data from the current selected Timeframe of your chart. It will use Price type data and multiply it by Bar Volume.\

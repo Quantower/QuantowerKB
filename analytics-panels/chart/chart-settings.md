@@ -70,7 +70,7 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 * **Time to next bar.** These are settings for displaying time to the next bar and changing its color.
 * **Additional.** It is used to enable/disable toolbars and misc data on a chart.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Data style
 
@@ -82,7 +82,7 @@ This tab controls the visual settings of the chart data. Here you can change the
 
 Use this tab to adjust the time scale. You can select the font size and color, as well as the background color for the timeline. You can also control the vertical period separators, such as Daily, Weekly, Monthly, and Yearly, and display them in different colors as desired.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Price Scale
 

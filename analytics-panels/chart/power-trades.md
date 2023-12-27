@@ -36,7 +36,7 @@ Additionally, it is worth to set a delta value to filter out the zones with one-
 
 The following settings are involved in the calculation of the indicator, and directly affect the results.
 
-<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Total Volume** — the minimum value of the volume that should be traded during the specified time interval
 * **Time Interval, sec** — the time over which the Total Volume should be traded

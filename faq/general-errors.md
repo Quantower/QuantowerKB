@@ -54,6 +54,18 @@ Sometimes Kaspersky deletes our files.&#x20;
 
 ![](<../.gitbook/assets/image (223).png>)
 
+## An error occurred during platform initialization: Object reference not set to an instance of an object
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Quantower error "Object reference not set to an instance of an object"</p></figcaption></figure>
+
+This error usually occurs when a user attempts to install the platform with a version not compatible with their PC's system type. For instance, installing a 64-bit version on a 32-bit system. It's important to check your PC's settings to determine the system type and download the corresponding version from the Quantower website.
+
+Here is how you can check the system type: [https://support.microsoft.com/en-us/windows/32-bit-and-64-bit-windows-frequently-asked-questions-c6ca9541-8dce-4d48-0415-94a3faa2e13d](https://support.microsoft.com/en-us/windows/32-bit-and-64-bit-windows-frequently-asked-questions-c6ca9541-8dce-4d48-0415-94a3faa2e13d)
+
+Once you have determined the type of your system, you can proceed to [**download the version**](https://www.quantower.com/download) that corresponds to it.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ## An error occurred during platform initialization: Fail to load dll signatures
 
 ![Quantower error "Fail to load dll signatures"](../.gitbook/assets/quantower-error.png)

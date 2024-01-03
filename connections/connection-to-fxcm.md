@@ -6,6 +6,10 @@ description: >-
 
 # Connection to FXCM
 
+{% hint style="info" %}
+This connection has been updated due to changes in the API and now operates starting with version 1.137.1.
+{% endhint %}
+
 To connect Quantower to FXCM broker, you need to have an active trading account (Demo or Real). Below we have described the step-by-step process of getting an account.
 
 ## How to create a new FXCM account for Quantower platform

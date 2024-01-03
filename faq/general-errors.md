@@ -123,7 +123,7 @@ There are two ways to move the main toolbar to another monitor:
 
 This message appears when there's a delay in data within a specific time interval. The cause may stem from a <mark style="color:red;">**slow Internet connection**</mark> or <mark style="color:red;">**issues on the data provider's end**</mark>.
 
-Whether the data delay occurs on a Rithmic server, CQG, or during transmission to the client, we make efforts to identify instances where server-side timestamps start to lag.
+Whether the data delay occurs on a Rithmic server, CQG, Binance, or during transmission to the client, we make efforts to identify instances where server-side timestamps start to lag.
 
 Additionally, you have the option to mitigate data load by closing panels, disabling volume tools, or closing unnecessary tabs in your browser (if it's active while using the platform).
 

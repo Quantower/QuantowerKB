@@ -3,6 +3,7 @@
 * [**How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?**](general-errors.md#how-to-fix-the-youll-need-a-new-app-to-open-this-ms-gaming-overlay-error-on-windows-10)
 * [**Error 'Application is already running'**](general-errors.md#error-application-is-already-running)
 * [**An error occurred during platform initialization: Exception has been thrown by the target of an invocation**](general-errors.md#an-error-occurred-during-platform-initialization-exception-has-been-thrown-by-the-target-of-an-invoc)
+* [**An error occurred during platform initialization: Object reference not set to an instance of an object**](general-errors.md#an-error-occurred-during-platform-initialization-object-reference-not-set-to-an-instance-of-an-objec)
 * [**An error occurred during platform initialization: Fail to load DLL signatures**](general-errors.md#an-error-occurred-during-platform-initialization-fail-to-load-dll-signatures)
 * [**Trendlines are moving on tick charts. How to resolve it?**](general-errors.md#trendlines-are-moving-on-tick-charts.-how-to-resolve-it)
 * [**Incorrect view of icons inside the application (for Mac via Parallels)**](general-errors.md#incorrect-view-of-icons-inside-the-application-for-mac-via-parallels)

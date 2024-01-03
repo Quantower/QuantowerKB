@@ -19,13 +19,14 @@ Copy trading panel allows you to fully duplicate trading activity between multip
 {% hint style="info" %}
 Before you start creating your first Copy-bot, please notice the following information:
 
-\- Copy-trading can work only if the Quantower terminal is launched.
+* Copy-trading can work only if the Quantower terminal is launched.
+* If the dependent connections (parent & child) are NOT ACTIVE, the Bot will copy orders for active connections only and ignore disconnected.
+* If Parent order parameters are different than a Child account can submit, you will get a notification about this and the possibility to manually copy the order by clicking the **Open OE button** next to this message in the logs section. The most common cause of such behavior is when the Child account has insufficient funds to copy the parent's order quantity.
+* The Copy trading panel currently supports the following connections only: **Rithmic, CQG, FTX, Binance, Binance Futures, Bitfinex, Bybit, BitMEX, and Interactive Brokers**
+{% endhint %}
 
-\- If the dependent connections (parent & child) are NOT ACTIVE, the Bot will copy orders for active connections only and ignore disconnected.
-
-\- If Parent order parameters are different than a Child account can submit, you will get a notification about this and the possibility to manually copy the order by clicking the **Open OE button** next to this message in the logs section. The most common cause of such behavior is when the Child account has insufficient funds to copy the parent's order quantity.
-
-\-The Copy trading panel currently supports the following connections only: **Rithmic, CQG, FTX, Binance, Binance Futures, Bitfinex, Bybit, BitMEX, and Interactive Brokers**
+{% hint style="warning" %}
+**If you use 5 or more trading accounts** in the copy bot, we recommend disabling the '<mark style="background-color:orange;">**Order Limitation**</mark>' option or increasing the order limit.
 {% endhint %}
 
 {% embed url="https://youtu.be/qIE2BxBvuJo" %}

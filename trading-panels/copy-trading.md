@@ -26,7 +26,7 @@ Before you start creating your first Copy-bot, please notice the following infor
 {% endhint %}
 
 {% hint style="warning" %}
-**If you use 5 or more trading accounts** in the copy bot, we recommend disabling the '<mark style="background-color:orange;">**Order Limitation**</mark>' option or increasing the order limit. You can read more information about this feature in [**this guide**](../general-settings/general-settings-1.md#trading-protection)**.**
+**If you use 5 or more trading accounts** in the copy bot, we recommend disabling the '<mark style="background-color:orange;">**Order Limitation**</mark>' option. You can read more information about this feature in [**this guide**](../general-settings/general-settings-1.md#trading-protection)**.**
 {% endhint %}
 
 {% embed url="https://youtu.be/qIE2BxBvuJo" %}

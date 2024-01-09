@@ -30,7 +30,7 @@ For the function to work properly, **Quantower platform and Excel must have the 
 
 2. Go to the [**General Settings**](../../general-settings/general-settings-1.md) of the platform, then to the _<mark style="background-color:blue;">**Excel RTD**</mark>_ section, and tick off _**"Enable Microsoft Excel RTD"**_
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption><p>Activation of RTD function in Quantower</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Activation of RTD function in Quantower</p></figcaption></figure>
 
 Also in the settings, there are two important settings:
 

@@ -10,6 +10,9 @@
 * [**Сan not find a stock ticker with the dxfeed data provider (F, SO, META etc)**](general-errors.md#san-not-find-a-stock-ticker-with-the-dxfeed-data-provider-f-so-meta-etc)
 * [**How to replace the main Toolbar to another screen (monitor)?**](general-errors.md#how-to-replace-the-main-toolbar-to-another-screen-monitor)
 * [**Data latency (xxx ms) on Chart, DOM Trader**](general-errors.md#data-latency-xxx-ms-on-chart-dom-trader)
+* [**After launching the platform, windows are not displaying or are completely darkened**](general-errors.md#after-launching-the-platform-windows-are-not-displaying-or-are-completely-darkened.)
+
+***
 
 ## How to Fix the ‘You’ll need a new app to open this ms-gaming overlay’ Error on Windows 10?
 
@@ -25,6 +28,8 @@ The easiest method is to start troubleshooting by simply **disabling Game Bar**.
 
 More details you can find here [https://www.minitool.com/news/ms-gaming-overlay-popup.html](https://www.minitool.com/news/ms-gaming-overlay-popup.html)
 
+***
+
 ## Error 'Application is already running'
 
 ![](<../.gitbook/assets/image (161).png>)
@@ -34,6 +39,8 @@ More details you can find here [https://www.minitool.com/news/ms-gaming-overlay-
   Find the process with the name **"Starter"**, select it and click on **End task**.
 
 ![](<../.gitbook/assets/image (163).png>)
+
+***
 
 ## An error occurred during platform initialization: Exception has been thrown by the target of an invocation
 
@@ -55,9 +62,11 @@ Sometimes Kaspersky deletes our files.&#x20;
 
 ![](<../.gitbook/assets/image (223).png>)
 
+***
+
 ## An error occurred during platform initialization: Object reference not set to an instance of an object
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Quantower error "Object reference not set to an instance of an object"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Quantower error "Object reference not set to an instance of an object"</p></figcaption></figure>
 
 This error usually occurs when a user attempts to install the platform with a version not compatible with their PC's system type. For instance, installing a 64-bit version on a 32-bit system. It's important to check your PC's settings to determine the system type and download the corresponding version from the Quantower website.
 
@@ -65,7 +74,9 @@ Here is how you can check the system type: [https://support.microsoft.com/en-us/
 
 Once you have determined the type of your system, you can proceed to [**download the version**](https://www.quantower.com/download) that corresponds to it.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## An error occurred during platform initialization: Fail to load dll signatures
 
@@ -79,6 +90,8 @@ This error can occur for several reasons:
 
 ![Full list of folders and files for Quantower](<../.gitbook/assets/image (216).png>)
 
+***
+
 ## Trendlines are moving on tick charts. How to resolve it?
 
 Currently, there is an issue with the independent movement of drawings (trendlines, rectangles, etc.) on non-time-based chart types such as Tick, Range bars, Volume bars, and Renko.
@@ -88,6 +101,8 @@ To prevent changes in drawings, we recommend placing the endpoint of the drawing
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## **Incorrect view of icons inside the application (for Mac via Parallels)**
 
@@ -99,6 +114,8 @@ This situation occurs when using the Parallels emulator for Mac. To solve this p
 
 > **Isolate Windows from Mac** to exclude Mac OS X influence. (**Virtual Machine > Configure… > Options > Security** > check on **Isolate Mac from Windows**)
 
+***
+
 ## **Сan not find a stock ticker with the DxFeed data provider (F, SO, META etc)**
 
 Sometimes, users face the problem of finding a company's stock by its exact ticker on a DxFeed data provider. For example, users can not find F (Ford company), META (ex-Facebook) etc.
@@ -106,6 +123,8 @@ Sometimes, users face the problem of finding a company's stock by its exact tick
 The problem is related to the fact that the search for stocks is performed by the **description** (name) of the company, especially for tickers with a small number of symbols (1-2 letters).
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## **How to replace the main Toolbar to another screen (monitor)?**
 
@@ -119,6 +138,8 @@ There are two ways to move the main toolbar to another monitor:
 
 * click on the main toolbar and use the key combination <mark style="background-color:blue;">**Win + Shift + Arrow**</mark> <mark style="background-color:blue;"></mark><mark style="background-color:blue;">(left / right)</mark>.
 
+***
+
 ## Data latency (xxx  ms) on Chart, DOM Trader
 
 This message appears when there's a delay in data within a specific time interval. The cause may stem from a <mark style="color:red;">**slow Internet connection**</mark> or <mark style="color:red;">**issues on the data provider's end**</mark>.
@@ -128,3 +149,20 @@ Whether the data delay occurs on a Rithmic server, CQG, Binance, or during trans
 Additionally, you have the option to mitigate data load by closing panels, disabling volume tools, or closing unnecessary tabs in your browser (if it's active while using the platform).
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## **After launching the platform, windows are not displaying or are completely darkened**
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Platform doesn't work correctly</p></figcaption></figure>
+
+1. **For Intel Processors:** Update your drivers at [**Intel Graphics Windows DCH Drivers**](https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html).
+2. **If the Issue Persists After Initial Driver Installation:** Sometimes, the driver may not install correctly on the first attempt. Please reinstall the driver.&#x20;
+
+{% hint style="info" %}
+There's no need to reboot your PC after the second installation.
+{% endhint %}
+
+3. **Restart the Platform:** Once the driver is successfully installed, restart the platform, and the issue should be resolved.
+
+If the problem continues, please contact our support team via live chat on our website.

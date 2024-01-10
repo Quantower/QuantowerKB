@@ -1,6 +1,6 @@
 # Rithmic Issues
 
-### **Market Data Connection Closed (Broken)**
+## **Market Data Connection Closed (Broken)**
 
 Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed (Broken)".**_ Below we will describe possible reasons and solutions.
 
@@ -62,7 +62,9 @@ If you enable Use RTrader plugin in Connection Settings and still can not connec
 
 ![](<../../.gitbook/assets/image (100).png>)
 
-### No Level2 data for some symbols
+***
+
+## No Level2 data for some symbols
 
 This problem can be due to the fact that you do not have a subscription to this Level2 data. To check this, launch the **RTrader Pro platform** and open the **Order Book** panel.
 
@@ -70,7 +72,9 @@ If you don't have Bid/Ask values in the RTrader platform, you need to subscribe 
 
 ![](<../../.gitbook/assets/image (297).png>)
 
-### ERROR: Only Admins Can Place Trades
+***
+
+## ERROR: Only Admins Can Place Trades
 
 This means that the Evaluation account has been failed and has been disabled.&#x20;
 
@@ -78,3 +82,16 @@ It either means you have reached your Trailing Threshold Drawdown or that you ha
 
 To resolve this issue, please contact support team of your Prop Trading company
 
+***
+
+## Error: No handle
+
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Error: No trade routes
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

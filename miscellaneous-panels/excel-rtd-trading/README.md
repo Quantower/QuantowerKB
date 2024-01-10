@@ -30,7 +30,7 @@ For the function to work properly, **Quantower platform and Excel must have the 
 
 2. Go to the [**General Settings**](../../general-settings/general-settings-1.md) of the platform, then to the _<mark style="background-color:blue;">**Excel RTD**</mark>_ section, and tick off _**"Enable Microsoft Excel RTD"**_
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2) (1).png" alt=""><figcaption><p>Activation of RTD function in Quantower</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (2) (1) (1).png" alt=""><figcaption><p>Activation of RTD function in Quantower</p></figcaption></figure>
 
 Also in the settings, there are two important settings:
 
@@ -45,7 +45,7 @@ Also in the settings, there are two important settings:
 
 4. After unpacking the archive, run '<mark style="background-color:orange;">**register.cmd**</mark>' as an administrator. It's important to ensure that Excel is closed during this process!
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (3).png" alt=""><figcaption><p>Run the "register.cmd' file as an administrator</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (3) (1).png" alt=""><figcaption><p>Run the "register.cmd' file as an administrator</p></figcaption></figure>
 
 5. Once you've completed the previous steps, you can launch Excel and begin using the RTD function with Quantower.
 

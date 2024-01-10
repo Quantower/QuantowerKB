@@ -16,7 +16,7 @@ To connect Quantower to FXCM broker, you need to have an active trading account 
 
 1. Go to the [**FXCM** official website](https://www.fxcm.com/) to create a demo or live account. If you already have an account, please log in.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. For example, to create a demo account, simply fill out the basic form and click the '<mark style="background-color:blue;">**Trade Now**</mark>' button.
 
@@ -28,4 +28,4 @@ To connect Quantower to FXCM broker, you need to have an active trading account 
 
 4. Open **Connection Manager** in Quantower and select FXCM broker. Choose Demo or Real, paste Login/Password, and click the Connect button.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

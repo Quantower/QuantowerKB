@@ -6,7 +6,7 @@ description: Basic settings and features for charts in Quantower
 
 The chart panel is one of the most important panel for an active trader. Accurate market data, graphical and analytical tools are integral components of the panel, which allow you to make the right trading decisions.
 
-![Main parts of Chart panel in Quantower](../../.gitbook/assets/main-parts-of-chart-panel-in-quantower.png)
+<figure><img src="../../.gitbook/assets/chart_basic.png" alt=""><figcaption><p>Main parts of Chart panel in Quantower</p></figcaption></figure>
 
 The chart panel can be divided into 5 parts:
 

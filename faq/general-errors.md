@@ -154,7 +154,7 @@ Additionally, you have the option to mitigate data load by closing panels, disab
 
 ## **After launching the platform, windows are not displaying or are completely darkened**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Platform doesn't work correctly</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Platform doesn't work correctly</p></figcaption></figure>
 
 1. **For Intel Processors:** Update your drivers at [**Intel Graphics Windows DCH Drivers**](https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html).
 2. **If the Issue Persists After Initial Driver Installation:** Sometimes, the driver may not install correctly on the first attempt. Please reinstall the driver.&#x20;

@@ -45,7 +45,7 @@ Also in the settings, there are two important settings:
 
 4. After unpacking the archive, run '<mark style="background-color:orange;">**register.cmd**</mark>' as an administrator. It's important to ensure that Excel is closed during this process!
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (3) (1).png" alt=""><figcaption><p>Run the "register.cmd' file as an administrator</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (3) (1) (1).png" alt=""><figcaption><p>Run the "register.cmd' file as an administrator</p></figcaption></figure>
 
 5. Once you've completed the previous steps, you can launch Excel and begin using the RTD function with Quantower.
 

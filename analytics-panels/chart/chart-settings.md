@@ -32,11 +32,13 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 * **Custom title.** You can rename your chart panel as desired.\
 
 * **Use custom tick size**\
-  This is probably one of the most important settings in the chart. It is commonly used for cluster charts. In highly volatile instruments such as BTC or NQ futures, there may be gaps in the volumes on each cluster level. The clusters can be vertically compressed to display information better, and the compression ratio must be specified in this menu item. Below you can see a bitcoin chart with a compression of $10.
+  This setting is commonly used for highly volatile instruments such as BTC or NQ (Nasdaq) futures. Below you can see a bitcoin chart with a compression of $10.
 
-![](<../../.gitbook/assets/image (116).png>)
+<figure><img src="../../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
 
-* **Time Zone.** These are the time zone settings for the chart\
+<figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
+
+* **Time Zone.** These are the time zone settings for the chart.\
 
 * **Mouse wheel action.** This defines the action that occurs when the user rotates the mouse wheel.
 * **Mouse wheel + CTRL action.**

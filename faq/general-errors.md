@@ -66,7 +66,7 @@ Sometimes Kaspersky deletes our files.&#x20;
 
 ## An error occurred during platform initialization: Object reference not set to an instance of an object
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Quantower error "Object reference not set to an instance of an object"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Quantower error "Object reference not set to an instance of an object"</p></figcaption></figure>
 
 This error usually occurs when a user attempts to install the platform with a version not compatible with their PC's system type. For instance, installing a 64-bit version on a 32-bit system. It's important to check your PC's settings to determine the system type and download the corresponding version from the Quantower website.
 
@@ -74,7 +74,7 @@ Here is how you can check the system type: [https://support.microsoft.com/en-us/
 
 Once you have determined the type of your system, you can proceed to [**download the version**](https://www.quantower.com/download) that corresponds to it.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -100,7 +100,7 @@ To prevent changes in drawings, we recommend placing the endpoint of the drawing
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -122,7 +122,7 @@ Sometimes, users face the problem of finding a company's stock by its exact tick
 
 The problem is related to the fact that the search for stocks is performed by the **description** (name) of the company, especially for tickers with a small number of symbols (1-2 letters).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

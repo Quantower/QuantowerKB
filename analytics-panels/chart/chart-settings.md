@@ -96,9 +96,15 @@ These settings allow you to customize the price scale. There are three important
 
 ![Price Scaling on the chart panel](../../.gitbook/assets/price-scaling.gif)
 
-* **Highlight prices**. Adjusts the color and font of the current price on the chart. Gives the opportunity to highlight the minimums and maximums of the previous day and limits on the instrument
+* **Highlight prices**. This feature adjusts the color and font of the current price on the chart.
 
-![](<../../.gitbook/assets/image (110).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+It enables highlighting of the open price, and the previous day's minimums, maximums, and settlement price of the instrument. Additionally, it allows for the display of the bid and ask price spread.
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Customize colors of Bid and Ask prices</p></figcaption></figure>
 
 ## Visual trading&#x20;
 
@@ -121,8 +127,6 @@ The **Pnl** type allows you to choose to display the position in currency only f
 **Show orders**. The option allows you to enable or disable the display of work orders on the chart.&#x20;
 
 **Trade through Order entry panel**. If this option is enabled, mouse trade mode will be disabled, and when the mouse clicks on the chart, the associated order entry panel for this quote will automatically open. The mouse trade mode is the same as : clicking the right mouse button will open a panel for entering a limit order for a "Sell" deal at the marked price on the chart; click the left mouse button to open the panel for entering a limit order for a "Buy" deal at the marked price on the chart;
-
-
 
 ## Order entry
 

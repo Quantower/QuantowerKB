@@ -101,3 +101,21 @@ To resolve this issue, ensure that you are not logged in with your credentials a
 
 ## Issue: No historical market data on a chart
 
+Users may sometimes encounter a lack of historical market data for one or several trading instruments on their charts. This issue is _**often due to a problem with the data provider**_, typically Rithmic, for a specific server.&#x20;
+
+To diagnose and resolve this issue, follow these steps:
+
+1. Check if the issue occurs with other trading instruments, especially standard futures contracts with month indications (e.g., ESH4, NQH4).
+
+<figure><img src="../../.gitbook/assets/Screenshot_3 (2).png" alt=""><figcaption></figcaption></figure>
+
+2. Reload data from the server by right-clicking on the chart and selecting '<mark style="background-color:orange;">**Reload history (server)**</mark>'.
+
+<figure><img src="../../.gitbook/assets/Screenshot_4 (3).png" alt=""><figcaption></figcaption></figure>
+
+3. If the problem persists, open the [<mark style="background-color:yellow;">**Event Log**</mark>](../../informational-panels/event-log.md) panel to view all types of error messages. If you see '<mark style="background-color:red;">**Permission Error**</mark>', confirm whether the issue is with Rithmic or your account.
+
+<figure><img src="../../.gitbook/assets/Screenshot_2 (3).png" alt=""><figcaption></figcaption></figure>
+
+4. Open (or install) the [<mark style="background-color:yellow;">**Rtrader Pro platform**</mark>](https://yyy3.rithmic.com/?page\_id=16), the official platform of Rithmic. Log in with your account and open the <mark style="background-color:orange;">**Chart panel**</mark> with the exact ticker, for example, **ESH4.CME**.
+5. If there is also no data on their chart, the issue likely lies with the Rithmic server. Contact support for your broker, prop trading company, or Rithmic directly. Include screenshots as evidence of the server-related issue.

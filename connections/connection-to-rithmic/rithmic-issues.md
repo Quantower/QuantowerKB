@@ -74,19 +74,20 @@ If you don't have Bid/Ask values in the RTrader platform, you need to subscribe 
 
 ***
 
-## ERROR: Only Admins Can Place Trades
+## Error: Only Admins Can Place Trades
 
-This means that the Evaluation account has been failed and has been disabled.&#x20;
+**This means that the Evaluation account has been failed and has been disabled.**&#x20;
 
 It either means you have reached your Trailing Threshold Drawdown or that you have held a trade past 4:59 PM ET.
 
-To resolve this issue, please contact support team of your Prop Trading company
+To resolve this issue, please contact the support team of your Prop Trading company.
 
 ***
 
 ## Error: No handle
 
-
+The 'No handle' error typically occurs if <mark style="background-color:green;">**your login is already in use**</mark> on another platform or a different PC.\
+To resolve this issue, ensure that you are not logged in with your credentials anywhere else, neither in Rtrader Pro nor any other platform. This step is crucial to prevent simultaneous login conflicts and to address the error effectively.
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -95,3 +96,8 @@ To resolve this issue, please contact support team of your Prop Trading company
 ## Error: No trade routes
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Issue: No historical market data on a chart
+

@@ -53,7 +53,6 @@
   * [Connection to OKEx](connections/connection-to-okex.md)
   * [Connection to MetaStock](connections/connection-to-metastock.md)
   * [Connection to IQFeed](connections/connection-to-iqfeed.md)
-  * [Connection to Exante](connections/connection-to-exante.md)
 * [💡 Analytics Panels](analytics-panels/README.md)
   * [Chart](analytics-panels/chart/README.md)
     * [Chart Overview](analytics-panels/chart/general-overview.md)

@@ -101,7 +101,11 @@ To resolve this issue, ensure that you are not logged in with your credentials a
 
 ## Issue: No historical market data on a chart
 
-Users may sometimes encounter a lack of historical market data for one or several trading instruments on their charts. This issue is _**often due to a problem with the data provider**_, typically Rithmic, for a specific server.&#x20;
+Users may sometimes encounter a lack of historical market data for one or several trading instruments on their charts. This issue is _**often due to a problem with the data provider**_, typically Rithmic, for a specific server, or reaching the limit of tick data downloads.
+
+{% hint style="warning" %}
+**NOTE:** Rithmic has a weekly tick data download limit of 40 gigabytes. Exceeding this limit means no historical data until the next week. Real-time data will work correctly.
+{% endhint %}
 
 To diagnose and resolve this issue, follow these steps:
 
@@ -118,4 +122,14 @@ To diagnose and resolve this issue, follow these steps:
 <figure><img src="../../.gitbook/assets/Screenshot_2 (3).png" alt=""><figcaption></figcaption></figure>
 
 4. Open (or install) the [<mark style="background-color:yellow;">**Rtrader Pro platform**</mark>](https://yyy3.rithmic.com/?page\_id=16), the official platform of Rithmic. Log in with your account and open the <mark style="background-color:orange;">**Chart panel**</mark> with the exact ticker, for example, **ESH4.CME**.
+
+<figure><img src="../../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
+
 5. If there is also no data on their chart, the issue likely lies with the Rithmic server. Contact support for your broker, prop trading company, or Rithmic directly. Include screenshots as evidence of the server-related issue.
+6.  If your broker or prop firm confirms that you've reached the tick data download limit,&#x20;
+
+    to avoid future blocks, we recommend:
+
+    * Reducing the number of panels using numerous volume analysis tools (volume profiles, clusters).
+    * Decreasing the depth of data on your charts (avoid loading more than 6 months of volume analysis data).
+    * It is advisable to use the '**Reload data (server)**' option only when necessary and in moderation.

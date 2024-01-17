@@ -139,7 +139,7 @@ What's even more exciting is that you can configure mapping not only within one 
 
 <summary>Why Quantower does lost a connection to Rithmic after the Market closed?</summary>
 
-
+This happens because Rithmic conducts technical maintenance or updates during this period. As a result, the platform cannot access market data while these updates are being carried out.
 
 </details>
 

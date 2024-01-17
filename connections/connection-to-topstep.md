@@ -1,6 +1,10 @@
 # Connection to Topstep
 
-* [**Possible issues with connection to Topstep account**](connection-to-topstep.md#possible-issues-with-connection-to-topstep-account-and-trading-issues)
+* [**Possible issues with the connection to Topstep account**](connection-to-topstep.md#possible-issues-with-connection-to-topstep-account-and-trading-issues)\
+  **-** Market Data Connection Login Failed\
+  \- Username & Password are Not Available (N/A)\
+  \- No symbols found at Topstep\
+  \- Can not select an account for trading
 * [**What is included in Quantower for free?**](connection-to-topstep.md#included)
 * [**Most popular trading questions**](connection-to-topstep.md#most-popular-trading-questions)
 

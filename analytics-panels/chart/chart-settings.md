@@ -29,8 +29,8 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 <figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>General View of Chart Settings</p></figcaption></figure>
 
-* **Custom title.** You can rename your chart panel as desired.\
-
+* **Custom title**\
+  You can rename your chart panel as desired.
 * **Use custom tick size**\
   This setting is commonly used for highly volatile instruments such as BTC or NQ (Nasdaq) futures. Below you can see a bitcoin chart with a compression of $10.
 
@@ -38,9 +38,10 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 <figure><img src="../../.gitbook/assets/image (408).png" alt=""><figcaption></figcaption></figure>
 
-* **Time Zone.** These are the time zone settings for the chart.\
-
-* **Mouse wheel action.** This defines the action that occurs when the user rotates the mouse wheel.
+* **Time Zone**\
+  These are the time zone settings for the chart.
+* **Mouse wheel action**\
+  This defines the action that occurs when the user rotates the mouse wheel.
 * **Mouse wheel + CTRL action.**
 * **Mouse wheel + SHIFT action.**\
   &#x20;\
@@ -48,7 +49,8 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-* **Drawings default availability**. If you choose <mark style="color:blue;">'All Charts with the Same Symbol,'</mark> all drawings will be applied to other charts with the same asset (ticker). This also allows you to change the color settings of the drawings on all charts at the same time.
+* **Drawings default availability**\
+  If you choose <mark style="color:blue;">'All Charts with the Same Symbol,'</mark> all drawings will be applied to other charts with the same asset (ticker). This also allows you to change the color settings of the drawings on all charts at the same time.
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 

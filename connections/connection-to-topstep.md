@@ -30,10 +30,14 @@ To access a trading account through the Quantower platform, you need to click on
 
 The most common issue encountered while attempting to log in to the platform is an error. This may be caused by several reasons:
 
-**1)** Please ensure that you are entering the <mark style="background-color:blue;">**correct password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account.
+**1)** Please ensure that you are entering the <mark style="background-color:blue;">**correct Login & Password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account.
 
 {% hint style="info" %}
 You can find the **correct password on your personal cabinet**, as we have shown previously.
+{% endhint %}
+
+{% hint style="warning" %}
+**If you selected the Tradovate platform during registration, unfortunately, you won't be able to connect to other platforms, including Quantower.** To change your selection and connect to Quantower, please contact Topstep's support team. They will assist you in updating your platform choice to ensure compatibility with Quantower.
 {% endhint %}
 
 **2)** Please ensure that you have chosen the correct server for connection, as it is crucial to use Topstep (Tostep trader Chicago Area, Topstep trader Europe, etc.)

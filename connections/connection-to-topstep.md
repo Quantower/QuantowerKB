@@ -81,7 +81,7 @@ Most likely, your account is not fully activated. We recommend reaching out to T
 * [**TPO Chart**](../analytics-panels/tpo-chart.md)
 * [**Volume Analysis Tools**](../analytics-panels/chart/volume-analysis-tools/)
 * **Charting** (Maximum 2 indicators per chart)
-* [**Copy Trading**](../trading-panels/copy-trading.md) (_works only under 1 login where a trader has multiple accounts_)
+* [**Copy Trading**](../trading-panels/copy-trading.md) (_works only under 1 login where a trader has multiple accounts. For different logins a trader needs to have an Advanced Features license_)
 
 **Topstep accounts **<mark style="background-color:red;">**do not provide**</mark>** the following:**
 

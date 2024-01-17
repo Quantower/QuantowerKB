@@ -89,13 +89,13 @@ To resolve this issue, please contact the support team of your Prop Trading comp
 The 'No handle' error typically occurs if <mark style="background-color:green;">**your login is already in use**</mark> on another platform or a different PC.\
 To resolve this issue, ensure that you are not logged in with your credentials anywhere else, neither in Rtrader Pro nor any other platform. This step is crucial to prevent simultaneous login conflicts and to address the error effectively.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Error: No trade routes
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

@@ -8,7 +8,7 @@ Tick ​​Chart builds a new bar after a set number of trades, for example afte
 
 For example, each bar of a 500-tick chart represents 500 trades of any size. A tick can be a trade of just one contract, or 10,000 contracts. This is why it’s crucial to combine the use of tick charts with volume.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 To set this chart type, open TimeFrame Selector and select in the drop-down menu — **Tick**.
 

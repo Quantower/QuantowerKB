@@ -45,7 +45,7 @@ You can find the **correct password on your personal cabinet**, as we have shown
 
 **3)** Please make sure your account is active. To do this, open the Rtrader Pro platform and try logging in using your credentials. Make sure you've selected the correct server. If you don't have Rtrader Pro, you can [**download it**](https://yyy3.rithmic.com/?page\_id=16) from the official Rithmic website.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
 
 **4)** For new users, please make sure to **sign two agreements first**. You can easily do this in the Rtrader Pro platform.
 
@@ -67,7 +67,7 @@ This error occurs when you were able to connect to your account, but at the mome
 
 Sometimes users may encounter an issue of not having a trading account. Even though the platform connection is successful and the market data subscription is active, trading operations are not possible.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
 
 Most likely, your account is not fully activated. We recommend reaching out to Topstep support to resolve this matter. They will be able to assist you and ensure your account is fully activated for trading.
 
@@ -155,7 +155,9 @@ What's even more exciting is that you can configure mapping not only within one 
 
 <summary>How to place Bracket orders?</summary>
 
+Once you set your SL (Stop Loss) and TP (Take Profit) parameters, every market or limit order placed from the chart will be sent with these bracket orders. This ensures that your trades are automatically managed according to your predefined risk/reward parameters.
 
+![](<../.gitbook/assets/image (2).png>)
 
 </details>
 
@@ -179,6 +181,8 @@ What's even more exciting is that you can configure mapping not only within one 
 
 Topstep traders can enjoy free Copy Trading, which operates under a single login that includes multiple accounts.
 
+To copy trades across different Topstep accounts, you need to purchase the [**Advanced Features license**](https://www.quantower.com/advancedfeatures). This license will enable you to manage multiple accounts.
+
 </details>
 
 <details>
@@ -189,6 +193,6 @@ Before activating a cluster chart, you need to enable the Volume Analysis Toolba
 \
 [_**More details you can find in this guide**_](https://help.quantower.com/quantower/analytics-panels/chart/volume-analysis-tools/cluster-chart)
 
-<img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>

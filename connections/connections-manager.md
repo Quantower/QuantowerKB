@@ -10,13 +10,13 @@ description: >-
 How to work with Connections manager in Quantower
 {% endembed %}
 
-Connections are integrations with third-party providers that supply various data: trading quotes, symbols history etc. 
+Connections are integrations with third-party providers that supply various data: trading quotes, symbols history etc.&#x20;
 
 ![Launch the Connections Manager to select necessary connection](../.gitbook/assets/connections-manager.png)
 
 ## General information
 
-**Connections manager** — is a screen that allows you to select from available integrations the ones you are trading with and connect to them using your accounts. While connecting to any integration, Connections manager remembers your login credentials and will use them for further auto-connects (reconnects in case of errors). If you don’t want to store your login credentials in manager, just click the “Lock” icon in the login form. 
+**Connections manager** — is a screen that allows you to select from available integrations the ones you are trading with and connect to them using your accounts. While connecting to any integration, Connections manager remembers your login credentials and will use them for further auto-connects (reconnects in case of errors). If you don’t want to store your login credentials in manager, just click the “Lock” icon in the login form.&#x20;
 
 ![Connections manager screen with multiple accounts](../.gitbook/assets/multiple-accounts.gif)
 
@@ -31,7 +31,9 @@ Once connected, info column will contain the data about ping and current connect
 ## Multi-connect
 
 {% hint style="info" %}
-Quantower supports multiple connections simultaneously, but this function available under paid licenses — Advanced Features, Crypto Package, Multi-Asset package and All-In-One License.
+Quantower supports multiple connections simultaneously, but this function available under paid licenses — **Advanced Features, Crypto Package, Multi-Asset Package, and All-In-One License**.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/image (411).png" alt=""><figcaption><p>Multiple connections at the same time</p></figcaption></figure>
 
 ![Multiple connections in Quantower at the same time ](../.gitbook/assets/multiple-connections.png)

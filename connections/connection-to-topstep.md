@@ -30,7 +30,8 @@ To access a trading account through the Quantower platform, you need to click on
 
 The most common issue encountered while attempting to log in to the platform is an error. This may be caused by several reasons:
 
-**1)** Please ensure that you are entering the <mark style="background-color:blue;">**correct Login & Password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account.
+**1)** Please ensure that you are entering the <mark style="background-color:blue;">**correct Login & Password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account.\
+Your **username and password are case-sensitive**, so please double-check to ensure they're entered correctly.
 
 {% hint style="info" %}
 You can find the **correct password on your personal cabinet**, as we have shown previously.

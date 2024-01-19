@@ -178,5 +178,6 @@ Users may sometimes experience chart flickering on their PCs while using the pla
 
 1. We recommend **updating your graphics card drivers**.
 2. If there are no driver updates available for your card, the platform offers a '<mark style="background-color:orange;">**Use Software Render Mode**</mark>' setting. This disables the use of the graphics card and switches to software rendering, which may resolve the flickering.
+3. Regularly check for Windows updates and driver updates. If the issue resolves after updates, you may disable '**Use Software Render Mode**' for better platform performance.
 
 <figure><img src="../.gitbook/assets/Use rendering mode.png" alt=""><figcaption><p>Use rendering mode setting to avoid chart flickering issue in Quantower</p></figcaption></figure>

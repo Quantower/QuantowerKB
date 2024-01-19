@@ -66,7 +66,7 @@ If you enable Use RTrader plugin in Connection Settings and still can not connec
 
 ## No Level2 data for some symbols
 
-This problem can be due to the fact that you do not have a subscription to this Level2 data. To check this, launch the **RTrader Pro platform** and open the **Order Book** panel.
+This problem can be because you do not have a subscription to this Level2 data. To check this, launch the **RTrader Pro platform** and open the **Order Book** panel.
 
 If you don't have Bid/Ask values in the RTrader platform, you need to subscribe to this data via Rithmic's support. After that, you will see level2 data in our platform as well.&#x20;
 
@@ -76,11 +76,11 @@ If you don't have Bid/Ask values in the RTrader platform, you need to subscribe 
 
 ## Error: Only Admins Can Place Trades
 
-**This means that the Evaluation account has been failed and has been disabled.**&#x20;
+**This means that the Evaluation account has failed and has been disabled.**&#x20;
 
 It either means you have reached your Trailing Threshold Drawdown or that you have held a trade past 4:59 PM ET.
 
-To resolve this issue, please contact the support team of your Prop Trading company.
+To resolve this issue, please get in touch with the support team of your Prop Trading company.
 
 ***
 
@@ -89,13 +89,13 @@ To resolve this issue, please contact the support team of your Prop Trading comp
 The 'No handle' error typically occurs if <mark style="background-color:green;">**your login is already in use**</mark> on another platform or a different PC.\
 To resolve this issue, ensure that you are not logged in with your credentials anywhere else, neither in Rtrader Pro nor any other platform. This step is crucial to prevent simultaneous login conflicts and to address the error effectively.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Error: No trade routes
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -133,3 +133,13 @@ To diagnose and resolve this issue, follow these steps:
     * Reducing the number of panels using numerous volume analysis tools (volume profiles, clusters).
     * Decreasing the depth of data on your charts (avoid loading more than 6 months of volume analysis data).
     * It is advisable to use the '**Reload data (server)**' option only when necessary and in moderation.
+
+***
+
+## Chart Data is incorrect or has gaps
+
+Sometimes, non-market gaps can occur due to a weak Internet connection, a broken connection to your data provider, or other reasons. To solve this problem, **Right-click on the chart** and select **Reload history (server).**
+
+<figure><img src="../../.gitbook/assets/QT SC 3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

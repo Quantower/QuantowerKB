@@ -83,17 +83,21 @@ Additionally, you have the option to mitigate data load by closing panels, disab
 
 {% embed url="https://www.youtube.com/watch?v=L21kFXQaWQ0" %}
 
+***
+
 ## Control Center
 
 Control center is the starting point of the platform and acts as both a launcher and informer. To optimize space, we've added the option to show/hide certain controls.
 
 <figure><img src="../.gitbook/assets/image (396).png" alt=""><figcaption><p>Configure the display of controls on the main control panel</p></figcaption></figure>
 
+***
+
 ## Sounds
 
 Sounds can be enabled or disabled for specific actions, providing additional interaction with users even when they're not in front of their PC.
 
-![](../.gitbook/assets/general-settings-\_-sounds.gif)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Enable sounds** — activates or disables all of the application sounds globally
 
@@ -103,6 +107,8 @@ The group of actions in Quantower, when the sound should be played consists of t
 * action name
 * sound path (you can select your custom path to any **.wav** file)
 * prelisten button (play/stop)
+
+***
 
 ## Confirmations
 
@@ -118,11 +124,15 @@ In Time zone settings group you can select what time zones are your favorite and
 
 ![Favorite time zones management](<../.gitbook/assets/image (70).png>)
 
+***
+
 ## Excel RTD
 
 Start from version 1.39 Quantower supports RealTimeData (RTD) for sending data and other market information to Microsoft Excel®. Read our guide about [how to enable and use RTD function with Quantower](../miscellaneous-panels/excel-rtd-trading/).
 
-![RTD function in Quantower trading platform](<../.gitbook/assets/image (66).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>RTD function in Quantower trading platform</p></figcaption></figure>
+
+***
 
 ## Messengers
 
@@ -137,9 +147,13 @@ Enter your chat ID in the corresponding field and then connect to the Quantower 
 
 <figure><img src="../.gitbook/assets/image (397).png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ## Global Hotkeys
 
 ![](<../.gitbook/assets/image (74).png>)
+
+***
 
 ## Trading protection
 

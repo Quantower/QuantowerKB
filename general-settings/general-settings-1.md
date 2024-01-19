@@ -73,6 +73,8 @@ Additionally, you have the option to mitigate data load by closing panels, disab
 
 ![](<../.gitbook/assets/image (142).png>)
 
+**Use software render mode.** The setting in Quantower can help <mark style="background-color:green;">**resolve chart flickering issues**</mark> on some PCs. For a detailed description of the problem and various solutions, please refer to our [**FAQ section**](https://help.quantower.com/quantower/faq/general-errors#chart-flickering-issue).
+
 **Hide part of an account name.** Specify the number of characters that will be hidden for your trading account name and ID. This option is used to keep the account private.
 
 ![](<../.gitbook/assets/image (154).png>)

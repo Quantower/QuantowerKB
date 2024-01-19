@@ -11,6 +11,7 @@
 * [**How to replace the main Toolbar to another screen (monitor)?**](general-errors.md#how-to-replace-the-main-toolbar-to-another-screen-monitor)
 * [**Data latency (xxx ms) on Chart, DOM Trader**](general-errors.md#data-latency-xxx-ms-on-chart-dom-trader)
 * [**After launching the platform, windows are not displaying or are completely darkened**](general-errors.md#after-launching-the-platform-windows-are-not-displaying-or-are-completely-darkened.)
+* [**Chart Flickering Issue**](general-errors.md#chart-flickering-issue)
 
 ***
 
@@ -166,3 +167,16 @@ There's no need to reboot your PC after the second installation.
 3. **Restart the Platform:** Once the driver is successfully installed, restart the platform, and the issue should be resolved.
 
 If the problem continues, please contact our support team via live chat on our website.
+
+***
+
+## Chart Flickering Issue
+
+Users may sometimes experience chart flickering on their PCs while using the platform. This issue is often related to the graphics card and its use in rendering the interface.
+
+<figure><img src="../.gitbook/assets/chart flickering.gif" alt=""><figcaption></figcaption></figure>
+
+1. We recommend **updating your graphics card drivers**.
+2. If there are no driver updates available for your card, the platform offers a '<mark style="background-color:orange;">**Use Software Render Mode**</mark>' setting. This disables the use of the graphics card and switches to software rendering, which may resolve the flickering.
+
+<figure><img src="../.gitbook/assets/Use rendering mode.png" alt=""><figcaption><p>Use rendering mode setting to avoid chart flickering issue in Quantower</p></figcaption></figure>

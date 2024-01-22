@@ -211,7 +211,7 @@ If position of the mouse is **under the current price** then
 
 ### How to open Quick order entry
 
-To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../../analytics-panels/chart/chart-settings.md)
+To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../../analytics-panels/chart/chart-settings/)
 
 ![](<../../.gitbook/assets/animaciya-8- (1).gif>)
 
@@ -225,7 +225,7 @@ Note that in order to make a transaction from the Quick order entry panel, you m
 
 ### How to activate trading with hot keys
 
-To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../../analytics-panels/chart/chart-settings.md)
+To access the quick trade toolbar, click the button in the upper right corner. If you don't see this button, turn it on in the[ settings](../../analytics-panels/chart/chart-settings/)
 
 ![](<../../.gitbook/assets/image (307).png>)
 

@@ -67,7 +67,7 @@
       * [Line break](analytics-panels/chart/chart-types/line-break.md)
       * [Volume Bars](analytics-panels/chart/chart-types/volume-bars.md)
       * [Reversal Bars](analytics-panels/chart/chart-types/reversal-bars.md)
-    * [Chart Settings](analytics-panels/chart/chart-settings/README.md)
+    * [Chart Settings](analytics-panels/chart/chart-settings.md)
       * [View settings](analytics-panels/chart/chart-settings/view-settings.md)
       * [Data Style](analytics-panels/chart/chart-settings/data-style.md)
       * [Time Scale](analytics-panels/chart/chart-settings/time-scale.md)

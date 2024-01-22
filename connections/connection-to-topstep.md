@@ -6,19 +6,20 @@
   \- No symbols found at Topstep\
   \- Can not select an account for trading
 * [**What is included in Quantower for free?**](connection-to-topstep.md#included)
-* [**Most popular trading questions**](connection-to-topstep.md#most-popular-trading-questions)
+* [**When and what products can you trade with Topstep?**](connection-to-topstep.md#when-and-what-products-can-you-trade-with-topstep)
+* [**Most popular trading questions (FAQ)**](connection-to-topstep.md#most-popular-trading-questions)
 
 ***
 
-In order to begin your work with [**Topstep**](https://www.topstep.com/), you must first register on their website and pay for access to a trading account (combine).
+To begin your work with [**Topstep**](https://www.topstep.com/), you must first register on their website and pay for access to a trading account (combine).
 
-Once you have paid, please log in to your personal account on the Topstep website using the login and password you provided during the registration process.
+Once you have paid, please log in to your personal account on the Topstep website using the login and password you provided during registration.
 
 <figure><img src="../.gitbook/assets/image (366).png" alt=""><figcaption><p>Login to your Topstep personal cabinet</p></figcaption></figure>
 
 When you access the general section of your personal account, you'll find the main parameters of your account, such as your current balance, Net P\&L, and performance chart.
 
-To access a trading account through the Quantower platform, you need to click on the icon for additional account information. Your login and password details will be displayed there.
+To access a trading account through the Quantower platform, click on the icon for additional account information. Your login and password details will be displayed there.
 
 {% hint style="warning" %}
 **Please note that the password for your Topstep personal account is different from the password required to access your trading account on the platform.**
@@ -32,7 +33,7 @@ To access a trading account through the Quantower platform, you need to click on
 
 * <mark style="background-color:red;">**Market Data Connection Login Failed. Please contact the FCM/IB who issued your login id for assistance.**</mark>
 
-The most common issue encountered while attempting to log in to the platform is an error. This may be caused by several reasons:
+The most common issue encountered while attempting to log in to the platform is an error. Several reasons may cause this:
 
 **1)** Please ensure that you are entering the <mark style="background-color:blue;">**correct Login & Password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account.\
 Your **username and password are case-sensitive**, so please double-check to ensure they're entered correctly.
@@ -96,7 +97,13 @@ Most likely, your account is not fully activated. We recommend reaching out to T
 * [**Power Trades**](../analytics-panels/chart/power-trades.md) (requires a subscription to [Power Trades license](https://www.quantower.com/pricing#extensions) on Quantower)
 * [**Local order strategies**](https://help.quantower.com/quantower/trading-panels/order-entry/order-placing-strategies/local-sl-tp) (requires a subscription to [Advanced Features license](https://www.quantower.com/advancedfeatures) on Quantower)
 
+***
 
+## When and what products can you trade with Topstep?
+
+All information regarding [<mark style="background-color:orange;">**permitted products and trading hours**</mark>](https://intercom.help/topstep-llc/en/articles/8284206-when-and-what-products-can-i-trade#h\_27627b5541) is available on the Topstep website.
+
+***
 
 ## Most popular trading questions:
 

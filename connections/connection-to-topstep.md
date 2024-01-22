@@ -4,7 +4,9 @@
   **-** Market Data Connection Login Failed\
   \- Username & Password are Not Available (N/A)\
   \- No symbols found at Topstep\
-  \- Can not select an account for trading
+  \- Can not select an account for trading\
+  \- Rejected at RMS — Total sell (buy) quantity of contract would exceed its limit\
+  \- Rejected at RMS — Loss limit for account exceeded
 * [**What is included in Quantower for free?**](connection-to-topstep.md#included)
 * [**When and what products can you trade with Topstep?**](connection-to-topstep.md#when-and-what-products-can-you-trade-with-topstep)
 * [**Most popular trading questions (FAQ)**](connection-to-topstep.md#most-popular-trading-questions)

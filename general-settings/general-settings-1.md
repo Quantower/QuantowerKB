@@ -97,7 +97,7 @@ Control center is the starting point of the platform and acts as both a launcher
 
 Sounds can be enabled or disabled for specific actions, providing additional interaction with users even when they're not in front of their PC.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Enable sounds** — activates or disables all of the application sounds globally
 
@@ -130,7 +130,7 @@ In Time zone settings group you can select what time zones are your favorite and
 
 Start from version 1.39 Quantower supports RealTimeData (RTD) for sending data and other market information to Microsoft Excel®. Read our guide about [how to enable and use RTD function with Quantower](../miscellaneous-panels/excel-rtd-trading/).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>RTD function in Quantower trading platform</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>RTD function in Quantower trading platform</p></figcaption></figure>
 
 ***
 

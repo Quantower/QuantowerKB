@@ -1,5 +1,12 @@
 # Rithmic Issues
 
+* [**Market Data Connection Closed (Broken)**](rithmic-issues.md#market-data-connection-closed-broken)
+* [**No Level2 data for some symbols**](rithmic-issues.md#no-level2-data-for-some-symbols)
+* [**Error: Only Admins Can Place Trades**](rithmic-issues.md#error-only-admins-can-place-trades)
+* [**Error: No handle**](rithmic-issues.md#error-no-handle)
+* [**Issue: No historical market data on a chart**](rithmic-issues.md#issue-no-historical-market-data-on-a-chart)
+* [**Chart Data is incorrect or has gaps**](rithmic-issues.md#chart-data-is-incorrect-or-has-gaps)
+
 ## **Market Data Connection Closed (Broken)**
 
 Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed (Broken)".**_ Below we will describe possible reasons and solutions.

@@ -10,11 +10,11 @@ There are two ways to open the Chart Settings:
 
 **1)** Click on the '<mark style="background-color:blue;">Menu</mark>' button in the top left corner and select the '<mark style="background-color:blue;">**Settings**</mark>' option.
 
-![Open Chart Settings via main menu button](<../../.gitbook/assets/image (124).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Open Chart Settings via main menu button</p></figcaption></figure>
 
 **2)** Right-click on the chart and select the '<mark style="background-color:blue;">**Settings**</mark>' option.
 
-![Open Chart Settings via context menu](<../../.gitbook/assets/image (125).png>)
+<figure><img src="../../.gitbook/assets/image (412).png" alt=""><figcaption><p>Open Chart Settings via context menu</p></figcaption></figure>
 
 The General view of the Chart Settings menu has several sections. Let's take a closer look at them:
 
@@ -110,7 +110,7 @@ These settings allow you to customize the price scale. There are three important
 
 It enables highlighting of the open price, and the previous day's minimums, maximums, and settlement price of the instrument. Additionally, it allows for the display of the bid and ask price spread.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Customize colors of Bid and Ask prices</p></figcaption></figure>
 

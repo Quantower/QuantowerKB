@@ -23,7 +23,7 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 | [**View**](chart-settings/view-settings.md)      | [**Visual trading**](chart-settings.md#visual-trading) | [**Volume bars**](chart-settings.md#volume-bars) |
 | [**Data style**](chart-settings/data-style.md)   | [**Order entry**](chart-settings.md#order-entry)       | **Event trading**                                |
 | [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                        | [**Hotkeys**](chart-settings.md#hotkeys)         |
-| [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings.md#info-window)       |                                                  |
+| [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings/info-window.md)       |                                                  |
 
 ## Visual trading&#x20;
 
@@ -62,18 +62,6 @@ These are the settings of the order entry panel. The most interesting thing here
 **multiple orders**. Mouse trading mode will be active until it is deactivated.
 
 ![](<../../.gitbook/assets/image (277).png>)
-
-## Quick Ruler
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-## Info Window
-
-This settings tab is for displaying values in the upper left corner. You can choose which data to display for yourself. You can also adjust the font size for this information.
-
-<figure><img src="../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>Select the desired data for the  Info window</p></figcaption></figure>
-
-![Info Window on the chart](../../.gitbook/assets/info-window.gif)
 
 ## Volume Bars
 

@@ -4,6 +4,9 @@
 
 * **Custom title**\
   You can rename your chart panel as desired.
+
+<figure><img src="../../../.gitbook/assets/custom name.png" alt=""><figcaption><p><strong>Custom title on panel's header</strong></p></figcaption></figure>
+
 * **Use custom tick size**\
   This setting is particularly useful for highly volatile instruments like BTC or Nasdaq (NQ) futures. It aggregates multiple specified tick levels into a single level, often used for a more compact display of [**Level2 data**](../technical-indicators/volume/level2-indicator.md)**,** [**Volume Profile**](../volume-analysis-tools/volume-profiles.md)**, or** [**Cluster charts**](../volume-analysis-tools/cluster-chart.md). For example, you can see a Bitcoin chart compressed at $10 intervals, offering a clearer view of Level2 indicator.
 

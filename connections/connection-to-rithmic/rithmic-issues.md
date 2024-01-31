@@ -73,11 +73,13 @@ If you enable Use RTrader plugin in Connection Settings and still can not connec
 
 ## No Level2 data for some symbols
 
+<figure><img src="../../.gitbook/assets/No level2 data in Quantower.png" alt=""><figcaption></figcaption></figure>
+
 This problem can be because you do not have a subscription to this Level2 data. To check this, launch the **RTrader Pro platform** and open the **Order Book** panel.
 
-If you don't have Bid/Ask values in the RTrader platform, you need to subscribe to this data via Rithmic's support. After that, you will see level2 data in our platform as well.&#x20;
+If you don't have Bid/Ask values in the RTrader Pro platform, **you need to subscribe to this data via the support of your broker or prop company**. After that, you will see level 2 data in our platform as well.
 
-![](<../../.gitbook/assets/image (297).png>)
+<figure><img src="../../.gitbook/assets/No level2 data in Rithmic.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

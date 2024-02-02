@@ -45,7 +45,8 @@ More details you can find here [https://www.minitool.com/news/ms-gaming-overlay-
 
 ## An error occurred during platform initialization: Exception has been thrown by the target of an invocation
 
-This error occurs due to the <mark style="color:red;">**removal of the file**</mark> by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform.&#x20;
+* This issue may occur if you're running the platform on older versions of Windows. The platform is compatible only with <mark style="color:green;">**Windows 10 and 11**</mark>. For complete system requirements, please refer to the [provided link](../getting-started/installation.md#pc-requirements) in our knowledge base.
+* This error occurs due to the <mark style="color:red;">**removal of the file**</mark> by the **Avast antivirus or AVG antivirus**, which is necessary for the correct work of the platform.&#x20;
 
 ![](<../.gitbook/assets/image (196).png>)
 

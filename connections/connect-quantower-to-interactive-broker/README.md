@@ -63,6 +63,8 @@ The difference between IB Gateway and TWS is that IB Gateway has a lighter and l
 
 * Select **API** section - >  **Precautions** and activate all checkboxes.
 
+<figure><img src="../../.gitbook/assets/settings for TWS connection.png" alt=""><figcaption></figcaption></figure>
+
 ![](<../../.gitbook/assets/image (323).png>)
 
 * Next, check that the TWS platform is selected in the connection settings in the Quantower platform.

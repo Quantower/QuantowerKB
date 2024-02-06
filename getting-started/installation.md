@@ -20,13 +20,13 @@ Quantower does not copy its files to the system folders (AppData or Program File
 
 What does it mean? The program doesn't violate the integrity of the OS, and in case of removal, it will not leave any prints of its presence on your computer. Quantower’s "installer" literally extracts files to the user-specified folder.
 
-With this approach, you can save the Quantower on a removable drive and use it as a portable application on any other computer. This is especially useful when you need to transfer Quantower along with all its settings to a different PC. Simply copy the Quantower folder and paste it where you want it.
+With this approach, you can save the Quantower on a removable drive and use it as a portable application on any other computer. This is especially useful when you need to transfer Quantower along with all its settings to a different PC. Copy the Quantower folder and paste it where you want it.
 
 ### PC requirements
 
 {% hint style="info" %}
 * Windows 10, 11
-* [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) or [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.1-windows-x64-installer)
+* [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) or [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.1-windows-x64-installer). In most cases, the platform will ask to update .NET to the latest version from the Microsoft official website.
 * Available disk space — 1 GB (depends on the volume of loaded history)
 * **The hardware requirements for Quantower depend upon what you are doing with it.** Most desktop systems can run Quantower without any difficulty.&#x20;
 * The following hardware specifications are very much recommended for a fast system: 16 GB RAM, a minimum of 4-core CPU, and an SSD (solid-state drive).

@@ -8,7 +8,7 @@ description: >-
 
 It oscillates around a central zero line — values above zero signal a bullish dominance, while values below are indicative of bearish control.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Introduced to the public in 2001 by Igor Livshin through Stocks and Commodities Magazine, the BOP measures the market's buying and selling pressure by analyzing price extremes.
 

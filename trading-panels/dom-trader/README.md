@@ -6,7 +6,7 @@ description: >-
 
 # DOM Trader
 
-## General info about DOM Trader
+## a General info about DOM Trader
 
 **The Depth of Market** or **DOM Trader** panel shows the number of Buy and Sell orders placed at various price levels around the current price for a particular instrument (most often for futures). The more the number of orders is at a certain price level, the higher the interest in this level. The trading functionality of the panel allows you to quickly and efficiently place the required number of orders at the selected price, and also drag-and-drop, change or cancel them.
 
@@ -42,7 +42,9 @@ DOM Trader panel in Quantower
 
 ## DOM Trader settings
 
-Additional settings of the DOM Trader allow you to customize the general view for convenient display of data and the panel in general. To open DOM Trader settings, click on the Menu button on the left upper corner and select Settings item.
+Additional settings of the DOM Trader allow you to customize the general view for a convenient display of data and the panel in general. To open DOM Trader settings, click on the <mark style="background-color:green;">**Menu**</mark> button on the left upper corner and select **Settings** item.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>DOM Trader Settings</p></figcaption></figure>
 
 The general view of DOM Trader settings menu has the following subsections. Let's take a closer look at them:
 

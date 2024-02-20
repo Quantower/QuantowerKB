@@ -18,12 +18,12 @@ There are two ways to open the Chart Settings:
 
 The General view of the Chart Settings menu has several sections. Let's take a closer look at them:
 
-|                                                  |                                                        |                                                  |
-| ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| [**View**](chart-settings/view-settings.md)      | [**Visual trading**](chart-settings.md#visual-trading) | [**Volume bars**](chart-settings.md#volume-bars) |
-| [**Data style**](chart-settings/data-style.md)   | [**Order entry**](chart-settings.md#order-entry)       | **Event trading**                                |
-| [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                        | [**Hotkeys**](chart-settings.md#hotkeys)         |
-| [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings/info-window.md)       |                                                  |
+|                                                  |                                                                                                           |                                                  |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| [**View**](chart-settings/view-settings.md)      | [**Visual trading**](chart-settings.md#visual-trading)                                                    | [**Volume bars**](chart-settings.md#volume-bars) |
+| [**Data style**](chart-settings/data-style.md)   | [**Order entry**](https://help.quantower.com/quantower/analytics-panels/chart/chart-settings/order-entry) | **Event trading**                                |
+| [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                                                                           | [**Hotkeys**](chart-settings.md#hotkeys)         |
+| [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings/info-window.md)                                                          |                                                  |
 
 ## Visual trading&#x20;
 
@@ -46,14 +46,6 @@ The **Pnl** type allows you to choose to display the position in currency only f
 **Show orders**. The option allows you to enable or disable the display of work orders on the chart.&#x20;
 
 **Trade through Order entry panel**. If this option is enabled, mouse trade mode will be disabled, and when the mouse clicks on the chart, the associated order entry panel for this quote will automatically open. The mouse trade mode is the same as : clicking the right mouse button will open a panel for entering a limit order for a "Sell" deal at the marked price on the chart; click the left mouse button to open the panel for entering a limit order for a "Buy" deal at the marked price on the chart;
-
-## Order entry
-
-These are the settings of the order entry panel. The most interesting thing here is that you can set the standard number of entry orders which correspond to your risks. This is very convenient for manual trading.&#x20;
-
-[How to use the order entry panel read here](../../trading-panels/order-entry/)
-
-![](<../../.gitbook/assets/image (115).png>)
 
 **Mouse trading mode**. There are two modes available to choose from:
 

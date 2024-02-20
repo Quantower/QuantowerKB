@@ -34,5 +34,14 @@ The Order Entry sidebar settings can be accessed through:
 **Note:** This setting only works if you have set a default order size value.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/reset order to default.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/reset order to default.gif" alt=""><figcaption><p>Reset quantity to default value after the trade</p></figcaption></figure>
 
+* **Quick quantity buttons.** In the text block, you can modify existing trading buttons for quick switching between different order sizes. To add new buttons, simply enter new values using the separator “**;**”.
+
+{% hint style="success" %}
+<mark style="background-color:green;">**Tip:**</mark> You can add mathematical signs before the values to quickly increase, decrease or reset the current value in the Quantity field.
+
+![](<../../../.gitbook/assets/image (413).png>)
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/Quick quantity buttons.gif" alt=""><figcaption></figcaption></figure>

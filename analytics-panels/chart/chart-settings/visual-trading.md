@@ -10,5 +10,20 @@ The "<mark style="background-color:orange;">**Visual Trading**</mark>" setting c
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+The General Settings for the "<mark style="background-color:orange;">**Visual Trading**</mark>" category have just two options that define the mechanism for placing orders through Mouse Trading.
 
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>General settings for Visual Trading category</p></figcaption></figure>
+
+* **Trade through Order Entry.** \
+  If this option is enabled, the [<mark style="background-color:orange;">**Order Entry panel**</mark>](../../../trading-panels/order-entry/) will additionally appear when placing an order through **Mouse Trading**, allowing for possible adjustment of order parameters. By default, this option is disabled.
+
+<figure><img src="../../../.gitbook/assets/Trade through order entry.gif" alt=""><figcaption><p>Trade through Order Entry using Mouse trading</p></figcaption></figure>
+
+*   **Mouse trading mode.** \
+    There are two modes available for placing orders with the mouse:\
+
+
+    <figure><img src="../../../.gitbook/assets/mouse trading mode.png" alt=""><figcaption></figcaption></figure>
+
+    **- Single order.** In this mode, Mouse Trading will be immediately disabled after placing an order on the chart.\
+    **- Multiple orders.** In this mode, Mouse Trading will remain active after placing an order on the chart until you deactivate it on the main chart toolbar.

@@ -44,7 +44,7 @@ DOM Trader panel in Quantower
 
 Additional settings of the DOM Trader allow you to customize the general view for a convenient display of data and the panel in general. To open DOM Trader settings, click on the <mark style="background-color:green;">**Menu**</mark> button on the left upper corner and select **Settings** item.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>DOM Trader Settings</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>DOM Trader Settings</p></figcaption></figure>
 
 The general view of DOM Trader settings menu has the following subsections. Let's take a closer look at them:
 

@@ -25,7 +25,7 @@ Quantower provides **10 chart types**:
 * [**Volume**](volume-bars.md)
 * [**Reversal**](reversal-bars.md)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Chart types in Quantower</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Chart types in Quantower</p></figcaption></figure>
 
 Charts can also be represented in **6 different styles**:
 

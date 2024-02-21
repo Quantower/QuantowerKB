@@ -20,40 +20,10 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 
 |                                                  |                                                        |                                                  |
 | ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| [**View**](chart-settings/view-settings.md)      | [**Visual trading**](chart-settings.md#visual-trading) | [**Volume bars**](chart-settings.md#volume-bars) |
+| [**View**](chart-settings/view-settings.md)      | [**Visual trading**](chart-settings/visual-trading.md) | [**Volume bars**](chart-settings.md#volume-bars) |
 | [**Data style**](chart-settings/data-style.md)   | [**Order entry**](chart-settings/order-entry.md)       | **Event trading**                                |
 | [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                        | [**Hotkeys**](chart-settings.md#hotkeys)         |
 | [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings/info-window.md)       |                                                  |
-
-## Visual trading&#x20;
-
-This tab allows you to include settings to display the current position on the chart and display already completed trades.
-
-![](<../../.gitbook/assets/image (117).png>)
-
-![](<../../.gitbook/assets/image (276).png>)
-
-**Show positions**. This option allows you to enable or disable the display of current positions on the chart.
-
-![](<../../.gitbook/assets/animaciya-4- (1).gif>)
-
-The **Pnl** type allows you to choose the display of profit/loss on an open position in ticks or currency.
-
-{% hint style="info" %}
-The **Pnl** type allows you to choose to display the position in currency only for those connections where this option exists.
-{% endhint %}
-
-**Show orders**. The option allows you to enable or disable the display of work orders on the chart.&#x20;
-
-**Trade through Order entry panel**. If this option is enabled, mouse trade mode will be disabled, and when the mouse clicks on the chart, the associated order entry panel for this quote will automatically open. The mouse trade mode is the same as : clicking the right mouse button will open a panel for entering a limit order for a "Sell" deal at the marked price on the chart; click the left mouse button to open the panel for entering a limit order for a "Buy" deal at the marked price on the chart;
-
-**Mouse trading mode**. There are two modes available to choose from:
-
-**single order**. Once the order is set, the mouse trading mode is automatically disabled.
-
-**multiple orders**. Mouse trading mode will be active until it is deactivated.
-
-![](<../../.gitbook/assets/image (277).png>)
 
 ## Volume Bars
 

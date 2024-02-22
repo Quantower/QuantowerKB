@@ -25,4 +25,10 @@ The General Settings for the "<mark style="background-color:orange;">**Visual Tr
     <figure><img src="../../../.gitbook/assets/mouse trading mode.png" alt=""><figcaption><p>Mouse trading mode</p></figcaption></figure>
 
     **- Single order.** In this mode, Mouse Trading will be immediately disabled after placing an order on the chart.\
-    **- Multiple orders.** In this mode, Mouse Trading will remain active after placing an order on the chart until you deactivate it on the main chart toolbar.
+    **- Multiple orders.** In this mode, Mouse Trading will remain active after placing an order on the chart until you deactivate it on the main chart toolbar. The GIF below demonstrates an example of using the Multiple Orders mode for trading via mouse.
+
+<figure><img src="../../../.gitbook/assets/multiple orders mouse trading.gif" alt=""><figcaption><p>Multiple Orders mode for trading via mouse</p></figcaption></figure>
+
+{% hint style="success" %}
+<mark style="background-color:green;">**Tip:**</mark> By holding down the **Ctrl** key, you can place multiple orders in succession.
+{% endhint %}

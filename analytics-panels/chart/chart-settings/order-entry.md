@@ -72,3 +72,8 @@ To create multiple rows of Quick quantity buttons, you need to move the value to
 You can also specify the display of necessary buttons on the panel through the general settings.
 
 <figure><img src="../../../.gitbook/assets/trading quick buttons.png" alt=""><figcaption><p>Order Entry buttons and controls</p></figcaption></figure>
+
+### Trading buttons and controls
+
+<table><thead><tr><th width="167"></th><th></th></tr></thead><tbody><tr><td>Ask</td><td></td></tr><tr><td>Bid</td><td></td></tr><tr><td>Market</td><td>Open or close a position at the current market price.</td></tr><tr><td>Flatten</td><td>Close all orders and positions for the selected symbol.</td></tr><tr><td>Close Positions</td><td>Close all positions for the selected symbol.</td></tr><tr><td>Reverse</td><td>Reverse an existed position for the selected symbol.</td></tr><tr><td>Break even</td><td>Place a new stop order (or modify existed) at the position's opening price.</td></tr><tr><td>Adjust SL/TP</td><td></td></tr><tr><td>Cancel Orders</td><td>Cancel all stop or limit orders with a single click for the selected symbol.</td></tr><tr><td>Cancel Buy</td><td>Cancel all buy stop or buy limit orders with a single click for the selected symbol.</td></tr><tr><td>Cancel Sell</td><td>Cancel all sell stop or sell limit orders with a single click for the selected symbol.</td></tr><tr><td>Cancel Limits</td><td>Cancel all buy and sell limit orders with a single click for the selected symbol.</td></tr><tr><td>Cancel Stops</td><td>Cancel all buy and sell stop orders with a single click for the selected symbol.</td></tr></tbody></table>
+

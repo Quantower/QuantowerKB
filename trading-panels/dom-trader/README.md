@@ -40,39 +40,3 @@ To place an order via Order Entry:
 DOM Trader panel in Quantower
 {% endembed %}
 
-### Position Bar settings
-
-At the bottom of the DOM Trader is the Position Bar, which displays brief info about an open position on the current trading instrument  — the number of contracts, the average open price, current Profit/Loss and Liquidation price.
-
-![Position Bar in DOM trading](../../.gitbook/assets/dom-position-bar1.png)
-
-![Settings of position bar in DOM Trader panel](<../../.gitbook/assets/image (145).png>)
-
-### Hotkeys
-
-The quick change order amount buttons will help you to change the specified amount in one click, based on your trading strategy. **It is  starts from 1 to 9 numbers on keybord.** You can set by default any parameters you need for quick change of values. And the buttons can change not only the specified position volume, but also apply any (!!!) formulas to calculate the order volume. To set personal values for a quick change of the order, you need to go to the settings of the chart in the menu section "Order entry" and find the field "OE buttons"&#x20;
-
-This tab is for configuring your keyboard shortcuts. Here you can configure the order size with one button and place it to the market. Cancel orders and many other useful functions.
-
-![](<../../.gitbook/assets/image (146).png>)
-
-## DOM Trader Columns
-
-### Liquidity changes column (known as Pulling and Stacking)
-
-Pulling and Stacking describe the summary of the Liquidity Order Book (LOB) for Bid and Ask Side separately. Stacking shows an increasing Volume in the Order Book for the Sell-Side (Ask) or Buy-Side (Bid) and reflects therefore a supportive intention for the price to move in the corresponding direction. Whereas the Pulling shows a decrease in the Volume in the Order Book and therefore a lack of interest.
-
-### **Number of changes**
-
-It shows how many times the values have changed at a particular price level (Bids x Asks) since the panel launched.
-
-### **Cumulative changes**
-
-It shows the total volume that changed at a specific price level since the panel launched.
-
-#### _Why Number of Changes and Cumulative changes are important?_
-
-The liquidity in the Depth of market is constantly changing due to very different types of reasons. The fast changes occurring simultaneously on the bid and ask sides are very difficult to track with the naked eye. It becomes even worse when you have over 10 levels.
-
-This is the part where the number of changes and cumulative changes comes on handy. For a buy trade, you would expect to see an increasing number of changes combined to higher cumulative changes showing increasingly adding liquidity at a higher pace. Even better, would it be combined to a higher cumulative change on the ask side to the downside, showing participants eager pulling out the liquidity.
-

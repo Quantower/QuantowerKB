@@ -32,3 +32,7 @@
   **Round to:** This option rounds values after the decimal point to the specified number of decimal places.\
   \
   **Abbreviate:** This option abbreviates values to the shortest form, such as "K" for thousands, "M" for millions, etc.
+* **Sessions template**\
+  You can select one of the session templates listed, which are available by default, or those you have created through the [<mark style="background-color:orange;">Session Manager</mark>](../../../miscellaneous-panels/sessions-manager.md)**.** \
+  Sessions affect the display of volume analysis data.
+

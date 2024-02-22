@@ -12,7 +12,7 @@ Additional settings of the DOM Trader allow you to customize the general view fo
 
 The general view of DOM Trader settings menu has the following subsections. Let's take a closer look at them:
 
-<table><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><strong>View</strong></td><td><strong>VWAP</strong></td><td></td></tr><tr><td><strong>Columns</strong></td><td><strong>Positions Bar</strong></td><td></td></tr><tr><td><strong>Order Entry</strong></td><td><strong>Hotkeys</strong></td><td></td></tr></tbody></table>
+<table><thead><tr><th></th><th></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="view-settings.md"><strong>View</strong></a></td><td><a href="vwap-settings.md"><strong>VWAP</strong></a></td><td></td></tr><tr><td><a href="../dom-trader-columns.md"><strong>Columns</strong></a></td><td><a href="positions-bar.md"><strong>Positions Bar</strong></a></td><td></td></tr><tr><td><a href="order-entry.md"><strong>Order Entry</strong></a></td><td><a href="hotkeys.md"><strong>Hotkeys</strong></a></td><td></td></tr></tbody></table>
 
 
 

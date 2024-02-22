@@ -7,7 +7,7 @@ description: >-
 
 # Order Entry
 
-A strategy for adjusting SL/TP orders in case of partial execution of the main order.The Order Entry sidebar settings can be accessed through:
+The Order Entry sidebar settings can be accessed through:
 
 * [**General settings**](../chart-settings.md) in a specific trading panel (Chart, DOM trader, DOM Surface, TPO)
 * **Right-clicking** on the Order Entry sidebar -> Context menu -> Settings

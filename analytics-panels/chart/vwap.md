@@ -35,11 +35,11 @@ By clicking on the "**Gear"** icon, additional settings will open.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Additional settings for VWAP Indicator</p></figcaption></figure>
 
-<mark style="color:blue;background-color:blue;">**1. Switch between different VWAPs**</mark> and set the settings for each of them.
+**1. Switch between different VWAPs** and set the settings for each of them.
 
-Quantower platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.
-
-<mark style="color:blue;background-color:blue;">**2.**</mark> <mark style="background-color:blue;">Set the</mark> <mark style="color:blue;background-color:blue;">**Main Settings**</mark> for the VWAP line:
+Quantower platform provides 5 separate VWAPs, that can be placed simultaneously on a single chart.\
+\
+**2. Set the Main Settings** for the VWAP line:
 
 * **Data type** — sets the type of data for the VWAP calculation: **Ticks** or **Current TF.**\
   &#x20;  **Ticks** will use tick data for VWAP calculation and will take much more time for the data loading.\
@@ -47,17 +47,17 @@ Quantower platform provides 5 separate VWAPs, that can be placed simultaneously 
 * **Price Type** — select the desired price to be used in the calculation for the Current TF data type (Open, High, Low, Close, HL/2, HLC/3, OHLC/4)
 * **Period and Value** — defines the number of bars (duration) on which VWAP will be calculated
 * **VWAP line** — visual settings for VWAP itself (line style, color, thickness)
-* **Sessions template** — setting allows you to select the trading session within which VWAP will be calculated. You can select predefined sessions from the list, or add your own custom sessions. For more information about creating and configuring a session, follow the instructions in the [<mark style="background-color:blue;">**Session manager**</mark>](../../miscellaneous-panels/sessions-manager.md) section.
+* **Sessions template** — setting allows you to select the trading session within which VWAP will be calculated. You can select predefined sessions from the list, or add your own custom sessions. For more information about creating and configuring a session, follow the instructions in the [<mark style="background-color:orange;">**Session manager**</mark>](../../miscellaneous-panels/sessions-manager.md) section.
 
-3. <mark style="color:blue;background-color:blue;">**Forward Extensions**</mark> (type and number)
+3. **Forward Extensions** (type and number)
 
 <figure><img src="../../.gitbook/assets/image (1) (2) (3).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;background-color:blue;">**4. Standard Deviation Bands**</mark>
+**4. Standard Deviation Bands**
 
 When the parameter is active, the standard deviation lines up and down from VWAP will be additionally calculated on the chart. Specify the number of standard deviations in the _**"Value"**_ field and colors
 
-<mark style="color:blue;background-color:blue;">**5. Maximum Permissible Deviation (MPD)**</mark>
+**5. Maximum Permissible Deviation (MPD)**
 
 MPD is similar to the standard deviation but is calculated as (VWAP period high - VWAP period low)/2.
 

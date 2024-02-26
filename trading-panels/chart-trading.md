@@ -8,31 +8,34 @@ description: >-
 
 Placing orders on the Quantower platform can be done using various panels, such as Order Entry, DOM Trader, and Chart. In this guide, we will show you how to place orders via the Chart panel using the sidebar trading toolbar and mouse mode.
 
-### **Chart Trading Toolbar**
+***
+
+## **Chart Order Entry**
 
 * [**How to open the chart trading toolbar**](chart-trading.md#how-to-open-quick-trade-toolbar)
-* [**How to manage Quick Order Quantity buttons**](chart-trading.md#quick-change-order-amount-buttons)
+* [**How to manage Quick Quantity buttons**](chart-trading.md#how-to-manage-quick-quantity-buttons)
+* [**How to save order as the default**](chart-trading.md#how-to-save-order-as-default)
+* **How to create order templates and switch between them**
 * [**Slider to enter the volume of the position**](chart-trading.md#slider-to-enter-the-volume-of-the-position-in-dollars)
 * [**How to set up Take Profit and Stop Loss orders**](chart-trading.md#how-to-set-up-profit-and-stop-orders)
 * [**How to set up  several Take profit and Stop Loss orders for one position**](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)
 * [**A set of buttons for quick order and position management**](chart-trading.md#a-set-of-buttons-for-quick-order-and-position-management)
 
-[Quick order entry](chart-trading.md#quick-order-entry)
+## [Quick order entry](chart-trading.md#quick-order-entry)
 
 * [How to open Quick order entry](chart-trading.md#how-to-open-quick-order-entry)
 
-[Mouse visual trading](chart-trading.md#mouse-trading)
+## [Mouse trading](chart-trading.md#mouse-trading)
 
 * Chart trading mode with the mouse
 * Quick order placement through the chart area with a mouse.
 * How to set up multiple limit orders
 
-[Keyboard trading](chart-trading.md#keyboard-trading)
+## [Keyboard trading](chart-trading.md#keyboard-trading) (Hotkeys)
 
 * How to activate trading with hotkeys
-* Setting and trading from the hotkeys.
 
-## Chart Trading Toolbar
+***
 
 ### How to open the chart trading toolbar
 
@@ -43,27 +46,31 @@ The general view of Chart Trading Toolbar may differ depending on the available 
 This panel will be slightly different for crypto connections, as well as for those that do not allow to create Brackets or server-side Stop Loss / Take Profit orders. For more details about available order types for each connection, please check the [**Order Types section**](order-entry/order-types.md)
 {% endhint %}
 
-![](../.gitbook/assets/chart-trading-toolbar.gif)
+![Opening of sidebar Order Entry](../.gitbook/assets/chart-trading-toolbar.gif)
 
-### How to manage Quick Order Quantity buttons
+### How to manage Quick Quantity buttons
 
-The Quick Order Quantity buttons are designed to help you adjust the specified volume with a single click based on your trading strategy. You can set default parameters that you frequently use and need to quickly adjust the values. Additionally, these buttons can apply any formula to calculate the order volume, allowing for greater flexibility in order sizing. To personalize your Quick Order Quantity buttons, access the chart settings in the "Order Entry" menu section and locate the "OE buttons" field.
+The Quick Quantity buttons are designed to help you adjust the specified volume with a single click based on your trading strategy. You can set default parameters that you frequently use and need to adjust the values quickly. Additionally, these buttons can apply any formula to calculate the order volume, allowing greater flexibility in order sizing. To personalize your Quick Quantity buttons, access the chart settings in the "[**Order Entry**](../analytics-panels/chart/chart-settings/order-entry.md)" menu section and locate the "<mark style="background-color:orange;">**Quick buttons**</mark>" field.
 
-![](../.gitbook/assets/kolvo.jpg)
+<figure><img src="../.gitbook/assets/Quick quantity buttons (1).gif" alt=""><figcaption><p>Editing of Quick quantity buttons</p></figcaption></figure>
 
 You can set standard values of the order amount, which corresponds to your risks. This is very convenient for manual trading.
 
 {% hint style="success" %}
-Buttons can change not only to a given amount of position, but also apply any formulas
+Buttons can not only change to a given position but also apply any formulas.
 {% endhint %}
 
 ![](../.gitbook/assets/vvod-baibit-ordera-kolvo.gif)
 
-### Default volume setting
+### How to save order as default
 
-By right-clicking, you can save the default order entry settings for all symbols
+**Right-clicking** on the Order Entry sidebar -> Context menu -> <mark style="background-color:green;">**Set order as default**</mark>. This option will allow you to save the current default order settings for all symbols and all accounts.
 
-![](<../.gitbook/assets/image (230).png>)
+<figure><img src="../.gitbook/assets/image (418).png" alt=""><figcaption><p>Save order parameters as default</p></figcaption></figure>
+
+### **How to create order templates and switch between them**
+
+
 
 ### Slider to enter the volume of the position in dollars
 
@@ -102,7 +109,7 @@ Some brokers such as Binance do not allow stop orders for limit orders. (Until t
 If you execute an order at market, the specified stop parameters will retain their values and will be set immediately.
 {% endhint %}
 
-### How to set up  several Take profit and Stop Loss orders for one position
+### How to set up Multiple Take profit and Stop Loss orders for one position
 
 ![](../.gitbook/assets/animaciya-4-.gif)
 

@@ -15,7 +15,7 @@ Placing orders on the Quantower platform can be done using various panels, such 
 * [**How to open the chart trading toolbar**](chart-trading.md#how-to-open-quick-trade-toolbar)
 * [**How to manage Quick Quantity buttons**](chart-trading.md#how-to-manage-quick-quantity-buttons)
 * [**How to save order as the default**](chart-trading.md#how-to-save-order-as-default)
-* **How to create order templates and switch between them**
+* [**How to create order templates and switch between them**](chart-trading.md#how-to-create-order-templates-and-switch-between-them)
 * [**Slider to enter the volume of the position**](chart-trading.md#slider-to-enter-the-volume-of-the-position-in-dollars)
 * [**How to set up Take Profit and Stop Loss orders**](chart-trading.md#how-to-set-up-profit-and-stop-orders)
 * [**How to set up  several Take profit and Stop Loss orders for one position**](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)
@@ -70,7 +70,19 @@ Buttons can not only change to a given position but also apply any formulas.
 
 ### **How to create order templates and switch between them**
 
+To create order templates and switch between them, you can follow these steps:
 
+* **Configure Order**: Set up the order according to your preferred parameters, such as quantity, TIF, and Breckets mode with SL/TP.
+* **Save as Template**: Right-clicking on the Order Entry sidebar -> Context menu -> <mark style="background-color:green;">**Save order template**</mark>.
+* **Name Your Template:** Choose a clear name that helps you remember the specifics of this template for future use.\
+  As soon as you save the template, it will immediately be added to the dropdown menu list. You can create multiple templates with parameters tailored to different trading symbols or market conditions.
+
+<figure><img src="../.gitbook/assets/save order as template (1).png" alt=""><figcaption><p>Save order template on the chart order entry sidebar</p></figcaption></figure>
+
+* **Switching Between Templates**: When placing a new order, you can select any of your saved templates, and the order parameters will automatically adjust to match the template you chose.\
+  Click on the necessary template and <mark style="background-color:green;">**Apply**</mark> it.
+
+<figure><img src="../.gitbook/assets/applying the template.png" alt=""><figcaption><p>Applying the neccesary order template</p></figcaption></figure>
 
 ### Slider to enter the volume of the position in dollars
 
@@ -129,6 +141,8 @@ This example is for connecting a CQG/AMP
 ![](<../.gitbook/assets/image (292).png>)
 
 2\.  Next comes a large block of functions for managing the current position. You can delete or limit orders or stops. You can also reverse your position with one button or set it to no loss. These are very functional buttons, do not miss them.
+
+***
 
 ## Quick order entry
 

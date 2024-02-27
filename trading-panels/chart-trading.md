@@ -84,6 +84,11 @@ To create order templates and switch between them, you can follow these steps:
 
 <figure><img src="../.gitbook/assets/applying the template.png" alt=""><figcaption><p>Applying the neccesary order template</p></figcaption></figure>
 
+* **Edit if Necessary**: After applying a template, you can still make adjustments to the order parameters if needed before placing the order.
+* **Managing Templates**: You can edit existing templates, rename, delete them, or replace already exist.&#x20;
+
+<figure><img src="../.gitbook/assets/Replace order template.png" alt=""><figcaption><p>Replacing of existing order template</p></figcaption></figure>
+
 ### Slider to enter the volume of the position in dollars
 
 There are two ways to enter the quantity of a position&#x20;

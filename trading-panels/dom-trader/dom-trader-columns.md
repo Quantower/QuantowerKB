@@ -10,7 +10,7 @@ You can choose which columns to display in the DOM Trader panel by activating th
 
 **Bids/Asks**
 
-<mark style="color:orange;">**Bids**</mark> <mark style="color:orange;"></mark><mark style="color:orange;"></mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">(optional)</mark>_
+<mark style="color:orange;">**Bids**</mark> _<mark style="color:orange;">(optional)</mark>_
 
 <mark style="color:orange;">**Asks**</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">(optional)</mark>_
 
@@ -20,11 +20,11 @@ You can choose which columns to display in the DOM Trader panel by activating th
 
 <mark style="color:orange;">**Sell**</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">(optional)</mark>_
 
-****[**Liquidity changes**](dom-trader-columns.md#liquidity-changes-column-known-as-pulling-and-stacking)****
+[**Liquidity changes**](dom-trader-columns.md#liquidity-changes-column-known-as-pulling-and-stacking)
 
-****[**Number of changes**](dom-trader-columns.md#number-of-changes)****
+[**Number of changes**](dom-trader-columns.md#number-of-changes)
 
-****[**Cumulative changes**](dom-trader-columns.md#cumulative-changes)****
+[**Cumulative changes**](dom-trader-columns.md#cumulative-changes)
 
 **Comments**
 
@@ -34,9 +34,9 @@ You can choose which columns to display in the DOM Trader panel by activating th
 
 **Ask trade Size**
 
-****[**Cumulative Size**](dom-trader-columns.md#cumulative-size)****
+[**Cumulative Size**](dom-trader-columns.md#cumulative-size)
 
-****[**Imbalance**](dom-trader-columns.md#imbalance)****
+[**Imbalance**](dom-trader-columns.md#imbalance)
 
 **Profit & Loss**
 
@@ -50,12 +50,22 @@ Pulling and Stacking describe the summary of the Liquidity Order Book (LOB) for 
 
 ![](<../../.gitbook/assets/image (34) (3).png>)
 
-### **Number of changes**
+**Price.** \
+The price scale displays the current price of an instrument. There can be placed: **Best Bid/Offer, Last, High, Low, VWAP.**
 
+**Bids.**\
+Displays the quantities of the current buy orders at the given price.
+
+**Asks.**\
+Displays the quantities of the current sell orders at the given price.
+
+
+
+\
+**Number of changes.**\
 It shows how many times the values have changed at a particular price level (Bids x Asks) since the panel launched.
 
-### **Cumulative changes**
-
+**Cumulative changes**\
 It shows the total volume that changed at a specific price level since the panel launched.
 
 #### _Why Number of Changes and Cumulative changes are important?_
@@ -64,10 +74,8 @@ The liquidity in the Depth of market is constantly changing due to very differen
 
 This is the part where the number of changes and cumulative changes comes on handy. For a buy trade, you would expect to see an increasing number of changes combined with higher cumulative changes showing increasingly adding liquidity at a higher pace. Even better, would it be combined with a higher cumulative change on the ask side to the downside, showing participants eager pulling out the liquidity.
 
-### **Cumulative Size**&#x20;
-
+**Cumulative Size**\
 It shows the sum of Limit order volumes for each subsequent level. This histogram allows estimating the dominating side of the market.
 
-### **Imbalance**&#x20;
-
+**Imbalance**\
 It shows how many percents of buyers are more than sellers (and vice versa) for each price level.

@@ -6,11 +6,11 @@ description: >-
 
 # Chart Trading
 
-Placing orders on the Quantower platform can be done using various panels, such as Order Entry, DOM Trader, and Chart. In this guide, we will show you how to place orders via the Chart panel using the sidebar trading toolbar and mouse mode.
+Placing orders on the Quantower platform can be done using various panels, such as Order Entry, DOM Trader, and Chart. In this guide, we will show you how to place orders via the **Chart panel** using the sidebar trading toolbar and **mouse mode**.
 
 ***
 
-## **Chart Order Entry**
+## <mark style="color:blue;">**Chart Order Entry**</mark>
 
 * [**How to open the chart trading toolbar**](chart-trading.md#how-to-open-quick-trade-toolbar)
 * [**How to manage Quick Quantity buttons**](chart-trading.md#how-to-manage-quick-quantity-buttons)
@@ -23,17 +23,17 @@ Placing orders on the Quantower platform can be done using various panels, such 
 
 ## [Quick order entry](chart-trading.md#quick-order-entry)
 
-* [How to open Quick order entry](chart-trading.md#how-to-open-quick-order-entry)
+* [**How to open Quick order entry**](chart-trading.md#how-to-open-quick-order-entry)
 
 ## [Mouse trading](chart-trading.md#mouse-trading)
 
-* Chart trading mode with the mouse
-* Quick order placement through the chart area with a mouse.
-* How to set up multiple limit orders
+* **Chart trading mode with the mouse**
+* **Quick order placement through the chart area with a mouse.**
+* **How to set up multiple limit orders**
 
 ## [Keyboard trading](chart-trading.md#keyboard-trading) (Hotkeys)
 
-* How to activate trading with hotkeys
+* **How to activate trading with hotkeys**
 
 ***
 

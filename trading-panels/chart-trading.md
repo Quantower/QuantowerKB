@@ -13,6 +13,7 @@ Placing orders on the Quantower platform can be done using various panels, such 
 ## <mark style="color:blue;">**Chart Order Entry**</mark>
 
 * [**How to open the chart trading toolbar**](chart-trading.md#how-to-open-quick-trade-toolbar)
+* [**How to place orders from the chart**](chart-trading.md#how-to-place-orders-from-the-chart)
 * [**How to manage Quick Quantity buttons**](chart-trading.md#how-to-manage-quick-quantity-buttons)
 * [**How to save order as the default**](chart-trading.md#how-to-save-order-as-default)
 * [**How to create order templates and switch between them**](chart-trading.md#how-to-create-order-templates-and-switch-between-them)
@@ -21,15 +22,15 @@ Placing orders on the Quantower platform can be done using various panels, such 
 * [**How to set up  several Take profit and Stop Loss orders for one position**](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)
 * [**A set of buttons for quick order and position management**](chart-trading.md#a-set-of-buttons-for-quick-order-and-position-management)
 
-## [Quick order entry](chart-trading.md#quick-order-entry)
-
-* [**How to open Quick order entry**](chart-trading.md#how-to-open-quick-order-entry)
-
 ## [Mouse trading](chart-trading.md#mouse-trading)
 
 * **Chart trading mode with the mouse**
 * **Quick order placement through the chart area with a mouse.**
 * **How to set up multiple limit orders**
+
+## [Quick order entry](chart-trading.md#quick-order-entry)
+
+* [**How to open Quick order entry**](chart-trading.md#how-to-open-quick-order-entry)
 
 ## [Keyboard trading](chart-trading.md#keyboard-trading) (Hotkeys)
 
@@ -47,6 +48,16 @@ This panel will be slightly different for crypto connections, as well as for tho
 {% endhint %}
 
 ![Opening of sidebar Order Entry](../.gitbook/assets/chart-trading-toolbar.gif)
+
+### How to place orders from the chart
+
+Quantower enables the placement of various types of orders with just one click. To do this, you must first select the trading account, order size, and send your order using the quick trade buttons.
+
+<figure><img src="../.gitbook/assets/placing an order.png" alt=""><figcaption><p>Placing Market order with quick trading buttons</p></figcaption></figure>
+
+You can also send **Limit** or **Stop** orders using the <mark style="background-color:green;">**Mouse trading mode**</mark>.
+
+Before sending an order, you can configure the Brackets mode (not all connections support this mode).
 
 ### How to manage Quick Quantity buttons
 

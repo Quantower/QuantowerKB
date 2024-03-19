@@ -18,4 +18,4 @@ Actually, this indicator is quite straightforward since it displays a specific p
 
 If notifications are enabled for this indicator, you'll see them in the Alerts Log panel.
 
-<figure><img src="../../../../.gitbook/assets/image (382).png" alt=""><figcaption><p>Alerts Log panel with signals from Volume Reversal indicator</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Alerts Log panel with signals from Volume Reversal indicator (1).png" alt=""><figcaption><p>Alerts Log panel with signals from Volume Impulse indicator</p></figcaption></figure>

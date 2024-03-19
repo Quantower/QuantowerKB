@@ -4,7 +4,7 @@ description: >-
   features. Prices are available on our official website
 ---
 
-# 🔑 License Comparison
+# ⚖️ License Comparison
 
 We provide the most popular trading & analytics features for free, but some valuable and market-specific features are available under the paid License.
 

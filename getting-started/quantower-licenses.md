@@ -2,6 +2,17 @@
 description: >-
   We offer a user with a Free license, two packages as well as licenses for
   separate features.
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Quantower Licenses
@@ -9,7 +20,7 @@ description: >-
 We deliver the most popular trading and analytics functionality for free, but some valuable and market-specific features are available under the paid License.
 
 {% hint style="info" %}
-In case of any problems with your Quantower Account or License purchase — please [contact our Support team](https://www.quantower.com/contact-us)
+If you have any questions regarding your Quantower Account or License purchase, please [contact our Support team](https://www.quantower.com/contact-us).
 {% endhint %}
 
 To use any paid License, the trader needs to have an active [Quantower Account](quantower-account.md). If you don’t have one, you can create it during your License purchase process.
@@ -18,7 +29,7 @@ To use any paid License, the trader needs to have an active [Quantower Account](
 
 ## All-in-one license
 
-We have two great options to suit your trading needs. Our completely **free version** gives you access to all the fundamental trading tools you need, while our **all-in-one license** provides you with all the advanced features you need to take your trading to the next level. Choose the option that suits you best, and start trading with confidence today!&#x20;
+We offer two great choices for your trading requirements. Our **free version** includes all the basic tools you need, while our **all-in-one license** comes with advanced features for improved trading. Pick the one that suits you best and start trading with confidence today!
 
 ![](../.gitbook/assets/Screenshot\_1.png)
 
@@ -34,19 +45,21 @@ Our **All-in-one license** is equipped with all the necessary tools for professi
 
 ## Free usage
 
-### Just a Free version
+### Free Edition (without registration)
 
 There are three ways of using the Quantower totally FREE. The easiest one is to download the application and start using it. In this case, you will get a limited version but still allow trading and data analysis. In general, limitations are:
 
 * Two indicators per chart
 * One symbol overlay per chart
-* one active connection to any broker, data feed, or exchange
+* One active connection to any broker, data feed, or exchange
 
 {% hint style="info" %}
 Refer to the detailed table to learn more about [comparing the licenses](license-comparison.md).
 {% endhint %}
 
-### 7-day Trial period
+Quantower can be operated indefinitely in this specific mode, allowing users to leverage its features without any time constraints.
+
+### 7-day full-featured Trial period
 
 To access all the features of the All-in-one version of Quantower, you can take advantage of the 7-day trial period. To do this, you must [register for a free Quantower account](quantower-account.md) and log in via the application. Once you confirm your account via email, the trial period will be automatically granted.
 
@@ -58,34 +71,48 @@ If you want to purchase specific pro features instead of paying for the entire p
 
 <figure><img src="../.gitbook/assets/Screenshot_2.png" alt=""><figcaption><p>The way to customize your pro-features set for Quantower</p></figcaption></figure>
 
-## License purchase
-
-If you would like to upgrade your Free license, go to our [Pricing page](https://www.quantower.com/pricing), choose the necessary license, it's period and click on the **BUY** button.
-
-The purchase process starts with the authorization in the Quantower service. Use your email and password to Sign in to the account. If you don’t have one yet, follow the instructions on [Quantower Account manual](quantower-account.md). Just after you successfully Log in, you will be redirected to the purchase Cart.
-
-Purchase cart contains the previously selected License type, term of validity and final Price. You can modify the term of validity to any desired option.
-
-The next step is to select a payment provider and press the **Pay** button.
-
-{% hint style="success" %}
-Also, you can make payments in cryptocurrencies or use direct bank transfers. To do it contact our support team.
-{% endhint %}
-
-![Order payment for Quantower license](../.gitbook/assets/orderpayment-quantower-google-chrome-2019-05-16-11.24.10.png)
-
-After that, you will be redirected to the provider’s payment page. Once you complete all the payment steps, you will be redirected back to the confirmation page of Quantower Accounts. Follow the **GO TO DASHBOARD** link to get to your Quantower Account dashboard, where you should see you current Core License information and Payment transactions history.
-
 ## License terms
 
-Currently, all licenses can be purchased for a 1-month term minimum. You can also get any Quantower paid License for the LIFETIME period — [contact our support](https://www.quantower.com/contact-us) for this.
+You can purchase a license for as little as one month or a longer term of three months, six months, one year, or even a lifetime. This allows you to select the duration best suited to your requirements. The one-month license is ideal as a trial, while the longer-term licenses are perfect for ongoing access.&#x20;
+
+### Lifetime term
+
+A lifetime term gives you access to an All-in-one license or a particular feature license for the duration of the Quantower terminal's existence, including all future updates and functionalities covered by the license.
+
+With a lifetime license, you can enjoy uninterrupted access to our Quantower without worrying about renewals or additional payments.
+
+## How to Purchase a License on Quantower
+
+#### Selecting a License
+
+1. **Navigate to the** [**Pricing page**](https://www.quantower.com/pricing)**.** Here, you can upgrade your Free license.
+2. **Choose your preferred license and its duration.** Click the **BUY** button to proceed.
+
+#### Logging In
+
+3. **Log into the Quantower service.** Use your email and password for authorization. If you're a new user, follow the onsite [instructions to create an account](quantower-account.md#account-creation).
+
+#### Finalizing Your Purchase
+
+4. **Review your purchase cart.** It will display your selected license type, term of validity, and total price. You can adjust the term of validity at this point if you wish.
+5. **Select a payment provider.** Click the **Pay** button corresponding to your chosen provider to complete the payment process.
+
+After successfully logging in and making your selection, you will be redirected to the purchase cart to finalize your purchase.
+
+![Order payment for Quantower license](../.gitbook/assets/paymentCart.png)
+
+{% hint style="success" %}
+You can make payments through direct bank transfers. Please [contact our support team](https://www.quantower.com/contact-us) for further details.
+{% endhint %}
+
+After completing the payment on the provider's page, you will be redirected back to the Quantower Accounts confirmation page. To access your Quantower Account dashboard, click on the **GO TO DASHBOARD** link. Here, you'll find your Core License details and a history of your payment transactions.
 
 ![Status of your licenses in Account dashboard](../.gitbook/assets/account-dashboard-quantower.png)
 
 ## Quick tips on License purchase
 
-* A free License is valid ALL THE TIME while your Quantower Account is active.
-* Any paid License is active from the purchase date till the end date (“Available till”).
-* Once your paid License is expired, the Account will be automatically downgraded to the Free License.
-* Every new purchase for the similar license type extends the “Available till” date on the purchasing term.
-* Subscription and automatic payments are currently unavailable.
+* Your Quantower Account comes with a free license that remains valid as long as your account is active.
+* Any paid license remains active from the purchase date until the end date, also known as the "Available till" date.
+* After the paid license expires, the account will be automatically downgraded to the free license level.
+* Every additional purchase of a similar license type extends the "Available till" date of the existing license.
+* Currently, it is impossible to subscribe or make automatic payments.

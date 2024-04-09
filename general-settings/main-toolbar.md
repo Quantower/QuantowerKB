@@ -16,15 +16,15 @@ Main Toolbar technically is a panel, but behaves something differently: it can b
 
 In this guide you will learn about the next functionalities:
 
-* ****[**How to customize the Main Toolbar**](main-toolbar.md#customization-of-main-toolbar)****
-* ****[**Main menu with all panels**](main-toolbar.md#sidebar)****
-* ****[**How to add Favorite Panels on the Toolbar**](main-toolbar.md#favorite-panels)****
-* ****[**How to Lock Trading**](main-toolbar.md#lock-trading)****
-* ****[**How to create and manage your Workspaces**](main-toolbar.md#workspaces-manager)****
-* ****[**Managing trading connections**](main-toolbar.md#favorite-connections)****
-* ****[**Sidebar with all Notifications**](main-toolbar.md#notifications-center)****
-* ****[**Platform's General Settings**](main-toolbar.md#general-settings)****
-* ****[**Time & Time Zones**](main-toolbar.md#time-and-time-zones)****
+* [**How to customize the Main Toolbar**](main-toolbar.md#customization-of-main-toolbar)
+* [**Main menu with all panels**](main-toolbar.md#sidebar)
+* [**How to add Favorite Panels on the Toolbar**](main-toolbar.md#favorite-panels)
+* [**How to Lock Trading**](main-toolbar.md#lock-trading)
+* [**How to create and manage your Workspaces**](main-toolbar.md#workspaces-manager)
+* [**Managing trading connections**](main-toolbar.md#favorite-connections)
+* [**Sidebar with all Notifications**](main-toolbar.md#notifications-center)
+* [**Platform's General Settings**](main-toolbar.md#general-settings)
+* [**Time & Time Zones**](main-toolbar.md#time-and-time-zones)
 
 Due to the fact that Toolbar is the main controlling panel it has the ability to collapse all platform’s interface by clicking the “_**Minimize**_” icon. This action makes all application panels collapse to the taskbar and literally disappear from your screens; it affects all panels on all screens.
 
@@ -111,21 +111,9 @@ You can remove a connection from Favorites by right-clicking on it and selecting
 
 ### Notifications center
 
-Most actions during the platform use generate various notifications. There can be system notifications (some connection problems or errors) and Deal tickets.&#x20;
+Most actions during the platform use generate various notifications. There can be system notifications (some connection problems or errors) and Deal tickets. [More info about Notifications center](notifications-center.md)
 
-The **Deal tickets** — are the notifications about the trading operations. Each time you create an order or opening a new position — we will create a deal ticket for this.&#x20;(you can [disable deat tickets in general settings](general-settings-1.md#confirmations))
-
-While some trading actions may be done in one click at the first sight, they usually consist of several related operations, each of them will be displayed via the Deal tickets. That is why you can see much more items in Notifications center than you did actions.&#x20;
-
-The **Notifications center** — is the place where all notifications are stored in one list. You can open that list by clicking the Notifications icon in Control center.&#x20;
-
-![Notifications center](<../.gitbook/assets/image (77).png>)
-
-When you have a set of new notifications, the small number will appear in the left top corner of Notification center icon. It displays how many unread notifications you have. Once you open the list — it understands that you have read them and the number will disappear.&#x20;
-
-You will see all notifications just from the platform start. You may also clear this list by clicking the “_**Clear all**_” link. This action will hide all of the currently seen notifications from this list (but they will be still available in Event Log panel).
-
-By clicking one of the notifications you will see the window with the detailed info.
+<figure><img src="../.gitbook/assets/Group 13706.png" alt=""><figcaption></figcaption></figure>
 
 ### General settings
 

@@ -48,3 +48,11 @@ You can manage your account after registration in your personal cabinet — [htt
 ## Account removal
 
 You can apply for removing your account by contacting Quantower Support via any applicable way: [https://www.quantower.com/contact-us](https://www.quantower.com/contact-us).
+
+{% hint style="success" %}
+<mark style="color:green;">**You can keep your Quantower account for future use without any worries**</mark>
+
+Please note that your <mark style="color:blue;">**Quantower account does not require any subscription fee**</mark>, as we do not have a subscription-based billing system for Quantower licenses. This means that any features you have purchased earlier will remain available under your account until the end of the term period and will not be automatically prolonged. Therefore, <mark style="color:blue;">**you will not be obligated to pay if you choose not to extend the period**</mark> of the paid feature usage.&#x20;
+
+You can keep your account for as long as you like without needing to remove or cancel it to avoid unintended billing. Remember, you can always use Quantower for free.
+{% endhint %}

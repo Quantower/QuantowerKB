@@ -74,7 +74,7 @@ This error occurs when you were able to connect to your account, but at the mome
 
 Sometimes users may encounter an issue of not having a trading account. Even though the platform connection is successful and the market data subscription is active, trading operations are not possible.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
 
 Most likely, your account is not fully activated. We recommend reaching out to Topstep support to resolve this matter. They will be able to assist you and ensure your account is fully activated for trading.
 
@@ -82,7 +82,7 @@ Most likely, your account is not fully activated. We recommend reaching out to T
 
 This is a standard alert from Rithmic's risk management system indicating that you have exceeded the allowed number of orders for trading. To view all limitations on your trading account, please refer to the [**Account Information**](../informational-panels/account-info.md) panel.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 For additional details on the permitted number of contracts for each account size, you can visit Topstep's website at [this link](https://intercom.help/topstep-llc/en/articles/8284209-what-does-maximum-position-size-mean).
 
@@ -93,7 +93,7 @@ More details you can find on Topstep's help base:\
 &#x20; **-** [**What is the Daily Loss Limit and what happens if I exceed it?**](https://intercom.help/topstep-llc/en/articles/8284207-what-is-the-daily-loss-limit-and-what-happens-if-i-exceed-it)\
 &#x20; **-** [**What is the Maximum Loss Limit?**](https://intercom.help/topstep-llc/en/articles/8284204-what-is-the-maximum-loss-limit)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 In some cases, Quantower platform may accept, execute, and then immediately close your order. This can occur due to specific settings in your Topstep account and may indicate that your account has reached a drawdown limit. It is recommended to check the error status in the Rtrader Pro platform for more detailed insights into this issue.
@@ -193,7 +193,7 @@ This happens because Rithmic conducts technical maintenance or updates during th
 
 Once you set your SL (Stop Loss) and TP (Take Profit) parameters, every market or limit order placed from the chart will be sent with these bracket orders. This ensures that your trades are automatically managed according to your predefined risk/reward parameters.
 
-![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 </details>
 
@@ -229,6 +229,6 @@ Before activating a cluster chart, you need to enable the Volume Analysis Toolba
 \
 [_**More details you can find in this guide**_](https://help.quantower.com/quantower/analytics-panels/chart/volume-analysis-tools/cluster-chart)
 
-<img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>

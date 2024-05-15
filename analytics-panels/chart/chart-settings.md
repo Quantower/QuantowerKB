@@ -10,7 +10,7 @@ There are two ways to open the Chart Settings:
 
 **1)** Click on the '<mark style="background-color:blue;">**Menu**</mark>' button in the top left corner and select the '<mark style="background-color:blue;">**Settings**</mark>' option.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Open Chart Settings via main menu button</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Open Chart Settings via main menu button</p></figcaption></figure>
 
 **2)** Right-click on the chart and select the '<mark style="background-color:blue;">**Settings**</mark>' option.
 

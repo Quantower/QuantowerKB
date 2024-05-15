@@ -25,7 +25,7 @@ To connect Quantower to a broker that uses Rithmic technology, it is sufficient 
 * _<mark style="background-color:orange;">**{Optionaly}**</mark>_ Click on **Connection Settings** and **activate Use RTrader** option to avoid additional fees for subscription to market data. Below, you can find more information on [how to connect and trade with an account via **Plugin Mode**](./#connection-via-plugin-mode).
 * Enter your login and password and click **Connect.**
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Enter login data for connection to Rithmic</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Enter login data for connection to Rithmic</p></figcaption></figure>
 
 {% hint style="info" %}
 Starting from May 1, the [CME exchange сhanged the rules for determining a professional market participant](http://yyy3.rithmic.com/?p=1069), and as a result, increased the fee for the market data. In order to correctly define the professional participant, Ritmic has changed the connection parameters in their platform, as well as in API for platforms such as Quantower.
@@ -70,7 +70,7 @@ Also, note that the Plugin Mode allows you to connect multiple different platfor
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Enable Market by Order MBO data for Rithmic in Quantower platform</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Enable Market by Order MBO data for Rithmic in Quantower platform</p></figcaption></figure>
 
 </div>
 

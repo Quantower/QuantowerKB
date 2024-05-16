@@ -6,7 +6,11 @@ description: Basic settings and features for charts in Quantower
 
 The chart panel is one of the most important panel for an active trader. Accurate market data, graphical and analytical tools are integral components of the panel, which allow you to make the right trading decisions.
 
+<div data-full-width="true">
+
 <figure><img src="../../.gitbook/assets/chart_basic.png" alt=""><figcaption><p>Main parts of Chart panel in Quantower</p></figcaption></figure>
+
+</div>
 
 The chart panel can be divided into 5 parts:
 
@@ -33,11 +37,31 @@ The top toolbar allows you to select a trading instrument, set the chart type an
 
 ![Primary or Top toolbar with the main controls](<../../.gitbook/assets/image (130).png>)
 
+## Chart area controls
+
+The main part of the Chart panel that contains the diagram itself plus a set of analytical overlays. There are some common controls on a chart area as follows:
+
+* Price scale centering mode. There are four modes of price scale adaptation:
+  * &#x20;<mark style="background-color:blue;">**Auto**</mark>** ** - keeps the visible part of chart diagram in viewport
+  * &#x20;<mark style="background-color:blue;">**Auto centered**</mark> - the same as auto, but the last price is always in the middle of the viewport
+  * &#x20;<mark style="background-color:blue;">**Keep in view**</mark> - keeps the last price from leaving the viewport
+  * &#x20;<mark style="background-color:blue;">**Manual**</mark> - no automation, keeps the user's specified position
+
+Once you drag the chart diagram within the viewport, the price scale mode changes to Manual. Right-click on the price scale to access all available options.
+
+<mark style="color:green;">**Time to the next bar**</mark> shows the time remaining until the next bar appears.
+
+The "<mark style="color:green;">**Snap to Last**</mark>" button only appears when you have scrolled your chart time to the left (past history). It lets you quickly scroll your viewport to the very last bar and snap time scrolling to every last bar that will appear in the future. The margin between the last bar and the Price scale can be adjusted in the chart settings.
+
+<figure><img src="../../.gitbook/assets/Frame 38.png" alt=""><figcaption><p>Chart area common controls</p></figcaption></figure>
+
+
+
 ## Sidebar menu with Drawings, Indicators, Overlays
 
 The sidebar menu allows you to add an indicator to the chart, a drawing tool or an overlay, and also manage all objects through the object manager.
 
-![An overview of Sidebar menu with indicators, drawings and overlays](../../.gitbook/assets/chart-sidebar-menu.png)
+![An overview of Sidebar menu with indicators, drawings and overlays](<../../.gitbook/assets/Group 13711.png>)
 
 For traders who often refer to certain drawings, there is an option to fix them on the Sidebar. For this, near each drawing there is a "Star" icon, upon activation of which you add them to the Favorite List.
 

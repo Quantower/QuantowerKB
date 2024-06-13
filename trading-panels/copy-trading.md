@@ -63,6 +63,20 @@ In a **Percentage mode**, the bot will calculate the quantity relative to the Pa
 
 Once we set up all of the Bot settings, click the Save button. Now we see that the new Copy trading bot appeared in the Bots list section.
 
+## Create a Copy-Bot for various connections
+
+Starting from version 1.140.1, the Quantower trading platform has enabled the copying of trades and orders from one connection to another. Let's look at an example of creating a bot to copy trades between CQG and Rithmic.
+
+<figure><img src="../.gitbook/assets/image (425).png" alt=""><figcaption></figcaption></figure>
+
+* Specify the Parent Account (in our case, CQG).
+* Add the Child Account (Rithmic).
+* Configure the symbol mapping. Indicate the trading symbol for the parent account. Then, specify the symbol for the child account where the orders and positions will be copied.
+
+<figure><img src="../.gitbook/assets/image (426).png" alt=""><figcaption></figcaption></figure>
+
+* Once you have configured the symbol mapping between the accounts, you can start trading.
+
 Copy-Bots management
 
 

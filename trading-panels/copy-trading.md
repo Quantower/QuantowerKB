@@ -6,9 +6,14 @@ description: >-
 
 # Copy Trading
 
+* **Create a Copy-bot for similar connections**
+* **Create a Copy-Bot for various connections**
+* **Copy-Bots management**
+* **Visual control**
+
 One of the frequent questions from our community is: how to Copy trading between multiple accounts? Such functionality can be very useful for proprietary trading companies and managers with multiple accounts who use Quantower as their trading tool.
 
-## **Introduction**
+## **General information**
 
 The panel performs trading operations and thus can be found in the "<mark style="background-color:green;">**Trading**</mark>" group of the Quantower main menu.
 
@@ -31,7 +36,7 @@ Before you start creating your first Copy-bot, please notice the following infor
 
 {% embed url="https://youtu.be/qIE2BxBvuJo" %}
 
-## Create a Copy-bot
+## Create a Copy-bot for similar connections
 
 Once you open a Copy trading panel, you will find the Bots management screen, divided into “Bots list” and “Logs”. Let’s create a new copy trading bot. To do this, click on the Plus button on the panel’s toolbar, and you will see the “New copy trading bot” screen appear.
 
@@ -39,7 +44,7 @@ Once you open a Copy trading panel, you will find the Bots management screen, di
 
 Here you should name your bot and specify Parent connection (account) to set up where to copy trades from. Now we should add dependent connections by pressing the Plus button next to the “Child connections” label. Each new item line in the following table represents a Child connection that will copy all trading activities from the Parent.&#x20;
 
-### Add multi accounts for the same connect&#xD;
+### Add multiple accounts for the same connect&#xD;
 
 Now we should specify the dependent connection and account. To add another account for the same connection in Quantower, you should go to Connections manager, duplicate the required connection, rename it optionally, and log in with another account credentials. You may repeat this action for as many accounts as you need. Later you will see all these accounts in Child connections settings.
 

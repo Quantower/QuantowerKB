@@ -6,10 +6,10 @@ description: >-
 
 # Copy Trading
 
-* **Create a Copy-bot for similar connections**
-* **Create a Copy-Bot for various connections**
-* **Copy-Bots management**
-* **Visual control**
+* [**Create a Copy-bot for similar connections**](copy-trading.md#create-a-copy-bot-for-similar-connections)
+* [**Create a Copy-Bot for various connections**](copy-trading.md#create-a-copy-bot-for-various-connections)
+* [**Copy-Bots management**](copy-trading.md#copy-bots-management)
+* [**Visual control**](copy-trading.md#visual-control)
 
 One of the frequent questions from our community is: how to Copy trading between multiple accounts? Such functionality can be very useful for proprietary trading companies and managers with multiple accounts who use Quantower as their trading tool.
 

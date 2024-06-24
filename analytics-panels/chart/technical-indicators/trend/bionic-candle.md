@@ -7,7 +7,7 @@ description: >-
 # Bionic Candle
 
 {% hint style="info" %}
-**IMPORTANT:** The developer is responsible for providing technical support for the indicator. If you have any questions, please contact the developer via email at bionics@gmx.de.
+**IMPORTANT:** The developer is responsible for providing technical support for the indicator. If you have any questions, please contact the developer via email at **bionics@gmx.de**.
 {% endhint %}
 
 ## Introduction

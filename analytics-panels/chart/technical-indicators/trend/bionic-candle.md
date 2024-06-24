@@ -6,6 +6,10 @@ description: >-
 
 # Bionic Candle
 
+{% hint style="info" %}
+**IMPORTANT:** The developer is responsible for providing technical support for the indicator. If you have any questions, please contact the developer via email at bionics@gmx.de.
+{% endhint %}
+
 ## Introduction
 
 The candle chart, Renko chart, and Heiken Ashi chart, developed in Japan over 250 years ago, reached Europe and the USA in 1989. In 2018, a German algorithmic trader developed the Bionic Candle, as traditional candle charts no longer meet modern stock market needs. The Bionic Candle is free for private traders but is copyrighted and cannot be marketed commercially.

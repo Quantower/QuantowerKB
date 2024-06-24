@@ -121,6 +121,7 @@
         * [Balance of Power (BOP)](analytics-panels/chart/technical-indicators/oscillators/balance-of-power-bop.md)
         * [Commodity Channel Index](analytics-panels/chart/technical-indicators/oscillators/commodity-channel-index.md)
       * [Trend](analytics-panels/chart/technical-indicators/trend/README.md)
+        * [Bionic Candle](analytics-panels/chart/technical-indicators/trend/bionic-candle.md)
         * [Average Directional Movement Index (ADX) Indicator](analytics-panels/chart/technical-indicators/trend/average-directional-movement-index-adx-indicator.md)
         * [Ichimoku Cloud Indicator](analytics-panels/chart/technical-indicators/trend/ichimoku-indicator.md)
         * [Directional Movement Index (DMI) Indicator](analytics-panels/chart/technical-indicators/trend/directional-movement-index-dmi-indicator.md)

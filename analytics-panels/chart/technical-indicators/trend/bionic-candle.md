@@ -29,3 +29,11 @@ The Bionic Candle provides a more precise representation of candle strength and 
 ## Analysis and interpretation
 
 A traditional candle chart provides four data points (Open, High, Low, Close - OHLC), with the high and low being the same for both bullish and bearish candles. In a bullish candle, the close is above the open, and in a bearish candle, it's the opposite. Candle formations once provided important information, but their relevance has decreased with algorithmic trading. Traditional candle charts rate wicks neutrally and use the candle body to represent strength, which is often inaccurate. The Bionic Candle shows actual strength up to seven times more accurately. It uses only two sequences, saving time by requiring 33% fewer movements to analyze. Interestingly, traders focus more on the open than the close, even though the close is more recent. Therefore, the Bionic Candle omits the open. The decline from the high to the close of a bullish candle and from the low to the close of a bearish candle is crucial for predicting future price trends.
+
+<figure><img src="../../../../.gitbook/assets/image (427).png" alt=""><figcaption><p>Key elements of Bionic Candle chart</p></figcaption></figure>
+
+## How to add the Bionic Candle in Quantower
+
+To add the Bionic Candle indicator to your chart, open the indicators window and type the name in the search bar. Double-click on the indicator name to add it to your chart. This will immediately open the indicator settings window, where you can customize the colors to your preference. By default, the colors are set according to the author's recommendations.
+
+<figure><img src="../../../../.gitbook/assets/bionic candle QT_main.png" alt=""><figcaption><p>Adding the Bionic Candle indicator to a chart</p></figcaption></figure>

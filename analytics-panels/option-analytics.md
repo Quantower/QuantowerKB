@@ -26,7 +26,7 @@ To open a new Options Analytics panel, go to the _**Main menu**_ (Logo icon) and
 
 ### **Options Desk**
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 (1) - This control allows to manage simultaneously visible options series and strikes.\
 (2) - Right click on table's header will show a context menu where trader can select visible columns.\

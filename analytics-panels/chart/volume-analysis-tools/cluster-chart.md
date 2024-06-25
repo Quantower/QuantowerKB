@@ -8,9 +8,9 @@ description: >-
 
 {% embed url="https://youtu.be/xnUxEjMrKKM" %}
 
-### What is Cluster chart?
+### What is a Cluster chart?
 
-**Cluster chart**, known as Footprint chart in other trading platforms, is an advanced chart type that shows a comprehensive view of the candle chart. It allows to look inside the price and see all market actions. Cluster chart combines several important characteristics like time, OHLC prices, trading volume, number of buy and sell trades.
+**Cluster chart**, known as a Footprint chart in other trading platforms, is an advanced chart type that shows a comprehensive view of the candle chart. It allows to look inside the price and see all market actions. Cluster chart combines several important characteristics like time, OHLC prices, trading volume, number of buy and sell trades.
 
 Using this information, a trader can evaluate:
 
@@ -23,21 +23,26 @@ Using this information, a trader can evaluate:
 
 ### How to enable cluster chart?
 
-Before activating a cluster chart, you need to enable the Volume Analysis Toolbar. To do this, in the upper right corner of the chart panel, click on the "_**Magnifier**_" icon. A toolbar with Volume Analysis tools will appear at the bottom of the chart — _Cluster,_ [_Step Profile, Left Profile, Right Profile_](volume-profiles.md)_,_ [_Time Statistics_](time-statistics.md)_,_ [_Time Histogram_](time-histogram.md)_,_ [_Historical Time & Sales_](historical-time-and-sales.md)_,_ [_Custom Volume Profile_](volume-profiles.md#custom-volume-profile).
+To activate a cluster chart, you first need to enable the Volume Analysis Toolbar. Click the "_<mark style="background-color:green;">**Magnifier**</mark>_" icon in the upper right corner of the chart panel.&#x20;
 
-1. Click on the **Cluster** and Enable it
-2. Select the Type of visualization (Single, Double, or Imbalance view)
-3. Select the Data type (you can select one or two different data types at once)
-4. Customize data visualization
-5. Use advanced settings (gear icon) for more detailed chart customization.
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Activate the Volume Analysis Toolbar</p></figcaption></figure>
 
-![Here is how you can activate Cluster chart in Quantower platform](<../../../.gitbook/assets/cluster activation.gif>)
+This will display a toolbar with Volume Analysis tools at the bottom of the chart, including _**Cluster,**_ [_**Step Profile, Left Profile, Right Profile**_](volume-profiles.md)_**,**_ [_**Time Statistics**_](time-statistics.md)_**,**_ [_**Time Histogram**_](time-histogram.md)_**,**_ [_**Historical Time & Sales**_](historical-time-and-sales.md)_**, and**_ [_**Custom Volume Profile**_](volume-profiles.md#custom-volume-profile).
+
+1. Click on the **Cluster** tool to Enable it
+2. Select the **Type** of visualization (Single, Double, or Imbalance view)
+3. Select the **Data type**(s) (you can choose one or two different data types at once)
+4. Customize Data **Visualization** — Cluster or Histogram
+5. Choose your preferred **Coloring mode** (by delta, by volume, by trades, etc.)
+6. For more detailed chart customization, use the advanced settings (gear icon).
+
+<figure><img src="../../../.gitbook/assets/activation of cluster chart .gif" alt=""><figcaption><p>Here is how you can activate Cluster chart in Quantower platform</p></figcaption></figure>
 
 {% hint style="info" %}
-For more efficient analysis with cluster chart, you can display two different data types on one bar at once.
+For more efficient analysis with a cluster chart, you can display two different data types on one bar at once.
 {% endhint %}
 
-### Types of Cluster chart in Quantower
+### Types of Cluster Chart in Quantower
 
 Quantower provides 3 types of cluster charts for better data visualization:
 

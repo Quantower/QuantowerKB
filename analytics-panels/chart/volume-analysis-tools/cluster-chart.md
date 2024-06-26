@@ -46,7 +46,7 @@ For more efficient analysis with a cluster chart, you can display two different 
 
 Quantower provides 3 types of cluster charts for better data visualization:
 
-![Types of cluster charts (footprint) in Quantower](<../../../.gitbook/assets/image (360) (1).png>)
+<figure><img src="../../../.gitbook/assets/image (428).png" alt=""><figcaption><p>Types of cluster charts (footprint) in Quantower</p></figcaption></figure>
 
 * **Single cluster** shows only one data type per bar. The list of main [**Data types**](cluster-chart.md#data-types-for-cluster-chart) you will find below
 
@@ -70,7 +70,7 @@ Cluster chart has various settings allowing to display of volume data from diffe
 
 ![Select different data types for Cluster chart](../../../.gitbook/assets/cluster-data-type.gif)
 
-### Data Types for cluster chart
+### Data Types for Cluster Chart
 
 * **Trades** — it's the number of contracts (trades) that are executed at each price level.
 * **Buy (or Sell) trades** — it's the number of Buy (or Sell) trades that are executed at each price level.

@@ -12,7 +12,7 @@ description: System requirements and 3 simple steps to successfully install the 
 
 After downloading the [**Quantower platform**](https://www.quantower.com/download) from the official website, you can begin the installation process. It's important to understand the differences between the Quantower "installation process" and the default Windows® install process that most users are familiar with.
 
-{% embed url="https://youtu.be/155Ha6Rku0E" %}
+{% embed url="https://www.youtube.com/embed/bAi1yw7FcpM?si=DV2t899BfYyqgBed" %}
 
 {% hint style="success" %}
 Quantower does not copy its files to the system folders (AppData or Program Files) of the OS, nor does write changes to the system registry

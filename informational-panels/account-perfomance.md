@@ -8,7 +8,7 @@ description: >-
 
 ### How to open the Account performance panel?
 
-Open the main menu by clicking the logo and in the **Trading section** click on the OE icon.
+Open the main menu by clicking the logo and in the **Informational section** click on the Prf icon.
 
 ![](<../.gitbook/assets/image (280).png>)
 

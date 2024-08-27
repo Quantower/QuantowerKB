@@ -189,7 +189,7 @@
   * [Synthetic Symbols](portfolio-panels/synthetic-symbols.md)
   * [Historical Symbols](portfolio-panels/historical-symbols.md)
 * [📊 Information Panels](informational-panels/README.md)
-  * [Account perfomance](informational-panels/account-perfomance.md)
+  * [Account performance](informational-panels/account-perfomance.md)
   * [Account info](informational-panels/account-info.md)
   * [Crypto balances](informational-panels/crypto-balances.md)
   * [Symbol Info](informational-panels/symbol-info.md)

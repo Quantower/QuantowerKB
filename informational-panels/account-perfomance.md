@@ -6,11 +6,11 @@ description: >-
 
 # Account performance
 
-### How to open the Account performance panel?
+## How to open the Account performance panel?
 
-Open the main menu by clicking the logo and in the **Informational section** click on the Prf icon.
+Open the _**Main menu**_ by clicking the logo and click on the <mark style="background-color:orange;">**Prf icon**</mark> in the _**Informational section**_.
 
-![](<../.gitbook/assets/image (280).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 This panel requires some time to load the history of your trading operations. The longer period you have chosen, the more time is required for data loading.

@@ -11,9 +11,11 @@ description: >-
 
 **Time Price Opportunity** or **TPO Chart**, shows the price distribution during the specified time, thus forming a profile. This allows you to understand at which levels or ranges the price has spent the most time, as well as to determine the main support and resistance levels.
 
-![TPO Profile Chart (Market Profile) general view in Quantower platform](<../.gitbook/assets/TPO Chart.png>)
+<figure><img src="../.gitbook/assets/image (429).png" alt=""><figcaption><p>TPO Profile Chart (Market Profile) general view in Quantower platform</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (433).png" alt=""><figcaption><p>Multiple coloring themes and settings for TPO profile and its different parts</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (432).png" alt=""><figcaption><p>TPO profile combined with a volume profile </p></figcaption></figure>
 
 To open a new TPO panel, go to the _**Main menu**_ (Logo icon) and select _**TPO Chart**_ in the Analytics section.
 

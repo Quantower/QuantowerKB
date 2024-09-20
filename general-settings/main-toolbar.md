@@ -42,11 +42,11 @@ All of the panels are placed in the _“Sidebar”_ screen, which is popping out
 
 ![Main menu in the Quantower platform](../.gitbook/assets/main-manu.png)
 
-Each group in this menu can be collapsed in order to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
+Each group in this menu can be collapsed to make the panels list cleaner. From this place, you can open any panel by left-clicking on its icon. Each group has its color to help you determine the functional assignment of each panel.
 
 The footer of the Main Menu contains several functions:
 
-* “**About**” link: opens a screen with information about terminal (version, rollback, updates checker etc.). If the system detects the new version of Quantower, the **“NEW VERSION”** button appears instead of this link;
+* “**About**” link: opens a screen with information about platform (version, rollback, updates checker etc.). If the system detects the new version of Quantower, the **“NEW VERSION”** button appears instead of this link;
 * “**Exit**” button closes the application.
 
 {% hint style="info" %}
@@ -77,11 +77,11 @@ This feature is useful in case you would like to only analyze the market or whil
 Create and save your workspace in Quantower
 {% endembed %}
 
-**Workspaces manager** allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
+**Workspaces Manager** allows you to see, create, edit and delete your working environments as well as lock their modification. It is represented with the special icon, that opens the list of available Workspaces once being clicked.
 
 ![](../.gitbook/assets/workspaces.png)
 
-The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of the available items from the list. The bottom part of the list (after separator) consists of actions, referred to the currently active workspace and allows to:
+The currently active workspace is marked with the color and has a blue dot on the left side of its name. You can switch the current workspace by left-clicking any of the available items from the list. The bottom part of the list (after the separator) consists of actions, refer to the currently active workspace and allow to:
 
 * **Lock** — disables an ability to add, remove, move or resize any panel in current workspace;
 * **Rename...** — invokes a pop-up screen where you can set up a new name for the current workspace;
@@ -95,17 +95,17 @@ You can also remove any of Workspaces by clicking the “_**Trash**_” icon on 
 
 ### Favorite connections
 
-The list of active connections can be seen on Main Toolbar in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of the items in Favorite connections block.&#x20;
+The list of active connections can be seen on the Main Toolbar in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of the items in Favorite connections block.&#x20;
 
-![Add favorite connections by clicking the "Star" icon](../.gitbook/assets/favorite-connections.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Add favorite connections by clicking the "Star" icon</p></figcaption></figure>
 
-In order to show some connection on this bar, you need to click a “_**Star**_” icon at the right side of connection name in Connections manager panel. Click once more, and the connection will be removed from Favorites bar.
+To show some connection on this bar, you need to click a “_**Star**_” icon at the right side of connection name in Connections manager panel. Click once more, and the connection will be removed from Favorites bar.
 
-Being added to Favorites bar, each connection will be displayed as a tile, containing some vital info:
+Being added to the Favorites bar, each connection will be displayed as a tile, containing some vital info:
 
 * **Connection name**
 * **Status text** (can be a status message or Ping time in ms when the connection is active)
-* **Status Dot**, a visual representation of connection status. Can be grey (disconnected), yellow (connecting), green (active).
+* **Status Dot**, is a visual representation of connection status. Can be grey (disconnected), yellow (connecting), green (active).
 
 You can remove a connection from Favorites by right-clicking on it and selecting “_**Hide from toolbar**_” item. Here you can also ask to connect or disconnect.
 
@@ -119,7 +119,7 @@ Most actions during the platform use generate various notifications. There can b
 
 The “_**Gear**_” icon opens a general settings screen, where you can set up the most common parameters of our terminal. [More details about the **Settings**](general-settings-1.md) screen are available in the corresponding section of this documentation.
 
-![Access to general settings](<../.gitbook/assets/image (134).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Access to general settings</p></figcaption></figure>
 
 ### Time & Time zones
 

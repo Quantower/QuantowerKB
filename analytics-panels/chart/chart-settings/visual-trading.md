@@ -8,11 +8,11 @@ The "<mark style="background-color:orange;">**Visual Trading**</mark>" setting c
 * Stop Loss
 * Take Profit
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The General Settings for the "<mark style="background-color:orange;">**Visual Trading**</mark>" category have just two options that define the mechanism for placing orders through Mouse Trading.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>General settings for Visual Trading category</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>General settings for Visual Trading category</p></figcaption></figure>
 
 * **Trade through Order Entry.** \
   If this option is enabled, the [<mark style="background-color:orange;">**Order Entry panel**</mark>](../../../trading-panels/order-entry/) will additionally appear when placing an order through **Mouse Trading**, allowing for possible adjustment of order parameters. By default, this option is disabled.

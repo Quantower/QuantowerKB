@@ -8,7 +8,7 @@ description: >-
 
 Click on the **Gear icon** on the [main toolbar](main-toolbar.md) to open General Settings.
 
-<figure><img src="../.gitbook/assets/image (393).png" alt=""><figcaption><p>General Settings are placed on the platform's main toolbar (Gear Icon)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (434).png" alt=""><figcaption><p>General Settings are placed on the platform's main toolbar (Gear Icon)</p></figcaption></figure>
 
 It is logically grouped into several tabs:&#x20;
 

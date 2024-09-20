@@ -95,6 +95,7 @@
         * [Keltner Channel](analytics-panels/chart/technical-indicators/channels/keltner-channel.md)
         * [Moving Average Envelope](analytics-panels/chart/technical-indicators/channels/moving-average-envelope.md)
       * [Moving averages](analytics-panels/chart/technical-indicators/moving-averages/README.md)
+        * [Demand Index](analytics-panels/chart/technical-indicators/moving-averages/demand-index.md)
         * [Exponential Moving Average](analytics-panels/chart/technical-indicators/moving-averages/exponential-moving-average.md)
         * [FYL Indicator](analytics-panels/chart/technical-indicators/moving-averages/fyl-indicator.md)
         * [Linearly Weighted Moving Average](analytics-panels/chart/technical-indicators/moving-averages/linearly-weighted-moving-average.md)

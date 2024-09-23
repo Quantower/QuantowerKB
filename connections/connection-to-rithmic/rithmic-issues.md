@@ -1,6 +1,6 @@
 # Rithmic Issues
 
-* **Market Data Connection Failed. Please contact the FCM/IB**
+* [**Market Data Connection Failed. Please contact the FCM/IB**](https://help.quantower.com/quantower/connections/connection-to-rithmic/rithmic-issues#market-data-connection-failed.-please-contact-the-fcm-ib)
 * [**No Level2 data for some symbols**](rithmic-issues.md#no-level2-data-for-some-symbols)
 * [**Error: Only Admins Can Place Trades**](rithmic-issues.md#error-only-admins-can-place-trades)
 * [**Error: No handle**](rithmic-issues.md#error-no-handle)
@@ -71,9 +71,9 @@ If you’ve enabled "<mark style="background-color:green;">**Use RTrader Plugin*
 
 <figure><img src="../../.gitbook/assets/No level2 data in Quantower.png" alt=""><figcaption></figcaption></figure>
 
-This problem can be because you do not have a subscription to this Level2 data. To check this, launch the **RTrader Pro platform** and open the **Order Book** panel.
+This issue might be due to not having a subscription to Level 2 data. To check this, open the **RTrader Pro** platform and launch the _<mark style="color:green;">**Order Book**</mark>_ panel.
 
-If you don't have Bid/Ask values in the RTrader Pro platform, **you need to subscribe to this data via the support of your broker or prop company**. After that, you will see level 2 data in our platform as well.
+If you don't see Bid/Ask values in RTrader Pro, **you'll need to subscribe to this data through your broker or prop firm's support team**. Once subscribed, you'll also be able to see Level 2 data in our platform.
 
 <figure><img src="../../.gitbook/assets/No level2 data in Rithmic.png" alt=""><figcaption></figcaption></figure>
 
@@ -81,11 +81,11 @@ If you don't have Bid/Ask values in the RTrader Pro platform, **you need to subs
 
 ## Error: Only Admins Can Place Trades
 
-**This means that the Evaluation account has failed and has been disabled.**&#x20;
+**This means that your Evaluation account has failed and has been disabled.**&#x20;
 
-It either means you have reached your Trailing Threshold Drawdown or that you have held a trade past 4:59 PM ET.
+This could be because you've reached your Trailing Threshold Drawdown or held a trade past 4:59 PM ET.
 
-To resolve this issue, please get in touch with the support team of your Prop Trading company.
+To resolve this issue, please contact the support team of your Prop Trading company.
 
 ***
 
@@ -106,10 +106,10 @@ To resolve this issue, ensure that you are not logged in with your credentials a
 
 ## Issue: No historical market data on a chart
 
-Users may sometimes encounter a lack of historical market data for one or several trading instruments on their charts. This issue is _**often due to a problem with the data provider**_, typically Rithmic, for a specific server, or reaching the limit of tick data downloads.
+Users may sometimes notice missing historical market data for one or more trading instruments on their charts. This is usually caused by an _**issue with the data provider**_, such as Rithmic, for a specific server, or by reaching the tick data download limit.
 
 {% hint style="warning" %}
-**NOTE:** Rithmic has a weekly tick data download limit of 40 gigabytes. Exceeding this limit means no historical data until the next week. Real-time data will work correctly.
+**NOTE:** Rithmic has a weekly tick data download limit of 40 gigabytes. Once this limit is reached, no historical data will be available until the next week, though real-time data will continue to work normally.
 {% endhint %}
 
 To diagnose and resolve this issue, follow these steps:

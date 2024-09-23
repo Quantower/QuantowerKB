@@ -1,71 +1,67 @@
 # Rithmic Issues
 
-* [**Market Data Connection Closed (Broken)**](rithmic-issues.md#market-data-connection-closed-broken)
+* **Market Data Connection Failed. Please contact the FCM/IB**
 * [**No Level2 data for some symbols**](rithmic-issues.md#no-level2-data-for-some-symbols)
 * [**Error: Only Admins Can Place Trades**](rithmic-issues.md#error-only-admins-can-place-trades)
 * [**Error: No handle**](rithmic-issues.md#error-no-handle)
 * [**Issue: No historical market data on a chart**](rithmic-issues.md#issue-no-historical-market-data-on-a-chart)
 * [**Chart Data is incorrect or has gaps**](rithmic-issues.md#chart-data-is-incorrect-or-has-gaps)
 
-## **Market Data Connection Closed (Broken)**
+## **Market Data Connection Failed. Please contact the FCM/IB**
 
-Sometimes, when connecting to the Rithmic, you may see the error **"**_**Market Data Connection Closed (Broken)".**_ Below we will describe possible reasons and solutions.
+Sometimes, when connecting to the Rithmic, you may see the error **"**_<mark style="background-color:green;">**Market Data Connection Failed**</mark>**".**_ Below we will describe possible reasons and solutions.
 
 {% hint style="warning" %}
 This error message is most commonly encountered by _**new Rithmic users for various reasons**_ and is not within the control of the Quantower platform.&#x20;
 {% endhint %}
 
-![Rithmic error "Market Data Connection Closed" in Quantower](../../.gitbook/assets/connections-error-with-rithmic.png)
+<figure><img src="../../.gitbook/assets/Starter_gotBdOHdgC.png" alt=""><figcaption><p>Rithmic error "Market Data Connection Login Failed"</p></figcaption></figure>
 
-![Rithmic error "Market Data Connection Broken" in Quantower](<../../.gitbook/assets/image (348) (1) (1) (1).png>)
+### Connection to Rithmic can be done in two ways:
 
-#### Connection to Rithmic can be done in two ways:
-
-* directly, without using RTrader Pro platform. This approach allows only one platform to be connected.
+* **Directly**, <mark style="color:green;">**without**</mark> using **RTrader Pro** platform. This allows only one platform to be connected.
 
 <figure><img src="../../.gitbook/assets/image (384).png" alt=""><figcaption></figcaption></figure>
 
-* through their RTrader Pro platform. This connection uses Plugin Mode and **allows you to connect multiple platforms at the same time (!)**
+* <mark style="color:green;">**Through RTrader Pro**</mark>, using **Plugin Mode**, which lets you connect **multiple platforms at the same time (!)**.&#x20;
 
 ![Use Rithmic plugin mode for multiple access](<../../.gitbook/assets/image (352) (1) (1) (1).png>)
 
-More often such error occurs for the following reasons:
+### Here are the most common reasons for connection errors:
 
-*   You didn't accept agreements "_Market Data Subscription Agreement"_ and _"Market Data Self-Certification"_  during the registration on Rithmic's website or in R Trader platform. _We recommend connecting through **R Trader** or **R Trader Pro** platforms to check your account._
+* **Agreements not accepted**: You may have missed accepting the "_<mark style="background-color:orange;">Market Data Subscription Agreement</mark>_" or "_<mark style="background-color:orange;">Market Data Self-Certification</mark>_" during registration on Rithmic’s website or in RTrader Pro.\
+  _<mark style="background-color:green;">**Solution:**</mark> Log in to the RTrader Pro platform and accept the agreements._
+* **New account**: If your account was created less than an hour ago, **full activation can take 30 minutes to 1 hour**.\
+  _<mark style="background-color:green;">**Solution:**</mark>_ _Log in to RTrader Pro. If the connection works, your account is fully activated._
+*   **Wrong server, login & password**: Ensure you're connecting to the correct server and use correct login credentials without extra symbols (Apex, Topstep, or Rithmic).&#x20;
 
-    _**Solution:** accept agreements in RTrader Pro platform_
-*   A new account was created less than an hour ago. Usually, the **full activation of a new account takes from 30 minutes to 1 hour**.
-
-    _**Solution:**_ _open RTrader Pro platform and connect with your login. If the connection is successful, then your account is active in Rithmic system_
-*   Make sure that your login matches the correct server&#x20;
-
-    _**Solution:**_ _try to use another server according to your login (Apex, Topstep or Rithmic itself)_
+    _<mark style="background-color:green;">**Solution:**</mark>_ _Try switching servers that match your login. Check your login credentials._
 
 <figure><img src="../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
 
-*   If Quantower was connected to Rithmic before via the RTrader Plugin (i.e. the checkbox Use RTrader is active), and at the moment the RTrader Pro platform is not connected or the **Allow Plugins** option is not active there, then Quantower will not be able to connect.
+*   **RTrader Plugin issue**: If Quantower was previously connected via the RTrader Plugin and RTrader Pro isn’t currently running or the "<mark style="background-color:orange;">**Allow Plugins**</mark>" option is disabled, Quantower won’t connect.
 
-    _**Solution (several different options, not step-by-step):**_
+    \
+    _<mark style="background-color:green;">**Solution**</mark>** ****(several different options, not step-by-step):**_
 
-    _1) start RTrader Pro platform with **Allow Plugins** mode and connect again to your account in Quantower_
+    _1) start RTrader Pro in Allow Plugins mode and reconnect to your account in Quantower._
 
-    _2) try to connect to Rithmic as a direct connection: close RTrader Pro platform, disable **Use Rtrader** option in Quantower settings and restart Quantower. After start Quantower again and connect to your account as a direct connection_
+    _2) alternatively, try a direct connection by closing RTrader Pro, disabling the "**Use RTrader**" option in Quantower, and restarting Quantower._
 
 ![Plugin Mode in RTrader Pro is disabled but active in Quantower](<../../.gitbook/assets/image (351) (1) (1).png>)
 
-*   In the case of a direct connection (without RTrader Plugin mode), you cannot use the same login on different platforms at the same time. The connection can be only one login on one platform (!).&#x20;
+*   **Direct connection limitation**: When using a direct connection (without RTrader Plugin), you cannot use the same login on multiple platforms at once. If you try, the first platform may disconnect, and the second will fail to connect.
 
-    When trying to connect with one login on different platforms, it can log out from the first platform (which was connected), but the login on the second platform will not be successfully connected (on which we are trying to log in).
-
-    _**Solution:** use RTrader Plugin mode for multiple connections or close all platforms and connect via Quantower as direct connection (without Rtrader plugin mode)_
+    _<mark style="background-color:green;">**Solution:**</mark>_ _use RTrader Plugin mode for multiple connections or close all platforms and connect to Quantower directly._
 
 ![](<../../.gitbook/assets/image (345).png>)
 
-* The error can be encountered because the Rithmic server is unavailable to be connected to. This error commonly can be encountered over the weekend. In this case, it is best to wait until Sunday evening to see if you can connect to determine if this is the problem or there is some other problem.
-* Rithmic demo accounts are limited to 14 days per exchange guidelines on providing live, streaming data. If you have used a Rithmic demo previously you will _not_ be able to login with a new Rithmic demo Username.
-* If you are unable to connect within a few days, you need to contact your broker about this issue.
+* **Server unavailable**: If the Rithmic server is down, this error commonly occurs on weekends.\
+  <mark style="background-color:green;">**Solution**</mark><mark style="background-color:green;">:</mark> _Wait until Sunday evening to try reconnecting._
+* **Expired demo account**: Rithmic demo accounts are limited to 14 days. If you've used a demo before, you won’t be able to log in with a new demo username. Moreover, your account can be blocked by prop company because of drawdown limitation.
+* **Persistent issues**: If you can't connect for several days, contact your broker or prop company.
 
-If you enable Use RTrader plugin in Connection Settings and still can not connect to Rithmic, please check that you have more than 1 active session for Market data.
+If you’ve enabled "<mark style="background-color:green;">**Use RTrader Plugin**</mark>" in the connection settings but still can’t connect, check that you have more than one active session for market data.
 
 ![](<../../.gitbook/assets/image (100).png>)
 

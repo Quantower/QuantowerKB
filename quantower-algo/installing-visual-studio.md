@@ -12,7 +12,7 @@ description: >-
 We recommend you to use the most basic version of **Visual Studio — the Community edition**, which is available free of charge.
 {% endhint %}
 
-You can [**download Visual Studio from an official website**](https://visualstudio.microsoft.com/ru/thank-you-downloading-visual-studio/?sku=Community\&rel=16). It requires about 10 minutes to install and \~4Gb of free space on your hard drive.
+You can [**download Visual Studio from an official website**](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community\&channel=Release\&version=VS2022\&source=VSLandingPage\&cid=2030\&passive=false). It requires about 10 minutes to install and \~4Gb of free space on your hard drive.
 
 Download the web installer and run it. After initialization, you will be prompted to select the required components. For using with Quantower Algo extension we need only the "**NET desktop development**" workload. You can uncheck optional components also, to reduce installation size:
 

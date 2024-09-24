@@ -34,3 +34,11 @@ There are two modes for placing orders using the mouse:
 {% hint style="success" %}
 <mark style="background-color:green;">**Tip:**</mark> By holding the **CTRL** key, you can place multiple orders one after another.
 {% endhint %}
+
+### Alignment of Orders and Positions
+
+This setting offers two options for placing markers on the chart: either on the <mark style="color:green;">**left**</mark> or <mark style="color:green;">**right**</mark> side.
+
+More advanced placement settings for these markers can be found in the **Positions** and **Orders** sections.
+
+<figure><img src="../../../.gitbook/assets/Alignment of orders and positions.gif" alt=""><figcaption><p>Alignment of Orders and Positions on the chart</p></figcaption></figure>

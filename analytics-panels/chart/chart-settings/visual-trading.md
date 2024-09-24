@@ -56,3 +56,4 @@ This option defines how order and position markers are displayed when placed ver
 
 * **Offset with Overlay**: Grouping shifts the markers vertically with slight overlapping for a more compact display.
 
+<figure><img src="../../../.gitbook/assets/Grouping mode for orders and positions.gif" alt=""><figcaption><p>Grouping modes for orders and positions</p></figcaption></figure>

@@ -42,3 +42,17 @@ This setting offers two options for placing markers on the chart: either on the 
 More advanced placement settings for these markers can be found in the **Positions** and **Orders** sections.
 
 <figure><img src="../../../.gitbook/assets/Alignment of orders and positions.gif" alt=""><figcaption><p>Alignment of Orders and Positions on the chart</p></figcaption></figure>
+
+### Trading Tools Grouping Mode
+
+This option defines how order and position markers are displayed when placed very close to each other on the chart. There are three grouping modes:
+
+* **None**: Grouping is disabled, and all order and position markers may overlap as they are.
+* **Offset**: Grouping shifts the markers vertically in a list-like arrangement, making them easier to manage on the chart.
+
+{% hint style="info" %}
+**Note**: Only the markers are shifted; their prices remain at the levels set by the user.
+{% endhint %}
+
+* **Offset with Overlay**: Grouping shifts the markers vertically with slight overlapping for a more compact display.
+

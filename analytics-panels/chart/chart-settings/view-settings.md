@@ -1,3 +1,9 @@
+---
+description: >-
+  The View Chart settings allow users to customize various aspects of how charts
+  are displayed and interact with different features in the platform.
+---
+
 # View settings
 
 <figure><img src="../../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>General View of Chart Settings</p></figcaption></figure>

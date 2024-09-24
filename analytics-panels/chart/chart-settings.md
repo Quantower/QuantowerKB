@@ -18,12 +18,12 @@ There are two ways to open the Chart Settings:
 
 The General view of the Chart Settings menu has several sections. Let's take a closer look at them:
 
-|                                                  |                                                        |                                                  |
-| ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------ |
-| [**View**](chart-settings/view-settings.md)      | [**Visual trading**](chart-settings/visual-trading.md) | [**Volume bars**](chart-settings/volume-bars.md) |
-| [**Data style**](chart-settings/data-style.md)   | [**Order entry**](chart-settings/order-entry.md)       | **Event trading**                                |
-| [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                        | [**Hotkeys**](chart-settings.md#hotkeys)         |
-| [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings/info-window.md)       |                                                  |
+|                                                  |                                                      |                                                  |
+| ------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------ |
+| [**View**](chart-settings/view-settings.md)      | [**Visual trading**](chart-settings/visual-trading/) | [**Volume bars**](chart-settings/volume-bars.md) |
+| [**Data style**](chart-settings/data-style.md)   | [**Order entry**](chart-settings/order-entry.md)     | **Event trading**                                |
+| [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                      | [**Hotkeys**](chart-settings.md#hotkeys)         |
+| [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings/info-window.md)     |                                                  |
 
 ## Hotkeys
 

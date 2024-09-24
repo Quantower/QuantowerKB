@@ -47,25 +47,48 @@ This option controls how indicator names are displayed on the chart in Quantower
 
 <figure><img src="../../../.gitbook/assets/plates mode (1).gif" alt=""><figcaption></figcaption></figure>
 
-* **Window colors.**  Settings for the background color on the chart.
-*   **Top, Bottom and Right margins.** Determine the distance of the current bar from the edge of the chart accordingly.\
+### **Window colors**
 
+Settings for the background color on the chart.
 
-    <figure><img src="../../../.gitbook/assets/clipboard-image-1727176208.png" alt=""><figcaption><p>Margin settings for the chart space</p></figcaption></figure>
+### **Top, Bottom, Right Margins**
 
-    <figure><img src="../../../.gitbook/assets/clipboard-image-1727176654.png" alt=""><figcaption></figcaption></figure>
-*   **The Abbreviation Rules** option gives you the ability to simplify the values of trading sizes for easier readability. There are 3 options for Format Mode:\
-    \
-    **Default:** This option displays values as is, without any abbreviation or rounding.\
-    \
-    **Round to:** This option rounds values after the decimal point to the specified number of decimal places.
+Determine the distance of the current bar from the edge of the chart accordingly.
 
-    \
-    **Abbreviate:** This option abbreviates values to the shortest form, such as "K" for thousands, "M" for millions, etc.\
+<figure><img src="../../../.gitbook/assets/clipboard-image-1727176208.png" alt=""><figcaption><p>Margin settings for the chart space</p></figcaption></figure>
 
-* **Crosshair.** These are the settings of the cursor and its visibility on charts with one symbol (asset).
-* **Grid.** Settings for the grid lines on the chart (horizontal and vertical grid).
-* **Time to next bar.** These are settings for displaying time to the next bar and changing its color.
-* **Additional.** It is used to enable/disable toolbars and misc data on a chart.
+<figure><img src="../../../.gitbook/assets/clipboard-image-1727176654.png" alt=""><figcaption></figcaption></figure>
+
+### Abbreviation Rules
+
+This option allows you to simplify the display of trading size values for easier readability. There are three modes:
+
+* **Default**: Values are displayed as is, without abbreviation or rounding.
+* **Round to**: Values are rounded to a specified number of decimal places.
+* **Abbreviate**: Values are shortened, using "K" for thousands, "M" for millions, etc.
+
+### **Crosshair**
+
+This setting controls the visibility and appearance of the crosshair cursor on charts with the same or different symbols (assets). You can choose to display the crosshair only on the <mark style="color:green;">**current chart**</mark>, on <mark style="color:green;">**all charts with the same symbol**</mark>, or across <mark style="color:green;">**charts with different symbols**</mark>. A scrolling option is also available.
+
+{% hint style="info" %}
+**Note:** If you want the crosshair to be synchronized across different charts, you must configure the crosshair separately on each chart.
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/clipboard-image-1727183035.png" alt=""><figcaption><p>Crosshair synchronization in a chart settings</p></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/clipboard-image-1727183110.png" alt=""><figcaption></figcaption></figure>
+
+### **Grid**
+
+Settings for horizontal and vertical grid lines on the chart.
+
+### **Time to next bar**&#x20;
+
+These settings display the time remaining until the next bar and allow you to change its font and color.
+
+### **Additional**
+
+This section lets you enable or disable toolbars and other miscellaneous data on the chart.
 
 <figure><img src="../../../.gitbook/assets/clipboard-image-1727174864.png" alt=""><figcaption></figcaption></figure>

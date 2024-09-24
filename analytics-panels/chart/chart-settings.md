@@ -25,12 +25,6 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 | [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                        | [**Hotkeys**](chart-settings.md#hotkeys)         |
 | [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings/info-window.md)       |                                                  |
 
-## Volume Bars
-
-This tab is used to adjust the volume histogram at the bottom of the chart. You can choose the colors for the histogram that you prefer. You can also select a color scheme for coloring the chart, adjusting the color of the volume histogram based on the direction of the price bar, or changing the color depending on whether the volume is higher or lower at the moment.
-
-![](<../../.gitbook/assets/image (111).png>)
-
 ## Hotkeys
 
 This tab is for configuring your keyboard shortcuts. Here, you can configure functions like changing the volume with one button, drawing levels or trend channels, canceling orders, and many other useful functions. In general, you can assign almost any action to your preferred key combination.

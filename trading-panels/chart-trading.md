@@ -22,7 +22,7 @@ Placing orders on the Quantower platform can be done using various panels, such 
 * [**How to set up  several Take profit and Stop Loss orders for one position**](chart-trading.md#how-to-set-up-several-take-profit-and-stop-loss-orders-for-one-position)
 * [**A set of buttons for quick order and position management**](chart-trading.md#a-set-of-buttons-for-quick-order-and-position-management)
 
-## [Mouse trading](chart-trading.md#mouse-trading)
+## [Mouse trading](chart-trading.md#mouse-trading-1)
 
 * **Chart trading mode with the mouse**
 * **Quick order placement through the chart area with a mouse.**

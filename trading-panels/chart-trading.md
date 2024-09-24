@@ -170,23 +170,23 @@ To access the quick trade toolbar, click the button in the upper right corner.
 
 ## Mouse trading
 
-The Mouse Trading feature enables you to conveniently place limit and stop orders directly on the chart. To activate this feature, simply click on the mouse icon located in the upper right corner of the panel.
+The **Mouse Trading** feature allows you to easily place limit and stop orders directly on the chart. To enable this feature, just click on the mouse icon in the upper right corner of the panel.
 
-![](<../.gitbook/assets/animaciya-2- (1).gif>)
+<figure><img src="../.gitbook/assets/mouse trading in Quantower.gif" alt=""><figcaption><p>Mouse Trading in Quantower platform</p></figcaption></figure>
 
 {% hint style="info" %}
 You can place multiple orders in a row by holding down the **CTRL** key.
 {% endhint %}
 
-If the mouse position is **higher than the current price** then:
+If the mouse cursor is positioned <mark style="background-color:green;">**above**</mark> the current price:
 
-* left click of the mouse will set a **Buy Stop** order;
-* right click of the mouse will set a **Sell Limit** order.
+* **Left-click** will place a <mark style="color:green;">**Buy Stop**</mark> order.
+* **Right-click** will place a <mark style="color:red;">**Sell Limit**</mark> order.
 
-If the mouse position is **lower than the current price** then:
+If the mouse cursor is positioned <mark style="background-color:red;">**below**</mark> the current price:
 
-* left click of the mouse will set a **Buy Limit** order;
-* right click of the mouse will set a **Sell Stop** order.
+* **Left-click** will place a <mark style="color:green;">**Buy Limit**</mark> order.
+* **Right-click** will place a <mark style="color:red;">**Sell Stop**</mark> order.
 
 ## Keyboard trading
 

@@ -39,10 +39,10 @@ The top toolbar allows you to select a trading instrument, set the chart type an
 
 ## Chart area controls
 
-The main part of the Chart panel that contains the diagram itself plus a set of analytical overlays. There are some common controls on a chart area as follows:
+The main part of the Chart panel contains the diagram itself plus a set of analytical overlays. There are some common controls on a chart area as follows:
 
 * Price scale centering mode. There are four modes of price scale adaptation:
-  * &#x20;<mark style="background-color:blue;">**Auto**</mark>** ** - keeps the visible part of chart diagram in viewport
+  * &#x20;<mark style="background-color:blue;">**Auto**</mark>** ** - keeps the visible part of the chart diagram in viewport
   * &#x20;<mark style="background-color:blue;">**Auto centered**</mark> - the same as auto, but the last price is always in the middle of the viewport
   * &#x20;<mark style="background-color:blue;">**Keep in view**</mark> - keeps the last price from leaving the viewport
   * &#x20;<mark style="background-color:blue;">**Manual**</mark> - no automation, keeps the user's specified position
@@ -63,5 +63,5 @@ The sidebar menu allows you to add an indicator to the chart, a drawing tool or 
 
 ![An overview of Sidebar menu with indicators, drawings and overlays](<../../.gitbook/assets/Group 13711.png>)
 
-For traders who often refer to certain drawings, there is an option to fix them on the Sidebar. For this, near each drawing there is a "Star" icon, upon activation of which you add them to the Favorite List.
+For traders who often refer to certain drawings, there is an option to fix them on the Sidebar. For this, near each drawing, there is a "<mark style="background-color:blue;">**Star**</mark>" icon, upon activation of which you add them to the Favorite List.
 

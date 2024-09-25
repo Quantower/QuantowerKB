@@ -2,6 +2,12 @@
 
 This tab allows you to configure your keyboard shortcuts. You can set up functions such as adjusting the order size with a single key, adding drawing levels or trend channels, canceling orders, and many other useful actions. In general, you can assign almost any action to your preferred key combination.
 
+{% hint style="warning" %}
+**Note**: Only **trading hotkeys require additional activation** of the "<mark style="color:red;">**Enable Keyboard Trading**</mark>" option on the toolbar of the trading panels (see screenshot below).\
+\
+All other hotkeys work without extra activation — just use the key combination on the active panel.
+{% endhint %}
+
 This category has four sections, each with its own types of hotkeys:
 
 1. **Panel-specific custom hotkeys**:\
@@ -25,5 +31,7 @@ This category has four sections, each with its own types of hotkeys:
 {% hint style="warning" %}
 **Note**: Trading hotkeys only work if the "<mark style="color:red;">**Enable Keyboard Trading**</mark>" option is turned on, which needs to be activated from the chart toolbar.
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/clipboard-image-1727261719.png" alt=""><figcaption><p>Activation of trading hotkeys on the chart</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/clipboard-image-1727260957.png" alt=""><figcaption></figcaption></figure>

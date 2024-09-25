@@ -23,15 +23,20 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 
 ![Here is how you can activate Step Profile in Quantower platform](<../../../.gitbook/assets/step profile activation.gif>)
 
-#### **General settings of step profile**
+#### **General Settings of Step Profile**
 
 <figure><img src="../../../.gitbook/assets/clipboard-image-1727282704.png" alt=""><figcaption><p>Main settings of Step Volume Profile tool</p></figcaption></figure>
 
-* **Step period & Step coefficient** – determines the interval used to build the profile. The step period can be set to one of five types – _Minute, Hour, Day, Week, or Month_.\
+*   **Step period & Step coefficient** – determines the interval used to build the profile. The step period can be set to one of five types – _Minute, Hour, Day, Week, or Month_.
 
+    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Step period for the profile</p></figcaption></figure>
+* **Sessions Template** – here you can select the trading session template you need, which determines the time frame over which the volume profile calculates values. To learn how to create and customize your own template, you can refer to [**this guide**](https://help.quantower.com/quantower/miscellaneous-panels/sessions-manager#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic).
 * **Data type** – choose from over [**20 data types**](./#data-types-of-volume-analysis-tools) to build a step profile.
 * **Histogram position** – select whether the profile histogram is displayed on the left or right side relative to the starting point.
 * **Histogram label position** – determines the position of the data value: _left, right or none._
+*   **Coloring mode** – setting allows you to color the volume profile using a different type of data. For example, you can color a standard Volume Profile based on Delta values. This feature helps you visualize additional information by applying colors from one data set to another.
+
+    <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Applying various color schemes for Volume profile</p></figcaption></figure>
 * **Width of histogram, %** – set the maximum width of the profile histogram.
 * **Show profile** – toggle the visibility of the profile. The POC level (Point of Control) and Value Area borders can remain visible on the chart.
 * **Show POC** – Point of Control is the level with the maximum value that will be highlighted with the specified color.

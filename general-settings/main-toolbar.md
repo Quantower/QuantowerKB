@@ -97,7 +97,7 @@ You can also remove any of Workspaces by clicking the “_**Trash**_” icon on 
 
 The list of active connections can be seen on the Main Toolbar in Favorite connections block. By default, you will see several items here, each representing one of the available connections. The [Connection manager](../connections/connections-manager.md) screen will be opened by clicking any of the items in Favorite connections block.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Add favorite connections by clicking the "Star" icon</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6).png" alt=""><figcaption><p>Add favorite connections by clicking the "Star" icon</p></figcaption></figure>
 
 To show some connection on this bar, you need to click a “_**Star**_” icon at the right side of connection name in Connections manager panel. Click once more, and the connection will be removed from Favorites bar.
 
@@ -119,7 +119,7 @@ Most actions during the platform use generate various notifications. There can b
 
 The “_**Gear**_” icon opens a general settings screen, where you can set up the most common parameters of our terminal. [More details about the **Settings**](general-settings-1.md) screen are available in the corresponding section of this documentation.
 
-<figure><img src="../.gitbook/assets/image (1) (6).png" alt=""><figcaption><p>Access to general settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6) (1).png" alt=""><figcaption><p>Access to general settings</p></figcaption></figure>
 
 ### Time & Time zones
 

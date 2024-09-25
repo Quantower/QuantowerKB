@@ -21,7 +21,7 @@ To roll over a futures contract via the chart's context menu, simply <mark style
 
 2. Here, select the **Connection** for contract rollover, like a specific one (e.g., Rithmic) or for All active connections.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Choose a **Rollover method**:
    * '**By Volume**': This method rolls over when the daily volume of the upcoming contract surpasses the current one.

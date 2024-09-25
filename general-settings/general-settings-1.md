@@ -97,7 +97,7 @@ Control center is the starting point of the platform and acts as both a launcher
 
 Sounds can be enabled or disabled for specific actions, providing additional interaction with users even when they're not in front of their PC.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Enable sounds** — activates or disables all of the application sounds globally
 

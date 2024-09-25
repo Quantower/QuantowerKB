@@ -10,7 +10,7 @@ description: >-
 
 Open the _**Main menu**_ by clicking the logo and click on the <mark style="background-color:orange;">**Prf icon**</mark> in the _**Informational section**_.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 This panel requires some time to load the history of your trading operations. The longer period you have chosen, the more time is required for data loading.

@@ -52,7 +52,7 @@ You can find the **correct password on your personal cabinet**, as we have shown
 
 **3)** Please make sure your account is active. To do this, open the Rtrader Pro platform and try logging in using your credentials. Make sure you've selected the correct server. If you don't have Rtrader Pro, you can [**download it**](https://yyy3.rithmic.com/?page\_id=16) from the official Rithmic website.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
 
 **4)** For new users, please make sure to **sign two agreements first**. You can easily do this in the Rtrader Pro platform.
 
@@ -98,7 +98,7 @@ More details you can find on Topstep's help base:\
 {% hint style="warning" %}
 In some cases, Quantower platform may accept, execute, and then immediately close your order. This can occur due to specific settings in your Topstep account and may indicate that your account has reached a drawdown limit. It is recommended to check the error status in the Rtrader Pro platform for more detailed insights into this issue.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 {% endhint %}
 
 ***
@@ -193,7 +193,7 @@ This happens because Rithmic conducts technical maintenance or updates during th
 
 Once you set your SL (Stop Loss) and TP (Take Profit) parameters, every market or limit order placed from the chart will be sent with these bracket orders. This ensures that your trades are automatically managed according to your predefined risk/reward parameters.
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png>)
 
 </details>
 
@@ -229,6 +229,6 @@ Before activating a cluster chart, you need to enable the Volume Analysis Toolba
 \
 [_**More details you can find in this guide**_](https://help.quantower.com/quantower/analytics-panels/chart/volume-analysis-tools/cluster-chart)
 
-<img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>

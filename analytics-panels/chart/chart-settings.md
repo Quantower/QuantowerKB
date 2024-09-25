@@ -24,9 +24,3 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 | [**Data style**](chart-settings/data-style.md)   | [**Order entry**](chart-settings/order-entry.md)     | **Event trading**                                |
 | [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                      | [**Hotkeys**](chart-settings.md#hotkeys)         |
 | [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings/info-window.md)     |                                                  |
-
-## Hotkeys
-
-This tab is for configuring your keyboard shortcuts. Here, you can configure functions like changing the volume with one button, drawing levels or trend channels, canceling orders, and many other useful functions. In general, you can assign almost any action to your preferred key combination.
-
-![](<../../.gitbook/assets/image (119).png>)

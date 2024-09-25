@@ -10,7 +10,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=L21kFXQaWQ0" %}
 
-Activate the **"Use Beta Version"** option and [**update the platform**](application-updates.md) to the latest version.
+Activate the **"**<mark style="background-color:orange;">**Use Beta Version**</mark>**"** option and [**update the platform**](application-updates.md) to the latest version.
 
-![](<../.gitbook/assets/image (353).png>)
+<figure><img src="../.gitbook/assets/clipboard-image-1727254689.png" alt=""><figcaption></figcaption></figure>
 

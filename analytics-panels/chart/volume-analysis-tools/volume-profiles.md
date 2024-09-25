@@ -6,14 +6,14 @@ description: >-
 
 # Volume profiles
 
-**Volume Profile** displays the trading activity over a specific time period at certain price levels. Meaning, it shows what was bought and sold at those current levels, and displays them in a histogram on the side of your chart. Volume Profile allows you to see the zones of maximum trading interest, and as a consequence, the "true" support/resistance levels.
+**Volume Profile** displays the trading activity over a specific period at certain price levels. Meaning, that it shows what was bought and sold at those current levels, and displays them in a histogram on the side of your chart. Volume Profile allows you to see the zones of maximum trading interest, and as a consequence, the "true" support/resistance levels.
 
 Quantower platform offers four types of Volume profiles:
 
-* ****[**Step Volume Profile**](volume-profiles.md#step-volume-profile)****
-* ****[**Left Volume Profile**](volume-profiles.md#left-and-right-volume-profiles)****
-* ****[**Right Volume Profile**](volume-profiles.md#left-and-right-volume-profiles)****
-* ****[**Custom Volume Profile**](volume-profiles.md#custom-volume-profile)****
+* [**Step Volume Profile**](volume-profiles.md#step-volume-profile)
+* [**Left Volume Profile**](volume-profiles.md#left-and-right-volume-profiles)
+* [**Right Volume Profile**](volume-profiles.md#left-and-right-volume-profiles)
+* [**Custom Volume Profile**](volume-profiles.md#custom-volume-profile)
 
 ### Step Volume Profile
 
@@ -25,14 +25,15 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 
 #### **General settings of step profile**
 
-![Main settings of Step Volume Profile tool](../../../.gitbook/assets/step-profile-settings.gif)
+<figure><img src="../../../.gitbook/assets/clipboard-image-1727282704.png" alt=""><figcaption><p>Main settings of Step Volume Profile tool</p></figcaption></figure>
 
-* **Step period & Step coefficient** – determines the step to build the profile. Step period has four types –_Minute, Hour, Day, Week_.
-* **Data type** – choose any of the [**20+ data types**](./#data-types-of-volume-analysis-tools) to build a step profile.
-* **Histogram position** – places the profile on the left or right side relative to the starting point.
+* **Step period & Step coefficient** – determines the interval used to build the profile. The step period can be set to one of five types – _Minute, Hour, Day, Week, or Month_.\
+
+* **Data type** – choose from over [**20 data types**](./#data-types-of-volume-analysis-tools) to build a step profile.
+* **Histogram position** – select whether the profile histogram is displayed on the left or right side relative to the starting point.
 * **Histogram label position** – determines the position of the data value: _left, right or none._
-* **Width of histogram, %** – determines the maximum width of the profile histogram.
-* **Show profile** – toggles the visibility of the profile, while the POC level (Point of Control) and Value area borders can be left on the chart.
+* **Width of histogram, %** – set the maximum width of the profile histogram.
+* **Show profile** – toggle the visibility of the profile. The POC level (Point of Control) and Value Area borders can remain visible on the chart.
 * **Show POC** – Point of Control is the level with the maximum value that will be highlighted with the specified color.
 * **Extend POC until intersection** – the Point of Control line will be extended until it intersects with the future price. If an intersection is not encountered, then the Point of Control Line is extended to the right side of the chart.
 * **Show Value Area** – shows the price area with 70% of trading activity for the specified time range. The value of 70% is set by default, but the user can change it at his discretion.

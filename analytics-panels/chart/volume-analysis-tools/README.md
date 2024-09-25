@@ -26,23 +26,23 @@ Volume analysis tools include proprietary and well-known analytics:
 ![Enable the toolbar of Volume Analysis Tools ](../../../.gitbook/assets/volume-analysis-tools.gif)
 
 {% hint style="info" %}
-**Green color** indicates that seleced volume analysis tool has entirely downloaded the data. \
-**Yellow color** indicates that selected tool is dowloading the data.
+<mark style="color:green;">**Green color**</mark> indicates that the selected volume analysis tool has fully downloaded the data. \
+<mark style="color:orange;">**Yellow color**</mark> indicates that the selected tool is still downloading the data.
 {% endhint %}
 
-### Data types of Volume Analysis Tools
+### Data Types of Volume Analysis Tools
 
-Almost all volume analysis tools have the same **Data Types**, which can be specified in the settings:
+Almost all volume analysis tools have the same **Data Types**, which can be set in the settings:
 
-* **Trades** — it's the number of contracts (trades) that executed at each price level.
-* **Buy (or Sell) trades** — it's the number of Buy (or Sell) trades that executed at each price level.
-* **Volume** — the total size of all positions that executed at each price level or price range.
-* **Buy (or Sell) Volume** — the total size of all Buy (or sell) positions that executed at each price level or price range.
-* **Buy (or Sell) Volume, %** — shows how many percent of the total volume relates to Buy (or Sell) trades
-* **Buy / Sell Volume** — simultaneous display of buy and sell volume on one histogram
-* **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers. It allows evaluating who controls the price on the market at a given time. \
-  Delta % = Delta / Volume \* 100
-* **Cumulative Delta** — the data is built by adding the current delta value with each subsequent delta value for the certain period of time (or number of bars).&#x20;
+* **Trades** — the number of contracts (trades) executed at each price level.
+* **Buy (or Sell) Trades** — the number of Buy (or Sell) trades executed at each price level.
+* **Volume** — the total size of all trades executed at each price level or price range.
+* **Buy (or Sell) Volume** — the total size of all Buy (or Sell) trades executed at each price level or price range.
+* **Buy (or Sell) Volume, %** — shows how many percent of the total volume related to Buy (or Sell) trades.
+* **Buy / Sell Volume** — displays Buy and Sell volume simultaneously on one histogram.
+* **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers, helping to see who controls the market at a given time.\
+  _<mark style="color:red;">Delta % = Delta / Volume \* 100</mark>_
+* **Cumulative Delta** — the data is built by adding the current delta to each subsequent delta for a certain period (or number of bars).
 
 ![Use various data types for all volume analysis tools](../../../.gitbook/assets/volume-profiles-data-types.png)
 

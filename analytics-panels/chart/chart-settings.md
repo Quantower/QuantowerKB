@@ -22,5 +22,5 @@ The General view of the Chart Settings menu has several sections. Let's take a c
 | ------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------ |
 | [**View**](chart-settings/view-settings.md)      | [**Visual trading**](chart-settings/visual-trading/) | [**Volume bars**](chart-settings/volume-bars.md) |
 | [**Data style**](chart-settings/data-style.md)   | [**Order entry**](chart-settings/order-entry.md)     | **Event trading**                                |
-| [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                      | [**Hotkeys**](chart-settings.md#hotkeys)         |
+| [**Time scale**](chart-settings/time-scale.md)   | **Quick ruler**                                      | [**Hotkeys**](chart-settings/hotkeys.md)         |
 | [**Price scale**](chart-settings/price-scale.md) | [**Info window**](chart-settings/info-window.md)     |                                                  |

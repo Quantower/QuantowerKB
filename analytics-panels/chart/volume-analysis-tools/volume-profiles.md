@@ -37,6 +37,8 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 *   **Coloring mode** – setting allows you to color the volume profile using a different type of data. For example, you can color a standard Volume Profile based on Delta values. This feature helps you visualize additional information by applying colors from one data set to another.
 
     <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Applying various color schemes for Volume profile</p></figcaption></figure>
+
+    <figure><img src="../../../.gitbook/assets/Coloring Modes for Volume profile (1).png" alt=""><figcaption><p>Coloring Modes for Volume Profile</p></figcaption></figure>
 * **Width of histogram, %** – set the maximum width of the profile histogram.
 * **Show profile** – toggle the visibility of the profile. The POC level (Point of Control) and Value Area borders can remain visible on the chart.
 * **Show POC** – Point of Control is the level with the maximum value that will be highlighted with the specified color.

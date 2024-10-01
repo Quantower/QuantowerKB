@@ -74,10 +74,6 @@ Choose any color scheme for better representation and analysis of the TPO profil
 
 ![POC Type on TPO Profile chart](<../.gitbook/assets/POC Type on TPO profile.gif>)
 
-* **Plot Symbol** — show/ hide the standard chart on the TPO Profile chart. Select a [**chart style**](chart/chart-types/#chart-types-and-styles)**:** _**Bar, Candle, Line, Area, Dotted Line, Quantower style**_.
-
-![](../.gitbook/assets/overlaying-chart.gif)
-
 * **Show Value Area** — enable price range in which approximately 68% - 70% of the market activity or trading volume took place.\
 
 * **Show Singles** or **single prints** of the profile are placed in the middle of a profile structure, not at the upper or lower edge. They occur on impulse movements and are used as support/resistance zones, which the price can test in the near future. The singles line indicates where the singles begin to form (in cases when there are several single prints).\

@@ -20,7 +20,7 @@ Please take the time to carefully review the warnings provided below. It is esse
 ### Disclaimer
 
 {% hint style="warning" %}
-<mark style="color:yellow;">**COPY TRADING CARRIES A HIGH LEVEL OF RISK**</mark>
+<mark style="color:blue;">**COPY TRADING CARRIES A HIGH LEVEL OF RISK**</mark>
 
 Before using this feature, it's crucial to clearly understand what you're doing. To minimize potential issues, ensure that you carefully study the documentation, practice extensively with demo accounts, and utilize Quantower's internal simulation before initiating copy trading with real accounts.
 {% endhint %}
@@ -28,31 +28,31 @@ Before using this feature, it's crucial to clearly understand what you're doing.
 The Copy Trading process may contain the following dangers that need to be encountered before use:
 
 {% hint style="danger" %}
-* Quantower <mark style="color:green;">**may not be able to copy, change, or cancel an order, or close or reverse a position on one or more child accounts**</mark>. This could happen because there's not enough money, the broker or data feed rejections, disconnections, the order details don't match between accounts, or for other reasons beyond Quantower's control.
-* When orders are executed, modified, or canceled, or when positions are closed or reversed in Parent and Child accounts, these <mark style="color:yellow;">**actions may not happen at the same time**</mark>. This can cause a misalignment between the accounts and positions.
-* If Parent order parameters are different than a Child account can submit, you will get a notification about this and the possibility to <mark style="color:yellow;">**manually copy the order by clicking the Open OE button**</mark> next to this message in the logs section. The most common cause of such behavior is when the Child account has insufficient funds to copy the parent's order quantity.
-* <mark style="color:yellow;">**YOU ARE RESPONSIBLE FOR YOUR TRADES**</mark>. If there are problems, you need to use the Copy Trader's activity Log to understand what went wrong and fix the issue yourself. Please don't ask us to check your orders and trades or investigate the cause of the problem unless you are 100% sure the Quantower terminal is malfunctioning. We are unable to assist with this due to the presence of numerous uncontrollable variables.
-* Referring to our [Terms of Use](https://www.quantower.com/terms-of-use), please note that we cannot guarantee the proper functioning of Quantower in all cases. <mark style="color:yellow;">**Your use of the platform and all its features is at your own risk**</mark>, especially when using the highly risky Copy-Trading feature. You may encounter issues due to your internet connection, your computer problems, a misunderstanding of the procedures, insufficient funds in your child accounts, or any other issue that may prevent you from successfully replication the parent's trades on one or more child accounts.
-* Please remember the following: In regulated markets, <mark style="color:yellow;">**you can only copy trades to multiple real accounts if you own the accounts or have explicit permission to manage them**</mark>. Quantower and other trading platforms cannot verify if you meet these requirements. To comply with the rules, you need to consolidate multiple real accounts under a single connection. This means if you have multiple real accounts with real money on different connections, whether they belong to you or different individuals, ask your broker to consolidate them under a single connection. This requires the broker to obtain explicit permission from the various account holders.
+* Quantower <mark style="color:blue;">**may not be able to copy, change, or cancel an order, or close or reverse a position on one or more child accounts**</mark>. This could happen because there's not enough money, the broker or data feed rejections, disconnections, the order details don't match between accounts, or for other reasons beyond Quantower's control.
+* When orders are executed, modified, or canceled, or when positions are closed or reversed in Parent and Child accounts, these <mark style="color:blue;">**actions may not happen at the same time**</mark>. This can cause a misalignment between the accounts and positions.
+* If Parent order parameters are different than a Child account can submit, you will get a notification about this and the possibility to <mark style="color:blue;">**manually copy the order by clicking the Open OE button**</mark> next to this message in the logs section. The most common cause of such behavior is when the Child account has insufficient funds to copy the parent's order quantity.
+* <mark style="color:blue;">**YOU ARE RESPONSIBLE FOR YOUR TRADES**</mark>. If there are problems, you need to use the Copy Trader's activity Log to understand what went wrong and fix the issue yourself. Please don't ask us to check your orders and trades or investigate the cause of the problem unless you are 100% sure the Quantower terminal is malfunctioning. We are unable to assist with this due to the presence of numerous uncontrollable variables.
+* Referring to our [Terms of Use](https://www.quantower.com/terms-of-use), please note that we cannot guarantee the proper functioning of Quantower in all cases. <mark style="color:blue;">**Your use of the platform and all its features is at your own risk**</mark>, especially when using the highly risky Copy-Trading feature. You may encounter issues due to your internet connection, your computer problems, a misunderstanding of the procedures, insufficient funds in your child accounts, or any other issue that may prevent you from successfully replication the parent's trades on one or more child accounts.
+* Please remember the following: In regulated markets, <mark style="color:blue;">**you can only copy trades to multiple real accounts if you own the accounts or have explicit permission to manage them**</mark>. Quantower and other trading platforms cannot verify if you meet these requirements. To comply with the rules, you need to consolidate multiple real accounts under a single connection. This means if you have multiple real accounts with real money on different connections, whether they belong to you or different individuals, ask your broker to consolidate them under a single connection. This requires the broker to obtain explicit permission from the various account holders.
 {% endhint %}
 
 ### Copy Trading Specifications
 
 {% hint style="info" %}
-* When you start Quantower, the Copy trading will PROCEED its activity IF IT WAS RUNNING BEFORE THE TERMINAL CLOSED previously. You must manually stop it each time you exit the Quantower terminal.
-* If the dependent connections (parent & child) are NOT ACTIVE, <mark style="color:yellow;">**the CopyBot will copy orders for active connections only**</mark><mark style="color:yellow;">.</mark> When any dependent connection disconnects, the CopyBot will notify about this. If you exit a terminal when one of the Copy Trader’s connections is inactive, **you won’t be notified about its disconnected state** during the next terminal launch.
-* Copy-trading can <mark style="color:yellow;">**work only if the Quantower terminal is launched**</mark>.
+* When you start Quantower, the Copy trading will PROCEED its activity IF IT WAS RUNNING BEFORE THE PLATFORM CLOSED previously. You must manually stop it each time you exit the Quantower platform.
+* If the dependent connections (parent & child) are NOT ACTIVE, <mark style="color:blue;">**the CopyBot will copy orders for active connections only**</mark><mark style="color:yellow;">.</mark> When any dependent connection disconnects, the CopyBot will notify about this. If you exit a platform when one of the Copy Trader’s connections is inactive, **you won’t be notified about its disconnected state** during the next platform launch.
+* Copy-trading can <mark style="color:blue;">**work only if the Quantower platform is launched**</mark>.
 {% endhint %}
 
 ## **General information**
 
-One of the frequent questions from our community is: how to Copy trading between multiple accounts? Such functionality can be very useful for proprietary trading companies and managers with multiple accounts who use Quantower as their trading tool.
+One of the frequent questions from our community is: _how to Copy Trading between multiple accounts?_ Such functionality can be very useful for proprietary trading companies and managers with multiple accounts who use Quantower as their trading tool.
 
 The panel performs trading operations and thus can be found in the "<mark style="background-color:green;">**Trading**</mark>" group of the Quantower main menu.
 
 ![Copy trading panel in a list of other panels](../.gitbook/assets/frame-9.png)
 
-Copy trading panel allows you to fully duplicate trading activity between multiple accounts of the same connection. Unlike the “Multiple order” panel, this panel will automatically copy all Parent's account transactions into the specified Child account(s) once you have created and launched a special algorithm (Bot).
+Copy trading panel allows you to fully duplicate trading activity between multiple accounts of the same connection. Unlike the “[Multiple order](multiple-order-entry.md)” panel, this panel will automatically copy all Parent's account transactions into the specified Child account(s) once you have created and launched a special algorithm (Bot).
 
 {% hint style="warning" %}
 **If you use 5 or more trading accounts** in the copy bot, we recommend disabling the "<mark style="background-color:orange;">**Order Limitation**</mark>" option. You can read more information about this feature in [**this guide**](../general-settings/general-settings-1.md#trading-protection)**.**

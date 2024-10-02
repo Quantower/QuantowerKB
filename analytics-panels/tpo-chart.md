@@ -23,7 +23,7 @@ To open a new TPO panel, go to the _**Main menu**_ (Logo icon) and select _**TPO
 
 ### Key Elements of TPO Profile Chart
 
-![Main Elements of TPO Profile Chart (a.k.a. Market Profile) in Quantower](../.gitbook/assets/tpocontrols.png)
+<figure><img src="../.gitbook/assets/TPO.png" alt=""><figcaption><p>Main Elements of TPO Profile Chart (a.k.a. Market Profile) in Quantower</p></figcaption></figure>
 
 **Point of Control (POC)** — price level of the greatest market activity or trading volume. At this level, the price spent most time over the profile range.
 

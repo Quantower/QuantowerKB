@@ -4,7 +4,7 @@ Previously a part of the "Strategy runner" panel's functionality, strategies bac
 
 ### <mark style="color:red;">▶️</mark> Video manual about Backtesting
 
-{% embed url="https://www.youtube.com/watch?v=dNCuhMhOjZQ" fullWidth="true" %}
+{% embed url="https://www.youtube.com/watch?v=dNCuhMhOjZQ" fullWidth="false" %}
 A short video manual about the Backtest & Optimize panel
 {% endembed %}
 
@@ -93,7 +93,7 @@ Please note. You can launch optimization once per strategy until it finishes or 
 
 ### <mark style="color:red;">▶️</mark> Video manual about Optimization
 
-{% embed url="https://www.youtube.com/watch?v=-EaDrGf4YBE" fullWidth="true" %}
+{% embed url="https://www.youtube.com/watch?v=-EaDrGf4YBE" fullWidth="false" %}
 Video manual covering the Optimization process of Backtest & Optimize panel
 {% endembed %}
 

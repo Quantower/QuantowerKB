@@ -32,7 +32,7 @@ How does Quantower Referral Program work?
 
 ### **Referral Program Details:**
 
-* The minimum amount of earnings, that can be withdrawn is $50
+* To withdraw earnings, you must meet two conditions: first, you must have a <mark style="background-color:purple;">**minimum of $50**</mark> in your account. Secondly, you must have <mark style="background-color:purple;">**referred at least three individuals**</mark> to the program.
 * To ask for withdrawal or payment in honor of a personal Quantower license, please contact Quantower Support via live chat on the official website, email info@quantower.com, [telegram chat](https://t.me/quantower).
 * All customers can participate, and each customer can invite as many friends as they want! There is no limit to the number of referrals one account can have.
 * Customers cannot invite themselves to earn rewards using multiple accounts. Once this behavior has been detected, you will be disqualified from the Referral Program and all unpaid earned or accrued referral rewards will be canceled immediately.

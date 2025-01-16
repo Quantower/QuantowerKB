@@ -29,7 +29,7 @@ You can enable Step Profile through the volume analysis toolbar or their setting
 
 *   **Step period & Step coefficient** – determines the interval used to build the profile. The step period can be set to one of five types – _Minute, Hour, Day, Week, or Month_.
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Step period for the profile</p></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Step period for the profile</p></figcaption></figure>
 * **Sessions Template** – here you can select the trading session template you need, which determines the time frame over which the volume profile calculates values. To learn how to create and customize your own template, you can refer to [**this guide**](https://help.quantower.com/quantower/miscellaneous-panels/sessions-manager#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic).
 * **Data type** – choose from over [**20 data types**](./#data-types-of-volume-analysis-tools) to build a step profile.
 * **Histogram position** – select whether the profile histogram is displayed on the left or right side relative to the starting point.

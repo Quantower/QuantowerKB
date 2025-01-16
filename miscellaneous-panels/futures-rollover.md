@@ -17,7 +17,7 @@ To roll over a futures contract via the chart's context menu, simply <mark style
 
 1. In the platform's main menu, open the '<mark style="background-color:purple;">**Futures Rollover**</mark>' panel located in the '**Misc**' section.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Here, select the **Connection** for contract rollover, like a specific one (e.g., Rithmic) or for All active connections.
 

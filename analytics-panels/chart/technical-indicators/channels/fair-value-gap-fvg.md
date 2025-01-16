@@ -82,7 +82,7 @@ _Close always -_ When the price touches the gap, gap is closes.
 
 _No Shrink -_ The gap will close only if one candle closes the high low of the zone completely.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Hide Closed**
 

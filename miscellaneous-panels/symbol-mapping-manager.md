@@ -49,14 +49,14 @@ _**Mapping Type has two modes:**_
 * Launch the **Symbol Mapping** panel from the Control Center. The panel is located in the _Misc_ category.
 * Click the "<mark style="background-color:green;">**Add Symbol**</mark>" button to select the instrument for trading operations. In this example, for trading, we'll choose MESU3 (Micro E-mini S\&P 500 futures).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *   Choose ESU3 (E-mini S\&P 500 futures) as the source for historical and real-time data displayed on the chart. Ensure that the selected symbol belongs to the same trading connection (in our example, it's Rithmic).\
 
 
     Click the "<mark style="background-color:green;">**Apply**</mark>" button, and you'll see the main mapping parameters listed in the panel.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Open the chart of the symbol on which you intend to perform trading operations. In this example, you need to open MESU3. Historical and real-time data will be transmitted from the main ESU3 futures (as configured in the mapping panel). This setup enables you to analyze volume-related data (profiles, clusters, power trades) from the ES futures while executing trading operations on the MES micro contract.
 

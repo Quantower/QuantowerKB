@@ -1,8 +1,8 @@
 # Symbol Info
 
-This panel shows the detailed information about the selected Symbol. The list of parameters varies depending on Vendor and Symbol type.
+This panel shows detailed information about the selected Symbol. The list of parameters varies depending on the data provider (broker or data feed) and Symbol type.
 
-![Info about AUD/CHF symbol](../.gitbook/assets/symbol_info.png)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Info about NQ futures symbol</p></figcaption></figure>
 
 You can link this panel with others to synchronize the Symbol select. It works well in bind with Watchlist, Chart, and other Symbol-related panels.
 
@@ -10,5 +10,4 @@ You can link this panel with others to synchronize the Symbol select. It works w
 A good practice is to link the Symbol info panel with watchlist and hide the toolbar containing Symbol lookup field. Thus you receive the watchlist with detailed info per each symbol.
 {% endhint %}
 
-![Watchlist &amp; Symbol info bind example](../.gitbook/assets/symbol_watchlist.gif)
-
+![Watchlist & Symbol info bind example](../.gitbook/assets/symbol_watchlist.gif)

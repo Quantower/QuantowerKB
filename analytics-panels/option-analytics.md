@@ -26,18 +26,14 @@ To open a new Options Analytics panel, go to the _**Main menu**_ (Logo icon) and
 
 ### **Options Desk**
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 (1) - This control allows to manage simultaneously visible options series and strikes.\
 (2) - Right click on table's header will show a context menu where trader can select visible columns.\
 (3) - Paper column is an interactive column that used to add a paper position to porfolio, to do it - click on column's cell and set value.\
 (4) - Right click on a row will show a strike's context menu
 
-<div align="left">
-
-<img src="../.gitbook/assets/image (6) (1) (1).png" alt="">
-
-</div>
+<div align="left"><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""></div>
 
 (5) - Double click on Ask/Bid cells will open an Order Entry panel
 

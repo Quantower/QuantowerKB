@@ -78,7 +78,7 @@ There is also an **additional settings screen** allowing to set up some Exchange
   * OHLC. For each bar 4 quotes will be generated using Open, High, Low and Close prices.
   * Open. Only one quote per bar, using Open price, will be generated.
   * Close. Only one quote per bar, using Close price, will be generated.\
-    _Please note, that these rules can be applied only when you provide bar history as source data for backtester. When you provide tick data, the backtester will generate a quote for each tick._
+    &#xNAN;_&#x50;lease note, that these rules can be applied only when you provide bar history as source data for backtester. When you provide tick data, the backtester will generate a quote for each tick._
 * **Netting type.** This option specifies how your backtester should behave when you open multiple positions per one symbol
   * One position. All new positions will be combined with the one first opened.
   * Multiple per side. All new positions will be combined with the one first opened but separately per each trading Side.

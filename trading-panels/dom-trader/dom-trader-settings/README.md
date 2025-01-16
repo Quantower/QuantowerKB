@@ -4,7 +4,7 @@ Additional settings of the DOM Trader allow you to customize the general view fo
 
 **1)** To open DOM Trader settings, click on the '<mark style="background-color:blue;">**Menu**</mark>**'** button on the left upper corner and select <mark style="background-color:blue;">**Settings**</mark> item.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>DOM Trader Settings</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>DOM Trader Settings</p></figcaption></figure>
 
 **2)** Right-click on the price column and select the '<mark style="background-color:blue;">**Settings**</mark>' option.
 

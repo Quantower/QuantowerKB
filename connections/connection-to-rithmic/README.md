@@ -30,11 +30,7 @@ Starting from May 1, the [CME exchange сhanged the rules for determining a prof
 To avoid additional fees for subscription to market data, a trader needs to login through the R Trader Pro platform and activate the setting in Quantower, which is called **Use RTrader**.
 {% endhint %}
 
-<div data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/Rithmic plugin mode.gif" alt=""><figcaption><p>Activate Use RTrader option to avoid additonal fees for subscription to market data</p></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/Rithmic plugin mode.gif" alt=""><figcaption><p>Activate Use RTrader option to avoid additonal fees for subscription to market data</p></figcaption></figure></div>
 
 ## Creating a New Accounts and further connection
 
@@ -65,11 +61,7 @@ Also, note that the Plugin Mode allows you to connect multiple different platfor
 
 **Market by Order (MBO) data** shows the order size of an individual position inside the level2 data for a certain price. To activate the displaying of this data, open the Connection settings and tick on "**Enable 'Market by Order' (MBO) mode**".
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Enable Market by Order MBO data for Rithmic in Quantower platform</p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Enable Market by Order MBO data for Rithmic in Quantower platform</p></figcaption></figure></div>
 
 After activation, you can see this data in the DOM Trader panel.&#x20;
 

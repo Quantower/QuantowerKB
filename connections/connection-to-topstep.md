@@ -50,7 +50,7 @@ You can find the **correct password on your personal cabinet**, as we have shown
 
 **2)** Please ensure that you have chosen the correct server for connection, as it is crucial to use Topstep (Tostep trader Chicago Area, Topstep trader Europe, etc.)
 
-**3)** Please make sure your account is active. To do this, open the Rtrader Pro platform and try logging in using your credentials. Make sure you've selected the correct server. If you don't have Rtrader Pro, you can [**download it**](https://yyy3.rithmic.com/?page\_id=16) from the official Rithmic website.
+**3)** Please make sure your account is active. To do this, open the Rtrader Pro platform and try logging in using your credentials. Make sure you've selected the correct server. If you don't have Rtrader Pro, you can [**download it**](https://yyy3.rithmic.com/?page_id=16) from the official Rithmic website.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
 
@@ -74,7 +74,7 @@ This error occurs when you were able to connect to your account, but at the mome
 
 Sometimes users may encounter an issue of not having a trading account. Even though the platform connection is successful and the market data subscription is active, trading operations are not possible.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
 
 Most likely, your account is not fully activated. We recommend reaching out to Topstep support to resolve this matter. They will be able to assist you and ensure your account is fully activated for trading.
 
@@ -82,7 +82,7 @@ Most likely, your account is not fully activated. We recommend reaching out to T
 
 This is a standard alert from Rithmic's risk management system indicating that you have exceeded the allowed number of orders for trading. To view all limitations on your trading account, please refer to the [**Account Information**](../informational-panels/account-info.md) panel.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 For additional details on the permitted number of contracts for each account size, you can visit Topstep's website at [this link](https://intercom.help/topstep-llc/en/articles/8284209-what-does-maximum-position-size-mean).
 
@@ -93,7 +93,7 @@ More details you can find on Topstep's help base:\
 &#x20; **-** [**What is the Daily Loss Limit and what happens if I exceed it?**](https://intercom.help/topstep-llc/en/articles/8284207-what-is-the-daily-loss-limit-and-what-happens-if-i-exceed-it)\
 &#x20; **-** [**What is the Maximum Loss Limit?**](https://intercom.help/topstep-llc/en/articles/8284204-what-is-the-maximum-loss-limit)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 In some cases, Quantower platform may accept, execute, and then immediately close your order. This can occur due to specific settings in your Topstep account and may indicate that your account has reached a drawdown limit. It is recommended to check the error status in the Rtrader Pro platform for more detailed insights into this issue.
@@ -105,7 +105,7 @@ In some cases, Quantower platform may accept, execute, and then immediately clos
 
 ## **What is included in Quantower for free?** <a href="#included" id="included"></a>
 
-**Topstep accounts **<mark style="background-color:green;">**will be provided**</mark>** with the Premium Feature Bundle for free:**
+**Topstep accounts&#x20;**<mark style="background-color:green;">**will be provided**</mark>**&#x20;with the Premium Feature Bundle for free:**
 
 * [**DOM Surface**](../analytics-panels/dom-surface.md) (_requires Level2 data subscription_)
 * [**TPO Chart**](../analytics-panels/tpo-chart.md)
@@ -113,7 +113,7 @@ In some cases, Quantower platform may accept, execute, and then immediately clos
 * **Charting** (Maximum 2 indicators per chart)
 * [**Copy Trading**](../trading-panels/copy-trading.md) (_works only under 1 login where a trader has multiple accounts. For different logins a trader needs to have an Advanced Features license_)
 
-**Topstep accounts **<mark style="background-color:red;">**do not provide**</mark>** the following:**
+**Topstep accounts&#x20;**<mark style="background-color:red;">**do not provide**</mark>**&#x20;the following:**
 
 * [**Market Replay**](../trading-panels/history-player.md) (requires a subscription to [Advanced Features license](https://www.quantower.com/advancedfeatures) on Quantower)
 * [**Strategy Manager**](../quantower-algo/strategies-manager.md)
@@ -126,7 +126,7 @@ In some cases, Quantower platform may accept, execute, and then immediately clos
 
 ## When and what products can you trade with Topstep?
 
-All information regarding [<mark style="background-color:orange;">**permitted products and trading hours**</mark>](https://intercom.help/topstep-llc/en/articles/8284206-when-and-what-products-can-i-trade#h\_27627b5541) is available on the Topstep website.
+All information regarding [<mark style="background-color:orange;">**permitted products and trading hours**</mark>](https://intercom.help/topstep-llc/en/articles/8284206-when-and-what-products-can-i-trade#h_27627b5541) is available on the Topstep website.
 
 ***
 
@@ -201,7 +201,7 @@ Once you set your SL (Stop Loss) and TP (Take Profit) parameters, every market o
 
 <summary>Why I can not add more than 2 indicators?</summary>
 
-**Topstep accounts **<mark style="background-color:green;">**will be provided**</mark>** with the Premium Feature Bundle for free:**
+**Topstep accounts&#x20;**<mark style="background-color:green;">**will be provided**</mark>**&#x20;with the Premium Feature Bundle for free:**
 
 * [**DOM Surface**](../analytics-panels/dom-surface.md) (_requires Level2 data subscription_)
 * [**TPO Chart**](../analytics-panels/tpo-chart.md)

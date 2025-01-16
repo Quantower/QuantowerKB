@@ -68,7 +68,7 @@ Use your personal API Keys to login into your trading account in Quantower platf
 
 ![](<../.gitbook/assets/image (81).png>)
 
-To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** button**.**
+To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** butto&#x6E;**.**
 
 ![](<../.gitbook/assets/image (92).png>)
 

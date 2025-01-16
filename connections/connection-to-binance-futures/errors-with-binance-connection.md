@@ -50,7 +50,7 @@ Check that your **API Key** and **API Secret** are correct.
 
 ![Binance Futures error in Quantower - Timestamp for the request](<../../.gitbook/assets/image (89).png>)
 
-To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** button**.**
+To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** butto&#x6E;**.**
 
 ![](<../../.gitbook/assets/image (92).png>)
 
@@ -60,7 +60,7 @@ To solve it, please, go to **Windows Settings > Time & Language >** and click on
 
 The platform synchronizes time with the Binance exchange during the connection. If the desynchronization reaches a certain limit, then any (authorized) requests will display this error.
 
-To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** button**.**
+To solve it, please, go to **Windows Settings > Time & Language >** and click on **Sync Now** butto&#x6E;**.**
 
 ### Error "Order's notional must be no smaller than 5.0 (unless you choose to reduce only)
 

@@ -6,11 +6,7 @@ description: Basic settings and features for charts in Quantower
 
 The chart panel is one of the most important panel for an active trader. Accurate market data, graphical and analytical tools are integral components of the panel, which allow you to make the right trading decisions.
 
-<div data-full-width="true">
-
-<figure><img src="../../.gitbook/assets/chart_basic.png" alt=""><figcaption><p>Main parts of Chart panel in Quantower</p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../../.gitbook/assets/chart_basic.png" alt=""><figcaption><p>Main parts of Chart panel in Quantower</p></figcaption></figure></div>
 
 The chart panel can be divided into 5 parts:
 
@@ -42,7 +38,7 @@ The top toolbar allows you to select a trading instrument, set the chart type an
 The main part of the Chart panel contains the diagram itself plus a set of analytical overlays. There are some common controls on a chart area as follows:
 
 * Price scale centering mode. There are four modes of price scale adaptation:
-  * &#x20;<mark style="background-color:blue;">**Auto**</mark>** ** - keeps the visible part of the chart diagram in viewport
+  * &#x20;<mark style="background-color:blue;">**Auto**</mark>**&#x20;** - keeps the visible part of the chart diagram in viewport
   * &#x20;<mark style="background-color:blue;">**Auto centered**</mark> - the same as auto, but the last price is always in the middle of the viewport
   * &#x20;<mark style="background-color:blue;">**Keep in view**</mark> - keeps the last price from leaving the viewport
   * &#x20;<mark style="background-color:blue;">**Manual**</mark> - no automation, keeps the user's specified position

@@ -25,7 +25,7 @@ Using this information, a trader can evaluate:
 
 To activate a cluster chart, you first need to enable the Volume Analysis Toolbar. Click the "_<mark style="background-color:green;">**Magnifier**</mark>_" icon in the upper right corner of the chart panel.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Activate the Volume Analysis Toolbar</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Activate the Volume Analysis Toolbar</p></figcaption></figure>
 
 This will display a toolbar with Volume Analysis tools at the bottom of the chart, including _**Cluster,**_ [_**Step Profile, Left Profile, Right Profile**_](volume-profiles.md)_**,**_ [_**Time Statistics**_](time-statistics.md)_**,**_ [_**Time Histogram**_](time-histogram.md)_**,**_ [_**Historical Time & Sales**_](historical-time-and-sales.md)_**, and**_ [_**Custom Volume Profile**_](volume-profiles.md#custom-volume-profile).
 

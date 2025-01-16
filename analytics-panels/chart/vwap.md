@@ -68,7 +68,7 @@ VWAP has numerous application in the trading world. It is helpful for both insti
 * It helps in Buying low and Selling High. If the price is below VWAP, it is considered as undervalued, while price above VWAP is considered as overvalued.
 * Crossing of prices above/below VWAP line in chart indicates momentum shift or change of trend.
 * VWAP is also used as a trading benchmark by institutional investors who are not worried about the timing of the trade, but who are concerned about the adverse impact of their trades on the price of the security.
-* VWAP serves as a reference point for prices for one day. As such, it is best suited for intraday analysis**.** Chartists can compare current prices with the VWAP values to determine the intraday trend.
+* VWAP serves as a reference point for prices for one day. As such, it is best suited for intraday analysi&#x73;**.** Chartists can compare current prices with the VWAP values to determine the intraday trend.
 * VWAP indicator can be used as a dynamic support/resistance line during sideways market.
 
 ### #1 Return to 1 Hour VWAP

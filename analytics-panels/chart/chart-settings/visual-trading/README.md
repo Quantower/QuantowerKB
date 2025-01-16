@@ -8,7 +8,7 @@ The "<mark style="background-color:orange;">**Visual Trading**</mark>" setting c
 * Stop Loss
 * Take Profit
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The General Settings for the "<mark style="background-color:orange;">**Visual Trading**</mark>" category include two main options that control how orders are placed using Mouse Trading.
 

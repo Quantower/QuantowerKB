@@ -41,7 +41,7 @@ Almost all volume analysis tools have the same **Data Types**, which can be set 
 * **Buy (or Sell) Volume, %** — shows how many percent of the total volume related to Buy (or Sell) trades.
 * **Buy / Sell Volume** — displays Buy and Sell volume simultaneously on one histogram.
 * **Delta and Delta %** — shows the difference in traded Volume between Buyers and Sellers, helping to see who controls the market at a given time.\
-  _<mark style="color:red;">Delta % = Delta / Volume \* 100</mark>_
+  &#xNAN;_<mark style="color:red;">Delta % = Delta / Volume \* 100</mark>_
 * **Cumulative Delta** — the data is built by adding the current delta to each subsequent delta for a certain period (or number of bars).
 
 ![Use various data types for all volume analysis tools](../../../.gitbook/assets/volume-profiles-data-types.png)

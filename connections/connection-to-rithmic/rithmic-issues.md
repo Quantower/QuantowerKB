@@ -30,9 +30,9 @@ This error message is most commonly encountered by _**new Rithmic users for vari
 ### Here are the most common reasons for connection errors:
 
 * **Agreements not accepted**: You may have missed accepting the "_<mark style="background-color:orange;">Market Data Subscription Agreement</mark>_" or "_<mark style="background-color:orange;">Market Data Self-Certification</mark>_" during registration on Rithmic’s website or in RTrader Pro.\
-  _<mark style="background-color:green;">**Solution:**</mark> Log in to the RTrader Pro platform and accept the agreements._
+  &#xNAN;_<mark style="background-color:green;">**Solution:**</mark> Log in to the RTrader Pro platform and accept the agreements._
 * **New account**: If your account was created less than an hour ago, **full activation can take 30 minutes to 1 hour**.\
-  _<mark style="background-color:green;">**Solution:**</mark>_ _Log in to RTrader Pro. If the connection works, your account is fully activated._
+  &#xNAN;_<mark style="background-color:green;">**Solution:**</mark>_ _Log in to RTrader Pro. If the connection works, your account is fully activated._
 *   **Wrong server, login & password**: Ensure you're connecting to the correct server and use correct login credentials without extra symbols (Apex, Topstep, or Rithmic).&#x20;
 
     _<mark style="background-color:green;">**Solution:**</mark>_ _Try switching servers that match your login. Check your login credentials._
@@ -42,7 +42,7 @@ This error message is most commonly encountered by _**new Rithmic users for vari
 *   **RTrader Plugin issue**: If Quantower was previously connected via the RTrader Plugin and RTrader Pro isn’t currently running or the "<mark style="background-color:orange;">**Allow Plugins**</mark>" option is disabled, Quantower won’t connect.
 
     \
-    _<mark style="background-color:green;">**Solution**</mark>** ****(several different options, not step-by-step):**_
+    &#xNAN;_<mark style="background-color:green;">**Solution**</mark>**&#x20;****(several different options, not step-by-step):**_
 
     _1) start RTrader Pro in Allow Plugins mode and reconnect to your account in Quantower._
 
@@ -100,7 +100,7 @@ To resolve this issue, ensure that you are not logged in with your credentials a
 
 ## Error: No trade routes
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -126,7 +126,7 @@ To diagnose and resolve this issue, follow these steps:
 
 <figure><img src="../../.gitbook/assets/Screenshot_2 (3).png" alt=""><figcaption></figcaption></figure>
 
-4. Open (or install) the [<mark style="background-color:yellow;">**Rtrader Pro platform**</mark>](https://yyy3.rithmic.com/?page\_id=16), the official platform of Rithmic. Log in with your account and open the <mark style="background-color:orange;">**Chart panel**</mark> with the exact ticker, for example, **ESH4.CME**.
+4. Open (or install) the [<mark style="background-color:yellow;">**Rtrader Pro platform**</mark>](https://yyy3.rithmic.com/?page_id=16), the official platform of Rithmic. Log in with your account and open the <mark style="background-color:orange;">**Chart panel**</mark> with the exact ticker, for example, **ESH4.CME**.
 
 <figure><img src="../../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
 

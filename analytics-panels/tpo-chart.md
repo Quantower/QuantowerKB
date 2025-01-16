@@ -19,7 +19,7 @@ description: >-
 
 To open a new TPO panel, go to the _**Main menu**_ (Logo icon) and select _**TPO Chart**_ in the Analytics section.
 
-![Open TPO Chart panel via Main menu](../.gitbook/assets/tpo\_start.png)
+![Open TPO Chart panel via Main menu](../.gitbook/assets/tpo_start.png)
 
 ### Key Elements of TPO Profile Chart
 
@@ -54,8 +54,8 @@ The base element of a **TPO Chart** is letters, which are used to create the mar
   For example, a 1-day range will start at the beginning of the trading day and finish at the end of the current trading day (defined in the trading hours or by custom session).
 * **History Range** — determines the depth of history for building TPO profiles. At a high depth of history, volume profiles can be built for a long time, because they use tick data.
 * **Custom Step (Ticks)** — this parameter defines the height and number of letters in the profile.\
-  _If enabled_, the letter height will correspond to the number of ticks that is set in the parameter.\
-  _If disabled_, the height and number of letters will be selected automatically using a smart algorithm. As a result, the chart will look the most optimal for analysis.
+  &#xNAN;_&#x49;f enabled_, the letter height will correspond to the number of ticks that is set in the parameter.\
+  &#xNAN;_&#x49;f disabled_, the height and number of letters will be selected automatically using a smart algorithm. As a result, the chart will look the most optimal for analysis.
 
 ### Style settings of TPO Profile Chart
 
@@ -110,7 +110,7 @@ Use TPO splitting for a detailed analysis of profile formation. There are two sp
 
 **Merge** is a feature that combines several profiles into one. Right-click on the selected profile to open the context menu and select **Merge Left** or **Merge Right**. To return profiles to their original positions, press the Reset button.
 
-![](../.gitbook/assets/merging-tpo-profile\_market-profile.gif)
+![](../.gitbook/assets/merging-tpo-profile_market-profile.gif)
 
 ## Session Time
 

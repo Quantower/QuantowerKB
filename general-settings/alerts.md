@@ -69,7 +69,7 @@ To get around this limitation, we will make a 5-step pattern
 
 ![](<../.gitbook/assets/image (248).png>)
 
-4\) Duplicate this signal chart as many times as there are symbols in Watclist and set other coins on them. Create a group of tabs from the resulting Signal Graphs.&#x20;
+4\) Duplicate this signal chart as many times as there are symbols in Watchlist and set other coins on them. Create a group of tabs from the resulting Signal Graphs.&#x20;
 
 ![](<../.gitbook/assets/image (251).png>)
 
@@ -83,3 +83,36 @@ Go to the analytical chart and analyze and set levels and alerts. All alerts mus
 So we have Watchllist for fast switching between charts. Analysis on our favorite chart and notification signals from our levels.
 {% endhint %}
 
+### Webhook variables in alerts
+
+| Variable             | Description               |
+| -------------------- | ------------------------- |
+| {Ask}                | Ask                       |
+| {Bid}                | Bid                       |
+| {AskSize}            | Ask size                  |
+| {BidSize}            | Bid size                  |
+| {Name}               | Name                      |
+| {Description}        | Description               |
+| {SymbolType}         | Symbol type               |
+| {ExpirationDate}     | Expiration date           |
+| {StrikePrice}        | Strike price              |
+| {ExchangeName}       | Name of the Exchange      |
+| {Last}               | Last price                |
+| {LastSize}           | Last size                 |
+| {LastDateTime}       | Last date & time          |
+| {Open}               | Open price                |
+| {High}               | High price                |
+| {Low}                | Low price                 |
+| {Volume}             | Volume                    |
+| {PrevClose}          | Previous close price      |
+| {PrevSettlement}     | Previous settlement price |
+| {OpenInterest}       | Open interest             |
+| {Mark}               | Mark price                |
+| {MarkSize}           | Mark size                 |
+| {AverageTradedPrice} | Average traded price      |
+| {Change}             | Price change              |
+| {ChangePercentage}   | Change percentage         |
+| {ConnectionName}     | Name of the Connection    |
+| {FundingRate}        | Funding rate              |
+| {UnderlierName}      | Name of the Underlier     |
+| {QuoteAssetVolume}   | Volume of the quote asset |

@@ -91,7 +91,7 @@ So we have Watchllist for fast switching between charts. Analysis on our favorit
 | {Bid}                | Bid                       |
 | {AskSize}            | Ask size                  |
 | {BidSize}            | Bid size                  |
-| {Name}               | Name                      |
+| {Symbol}             | Symbol                    |
 | {Description}        | Description               |
 | {SymbolType}         | Symbol type               |
 | {ExpirationDate}     | Expiration date           |

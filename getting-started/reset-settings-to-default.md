@@ -58,7 +58,7 @@ Add the entire Settings folder to the archive and send this archive to us to che
 
 #### How to provide Log files?
 
-Moreover, for checking issues our developers can request Log Files. Please go to the **platform's main folder -> Logs -> Serilog -> send the latest file** or several latest files.&#x20;
+Moreover, for checking issues our developers can request Log Files. Please go to the **platform's main folder -> Logs send the folder**.&#x20;
 
 ![](<../.gitbook/assets/image (267).png>)
 

@@ -197,13 +197,13 @@ To place several orders in a row hold down CTRL
 
 If the mouse position i**s higher than the current price** then&#x20;
 
-* right click of the mouse will set a **limit order**&#x20;
+* right click of the mouse will set a **Sell limit order**&#x20;
 * left click of the mouse will set a **Buy stop marke**t order
 
 If position of the mouse is **under the current price** then
 
 * right click of the mouse will set **Sell stop market**&#x20;
-* right click of the mouse will set **Buy limit order**
+* left click of the mouse will set **Buy limit order**
 
 
 

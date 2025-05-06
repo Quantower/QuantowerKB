@@ -24,25 +24,17 @@ When you access the general section of your personal account, you'll find the ma
 To access a trading account through the Quantower platform, click on the icon for additional account information. Your login and password details will be displayed there.
 
 {% hint style="warning" %}
-**Please note that the password for your Topstep personal account is different from the password required to access your trading account on the platform.**
+Please note that you <mark style="color:red;">**cannot use your Topstep account credentials**</mark> to log in to Quantower. Instead, you must <mark style="color:green;">**use a special username and password**</mark> provided in your Trading Combine.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (367).png" alt=""><figcaption><p>Use the pointed credentials to log in to your Combine via Quantower.</p></figcaption></figure></div>
 
 ***
 
-## Possible issues with connection to Topstep account & trading issues
-
-* <mark style="background-color:red;">**Market Data Connection Login Failed. Please contact the FCM/IB who issued your login id for assistance.**</mark>
-
-The most common issue encountered while attempting to log in to the platform is an error. Several reasons may cause this:
+## Possible issues with connection to Topstep account & trading
 
 **1)** Please ensure that you are entering the <mark style="background-color:blue;">**correct Login & Password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account.\
 Your **username and password are case-sensitive**, so please double-check to ensure they're entered correctly.
-
-{% hint style="info" %}
-You can find the **correct password on your personal cabinet**, as we have shown previously.
-{% endhint %}
 
 {% hint style="warning" %}
 **If you selected the Tradovate platform during registration, unfortunately, you won't be able to connect to other platforms, including Quantower.** To change your selection and connect to Quantower, please contact Topstep's support team. They will assist you in updating your platform choice to ensure compatibility with Quantower.
@@ -50,33 +42,40 @@ You can find the **correct password on your personal cabinet**, as we have shown
 
 **2)** Please ensure that you have chosen the correct server for connection, as it is crucial to use Topstep (Tostep trader Chicago Area, Topstep trader Europe, etc.)
 
-**3)** Please make sure your account is active. To do this, open the Rtrader Pro platform and try logging in using your credentials. Make sure you've selected the correct server. If you don't have Rtrader Pro, you can [**download it**](https://yyy3.rithmic.com/?page_id=16) from the official Rithmic website.
+### <mark style="color:yellow;">Market Data Connection Login Failed. Please contact the FCM/IB who issued your login id for assistance.</mark>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Market Data Connection Login Failed</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Market Data Connection Login Failed error</p></figcaption></figure>
 
-**4)** For new users, please make sure to **sign two agreements first**. You can easily do this in the Rtrader Pro platform.
+The most common issue encountered while attempting to log in to the platform is an error. Several reasons may cause this:
 
-<figure><img src="../.gitbook/assets/Image 2023-08-03 18.33.50.png" alt=""><figcaption><p>Unsigned Agreements in Rtrader Pro platform</p></figcaption></figure>
+1. Please ensure that you are entering the <mark style="background-color:blue;">**correct password**</mark> to access the platform, as it is not the same as the one used for logging into your personal account. You can find the **correct password on your personal cabinet**, in your Trading Combine's information screen.
+2. Please ensure that you have chosen the correct server for connection, as it is crucial to use Topstep (Tostep trader Chicago Area, Topstep trader Europe, etc.)
+3. Please make sure your account is active. To do this, open the Rtrader Pro platform and try logging in using your credentials. Make sure you've selected the correct server. If you don't have Rtrader Pro, you can [**download it**](https://yyy3.rithmic.com/?page_id=16) from the official Rithmic website.
+4. For new users, please make sure to **sign two agreements first**. You can easily do this in the Rtrader Pro platform.
 
-* <mark style="background-color:red;">**Username & Password are Not Available (N/A)**</mark>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/Image 2023-08-03 18.33.50.png" alt=""><figcaption><p>Unsigned Agreements in Rtrader Pro platform</p></figcaption></figure></div>
+
+### <mark style="color:yellow;">Username & Password are Not Available (N/A)</mark>
 
 If your Username and Password are not yet available (N/A), please contact Tosptep support. Typically, the full account activation takes 1-2 business days.
 
 <figure><img src="../.gitbook/assets/image (372).png" alt=""><figcaption><p>Username &#x26; Password are Not Available (N/A)</p></figcaption></figure>
 
-* <mark style="background-color:red;">**No symbols found at Topstep**</mark>
+### <mark style="color:yellow;">No symbols found at Topstep</mark>
 
 <figure><img src="../.gitbook/assets/image (371).png" alt=""><figcaption><p>No symbols found at Topstep</p></figcaption></figure>
 
 This error occurs when you were able to connect to your account, but at the moment it is not yet fully activated by Topstep. You need to contact their support with your username and account number in order for them to activate your account to receive market data.
 
-* <mark style="background-color:red;">**Can not select an account for trading**</mark>
+### <mark style="color:yellow;">Can not select an account for trading</mark>
 
 Sometimes users may encounter an issue of not having a trading account. Even though the platform connection is successful and the market data subscription is active, trading operations are not possible.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Trading account is not available</p></figcaption></figure>
 
 Most likely, your account is not fully activated. We recommend reaching out to Topstep support to resolve this matter. They will be able to assist you and ensure your account is fully activated for trading.
+
+## **What is included in Quantower for free?** <a href="#included" id="included"></a>
 
 * <mark style="background-color:red;">**Rejected at RMS — Total sell (buy) quantity of contract would exceed its limit**</mark>
 

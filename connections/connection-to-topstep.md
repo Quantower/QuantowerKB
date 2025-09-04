@@ -75,8 +75,6 @@ Sometimes users may encounter an issue of not having a trading account. Even tho
 
 Most likely, your account is not fully activated. We recommend reaching out to Topstep support to resolve this matter. They will be able to assist you and ensure your account is fully activated for trading.
 
-## **What is included in Quantower for free?** <a href="#included" id="included"></a>
-
 * <mark style="background-color:red;">**Rejected at RMS — Total sell (buy) quantity of contract would exceed its limit**</mark>
 
 This is a standard alert from Rithmic's risk management system indicating that you have exceeded the allowed number of orders for trading. To view all limitations on your trading account, please refer to the [**Account Information**](../informational-panels/account-info.md) panel.

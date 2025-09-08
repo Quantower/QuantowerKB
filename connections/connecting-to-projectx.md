@@ -13,7 +13,9 @@ Before logging in to Quantower, ensure you:
 * Have received your **account login credentials**
 * Have accepted the market data and platform agreements by logging into the ProjectX platform
 
+{% hint style="warning" %}
 **Important:** You must log in to the ProjectX platform at least once to accept the required agreements. If this step is skipped, you will not be able to connect via Quantower.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 

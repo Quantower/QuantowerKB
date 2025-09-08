@@ -2,7 +2,7 @@
 
 This panel shows detailed information about the selected Symbol. The list of parameters varies depending on the data provider (broker or data feed) and Symbol type.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Info about NQ futures symbol</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Info about NQ futures symbol</p></figcaption></figure>
 
 You can link this panel with others to synchronize the Symbol select. It works well in bind with Watchlist, Chart, and other Symbol-related panels.
 

@@ -2,17 +2,6 @@
 description: >-
   We offer a user with a Free license, two packages as well as licenses for
   separate features.
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Quantower Licenses
@@ -31,7 +20,7 @@ To use any paid License, the trader needs to have an active [Quantower Account](
 
 We offer two great choices for your trading requirements. Our **free version** includes all the basic tools you need, while our **all-in-one license** comes with advanced features for improved trading. Pick the one that suits you best and start trading with confidence today!
 
-![](../.gitbook/assets/Screenshot\_1.png)
+![](../.gitbook/assets/Screenshot_1.png)
 
 Our **All-in-one license** is equipped with all the necessary tools for professional analysis and trading in various markets, including cryptocurrency, Forex, Futures, and Stocks brokers, among others.&#x20;
 

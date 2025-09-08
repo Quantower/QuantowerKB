@@ -112,7 +112,7 @@ In some cases, Quantower platform may accept, execute, and then immediately clos
 
 **Topstep accounts&#x20;**<mark style="background-color:red;">**do not provide**</mark>**&#x20;the following:**
 
-* [**Market Replay**](../trading-panels/history-player.md) (requires a subscription to [Advanced Features license](https://www.quantower.com/advancedfeatures) on Quantower)
+* [**Market Replay**](../trading-panels/market-replay.md) (requires a subscription to [Advanced Features license](https://www.quantower.com/advancedfeatures) on Quantower)
 * [**Strategy Manager**](../quantower-algo/strategies-manager.md)
 * [**Strategy Runner**](../quantower-algo/strategy-runner.md)
 * [**Trading Simulator**](../trading-panels/trading-simulator.md)

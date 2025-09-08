@@ -6,8 +6,8 @@ description: >-
 
 # Market Replay
 
-****[**First launch of the Market Replay**](history-player.md#first-launch-of-the-market-replay)****\
-****[**General and instruments settings**](history-player.md#general-and-instruments-settings)****
+[**First launch of the Market Replay**](market-replay.md#first-launch-of-the-market-replay)\
+[**General and instruments settings**](market-replay.md#general-and-instruments-settings)
 
 ### What is Market Replay
 

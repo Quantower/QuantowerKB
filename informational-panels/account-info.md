@@ -18,4 +18,4 @@ To open a new Account info panel, go to the _**Main menu**_ (Logo icon) and sele
 
 This option allows you to manually lock a selected account, preventing any trading operations from being executed on the wrong account.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Lock Trading for the Selected Account</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Lock Trading for the Selected Account</p></figcaption></figure>

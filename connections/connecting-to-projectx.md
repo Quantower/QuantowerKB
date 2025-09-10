@@ -27,7 +27,7 @@ Before logging in to Quantower, ensure you:
 4. In the Server dropdown, choose your Prop Firm
 5. Log in using your ProjectX credentials
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (435).png" alt=""><figcaption></figcaption></figure>
 
 ## You're Connected!
 

@@ -39,8 +39,8 @@ Before logging in to Quantower, ensure you:
 
 If you encounter any connection issues:
 
-*  Make sure you've first logged into the ProjectX platform to accept all agreements first
-*  Double-check your **username/password**
-*  Confirm you’ve selected **your firm** under the **Server** dropdown
+* Make sure you've first logged into the ProjectX platform to **accept all agreements** first
+* Double-check your **username/password**
+* Confirm you’ve selected **your firm** under the **Server** dropdown
 
-For further support, reach out to **your firm for support**
+For further support please get in touch with our support team via live chat on our website!

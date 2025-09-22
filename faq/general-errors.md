@@ -158,7 +158,7 @@ Additionally, you have the option to mitigate data load by closing panels, disab
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Platform doesn't work correctly</p></figcaption></figure>
 
-1. **For Intel Processors:** Update your drivers at [**Intel Graphics Windows DCH Drivers**](https://www.intel.com/content/www/us/en/download/19344/intel-graphics-windows-dch-drivers.html).
+1. **For Intel Processors:** Update your drivers at [**Intel Graphics Windows DCH Drivers**](https://www.intel.com/content/www/us/en/download/785597/intel-arc-iris-xe-graphics-windows.html).
 2. **If the Issue Persists After Initial Driver Installation:** Sometimes, the driver may not install correctly on the first attempt. Please reinstall the driver.&#x20;
 
 {% hint style="info" %}

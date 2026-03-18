@@ -10,11 +10,7 @@ In case of price movement, higher STD means higher volatility of an instrument, 
 
 ## &#x20;Formula
 
-<div align="left">
-
-<img src="../../../../.gitbook/assets/image (16).png" alt="">
-
-</div>
+<div align="left"><img src="../../../../.gitbook/assets/image (16).png" alt=""></div>
 
 Where:\
 **N** - period of calculation(number of observations)\
@@ -24,8 +20,7 @@ Where:\
 
 ## Most useful cases <a href="#most-useful-cases" id="most-useful-cases"></a>
 
-* **Volatility measurement** - the most usefull case of STD usage is to determing a statistical volatility, understanding of this value is very usefull to find best positions of potential stop loss and take profit levels. It protects existing positions of small price fluctuations and random breakout of levels.\
-
+* **Volatility measurement** - the most usefull case of STD usage is to determing a statistical volatility, understanding of this value is very usefull to find best positions of potential stop loss and take profit levels. It protects existing positions of small price fluctuations and random breakout of levels.<br>
 * **Divergence/Convergence** - Divergence/Convergence pattern is a form of price action when new high(low) of the price not confirmed with a new high of STD. This is a very good approach to find a weakness of existing trend.
 
 ![](<../../../../.gitbook/assets/image (17).png>)

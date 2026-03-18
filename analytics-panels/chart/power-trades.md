@@ -26,11 +26,11 @@ It is only important to understand that "**abnormal events**" occur in the marke
 
 For example, let's set the _Total Volume of 2'000 contracts and Time Interval in 3 seconds_ on the E-mini SP500 futures. This means that the scan will be based on the available history and will show on the chart only those zones that have such a volume for the specified time.
 
-![](../../.gitbook/assets/screenshot\_45.png)
+![](../../.gitbook/assets/screenshot_45.png)
 
 Additionally, it is worth to set a delta value to filter out the zones with one-side trades. The more delta value, the high probability that the price will reverse.
 
-![](../../.gitbook/assets/screenshot\_46.png)
+![](../../.gitbook/assets/screenshot_46.png)
 
 ### Main settings of Power Trades
 
@@ -55,8 +55,7 @@ Settings that do not affect the indicator calculation. These are mostly visual a
 * **Play alert sound** — the option turns on / off the sound signal when a new zone appears.
 * **Coloring view mode** — set the color for all found areas on the chart. \
   &#x20;  **By delta mode**: colors can be set depending on the sign of the delta - positive or negative.\
-  &#x20;   **By filtered volume**: mode sets a different color for areas whose total volume is greater than or equal to the one set in the threshold.\
-
+  &#x20;   **By filtered volume**: mode sets a different color for areas whose total volume is greater than or equal to the one set in the threshold.<br>
 * **Highlight area color** — set color for the selected area on the chart
 * **Sidebar view mode** — setting controls the data displaying — **Table result, Market Depth only, Full view (Table + Market Depth), None**.
 

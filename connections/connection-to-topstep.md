@@ -139,8 +139,7 @@ To select a specific session on the chart, go to <mark style="background-color:b
 
 [_**More details you can find in this guide.**_](https://help.quantower.com/quantower/miscellaneous-panels/sessions-manager#how-to-set-custom-trading-sessions-for-futures-on-cqg-rithmic)
 
-<img src="../.gitbook/assets/image (377).png" alt="" data-size="original">\
-
+<img src="../.gitbook/assets/image (377).png" alt="" data-size="original"><br>
 
 </details>
 

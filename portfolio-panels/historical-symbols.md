@@ -67,4 +67,4 @@ To correctly perform the backtesting, you need to configure parameters of the sy
 | **Min Lot**                         | The minimum number of lots available for trading                                                                                                    |
 | **Max Lot**                         | The maximum number of lots available for trading                                                                                                    |
 
-\
+<br>

@@ -10,8 +10,7 @@ Accelerator Oscillator was introduced by Bill Williams in his book "Trading Chao
 
 MEDIAN PRICE = (HIGH + LOW) / 2\
 AO = SMA (MEDIAN PRICE, 5) - SMA (MEDIAN PRICE, 34)\
-AC = AO - SMA (AO, 5)\
-
+AC = AO - SMA (AO, 5)<br>
 
 Where:\
 MEDIAN PRICE — median price;\

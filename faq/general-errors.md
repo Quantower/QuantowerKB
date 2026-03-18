@@ -12,6 +12,7 @@
 * [**Data latency (xxx ms) on Chart, DOM Trader**](general-errors.md#data-latency-xxx-ms-on-chart-dom-trader)
 * [**After launching the platform, windows are not displaying or are completely darkened**](general-errors.md#after-launching-the-platform-windows-are-not-displaying-or-are-completely-darkened.)
 * [**Chart Flickering Issue**](general-errors.md#chart-flickering-issue)
+* [**Windows Smart App Control: How to Run Quantower**](general-errors.md#windows-smart-app-control-how-to-run-quantower)
 
 ***
 
@@ -182,3 +183,59 @@ Users may sometimes experience chart flickering on their PCs while using the pla
 3. Regularly check for Windows updates and driver updates. If the issue resolves after updates, you may disable '**Use Software Render Mode**' for better platform performance.
 
 <figure><img src="../.gitbook/assets/Use rendering mode.png" alt=""><figcaption><p>Use rendering mode setting to avoid chart flickering issue in Quantower</p></figcaption></figure>
+
+***
+
+### 🛡️ Windows Smart App Control: How to Run Quantower
+
+<figure><img src="../.gitbook/assets/image (436).png" alt=""><figcaption></figcaption></figure>
+
+If you see a warning from Smart App Control or Windows SmartScreen when launching the Quantower platform, please follow these steps.
+
+#### Why is this happening?
+
+Microsoft Windows may block apps that:
+
+1. Are frequently updated (each new version of Quantower needs to build a new "reputation" in the Microsoft database).
+2. Use a developer certificate that is not currently part of the Microsoft "Paid Partners" program.
+
+Quantower is a secure, high-performance trading platform. It is fully verified by our team and contains no malicious code.
+
+***
+
+#### Option 1: If you see the Blue Window (SmartScreen)
+
+This is the most common scenario for new updates:
+
+1. In the "Windows protected your PC" window, click the "More info" link.
+2. A new button "Run anyway" will appear. Click it to start Quantower.
+
+#### Option 2: If Smart App Control Blocks the File
+
+In some versions of Windows 11, the "Run anyway" button might be hidden. To fix this:
+
+**Method A: Unblock via Properties (Recommended)**
+
+1. Right-click the downloaded Quantower.exe (or the installer).
+2. Select Properties.
+3. Under the General tab, look for the "Security" section at the very bottom.
+4. Check the box "Unblock".
+5. Click OK and launch the application again.
+
+**Method B: Run as Administrator**
+
+Try launching the platform with elevated privileges:
+
+1. Right-click the Quantower file.
+2. Select "Run as administrator".
+
+#### Option 3: For Advanced Users
+
+If you frequently encounter blocks for professional trading software, you can adjust your Windows settings:
+
+1. Open Settings -> Privacy & security -> Windows Security.
+2. Select App & browser control.
+3. Go to Smart App Control settings.
+4. Choose the mode that fits your needs (Note: Turning this feature "Off" in Windows 11 is permanent and cannot be reversed without a system reinstall).
+
+> Tip: If you use a third-party antivirus, we recommend adding the Quantower installation folder to the "Exclusions" list to ensure maximum performance and avoid execution delays.

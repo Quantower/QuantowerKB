@@ -1,18 +1,16 @@
 # Localization
 
-Quantower offers users several languages, which greatly simplifies the process of working with the platform. In addition to English, there are 14 other languages available, which we are constantly updating and adding new ones. 
+Quantower offers users several languages, which greatly simplifies the process of working with the platform. In addition to English, there are 14 other languages available, which we are constantly updating and adding new ones.&#x20;
 
 In case of errors or inaccuracies in translation, any user can make changes to the text. To do this, write to us in the support or change the text in the file, which is located on the Github repository. The next time you upgrade the platform, all your changes will be automatically applied.
 
-### How to make changes to the localization file on Github <a href="how-to-make-changes-to-the-localization-file-on-github" id="how-to-make-changes-to-the-localization-file-on-github"></a>
+### How to make changes to the localization file on Github <a href="#how-to-make-changes-to-the-localization-file-on-github" id="how-to-make-changes-to-the-localization-file-on-github"></a>
 
-* Go to the [**Quantower/Localization**](https://github.com/Quantower/Localization) section on Github, where the translation files for each panel are located. Here is the link [https://github.com/Quantower/Localization](https://github.com/Quantower/Localization)\
-
-* Register the account or log in to Github using your login and password. We can provide you with an account for making changes to localization files. To do this, write to us in support.\
-
+* Go to the [**Quantower/Localization**](https://github.com/Quantower/Localization) section on Github, where the translation files for each panel are located. Here is the link [https://github.com/Quantower/Localization](https://github.com/Quantower/Localization)<br>
+* Register the account or log in to Github using your login and password. We can provide you with an account for making changes to localization files. To do this, write to us in support.<br>
 * Localization files are stored in two folders: \
-     **Common** — contains all common phrases for the whole terminal; \
-     **Plug-ins** — includes folders with all the panels that contain translation files for specific panels.
+  &#x20;  **Common** — contains all common phrases for the whole terminal; \
+  &#x20;  **Plug-ins** — includes folders with all the panels that contain translation files for specific panels.
 
 ![There are two folders with localization files — Common and Plugins](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LD6FsRvQ3jgwJIg6O7r%2F-LTS-tElGUeTdX9kBPhF%2F-LTSHidwy1dSkZKCRH-V%2FQuantower%20localization.png?alt=media\&token=93298b44-40c2-4123-b8b8-68aca6d23077)
 

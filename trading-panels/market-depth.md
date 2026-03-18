@@ -63,4 +63,4 @@ At the bottom of the Market Depth is the Position Bar, which displays a brief in
 
 ![Position bar settings in market depth panel](../.gitbook/assets/position-bar-settings.png)
 
-\
+<br>

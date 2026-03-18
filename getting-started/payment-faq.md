@@ -32,4 +32,4 @@ In case you can’t or don’t want to deal with the WayForPay service, you may 
 
 For those who are willing to purchase the [Lifetime license](https://www.quantower.com/pricing), there is another alternative of payment — the wire transfer.
 
-In conclusion, we must say that there are no dead ends in this question, and we are always open to assist you with getting yourself the premium features of Quantower. Just [contact us](https://www.quantower.com/contact-us) in any suitable way and we are sure that we will find the right payment solution for you.\
+In conclusion, we must say that there are no dead ends in this question, and we are always open to assist you with getting yourself the premium features of Quantower. Just [contact us](https://www.quantower.com/contact-us) in any suitable way and we are sure that we will find the right payment solution for you.<br>

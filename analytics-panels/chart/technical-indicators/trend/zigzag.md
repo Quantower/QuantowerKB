@@ -19,4 +19,4 @@ ZigZag finds extremums in price movement. These extremums reflect the diviations
 
 ![](<../../../../.gitbook/assets/image (23).png>)
 
-\
+<br>

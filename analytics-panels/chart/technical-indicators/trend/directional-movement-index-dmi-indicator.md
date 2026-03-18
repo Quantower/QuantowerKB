@@ -23,11 +23,11 @@ A buy signal is given when DMI+ crosses above DMI-. A sell signal is given when 
    Absolute value of Current High – Previous Close\
    Absolute value of Current Low – Previous Close\
    \
-   \+DI\
+   +DI\
    IF Current High – Previous High > Previous Low – Current Low\
    THEN +DI = the greater of Current High – Previous High OR 0\
    &#x20; \
-   \-DI\
+   -DI\
    IF Previous Low – Current Low > Current High – Previous High\
    THEN –DI = the greater of Previous Low – Current Low OR 0\
    \
@@ -37,8 +37,7 @@ A buy signal is given when DMI+ crosses above DMI-. A sell signal is given when 
    IF +DI AND -DI are both positive AND +DI > -DI\
    THEN +DI = Current High – Previous High AND –DI = 0\
    Else IF +DI < -DI\
-   THEN +DI = 0 AND –DI = Previous Low – Current Low\
-
+   THEN +DI = 0 AND –DI = Previous Low – Current Low<br>
 2. Smooth the True Range, +DI, and –DI using Wilder’s smoothing technique.
 3. Divide the smoothed +DI by the smoothed True Range and multiply by 100 (this is the +DI that is plotted for the specified period).
 4. Divide the smoothed –DI by the smooth True Range and multiply by 100 (this is the –DI that is plotted for the specified period).

@@ -54,4 +54,4 @@ This is why sharing themes is as simple as sharing other Quantower extensions—
 
 Please share & get new Themes in our Discord channel thread.&#x20;
 
-\
+<br>

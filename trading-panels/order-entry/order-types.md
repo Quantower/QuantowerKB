@@ -29,7 +29,6 @@ Depending on a trading connection Quantower supports the following order types:
 
 *   **Market** **order** is an order placed without a price with the intention of hitting the best Bid or taking the best Offer currently available in the market. The order fills at the current best price.
 
-    Note, that Market orders may partially fill at multiple price levels.\
-
+    Note, that Market orders may partially fill at multiple price levels.<br>
 * **Limit order** allows you to submit an order at a specific (desired) limit price. Like market orders, limit orders allow for partial fills however, the remaining quantity continues to work in the market at the original limit price.
-* Stop order\
+* Stop order<br>

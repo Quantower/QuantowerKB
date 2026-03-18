@@ -43,8 +43,7 @@ Depending on the mode you select, you will see a set of various parameters divid
 * **Starting and ending dates** are a period in history used by the backtester to emulate the trading data.
 * **Start replaying from** the date (within the Start-End period). Select the "start replaying from the date" option if your strategy needs preliminary historical data during initialization. In this case, your strategy will receive quotes from the "start replaying from" date, while your Backtesting environment will contain data beginning from the "Starting date."
 * **Testing symbol**(s). Allows to specify one or multiple symbols the strategy will use in a testing environment.
-*   **Advanced settings**. Opens a screen with extra environment emulation parameters per each symbol selected for testing:\
-
+*   **Advanced settings**. Opens a screen with extra environment emulation parameters per each symbol selected for testing:<br>
 
     <figure><img src="../.gitbook/assets/backtest-advanced.png" alt=""><figcaption><p>Advanced settings of the backtesting environment</p></figcaption></figure>
 

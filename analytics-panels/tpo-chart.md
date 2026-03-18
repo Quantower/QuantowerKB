@@ -65,8 +65,7 @@ Customize the **TPO Profile Chart** using various style settings for better repr
 
 <figure><img src="../.gitbook/assets/Style settings of TPO profile.png" alt=""><figcaption><p>Display TPO Profile as Filled Boxes or Letters</p></figcaption></figure>
 
-* **Coloring Mode —** Pick a color scheme that works best for your analysis. There are 10 coloring modes available — **Single Color, Up/Down Profile, Up/Down Bars, Heatmap, Delta Profile, Delta Price, Delta Bars, Volume Profile, Volume Price, Volume Bars**.\
-
+* **Coloring Mode —** Pick a color scheme that works best for your analysis. There are 10 coloring modes available — **Single Color, Up/Down Profile, Up/Down Bars, Heatmap, Delta Profile, Delta Price, Delta Bars, Volume Profile, Volume Price, Volume Bars**.<br>
 * **POC Type** — price level of the greatest market activity or trading volume on the chart. Available two types:\
   \
   **Final POC**: Shows a single line for the POC.\
@@ -74,12 +73,9 @@ Customize the **TPO Profile Chart** using various style settings for better repr
 
 ![POC Type on TPO Profile chart](<../.gitbook/assets/POC Type on TPO profile.gif>)
 
-* **Show Value Area** — enable the **Value Area**, which highlights the price range where approximately 68% to 70% of the trading activity occurred.\
-
-* **Show Singles** (also called single prints) appear in the middle of a profile structure, not at the top or bottom edge. They occur during impulsive price moves and act as potential support/resistance zones. The **single line** indicates where these single prints begin to form.\
-
-* **Midpoint** displays the midpoint of the profile, showing at what price the center of the profile is located.\
-
+* **Show Value Area** — enable the **Value Area**, which highlights the price range where approximately 68% to 70% of the trading activity occurred.<br>
+* **Show Singles** (also called single prints) appear in the middle of a profile structure, not at the top or bottom edge. They occur during impulsive price moves and act as potential support/resistance zones. The **single line** indicates where these single prints begin to form.<br>
+* **Midpoint** displays the midpoint of the profile, showing at what price the center of the profile is located.<br>
 * **Initial Balance (IB)** represents the price range typically formed during the first hour of a trading session or day. You can adjust the duration for the Initial Balance in the settings (e.g., 10 minutes, 30 minutes, etc.).
 
 ![Enable Value Area, Singles, Midpoint and Initial Balance on TPO Profile](<../.gitbook/assets/TPO profile additional lines.gif>)

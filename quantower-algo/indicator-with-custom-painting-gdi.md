@@ -101,4 +101,4 @@ And this is how our chart looks now. You can compare results with Market Depth p
 
 ![Display bids and asks on the chart](../.gitbook/assets/level2.png)
 
-It is a great possibility of chart features extending, isn't it? You can add your own Info Window, Track Cursor or even Volume Analysis visualization. There are no limitations in our API, only your fantasy.\
+It is a great possibility of chart features extending, isn't it? You can add your own Info Window, Track Cursor or even Volume Analysis visualization. There are no limitations in our API, only your fantasy.<br>

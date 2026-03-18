@@ -8,7 +8,7 @@ To connect Quantower platform to FxPro broker and send trading orders, you need 
 * **Create a trading account** by filling out the registration form. Demo and Real account are created under one cTrader ID, therefore there is only one form for opening an account.\
   During the registration, always choose the **cTrader** platform where you need to specify it.
 
-![Select cTrader platform during the registration process](../../.gitbook/assets/register-with-fxpro-\_-select-ctrader.png)
+![Select cTrader platform during the registration process](../../.gitbook/assets/register-with-fxpro-_-select-ctrader.png)
 
 * After registration, you need to create a demo account under your cTrader ID
 
@@ -44,8 +44,7 @@ To enter the Quantower platform, use the **cTrader ID** and **password** that yo
 
 ![](../../.gitbook/assets/chart-on-ctrader-an-quantower.png)
 
-\
-
+<br>
 
 
 

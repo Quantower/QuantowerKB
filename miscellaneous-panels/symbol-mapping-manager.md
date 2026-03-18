@@ -51,8 +51,7 @@ _**Mapping Type has two modes:**_
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-*   Choose ESU3 (E-mini S\&P 500 futures) as the source for historical and real-time data displayed on the chart. Ensure that the selected symbol belongs to the same trading connection (in our example, it's Rithmic).\
-
+*   Choose ESU3 (E-mini S\&P 500 futures) as the source for historical and real-time data displayed on the chart. Ensure that the selected symbol belongs to the same trading connection (in our example, it's Rithmic).<br>
 
     Click the "<mark style="background-color:green;">**Apply**</mark>" button, and you'll see the main mapping parameters listed in the panel.
 

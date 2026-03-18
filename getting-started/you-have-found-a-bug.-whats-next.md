@@ -34,4 +34,4 @@ If both previous steps don't help you — your case may be a bug. Now you need t
 * **Connection** Binance, LMAX
 * **Steps to reproduce** 1 - open Chart panel, 2 - right-click the price scale, 3 - click “show/hide” option
 
-Please, once you finish the description of your case, please send it to our Support team in any convenient way. We will respond to you and try to help as soon as possible.\
+Please, once you finish the description of your case, please send it to our Support team in any convenient way. We will respond to you and try to help as soon as possible.<br>

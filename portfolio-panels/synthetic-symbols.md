@@ -43,8 +43,7 @@ For example, let's build an FX spread with multiple forex pairs (we will use fut
   &#x20; 1 negative coefficient for JY6U22 (Japanese Yen) \
   &#x20; 1 positive coefficient for CA6U22 (Canadian Dollar)\
   &#x20; 1 positive coefficient for DA6U22 (Australian Dollar)\
-  &#x20; 1 negative coefficient for SF6U22 (Swiss Franc)\
-
+  &#x20; 1 negative coefficient for SF6U22 (Swiss Franc)<br>
 * Click the "**Save**" button to calculate the received spread.
 
 ![](<../.gitbook/assets/image (357) (1) (1).png>)

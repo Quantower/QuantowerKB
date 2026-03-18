@@ -201,14 +201,13 @@ Microsoft Windows may block apps that:
 
 Quantower is a secure, high-performance trading platform. It is fully verified by our team and contains no malicious code.
 
-***
-
 #### Option 1: If you see the Blue Window (SmartScreen)
 
 This is the most common scenario for new updates:
 
 1. In the "Windows protected your PC" window, click the "More info" link.
 2. A new button "Run anyway" will appear. Click it to start Quantower.
+3. Restart Quantower
 
 #### Option 2: If Smart App Control Blocks the File
 
@@ -216,7 +215,7 @@ In some versions of Windows 11, the "Run anyway" button might be hidden. To fix 
 
 **Method A: Unblock via Properties (Recommended)**
 
-1. Right-click the downloaded Quantower.exe (or the installer).
+1. Right-click the downloaded Quantower (or the installer).
 2. Select Properties.
 3. Under the General tab, look for the "Security" section at the very bottom.
 4. Check the box "Unblock".

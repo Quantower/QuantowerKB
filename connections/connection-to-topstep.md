@@ -95,7 +95,7 @@ More details you can find on Topstep's help base:\
 {% hint style="warning" %}
 In some cases, Quantower platform may accept, execute, and then immediately close your order. This can occur due to specific settings in your Topstep account and may indicate that your account has reached a drawdown limit. It is recommended to check the error status in the Rtrader Pro platform for more detailed insights into this issue.
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 {% endhint %}
 
 ***

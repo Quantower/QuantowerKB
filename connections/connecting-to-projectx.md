@@ -17,7 +17,7 @@ Before logging in to Quantower, ensure you:
 **Important:** You must log in to the ProjectX platform at least once to accept the required agreements. If this step is skipped, you will not be able to connect via Quantower.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## If You Already Have Quantower Installed
 
@@ -33,7 +33,7 @@ Before logging in to Quantower, ensure you:
 
 Once connected, you’ll have full access to your prop firm’s evaluation or funded account through Quantower, with real-time data, charts, and order management powered by ProjectX.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Having Issues?
 

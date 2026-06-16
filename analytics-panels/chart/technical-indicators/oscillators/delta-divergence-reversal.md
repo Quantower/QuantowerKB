@@ -1,3 +1,9 @@
+---
+description: >-
+  Add the Delta Divergence Reversal indicator in Quantower to spot divergences
+  between price and order flow delta for early reversal signals
+---
+
 # Delta Divergence Reversal
 
 **Signal when one of the following events occurs:**

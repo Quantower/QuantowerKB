@@ -119,7 +119,7 @@
         * [Accelerator Oscillator](analytics-panels/chart/technical-indicators/oscillators/accelerator-oscillator.md)
         * [%R Larry Williams](analytics-panels/chart/technical-indicators/oscillators/r-larry-williams.md)
         * [Momentum](analytics-panels/chart/technical-indicators/oscillators/momentum.md)
-        * [Rate of Change](analytics-panels/chart/technical-indicators/oscillators/rate-of-change.md)
+        * [Rate of Change (ROC)](analytics-panels/chart/technical-indicators/oscillators/rate-of-change.md)
         * [Relative Strength Index (RSI) Indicator](analytics-panels/chart/technical-indicators/oscillators/relative-strength-index-rsi-indicator.md)
         * [Relative Spread Strength (RSS)](analytics-panels/chart/technical-indicators/oscillators/relative-spread-strength-rss.md)
         * [Balance of Power (BOP)](analytics-panels/chart/technical-indicators/oscillators/balance-of-power-bop.md)

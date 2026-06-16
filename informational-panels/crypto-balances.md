@@ -1,3 +1,9 @@
+---
+description: >-
+  Track all your coin balances in Quantower with the Crypto Balances panel —
+  total, available, and reserved amounts valued in BTC and USD
+---
+
 # Crypto balances
 
 {% hint style="info" %}
@@ -8,7 +14,6 @@ Crypto balances panel shows all of your coin balances list. Here you can find in
 
 ![Active crypto balances list](../.gitbook/assets/cryptobalances.png)
 
-There is also an info bar with total amounts of your coins in BTC & USD. By default, we hid assets with zero balances, so the list looks more clear, but you can enable the full list via the panel settings \(“Hide zero balances” option\).
+There is also an info bar with total amounts of your coins in BTC & USD. By default, we hid assets with zero balances, so the list looks more clear, but you can enable the full list via the panel settings (“Hide zero balances” option).
 
-![Open Crypto Balances via the main menu](../.gitbook/assets/image%20%28198%29.png)
-
+![Open Crypto Balances via the main menu](<../.gitbook/assets/image (198).png>)

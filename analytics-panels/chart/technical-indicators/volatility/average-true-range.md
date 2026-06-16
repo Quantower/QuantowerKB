@@ -1,32 +1,26 @@
-# Average True Range
+---
+description: >-
+  Use the Average True Range (ATR) in Quantower to measure market volatility and
+  set adaptive stops and position sizing
+---
+
+# Average True Range (ATR)
 
 ## Description&#x20;
 
 Average True Range is a volatility based indicator which describes the range of  bars averaged for some period of time. Most common smoothing period is 14. ATR does not show any trend moving or reversing, it only measures volatility and it structure.
 
-![](<../../../../.gitbook/assets/screenshot\_3 (2).png>)
+![](<../../../../.gitbook/assets/screenshot_3 (2).png>)
 
 ## Formula
 
-<div align="left">
+<div align="left"><img src="../../../../.gitbook/assets/image (45).png" alt=""></div>
 
-<img src="../../../../.gitbook/assets/image (45).png" alt="">
-
-</div>
-
-<div align="left">
-
-<img src="../../../../.gitbook/assets/image (7) (1).png" alt="">
-
-</div>
+<div align="left"><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""></div>
 
 &#x20;The first ATR value is calculated using the arithmetic mean formula:
 
-<div align="left">
-
-<img src="../../../../.gitbook/assets/image (40).png" alt="">
-
-</div>
+<div align="left"><img src="../../../../.gitbook/assets/image (40).png" alt=""></div>
 
 ## Most useful cases
 

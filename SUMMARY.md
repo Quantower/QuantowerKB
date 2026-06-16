@@ -2,7 +2,6 @@
 
 * [Welcome to Quantower Help](README.md)
 * [🚀 Getting Started](getting-started/README.md)
-  * [Release Notes](getting-started/latest-version.md)
   * [Installation](getting-started/installation.md)
   * [First start](getting-started/first-start.md)
   * [Account & Licensing](getting-started/account-and-licensing/README.md)
@@ -10,15 +9,10 @@
     * [Quantower Licenses](getting-started/account-and-licensing/quantower-licenses.md)
     * [⚖️ License Comparison](getting-started/account-and-licensing/license-comparison.md)
   * [Connect your broker](getting-started/connect-your-broker.md)
-  * [Platform update](getting-started/application-updates.md)
-  * [Quantower Beta](getting-started/quantower-beta.md)
-  * [Backup & restore manager](getting-started/backup-and-restore-manager.md)
-  * [Reset settings to default](getting-started/reset-settings-to-default.md)
   * [Payment FAQ](getting-started/payment-faq.md)
   * [“Coinpayments” payment](getting-started/coinpayments-payment.md)
   * [Binance fresh account](getting-started/binance-fresh-account.md)
   * [Referral Program](getting-started/referral-program.md)
-  * [You have found a bug. What’s next?](getting-started/you-have-found-a-bug.-whats-next.md)
 * [⚙️ General Settings](general-settings/README.md)
   * [Quantower Main Toolbar](general-settings/main-toolbar.md)
   * [Workspaces](general-settings/workspaces-binds-groups.md)
@@ -250,4 +244,14 @@
 
 ## Updates & Release Notes <a href="#updates" id="updates"></a>
 
-* [Page 1](updates/page-1.md)
+* [Release Notes](updates/latest-version.md)
+* [Platform update](updates/application-updates.md)
+* [Quantower Beta](updates/quantower-beta.md)
+
+## Help & Troubleshooting <a href="#troubleshooting" id="troubleshooting"></a>
+
+***
+
+* [Backup & restore manager](backup-and-restore-manager.md)
+* [Reset settings to default](reset-settings-to-default.md)
+* [You have found a bug. What’s next?](report-a-bug.md)

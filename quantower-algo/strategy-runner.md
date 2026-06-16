@@ -2,6 +2,7 @@
 description: >-
   Please note! This panel will be deprecated as soon as Strategies manager and
   Backtest&Optimize panels will be released.
+hidden: true
 ---
 
 # Strategy runner (deprecated)

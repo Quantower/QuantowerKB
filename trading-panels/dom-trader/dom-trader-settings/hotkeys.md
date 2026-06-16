@@ -1,3 +1,9 @@
+---
+description: >-
+  Set up DOM Trader hotkeys in Quantower for fast order sizing, placement, and
+  cancellation, with separate general and trading shortcuts
+---
+
 # Hotkeys
 
 This section is dedicated to customizing your keyboard shortcuts, allowing you to streamline your trading by setting up quick actions for order sizing, market placement, order cancellation, and other essential functions. Tailor your keyboard commands to fit your trading style for faster and more efficient execution.

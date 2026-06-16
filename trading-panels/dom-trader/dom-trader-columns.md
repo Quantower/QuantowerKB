@@ -1,3 +1,9 @@
+---
+description: >-
+  Choose which columns to show in the Quantower DOM Trader — bid/ask size,
+  imbalance, liquidity changes, cumulative size, P/L, and more
+---
+
 # DOM Trader Columns
 
 You can choose which columns to display in the DOM Trader panel by activating them through the Settings of the panel or through the context menu (right-click).
@@ -46,7 +52,7 @@ You can choose which columns to display in the DOM Trader panel by activating th
 
 ### Liquidity changes column (known as Pulling and Stacking)
 
-Pulling and Stacking describe the summary of the Liquidity Order Book (LOB) for Bid and Ask Side separately. Stacking shows an increasing Volume in the Order Book for the Sell-Side (Ask) or Buy-Side (Bid) and reflects therefore a supportive intention for the price to move in the corresponding direction. Whereas the Pulling shows a decrease in the Volume in the Order Book and therefore a lack of interest.
+Pulling and Stacking describe the summary of the Liquidity Order Book (LOB) for Bid and Ask Side separately. Stacking shows an increasing Volume in the Order Book for the Sell-Side (Ask) or Buy-Side (Bid) and therefore reflects a supportive intention for the price to move in the corresponding direction. Whereas the Pulling shows a decrease in the Volume in the Order Book and therefore a lack of interest.
 
 ![](<../../.gitbook/assets/image (34) (3).png>)
 
@@ -68,11 +74,11 @@ It shows how many times the values have changed at a particular price level (Bid
 **Cumulative changes**\
 It shows the total volume that changed at a specific price level since the panel launched.
 
-#### _Why Number of Changes and Cumulative changes are important?_
+#### _Why are Number of Changes and Cumulative Changes important?_
 
-The liquidity in the Depth of market is constantly changing due to very different types of reasons. The fast changes occurring simultaneously on the bid and ask sides are very difficult to track with the naked eye. It becomes even worse when you have over 10 levels.
+The liquidity in the Depth of the market is constantly changing due to very different types of reasons. The fast changes occurring simultaneously on the bid and ask sides are very difficult to track with the naked eye. It becomes even worse when you have over 10 levels.
 
-This is the part where the number of changes and cumulative changes comes on handy. For a buy trade, you would expect to see an increasing number of changes combined with higher cumulative changes showing increasingly adding liquidity at a higher pace. Even better, would it be combined with a higher cumulative change on the ask side to the downside, showing participants eager pulling out the liquidity.
+This is the part where the number of changes and cumulative changes come in handy. For a buy trade, you would expect to see an increasing number of changes combined with higher cumulative changes, showing increasingly adding liquidity at a higher pace. Even better, would it be combined with a greater cumulative change on the ask side to the downside, showing participants eager to pull out the liquidity.
 
 **Cumulative Size**\
 It shows the sum of Limit order volumes for each subsequent level. This histogram allows estimating the dominating side of the market.

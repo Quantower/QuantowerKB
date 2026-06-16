@@ -1,3 +1,9 @@
+---
+description: >-
+  Connect your Topstep account to Quantower to trade evaluations and funded
+  accounts with professional charting and order flow tools
+---
+
 # Connection to Topstep
 
 * [**Possible issues with the connection to Topstep account**](connection-to-topstep.md#possible-issues-with-connection-to-topstep-account-and-trading-issues)\

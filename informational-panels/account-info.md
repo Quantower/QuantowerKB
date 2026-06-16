@@ -1,10 +1,16 @@
+---
+description: >-
+  View all your trading account details in the Quantower Account Info panel —
+  balances, margin, and key metrics, plus the option to lock trading per account
+---
+
 # Account info
 
-The purpose of this panel is to show all of the available account information to user. Account info panel is required to have at least one active connection with a trading account to show data about.
+The purpose of this panel is to show all of the available account information to the user. Account info panel is required to have at least one active connection with a trading account to show data about.
 
 ![](<../.gitbook/assets/image (94).png>)
 
-The set of parameters diversify depending on a particular account (Connection) and represents the total list of all provided by the vendor data.
+The set of parameters varies depending on a particular account (Connection) and represents the total list of all data provided by the vendor.
 
 {% hint style="success" %}
 You can hide the toolbar containing the "**Account lookup**" field (via Settings) in case you have only one connection in order to save some space.

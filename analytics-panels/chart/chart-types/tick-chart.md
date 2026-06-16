@@ -1,3 +1,9 @@
+---
+description: >-
+  Use Tick charts in Quantower to build bars from a fixed number of trades for a
+  clearer view of market activity during fast-moving sessions
+---
+
 # Tick Bars
 
 Tick ​Bars ​build a new bar after a set number of trades, for example after every 500 trades. Basic charts (like time-based) draw a new bar after a set period of time, for example after every 5 minutes or hours.

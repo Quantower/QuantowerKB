@@ -1,3 +1,9 @@
+---
+description: >-
+  Fix common Rithmic connection issues in Quantower — login errors, data and
+  backfill problems, and gateway selection — with step-by-step solutions
+---
+
 # Rithmic Issues
 
 * [**Market Data Connection Failed. Please contact the FCM/IB**](https://help.quantower.com/quantower/connections/connection-to-rithmic/rithmic-issues#market-data-connection-failed.-please-contact-the-fcm-ib)

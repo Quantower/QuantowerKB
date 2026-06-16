@@ -1,14 +1,20 @@
+---
+description: >-
+  Add the Awesome Oscillator in Quantower to gauge momentum and spot trend
+  shifts using the difference between two moving averages
+---
+
 # Awesome Oscillator
 
 ## Description
 
-Owesome oscillator is an another kind of Moving average convergence/divergence indicator just with predefined input parameters. AO calculates the difference beetwen 34 period SMA and 5 period SMA smothed with 5 period mooving average.
+Awesome Oscillator is another kind of Moving average convergence/divergence indicator just with predefined input parameters. AO calculates the difference between the 34-period SMA and the 5-period SMA, smoothed with a 5-period moving average.
 
 ![](<../../../../.gitbook/assets/image (10).png>)
 
 ## Formula
 
-5 period SMA - 34 period SMA
+5-period SMA - 34-period SMA
 
 ## Most useful cases
 
@@ -16,5 +22,5 @@ Owesome oscillator is an another kind of Moving average convergence/divergence i
 
 ![](<../../../../.gitbook/assets/image (22).png>)
 
-* **Crossing zero line** - this is a trend reversing signal and it can be very useful in case of determining a correction of existing trend, beginning of a new trend wave or starting a new trend.
+* **Crossing zero line** - this is a trend-reversing signal and it can be very useful in case of determining a correction of existing trend, the beginning of a new trend wave or starting a new trend.
 

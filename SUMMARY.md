@@ -9,10 +9,6 @@
     * [Quantower Licenses](getting-started/account-and-licensing/quantower-licenses.md)
     * [⚖️ License Comparison](getting-started/account-and-licensing/license-comparison.md)
   * [Connect your broker](getting-started/connect-your-broker.md)
-  * [Payment FAQ](getting-started/payment-faq.md)
-  * [“Coinpayments” payment](getting-started/coinpayments-payment.md)
-  * [Binance fresh account](getting-started/binance-fresh-account.md)
-  * [Referral Program](getting-started/referral-program.md)
 * [⚙️ General Settings](general-settings/README.md)
   * [Quantower Main Toolbar](general-settings/main-toolbar.md)
   * [Workspaces](general-settings/workspaces-binds-groups.md)
@@ -38,6 +34,7 @@
   * [Connecting to ProjectX](connections/connecting-to-projectx.md)
   * [Connection to Topstep](connections/connection-to-topstep.md)
   * [Connection to Binance Futures](connections/connection-to-binance-futures/README.md)
+    * [Binance fresh account](connections/connection-to-binance-futures/binance-fresh-account.md)
     * [Errors with Binance connection](connections/connection-to-binance-futures/errors-with-binance-connection.md)
   * [Connection to Bybit](connections/connection-to-bybit.md)
   * [Connection to Interactive Brokers](connections/connect-quantower-to-interactive-broker/README.md)
@@ -250,8 +247,12 @@
 
 ## Help & Troubleshooting <a href="#troubleshooting" id="troubleshooting"></a>
 
-***
+* [Backup & restore manager](troubleshooting/backup-and-restore-manager.md)
+* [Reset settings to default](troubleshooting/reset-settings-to-default.md)
+* [You have found a bug. What’s next?](troubleshooting/report-a-bug.md)
 
-* [Backup & restore manager](backup-and-restore-manager.md)
-* [Reset settings to default](reset-settings-to-default.md)
-* [You have found a bug. What’s next?](report-a-bug.md)
+## Billing & Payments <a href="#billing" id="billing"></a>
+
+* [Payment FAQ](billing/payment-faq.md)
+* [“Coinpayments” payment](billing/coinpayments-payment.md)
+* [Referral Program](billing/referral-program.md)

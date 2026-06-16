@@ -78,4 +78,4 @@ Please note, that you may need to allow an in-going and outgoing connection for 
 
 If you need to uninstall the application, simply _**delete the folder containing all application files**_. You can also keep your personal settings (connection information & workspaces) by copying the "Settings" folder (located directly in the Quantower folder) before deleting the application. Later, you can paste this "Settings" folder into any other Quantower folder.
 
-You may also refer to [**Backup & Restore manager**](../backup-and-restore-manager.md) to backup your settings in one file and restore them later.
+You may also refer to [**Backup & Restore manager**](../troubleshooting/backup-and-restore-manager.md) to backup your settings in one file and restore them later.

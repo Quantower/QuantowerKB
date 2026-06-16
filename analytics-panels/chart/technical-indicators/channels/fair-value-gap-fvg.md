@@ -1,3 +1,9 @@
+---
+description: >-
+  Add the Fair Value Gap (FVG) indicator in Quantower to automatically spot
+  price imbalances and zones where price is likely to return
+---
+
 # Fair Value Gap (FVG)
 
 Fair Value Gap (FVG) is an indicator used by traders to identify imbalances and inefficiencies in the market. It is based on the concept that after a sharp price movement that leaves a price gap on the chart, the market tends to fill the gap.

@@ -114,7 +114,7 @@
       * [Oscillators](analytics-panels/chart/technical-indicators/oscillators/README.md)
         * [Delta Divergence Reversal](analytics-panels/chart/technical-indicators/oscillators/delta-divergence-reversal.md)
         * [Aroon Indicator](analytics-panels/chart/technical-indicators/oscillators/aroon-indicator.md)
-        * [Moving Average Convergence/Divergence](analytics-panels/chart/technical-indicators/oscillators/moving-average-convergence-divergence.md)
+        * [MACD (Moving Average Convergence/Divergence)](analytics-panels/chart/technical-indicators/oscillators/moving-average-convergence-divergence.md)
         * [Awesome Oscillator](analytics-panels/chart/technical-indicators/oscillators/awesome-oscillator.md)
         * [Accelerator Oscillator](analytics-panels/chart/technical-indicators/oscillators/accelerator-oscillator.md)
         * [%R Larry Williams](analytics-panels/chart/technical-indicators/oscillators/r-larry-williams.md)

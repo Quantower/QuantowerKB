@@ -1,3 +1,9 @@
+---
+description: >-
+  Connect your Pepperstone account to Quantower via the cTrader gateway to trade
+  forex and CFDs with advanced charting and order flow tools
+---
+
 # How to connect to Pepperstone via Quantower
 
 To connect Quantower platform to Pepperstone broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with Pepperstone, then go to the penultimate step in this manual.
@@ -24,8 +30,8 @@ To connect Quantower platform to Pepperstone broker and send trading orders, you
 
 ![](../../.gitbook/assets/trading-accounts-_-ctrader-id.png)
 
-* Once you logged in to the cTrader paltform \(web, desktop or mobile\) you need to accept the License Agreement.
-* After that, in the Quantower platform in the connection manager, select cTrader Gateway connection with Demo or Real and press **"Connect"** button. An authorization form will appear, where you need to specify an email or cTrader ID, as well as a password. This is a standard OAUTH authorization where you can see the connection information. **Allow access** and start trading :\)
+* Once you logged in to the cTrader paltform (web, desktop or mobile) you need to accept the License Agreement.
+* After that, in the Quantower platform in the connection manager, select cTrader Gateway connection with Demo or Real and press **"Connect"** button. An authorization form will appear, where you need to specify an email or cTrader ID, as well as a password. This is a standard OAUTH authorization where you can see the connection information. **Allow access** and start trading :)
 
 ![](../../.gitbook/assets/ctrader-connection.gif)
 
@@ -34,4 +40,3 @@ To connect Quantower platform to Pepperstone broker and send trading orders, you
 * You can place and manage your orders via Quantower or cTrader. Good luck!
 
 ![](../../.gitbook/assets/chart-on-ctrader-an-quantower.png)
-

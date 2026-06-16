@@ -1,7 +1,7 @@
 ---
 description: >-
   Bybit is a cryptocurrency derivatives exchange that provides trading on the
-  most popular crypto-assets like Bitcoin and Etherium and their perpetual
+  most popular crypto-assets like Bitcoin and Ethereum and their perpetual
   futures.
 ---
 

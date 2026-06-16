@@ -1,3 +1,9 @@
+---
+description: >-
+  Build and configure Kagi charts in Quantower — a time-independent chart type
+  that tracks pure price movement and reversals to highlight trends
+---
+
 # Kagi
 
 ### General info
@@ -14,6 +20,4 @@ There are two main parameters that affects on Kagi chart:
 * **Reversal**  — the amount of price movement that required for the Kagi line to reverse direction. For instance, if you'll set 10 ticks for the reversal parameter it means that price need to change at least 10 ticks to print reversal line.
 
 ![Parameters for Kagi chart](../../../.gitbook/assets/kagi-settings.png)
-
-
 

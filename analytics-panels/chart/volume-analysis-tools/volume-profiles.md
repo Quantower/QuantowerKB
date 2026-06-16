@@ -73,7 +73,7 @@ Custom profile allows you to create a profile for any specific time range.  For 
 
 After placing a custom profile on the chart, a control panel with five options will appear next to it:
 
-![Control panel for custom volume profile](<../../../.gitbook/assets/image (20) (1).png>)
+<img src="../../../.gitbook/assets/image (20) (1).png" alt="Control panel for custom volume profile" width="188">
 
 * **Duplicate Profile**\
   Create a copy of the profile with the same range and settings.
@@ -90,7 +90,7 @@ After placing a custom profile on the chart, a control panel with five options w
 
 In addition to the settings for quick management of custom profile, there are additional settings. Let's take a closer look at what you can customize.
 
-![Additional settings for custom volume profile](../../../.gitbook/assets/custom-profile-settings.gif)
+<img src="../../../.gitbook/assets/custom-profile-settings.gif" alt="Additional settings for custom volume profile" width="563">
 
 There are a lot of various settings, but the most interesting are:
 

@@ -160,7 +160,6 @@
   * [TPO Profile Chart](analytics-panels/tpo-chart.md)
 * [💵 Trading Panels](trading-panels/README.md)
   * [Chart Trading](trading-panels/chart-trading.md)
-  * [Crypto Order Entry](trading-panels/crypto-order-entry.md)
   * [Multiple Order Entry](trading-panels/multiple-order-entry.md)
   * [Order Entry](trading-panels/order-entry/README.md)
     * [Order entry for Bybit](trading-panels/order-entry/order-entry-for-bybit.md)

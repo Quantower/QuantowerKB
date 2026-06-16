@@ -123,7 +123,7 @@
         * [Relative Strength Index (RSI) Indicator](analytics-panels/chart/technical-indicators/oscillators/relative-strength-index-rsi-indicator.md)
         * [Relative Spread Strength (RSS)](analytics-panels/chart/technical-indicators/oscillators/relative-spread-strength-rss.md)
         * [Balance of Power (BOP)](analytics-panels/chart/technical-indicators/oscillators/balance-of-power-bop.md)
-        * [Commodity Channel Index](analytics-panels/chart/technical-indicators/oscillators/commodity-channel-index.md)
+        * [Commodity Channel Index (CCI)](analytics-panels/chart/technical-indicators/oscillators/commodity-channel-index.md)
       * [Trend](analytics-panels/chart/technical-indicators/trend/README.md)
         * [Bionic Candle](analytics-panels/chart/technical-indicators/trend/bionic-candle.md)
         * [Average Directional Movement Index (ADX) Indicator](analytics-panels/chart/technical-indicators/trend/average-directional-movement-index-adx-indicator.md)

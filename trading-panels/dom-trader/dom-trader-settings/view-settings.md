@@ -1,3 +1,9 @@
+---
+description: >-
+  Configure DOM Trader View Settings in Quantower — set the panel title, market
+  data refresh rate, ticks to scroll, and custom tick size
+---
+
 # View Settings
 
 <figure><img src="../../../.gitbook/assets/DOM Trader View settings.png" alt=""><figcaption><p>General View of DOM Trader Settings</p></figcaption></figure>

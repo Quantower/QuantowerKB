@@ -1,3 +1,9 @@
+---
+description: >-
+  Read your open position at a glance with the DOM Trader Position Bar in
+  Quantower — contracts, average price, live P/L, and liquidation price
+---
+
 # Positions Bar
 
 Located at the bottom of the DOM Trader, the Position Bar provides a concise overview of your open position for the current trading instrument. It displays essential information including the number of contracts, the average open price, the current profit or loss, and the liquidation price.

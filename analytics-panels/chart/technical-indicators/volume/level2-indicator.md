@@ -1,10 +1,16 @@
+---
+description: >-
+  Add the Level2 indicator in Quantower to plot order book depth directly on the
+  chart and track liquidity around price
+---
+
 # Level2 indicator
 
 **Level2 indicator** shows level2 data directly on the chart, where you can see at what level a large order volume is placed. Moreover, a trader can highlight levels that are higher than or equal to the specified value.
 
 ![Level2 Indicator on the chart (Quantower platform)](<../../../../.gitbook/assets/level2 indicator.gif>)
 
-### Settings of Level2 indicator
+### Settings of the Level2 indicator
 
 **Pin to price scale** — assigns the indicator to the price scale and shows exactly at what price the corresponding level2 volume is located.
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  Connect your FxPro account to Quantower through the cTrader gateway and trade
+  forex, indices, and CFDs with professional charting tools
+---
+
 # How to connect to FxPro via Quantower
 
 To connect Quantower platform to FxPro broker and send trading orders, you need to use cTrader Gateway. If you already have a trading account with FxPro, then go to the penultimate step in this manual.

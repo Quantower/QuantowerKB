@@ -1,3 +1,9 @@
+---
+description: >-
+  Add the Volume Impulse indicator in Quantower to detect a three-bar volume
+  pattern that signals a likely price move, with Buy/Sell alerts
+---
+
 # Volume Impulse
 
 The Volume Impulse indicator scans for a specific chart pattern spanning three bars. It identifies a scenario where there are two bars with increasing volume in one direction, followed by the third bar moving in the opposite direction with higher volume. This signal is a strong indicator of an impending price move in the direction of the third bar.
@@ -6,7 +12,7 @@ The Volume Impulse indicator scans for a specific chart pattern spanning three b
 
 ## How to add the Volume Impulse indicator to the chart?
 
-This indicator can be found in the list of indicators within the Volume sub-section. Click on the indicator and it will be added to the chart.
+This indicator can be found in the list of indicators within the Volume sub-section. Click on the indicator, and it will be added to the chart.
 
 <figure><img src="../../../../.gitbook/assets/add the Volume Impulse indicator.png" alt=""><figcaption></figcaption></figure>
 

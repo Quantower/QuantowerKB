@@ -8,7 +8,7 @@
     * [Quantower Account](getting-started/account-and-licensing/quantower-account.md)
     * [Quantower Licenses](getting-started/account-and-licensing/quantower-licenses.md)
     * [⚖️ License Comparison](getting-started/account-and-licensing/license-comparison.md)
-  * [Connect your broker](getting-started/connect-your-broker.md)
+  * [Connect Your Broker](getting-started/connect-your-broker.md)
 * [⚙️ General Settings](general-settings/README.md)
   * [Quantower Main Toolbar](general-settings/main-toolbar.md)
   * [Workspaces](general-settings/workspaces-binds-groups.md)

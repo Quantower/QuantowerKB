@@ -1,4 +1,10 @@
-# Simple Moving Average Indicator
+---
+description: >-
+  Add the Simple Moving Average (SMA) in Quantower to smooth price data and
+  identify the underlying trend across any timeframe
+---
+
+# Simple Moving Average (SMA) Indicator
 
 ### What is Simple Moving Average (SMA) Indicator?
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  Use the Directional Movement Index (DMI) in Quantower to measure trend
+  direction and strength with the +DI and −DI lines
+---
+
 # Directional Movement Index (DMI) Indicator
 
 ### What is the Directional Movement Index (DMI) Indicator?
@@ -40,5 +46,5 @@ A buy signal is given when DMI+ crosses above DMI-. A sell signal is given when 
    THEN +DI = 0 AND –DI = Previous Low – Current Low<br>
 2. Smooth the True Range, +DI, and –DI using Wilder’s smoothing technique.
 3. Divide the smoothed +DI by the smoothed True Range and multiply by 100 (this is the +DI that is plotted for the specified period).
-4. Divide the smoothed –DI by the smooth True Range and multiply by 100 (this is the –DI that is plotted for the specified period).
-5. Next calculate the Directional Movement Index (DX) which equals the (absolute value of the smoothed +DI – the smoothed –DI) /( the sum of the smoothed +DI and smoothed –DI )and multiply by 100.
+4. Divide the smoothed –DI by the smoothed True Range and multiply by 100 (this is the –DI that is plotted for the specified period).
+5. Next, calculate the Directional Movement Index (DX), which equals the (absolute value of the smoothed +DI – the smoothed –DI) / (the sum of the smoothed +DI and smoothed –DI )and multiply by 100.

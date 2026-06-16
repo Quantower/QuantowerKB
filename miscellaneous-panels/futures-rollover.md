@@ -1,3 +1,9 @@
+---
+description: >-
+  Roll futures contracts in Quantower before expiration with the Futures
+  Rollover panel or chart menu, keeping your drawings valid on the new contract
+---
+
 # Futures Rollover
 
 Traders should roll the current futures contract to avoid delivery or settlement at the contract's expiration. Rolling a contract involves closing the existing position and opening a new one in a later-dated contract, ensuring continuity in trading and managing positions more effectively while adapting to market conditions.
@@ -19,7 +25,7 @@ To roll over a futures contract via the chart's context menu, simply <mark style
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-2. Here, select the **Connection** for contract rollover, like a specific one (e.g., Rithmic) or for All active connections.
+2. Here, select the **Connection** for contract rollover, like a specific one (e.g., Rithmic) or for all active connections.
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 

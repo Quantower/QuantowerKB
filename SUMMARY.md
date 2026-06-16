@@ -2,14 +2,16 @@
 
 * [Welcome to Quantower Help](README.md)
 * [🚀 Getting Started](getting-started/README.md)
-  * [What's new](getting-started/latest-version.md)
+  * [Release Notes](getting-started/latest-version.md)
   * [Installation](getting-started/installation.md)
   * [First start](getting-started/first-start.md)
+  * [Account & Licensing](getting-started/account-and-licensing/README.md)
+    * [Quantower Account](getting-started/account-and-licensing/quantower-account.md)
+    * [Quantower Licenses](getting-started/account-and-licensing/quantower-licenses.md)
+    * [⚖️ License Comparison](getting-started/account-and-licensing/license-comparison.md)
+  * [Connect your broker](getting-started/connect-your-broker.md)
   * [Platform update](getting-started/application-updates.md)
   * [Quantower Beta](getting-started/quantower-beta.md)
-  * [Quantower Account](getting-started/quantower-account.md)
-  * [Quantower Licenses](getting-started/quantower-licenses.md)
-  * [⚖️ License Comparison](getting-started/license-comparison.md)
   * [Backup & restore manager](getting-started/backup-and-restore-manager.md)
   * [Reset settings to default](getting-started/reset-settings-to-default.md)
   * [Payment FAQ](getting-started/payment-faq.md)
@@ -245,3 +247,7 @@
   * [Localization](customization/localization.md)
 * [⁉️ FAQ](faq/README.md)
   * [General Errors](faq/general-errors.md)
+
+## Updates & Release Notes <a href="#updates" id="updates"></a>
+
+* [Page 1](updates/page-1.md)

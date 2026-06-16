@@ -38,7 +38,7 @@ To use any paid License, the trader needs to have an active [Quantower Account](
 
 We offer two great choices for your trading requirements. Our **free version** includes all the basic tools you need, while our **all-in-one license** comes with advanced features for improved trading. Pick the one that suits you best and start trading with confidence today!
 
-![](../.gitbook/assets/Screenshot_1.png)
+![](../../.gitbook/assets/Screenshot_1.png)
 
 Our **All-in-one license** is equipped with all the necessary tools for professional analysis and trading in various markets, including cryptocurrency, Forex, Futures, and Stocks brokers, among others.&#x20;
 
@@ -76,7 +76,7 @@ If you want to purchase specific pro features instead of paying for the entire p
 
 
 
-<figure><img src="../.gitbook/assets/Screenshot_2.png" alt=""><figcaption><p>The way to customize your pro-features set for Quantower</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_2.png" alt=""><figcaption><p>The way to customize your pro-features set for Quantower</p></figcaption></figure>
 
 ## License terms
 
@@ -106,7 +106,7 @@ With a lifetime license, you can enjoy uninterrupted access to our Quantower wit
 
 After successfully logging in and making your selection, you will be redirected to the purchase cart to finalize your purchase.
 
-![Order payment for Quantower license](../.gitbook/assets/paymentCart.png)
+![Order payment for Quantower license](../../.gitbook/assets/paymentCart.png)
 
 {% hint style="success" %}
 You can make payments through direct bank transfers. Please [contact our support team](https://www.quantower.com/contact-us) for further details.
@@ -114,7 +114,7 @@ You can make payments through direct bank transfers. Please [contact our support
 
 After completing the payment on the provider's page, you will be redirected back to the Quantower Accounts confirmation page. To access your Quantower Account dashboard, click on the **GO TO DASHBOARD** link. Here, you'll find your Core License details and a history of your payment transactions.
 
-![Status of your licenses in Account dashboard](../.gitbook/assets/account-dashboard-quantower.png)
+![Status of your licenses in Account dashboard](../../.gitbook/assets/account-dashboard-quantower.png)
 
 ## Quick tips on License purchase
 

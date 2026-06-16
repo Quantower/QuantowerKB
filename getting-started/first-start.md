@@ -23,4 +23,4 @@ From this point, you can start using Quantower. Customize the workspace, open ne
 
 ## Quantower Free version
 
-By default, you can use Quantower platform for free, where you have limited functionality. The list of features, that are available in the Free and Paid versions can be found on our [**License Comparison Table**](license-comparison.md).
+By default, you can use Quantower platform for free, where you have limited functionality. The list of features, that are available in the Free and Paid versions can be found on our [**License Comparison Table**](account-and-licensing/license-comparison.md).

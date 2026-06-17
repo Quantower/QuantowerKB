@@ -10,7 +10,7 @@ description: >-
 
 The first time you open Quantower, it sets everything up for you so you can dive straight in. Out of the box you get:
 
-* A ready-made [**workspace**](../general-settings/workspaces-binds-groups.md)
+* A ready-to-use [**workspace**](../general-settings/workspaces-binds-groups.md)
 * A [**bind**](../general-settings/binds.md) that links a few of the most popular trading panels
 * A live **connection** — Binance Spot or dxFeed Simulated — so there's real data on your charts from the first second
 

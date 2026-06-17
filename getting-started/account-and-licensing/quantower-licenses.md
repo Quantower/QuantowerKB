@@ -114,6 +114,19 @@ After payment, you'll come back to the Quantower Accounts confirmation page. Cli
 
 ![Status of your licenses in Account dashboard](../../.gitbook/assets/account-dashboard-quantower.png)
 
+## How activation works
+
+Once you've bought a license, activating it takes a few seconds:
+
+1. After checkout, open Quantower (or restart it if it's already running).
+2. Log in to your Quantower account from the app.
+3. Quantower checks your account and binds the active license automatically.
+4. Your paid features unlock right away — no reinstall needed.
+
+{% hint style="info" %}
+Bought a single pro feature? Only that feature unlocks — everything else stays on the free version.
+{% endhint %}
+
 ## Quick tips on License purchase
 
 * Your account includes a free license that stays valid as long as the account is active.

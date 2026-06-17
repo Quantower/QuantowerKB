@@ -1,19 +1,18 @@
 ---
 description: >-
-  After installation, the platform will start automatically with the default
-  workspace and selected connection — Binance Spot or DxFeed Simulated — to test
-  the platform's functionality.
+  Open Quantower for the first time with a ready-made workspace, live data, and
+  popular panels — then switch to a trading connection whenever you're ready.
 ---
 
 # First start
 
 {% embed url="https://youtu.be/155Ha6Rku0E" %}
 
-During the first start of the Quantower platform, you will get several elements of the platform, automatically created for testing purposes:&#x20;
+The first time you open Quantower, it sets everything up for you so you can dive straight in. Out of the box you get:
 
-* [**Workspace**](https://help.quantower.com/getting-started/workspaces-binds-groups#workspaces)
-* **"**[**Bind**](https://help.quantower.com/getting-started/workspaces-binds-groups#binds)**"** with several most popular trading panels
-* An active **connection** — Binance Spot or DxFeed Simulated.
+* A ready-made [**workspace**](../general-settings/workspaces-binds-groups.md)
+* A [**bind**](https://help.quantower.com/quantower/general-settings/workspaces-binds-groups#binds) that links a few of the most popular trading panels
+* A live **connection** — Binance Spot or dxFeed Simulated — so there's real data on your charts from the first second
 
 <figure><img src="../.gitbook/assets/image (391).png" alt=""><figcaption><p>Default workspace with DxFeed Simulated data</p></figcaption></figure>
 

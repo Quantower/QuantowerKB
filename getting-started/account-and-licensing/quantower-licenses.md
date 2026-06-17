@@ -1,13 +1,13 @@
 ---
 description: >-
-  We offer a user with a Free license, two packages as well as licenses for
-  separate features.
+  See how Quantower licensing works — the free version, 7-day trial, pro
+  features, and the All-in-One license — plus how to buy and activate one.
 layout:
   width: default
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:

@@ -8,7 +8,7 @@ description: >-
 
 Welcome to Quantower — a professional trading platform for futures, stocks, crypto, and forex, built around fast charts, deep order flow and volume analysis, and trading straight from the chart or DOM.
 
-This guide takes you from download to your first live chart in a few short steps. Follow them in order:
+This guide takes you from download to your first live chart — just follow the steps in order:
 
 {% stepper %}
 {% step %}

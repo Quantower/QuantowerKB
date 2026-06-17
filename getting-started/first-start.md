@@ -14,6 +14,10 @@ The first time you open Quantower, it sets everything up for you so you can dive
 * A [**bind**](../general-settings/binds.md) that links a few of the most popular trading panels
 * A live **connection** — Binance Spot or dxFeed Simulated — so there's real data on your charts from the first second
 
+{% hint style="info" %}
+Haven't installed Quantower yet? Start with [**Installation**](https://help.quantower.com/quantower/getting-started/installation).
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (391).png" alt=""><figcaption><p>Default workspace with dxFeed Simulated data</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (390).png" alt=""><figcaption><p>Default workspace with Binance Spot connection</p></figcaption></figure>

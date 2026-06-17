@@ -24,19 +24,19 @@ layout:
 
 # Quantower Licenses
 
-We deliver the most popular trading and analytics functionality for free, but some valuable and market-specific features are available under the paid License.
+Quantower gives you the most popular trading and analytics tools for free. A handful of advanced, market-specific features live under a paid license.
 
 {% hint style="info" %}
-If you have any questions regarding your Quantower Account or License purchase, please [contact our Support team](https://www.quantower.com/contact-us).
+Questions about your account or a license purchase? [Contact our Support team](https://www.quantower.com/contact-us).
 {% endhint %}
 
-To use any paid License, the trader needs to have an active [Quantower Account](quantower-account.md). If you don’t have one, you can create it during your License purchase process.
+Any paid license is tied to an active [Quantower Account](quantower-account.md) — and if you don't have one yet, you can create it right during checkout.
 
 {% embed url="https://www.youtube.com/watch?v=a-mp3TIZEXc" %}
 
-## All-in-one license
+## All-in-One license
 
-We offer two great choices for your trading requirements. Our **free version** includes all the basic tools you need, while our **all-in-one license** comes with advanced features for improved trading. Pick the one that suits you best and start trading with confidence today!
+Two choices, depending on what you need: the <mark style="color:green;">**Free version**</mark> covers all the essentials, and the <mark style="color:$success;">**All-in-One license**</mark> unlocks the advanced tools for serious trading. Here's what All-in-One adds:
 
 ![](../../.gitbook/assets/Screenshot_1.png)
 

@@ -40,28 +40,28 @@ Two choices, depending on what you need: the <mark style="color:green;">**Free v
 
 ![](../../.gitbook/assets/Screenshot_1.png)
 
-Our **All-in-one license** is equipped with all the necessary tools for professional analysis and trading in various markets, including cryptocurrency, Forex, Futures, and Stocks brokers, among others.&#x20;
+* **Every connection at once** — all major exchanges, brokers, prop firms, and data feeds, used simultaneously.
+* [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools) — Cluster chart, Volume Profile, Time Statistics, Time Histogram, and VWAP.
+* [**Advanced features**](https://www.quantower.com/advancedfeatures) — Renko, Kagi, P\&F, and Heikin-Ashi chart types, unlimited overlays and indicators, Trading Simulator, and chart/indicator alerts.
+* [**DOM Surface**](https://www.quantower.com/blog/dom-surface-panel-for-deep-order-flow-analysis) — full market-depth view for deep order-flow analysis.
+* [**Power Trades Scanner**](https://help.quantower.com/quantower/analytics-panels/chart/power-trades) — spots large orders executed in a short window. (In the free version, its data clears after 3 minutes.)
+* [**Options Trading**](https://www.quantower.com/options-trading-features) — activates the Options Analytics panel, currently free to use.
+* New features land in your account automatically as they're released.
 
-* The package includes connectivity to all major exchanges, brokers, and data feeds, allowing you to access multiple vendors simultaneously.
-* [**Volume analysis tools**](https://www.quantower.com/volumeanalysistools), including the Cluster chart, Volume Profile, Time Statistics, Time Histogram, and VWAP, enable you to analyze trading volumes effectively.
-* [**Advanced features**](https://www.quantower.com/advancedfeatures), such as Renko, Kagi, P\&F, and Heikin-Ashi chart types, Unlimited Overlays, Unlimited Indicators, Trading Simulator, Chart and Indicator Alerts, offer you even more trading flexibility.
-* [**DOM Surface**](https://www.quantower.com/blog/dom-surface-panel-for-deep-order-flow-analysis) panel provides full access to the market depth of your instrument, giving you an edge in executing trades.
-* [**Power Trades Scanner**](https://help.quantower.com/analytics-panels/chart/power-trades) that shows the execution of large orders in a short time. Please note that all accumulated by this panel data disappears after 3 minutes in the free version.
-* [**Options Trading**](https://www.quantower.com/options-trading-features) license activates Options Analytics panel. Currently it's available for free usage.
-* Moreover, with an active subscription, you'll automatically receive all new features as they become available.
+## Using Quantower for free
 
-## Free usage
+You've got three ways to run Quantower at no cost.
 
-### Free Edition (without registration)
+### Free Edition (no registration)
 
-There are three ways of using the Quantower totally FREE. The easiest one is to download the application and start using it. In this case, you will get a limited version but still allow trading and data analysis. In general, limitations are:
+Just download and go. You get a capable version for trading and analysis, with a few limits:
 
 * Two indicators per chart
 * One symbol overlay per chart
-* One active connection to any broker, data feed, or exchange
+* One active connection (broker, prop firm, data feed, or crypto exchange)
 
 {% hint style="info" %}
-Refer to the detailed table to learn more about [comparing the licenses](license-comparison.md).
+Want the full breakdown? See the [license comparison table.](license-comparison.md)
 {% endhint %}
 
 Quantower can be operated indefinitely in this specific mode, allowing users to leverage its features without any time constraints.

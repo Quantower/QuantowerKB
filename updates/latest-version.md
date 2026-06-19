@@ -6,7 +6,7 @@ description: >-
 
 # Release Notes
 
-Quantower ships regular updates — new features, improvements, and fixes. And when something critical breaks on our end, we patch it fast and push an update right away.
+Quantower ships regular updates, and when something critical breaks on our end, we patch it fast and push a fix right away.
 
 ### **Latest release — v1.146.11 (Beta · June 13, 2026)**
 

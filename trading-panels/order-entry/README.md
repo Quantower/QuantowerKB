@@ -1,13 +1,13 @@
 ---
 description: >-
-  Order Entry allows to create trading orders with different conditions, such as
-  order quantity, price, side, order type and submit them on the market.
+  Place orders with the Order Entry panel in Quantower — set quantity, price,
+  side, and order type, then submit them to the market.
 ---
 
 # Order Entry
 
-* ****[**Order Entry for CQG connection**](order-entry-for-cqg.md)****
-* ****[**Order Entry for Bybit connection**](order-entry-for-bybit.md)****
+* [**Order Entry for CQG connection**](order-entry-for-cqg.md)
+* [**Order Entry for Bybit connection**](order-entry-for-bybit.md)
 * Order Entry for Rithmic connection
 * Order Entry for Binance Futures
 

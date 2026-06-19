@@ -1,10 +1,12 @@
 ---
 description: >-
-  Place orders with the Order Entry panel in Quantower — set quantity, price,
-  side, and order type, then submit them to the market.
+  Place orders with the standalone Order Entry panel in Quantower — set
+  quantity, price, side, and order type, then submit them to the market.
 ---
 
 # Order Entry
+
+This is the standalone Order Entry panel. A similar Order Entry sidebar is also built into the Chart, DOM Trader, DOM Surface, and TPO — each one has its own settings and is configured separately from this panel.
 
 * [**Order Entry for CQG connection**](order-entry-for-cqg.md)
 * [**Order Entry for Bybit connection**](order-entry-for-bybit.md)

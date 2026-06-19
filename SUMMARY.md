@@ -164,7 +164,7 @@
     * [DOM Trader Settings](trading-panels/dom-trader/dom-trader-settings/README.md)
       * [View Settings](trading-panels/dom-trader/dom-trader-settings/view-settings.md)
       * [DOM Trader Columns](trading-panels/dom-trader/dom-trader-settings/dom-trader-columns.md)
-      * [Order Entry](trading-panels/dom-trader/dom-trader-settings/order-entry.md)
+      * [Order Entry (DOM sidebar)](trading-panels/dom-trader/dom-trader-settings/order-entry.md)
       * [VWAP Settings](trading-panels/dom-trader/dom-trader-settings/vwap-settings.md)
       * [Positions Bar](trading-panels/dom-trader/dom-trader-settings/positions-bar.md)
       * [Hotkeys](trading-panels/dom-trader/dom-trader-settings/hotkeys.md)

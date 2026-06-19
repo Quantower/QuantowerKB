@@ -1,38 +1,40 @@
 ---
 description: >-
-  Quantower — is a constantly developing application that is why you can be sure
-  to open more and more useful features each day.
+  See how Quantower updates itself — automatic checks, one-click downloads, and
+  rolling back to a previous version.
 ---
 
 # Platform update
 
 * [**Quantower Beta version**](quantower-beta.md)
 
-Our team strives to release the new updates as soon as possible, usually at least a couple of times per month.
+Our team strives to release new updates as soon as possible, usually at least a couple of times per month.
 
 Quantower automatically checks for updates on start and re-checks them every 10 minutes in the background. It helps you to get to know about the latest updates just after we release them.
 
-![The green arrow on the logo indicates that a new update is available](../.gitbook/assets/screenshot\_128.png)
+![The green arrow on the logo indicates that a new update is available](../.gitbook/assets/screenshot_128.png)
 
-A green arrow will appear near the logo when a new version is available. Сlick on the "_**Logo**_" icon and open the sidebar, then press the “_**NEW VERSION**_” button at the bottom and get on the About screen.
+When a new version is available, a green arrow appears next to the logo. Click the logo to open the sidebar, then press the "**NEW VERSION**" button at the bottom to reach the About screen.
 
 ![New version is available for download](../.gitbook/assets/new-version-quantower.png)
 
-Press the "_**DOWNLOAD**_" button, and Quantower will download the latest version and prepare it for the update. When the download process is finished, Quantower will ask you about the restart. This action is required to apply the new version, but you can cancel the reboot and proceed using an application. In this case, updates will be applied on the next start of Quantower.
+Click "_**DOWNLOAD**_", and Quantower will download the latest version and prepare it for the update. When the download process is finished, Quantower will ask you about the restart. This action is required to apply the new version, but you can cancel the reboot and proceed using an application. In this case, updates will be applied on the next start of Quantower.
 
-{% hint style="danger" %}
-If you accept an application restart for the update, it will close and reopen with the new version. This may take some time, and trading will be unavailable.
+{% hint style="warning" %}
+Restarting to update closes and reopens Quantower with the new version. It takes a moment, and trading is unavailable while it happens.
 {% endhint %}
 
-All of your local settings will be saved and applied for future updates because the update changes the Core files only.
+Your local settings carry over to every update — the process replaces the Core files only, so nothing you've set up is lost.
 
-If you use the platform with a too old version, it will ask you to update it to the latest version to avoid any issues with connections and trading operation.
+If your version falls too far behind, Quantower will prompt you to update to avoid issues with connections and trading.
 
 ![](<../.gitbook/assets/image (96).png>)
 
 ## Rollback to the previous version
 
-The rollback function allows you to go back to any previously supported version and switch to it in a few clicks.
+Need to step back? The rollback function lets you return to any previously supported version in a few clicks.
 
 ![Rollback to previous Quantower version (new version)](../.gitbook/assets/rollback.gif)
+
+Curious what's coming next? Join the [**Quantower Beta version**](quantower-beta.md) to test new features before they release.
 

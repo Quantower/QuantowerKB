@@ -1,8 +1,7 @@
 ---
 description: >-
-  This category allows you to configure the necessary parameters for the Order
-  Entry sidebar. Here, you can set the order size, show/hide order & position
-  management buttons.
+  Set up the Order Entry sidebar on the chart — default order size and which
+  order and position buttons to show.
 ---
 
 # Order Entry

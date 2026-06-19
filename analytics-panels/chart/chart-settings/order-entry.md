@@ -1,10 +1,12 @@
 ---
 description: >-
-  Set up the Order Entry sidebar on the chart — default order size and which
-  order and position buttons to show.
+  Configure the chart's built-in Order Entry sidebar — set order size and show
+  or hide the order and position buttons.
 ---
 
 # Order Entry
+
+This is the Order Entry sidebar built into the chart. It has its own settings, separate from the standalone Order Entry panel and from the sidebars in other panels.
 
 The Order Entry sidebar settings can be accessed through:
 

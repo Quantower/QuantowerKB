@@ -70,7 +70,7 @@
       * [Price Scale](analytics-panels/chart/chart-settings/price-scale.md)
       * [Visual Trading](analytics-panels/chart/chart-settings/visual-trading/README.md)
         * [Positions](analytics-panels/chart/chart-settings/visual-trading/positions.md)
-      * [Order Entry](analytics-panels/chart/chart-settings/order-entry.md)
+      * [Order Entry (Chart sidebar)](analytics-panels/chart/chart-settings/order-entry.md)
       * [Quick Ruler](analytics-panels/chart/chart-settings/quick-ruler.md)
       * [Info Window](analytics-panels/chart/chart-settings/info-window.md)
       * [Volume Bars](analytics-panels/chart/chart-settings/volume-bars.md)

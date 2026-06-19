@@ -1,2 +1,0 @@
-# DOM Trader Columns
-

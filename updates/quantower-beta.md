@@ -1,12 +1,12 @@
 ---
 description: >-
-  With Beta version you will receive updates to new functionality that is still
-  in testing.
+  Get early access to in-development Quantower features through the Beta
+  version, and help refine them by reporting bugs.
 ---
 
 # Quantower Beta
 
-**Beta Version.** When this option is activated, you will receive updates to new functionality that is still in testing. We strive for our traders to use fully working functionality, but for this, we need the help of each user. Therefore, we ask as many people as possible to use the Beta version to inform us about possible bugs that eluded our testers.
+Like being first? The **Beta Version** hands you new features while they're still in testing — before everyone else. These builds can have rough edges, and that's where you come in: spot a bug our testers missed, and a quick report helps us polish the feature before its full release.
 
 {% embed url="https://www.youtube.com/watch?v=L21kFXQaWQ0" %}
 

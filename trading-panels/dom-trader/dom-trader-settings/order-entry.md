@@ -1,11 +1,12 @@
 ---
 description: >-
-  This category allows you to configure the necessary parameters for the Order
-  Entry sidebar. Here, you can set the order size, show/hide order & position
-  management buttons.
+  Configure the DOM Trader's built-in Order Entry sidebar — choose the default
+  order size and which order and position controls appear.
 ---
 
 # Order Entry
+
+This is the Order Entry sidebar built into the DOM Trader. It's configured independently — separate from the standalone Order Entry panel and from the sidebars in other panels.
 
 The Order Entry sidebar settings can be accessed through:
 
@@ -29,9 +30,7 @@ The Order Entry sidebar settings can be accessed through:
     The setting returns the order size to a previously saved size after each trade. \
     For example, you set the default order size to 2 lots. After that, you increased the size to 3 lots for the current trade. Once the order with this size (3 lots) is placed, the platform will automatically revert the value to the previously saved size, i.e., 2 lots.
 
-    {% hint style="info" %}
-    **Note:** This setting only works if you have set a default order size value.
-    {% endhint %}
+    <div data-gb-custom-block data-tag="hint" data-style="info" class="hint hint-info"><p><strong>Note:</strong> This setting only works if you have set a default order size value.</p></div>
 * **Quick quantity buttons.** \
   In the text block, you can modify existing trading buttons for quick switching between different order sizes. To add new buttons, simply enter new values using the separator “<mark style="background-color:green;">**;**</mark>”.
 

@@ -56,7 +56,7 @@
       * [Tick Bars](analytics-panels/chart/chart-types/tick-chart.md)
       * [Time aggregation](analytics-panels/chart/chart-types/time-aggregation.md)
       * [Renko](analytics-panels/chart/chart-types/renko.md)
-      * [Heiken Ashi](analytics-panels/chart/chart-types/heiken-ashi.md)
+      * [Heikin Ashi](analytics-panels/chart/chart-types/heiken-ashi.md)
       * [Kagi](analytics-panels/chart/chart-types/kagi.md)
       * [Points & Figures](analytics-panels/chart/chart-types/points-and-figures.md)
       * [Range bars](analytics-panels/chart/chart-types/range-bars.md)

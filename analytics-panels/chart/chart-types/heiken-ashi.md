@@ -1,14 +1,14 @@
 ---
 description: >-
-  Learn how to set up and read Heiken Ashi charts in Quantower to smooth price
+  Learn how to set up and read Heikin Ashi charts in Quantower to smooth price
   action, filter market noise, and see trend direction more clearly
 ---
 
-# Heiken Ashi
+# Heikin Ashi
 
 ### General info
 
-Heiken-Ashi chart (HA) is a modified type of classic candlestick chart, which is based on recalculation of OHLC data. The resulting candlestick filters out some noise in an effort to better capture the trend and reversal points.
+Heikin-Ashi chart (HA) is a modified type of classic candlestick chart, which is based on recalculation of OHLC data. The resulting candlestick filters out some noise in an effort to better capture the trend and reversal points.
 
 ![General view of Heiken-Ashi chart type](../../../.gitbook/assets/heiken-ashi-chart.png)
 

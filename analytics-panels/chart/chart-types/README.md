@@ -16,7 +16,7 @@ Quantower provides **10 chart types**:
 
 * [**Tick chart**](tick-chart.md)
 * [**Time chart**](https://help.quantower.com/analytics-panels/chart/chart-types/time-aggregation)
-* [**Heiken-Ashi**](https://help.quantower.com/analytics-panels/chart/chart-types/heiken-ashi)
+* [**Heikin-Ashi**](https://help.quantower.com/analytics-panels/chart/chart-types/heiken-ashi)
 * [**Range Bars**](https://help.quantower.com/analytics-panels/chart/chart-types/range-bars)
 * [**Renko**](https://help.quantower.com/analytics-panels/chart/chart-types/renko)
 * [**Line Break**](https://help.quantower.com/analytics-panels/chart/chart-types/line-break)

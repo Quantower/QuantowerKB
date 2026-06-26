@@ -26,7 +26,7 @@ Because of this, you can keep Quantower on a removable drive and run it as a por
 
 {% hint style="info" %}
 * Windows 10 or 11
-* [.NET 8.](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.15-windows-x64-installer) In most cases, the platform will prompt you to update .NET to the latest version from Microsoft's official website.
+* [.NET Desktop Runtime 10](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) In most cases, the platform will prompt you to update .NET to the latest version from Microsoft's official website. (Select Windows, x64 there)
 * At least 1 GB of free disk space (more if you load a lot of market history).
 * **Hardware requirements depend on how you use Quantower.** Most desktop systems run it without any trouble.
 * For a fast, responsive setup, we recommend 16 GB of RAM, a 4-core CPU or better, and an SSD (solid-state drive).

@@ -6,8 +6,6 @@ description: >-
 
 # Risk Management
 
-<figure><img src="../.gitbook/assets/Template of risk plan in Quantower (1).png" alt=""><figcaption></figcaption></figure>
-
 The **Risk Management** panel lets you define and enforce trading rules across your accounts — automatically. Instead of monitoring positions and P\&L by hand, you create a **risk plan template** that sets hard limits and pairs each limit with an action. Quantower then watches those limits in real time and acts the moment one is breached.
 
 The panel is currently in **Beta**, so some behaviors may change in upcoming releases.

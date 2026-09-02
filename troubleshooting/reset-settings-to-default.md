@@ -29,7 +29,7 @@ You can save the current settings if you want to return to them later. Just rena
 ![](../.gitbook/assets/screenshot_39.png)
 
 A folder with the main files of the latest (installed) version of the program will open. \
-&#xNAN;_**Go to the main folder of the platform.**_
+_**Go to the main folder of the platform.**_
 
 ![](../.gitbook/assets/screenshot_40.png)
 
@@ -48,7 +48,7 @@ Close the platform, **Right-click** on Quantower icon, and select **Open File Lo
 ![](../.gitbook/assets/screenshot_39.png)
 
 A folder with the main files of the latest (installed) version of the program will open.\
-&#xNAN;_**Go to the main folder of the platform.**_
+_**Go to the main folder of the platform.**_
 
 ![](../.gitbook/assets/screenshot_40.png)
 

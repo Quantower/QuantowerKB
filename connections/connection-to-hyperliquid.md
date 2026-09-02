@@ -14,7 +14,7 @@ First, you need to authorize a "trading agent" that Quantower will use to sign t
 2. Navigate to More (the three dots in the menu) → API.
 3. Click Generate API Wallet.
 4.  Crucial: The system will display a Private Key for this specific API Wallet.\
-    &#xNAN;_&#x43;opy and save it immediately in a secure location._ It will not be shown again.
+    _&#x43;opy and save it immediately in a secure location._ It will not be shown again.
 
     <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 5. Click Authorize API Wallet and sign the transaction in your primary wallet. This gives the API Wallet permission to execute trades.

@@ -54,8 +54,8 @@ The base element of a **TPO Chart** is letters, which are used to create the mar
   For example, a 1-day range will start at the beginning of the trading day and finish at the end of the current trading day (defined in the trading hours or by custom session).
 * **History Range** — determines the depth of history for building TPO profiles. At a high depth of history, volume profiles can be built for a long time, because they use tick data.
 * **Custom Step (Ticks)** — this parameter defines the height and number of letters in the profile.\
-  &#xNAN;_&#x49;f enabled_, the letter height will correspond to the number of ticks that is set in the parameter.\
-  &#xNAN;_&#x49;f disabled_, the height and number of letters will be selected automatically using a smart algorithm. As a result, the chart will look the most optimal for analysis.
+  _&#x49;f enabled_, the letter height will correspond to the number of ticks that is set in the parameter.\
+  _&#x49;f disabled_, the height and number of letters will be selected automatically using a smart algorithm. As a result, the chart will look the most optimal for analysis.
 
 ### Style settings of TPO Profile Chart
 

@@ -15,7 +15,7 @@ Many traders are watching several Exchanges in different time zones and need to 
 Currently, it allows to select any number of items from the list of 44 exchanges (from America, Europe, Asia & Oceania) and reorder them as you like. Each active item has “Name” & “Time last” values, while closed Exchanges has “Duration time” value together with “Name”.
 
 _**Time last**_ — shows how much time left until the Exchange will be close for trading. \
-&#xNAN;_**Duration time**_ — shows how much time this Exchange is usually opened for trading.
+_**Duration time**_ — shows how much time this Exchange is usually opened for trading.
 
 ## Add/remove
 

@@ -10,6 +10,8 @@ The **Risk Management** panel lets you define and enforce trading rules across y
 
 The panel is currently in **Beta**, so some behaviors may change in upcoming releases.
 
+***
+
 ### Opening the Panel
 
 Go to **Control Center → Risk Management**. The panel opens with one active control at the top:&#x20;
@@ -17,6 +19,8 @@ Go to **Control Center → Risk Management**. The panel opens with one active co
 * **\[+]** button for creating a new risk template for further assignment.
 
 <figure><img src="../.gitbook/assets/Risk management panel Quantower.png" alt=""><figcaption></figcaption></figure>
+
+***
 
 ### Create a Risk Plan Template
 
@@ -71,3 +75,59 @@ Each P\&L and account-state rule has its own action that fires when the limit is
 
 * **Do nothing** — the rule is logged but no automatic trade is placed. Useful for monitoring before you're ready to enforce.
 * **Flatten** — Quantower immediately closes all open positions and cancels working orders.
+
+#### Session Rules
+
+These settings control when trading is allowed and what happens at the end of the session.
+
+* **Trading time** — Define the allowed trading window as a start and end time (e.g., 04:00:00 – 03:00:00). Orders outside this window are blocked.
+* **Auto action** — Set a specific time at which Quantower will automatically execute an action (e.g., Flatten at 03:00:00 to clear positions before the session closes).
+* **Data latency, ms** — The maximum acceptable delay from your data feed. If latency exceeds this threshold, Quantower can trigger a protective action to prevent trading on stale data.
+
+#### Lock on Risk Event
+
+When this checkbox is enabled, Quantower locks the template assignment for the selected duration after any rule fires. This prevents the risk plan from being switched mid-session — intentionally or otherwise — immediately after a breach.
+
+***
+
+### Assign the Template to an Account
+
+Once your template is ready, go back to the main panel and click **Assign** (or the **"+"** button). The **New risk assignment** dialog opens with four fields:
+
+* **Connection** — The data/broker connection to apply this template to. Choose a specific connection or leave it as **All**.
+* **Exchange** — Filter by exchange, or leave as **All**.
+* **Account** — The specific trading account, or **All** to cover every account under the selected connection.
+* **Plan template** — Select the template you created.
+
+Click **Assign** to activate it. The assignment appears in the main list with an **Active** toggle you can flip without deleting the rule.
+
+***
+
+### Managing Assignments
+
+The main panel table shows all active and inactive assignments at a glance.
+
+| Column        | Description                                                                |
+| ------------- | -------------------------------------------------------------------------- |
+| Active        | Toggle to enable or disable the risk template without deleting it          |
+| Connection    | The connection this rule applies to                                        |
+| Account       | The single account (or All)                                                |
+| Exchange      | The single exchange (or All)                                               |
+| Template name | The risk plan template in use                                              |
+| Edit          | Open the template re-assignment                                            |
+| Clone         | Duplicate the assignment (useful for tweaking a rule for a second account) |
+| Delete        | Remove the assignment permanently                                          |
+
+***
+
+### Typical Setup for a Prop Trading Account
+
+A common configuration for a funded account looks like this:
+
+1. Enable **Min account balance limit** and set the action to **Flatten** — this protects your drawdown rule automatically.
+2. Enable **Day loss limit** with **Flatten** — stops trading once the daily loss ceiling is hit.
+3. Set **Trading time** to match your permitted session window.
+4. Set **Auto action → Flatten** a few minutes before session close to ensure a clean exit.
+5. Check **Lock template change on risk event** so the plan can't be bypassed after a breach.
+
+With the template assigned to **All** connections and **All** accounts, every account under that connection inherits the same rules automatically.

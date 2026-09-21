@@ -1,18 +1,29 @@
 ---
 description: >-
-  This panel is used to receive data from one broker that provides it and trade
-  with another broker.
+  Learn how to configure Symbol Mapping in Quantower, use market data from
+  another provider, and analyze ES futures while trading MES.
 ---
 
 # Symbol Mapping Manager
 
-For example, Interactive Brokers doesn't provide the necessary data for using Cluster chart. But a trader can use dxFeed data provider which offers such data and a trader can use it for trading on IB. Watch the video for more details
+The Symbol Mapping Manager allows you to use market data from one symbol while executing trades on another. This is useful when your trading connection does not provide the data required for your analysis or when you want to analyze a larger futures contract while trading its micro equivalent.
+
+For example, you can use ES market data to analyze Volume Profile and Cluster Charts while placing orders on MES. You can also receive market data from a separate provider while keeping order execution connected to your broker.
 
 {% embed url="https://www.youtube.com/watch?v=V_v4VXTXd2c" %}
 
-### General overview of Symbol Mapping panel
+### How Symbol Mapping Works
 
-The panel is a table where the trader adds symbols for trading, and also selects from which connection and which symbol to receive quotes for analysis. After creating a mapping, the trader must open the chart of the symbol that he will trade (for example, from Interactive Brokers connection). In this case, all data for this symbol will come from the second connection (for example from IQFeed or from dxFeed).
+Symbol Mapping connects two instruments, each with a different purpose.
+
+| Symbol             | Purpose                                                              |
+| ------------------ | -------------------------------------------------------------------- |
+| **Trading Symbol** | The instrument used for order execution and position management.     |
+| **Data Symbol**    | The instrument and connection that provide market data for analysis. |
+
+Once the mapping is configured, open the Trading Symbol in a Quantower chart or trading panel. The panel will use market data from the selected Data Symbol, while orders and positions remain associated with the Trading Symbol.
+
+Symbol Mapping changes the source of market data, not the contract specifications of the instrument you trade.
 
 ![General view of Symbol Mapping panel](../.gitbook/assets/symbolMapping.png)
 
